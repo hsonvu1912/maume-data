@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30/03/2026 23:42",
+  "lastUpdated": "30/03/2026 23:53",
   "source": "Kho Burger",
   "description": "Kho Burger - đầy đủ trạng thái (Còn hàng/Hết hàng/...). Xem field 'Tình trạng'. SP 'Hết hàng' không có Giá bán = đã bán nhưng giá không ghi nhận (xem 'Ghi chú'). Mã là SKU cross-ref với sale.",
   "data": {
