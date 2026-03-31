@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31/03/2026 15:01",
+  "lastUpdated": "31/03/2026 15:30",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Mã là SKU cross-ref với sale.",
   "data": {
@@ -215,7 +215,7 @@
       {"Mã":"LAPUIK2508","Ngày về":"25/08/2025","Sản phẩm":"Ikea Fryebo rechargeable desk lamp by Ola Wihlborg\nTình trạng: Qua sử dụng, không dây nguồn\nKích thước: D9 x 36 cm","Tình trạng":"Hỏng","Thành tiền":290060},
       {"Mã":"FAREST2508","Ngày về":"25/08/2025","Sản phẩm":"Stadler Form Tim USB Fan\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước:         26,7 x 28,5 x 18,9 cm","Tình trạng":"Hết hàng","Thành tiền":716551},
       {"Mã":"CLWHBR2508","Ngày về":"25/08/2025","Sản phẩm":"\"Braun BC01W Wecker\nTình trạng; như ảnh\nKích thước: 6,5 x 4 x 7cm\"","Tình trạng":"Còn hàng","Thành tiền":1079543,"Giá bán":1400000},
-      {"Mã":"GLGRL2508","Ngày về":"25/08/2025","Sản phẩm":"ALESSI Aino Aalto Large Tumbler from \nTình trạng: Như ảnh,còn mới, còn hộp\nKích thước: D8,2 x 11cm.","Tình trạng":"Còn hàng","Thành tiền":463510,"Giá bán":650000},
+      {"Mã":"GLGRL2508","Ngày về":"25/08/2025","Sản phẩm":"Iitala Aino Aalto Large Tumbler from \nTình trạng: Như ảnh,còn mới, còn hộp\nKích thước: D8,2 x 11cm.","Tình trạng":"Còn hàng","Thành tiền":463510,"Giá bán":650000},
       {"Mã":"BOORBU2508","Ngày về":"25/08/2025","Sản phẩm":"Bulk AA276 Kikkerland Tiger Bottle Opener\nTình trạng: Như ảnh\nKích thước: 12.70 x 8.89 x 1.19 cm","Tình trạng":"Còn hàng","Thành tiền":297075,"Giá bán":450000},
       {"Mã":"CHSIIK2508","Ngày về":"25/08/2025","Sản phẩm":"IKEA Silver Tone Metal Mesh Votive Candleholder\nTình trạng: Như ảnh\nKích thước: D7,1 x 6,2 cm","Tình trạng":"Còn hàng","Thành tiền":270860,"Giá bán":350000},
       {"Mã":"LAWHIK2508","Ngày về":"25/08/2025","Sản phẩm":"IKEA BACKNTE\nTình trạng: Như ảnh, còn hộp, không kèm bóng (e14)\nKích thước: Chiều cao: 50 cm\nĐường kính phần chụp đèn phía trên: 32 cm\nĐường kính phần đế trụ phía dưới: 10 cm","Tình trạng":"Hết hàng","Thành tiền":462053},
