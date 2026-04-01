@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/04/2026 09:34",
+  "lastUpdated": "01/04/2026 10:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Items 'Het hang' without 'Gia ban' = sold but price not recorded (see 'Ghi chu'). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -388,7 +388,7 @@
       {"Mã":"LC-9541-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1810500},
       {"Mã":"LC-6350-190326","Ngày về":"19/03/2026","Tình trạng":"Còn hàng","Thành tiền":1828920},
       {"Mã":"LC-1903-01-190326","Ngày về":"19/03/2026","Sản phẩm":"LC-1903-01-190326\nLC go wallet on a chain màu xanh navy \ntúi đeo chéo có thể dùng làm ví, clutch. condition tốt, form cứng cáp, lót sạch sẽ, logo bị tróc nhẹ xíu xiu thui ạ. Túi có kèm dây đeo chéo và hộp \n19 x 12 x 4\nGiá: 1.600.000đ","Tình trạng":"Hết hàng","Thành tiền":975349,"Giá bán":1600000},
-      {"Mã":"LC-5513-190326","Ngày về":"19/03/2026","Sản phẩm":"LC-5513-190326\nxanh navy size L bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn, túi có một vài vết bẩn nhẹ khách mua về vệ sinh sd bình thg ạa\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Thành tiền":1220880,"Giá bán":1950000},
+      {"Mã":"LC-5513-190326","Ngày về":"19/03/2026","Sản phẩm":"LC-5513-190326\nxanh navy size L bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn, túi có một vài vết bẩn nhẹ khách mua về vệ sinh sd bình thg ạa\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Thành tiền":1220880,"Giá bán":1950000},
       {"Mã":"LC-2183-190326","Ngày về":"19/03/2026","Sản phẩm":"LC-2183-190326\nxám size M dòng club phối vàng \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, quai trầy nhẹ xíu xiu mặt dưới khi đeo lên vai sẽ ko thấy đâu ạa\n36 x 24 x 14 (vừa laptop 13inch)\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Thành tiền":1420360,"Giá bán":1950000},
       {"Mã":"LC-0785-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-0785-270326\nđen dòng neo size M \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, lót một bên gần quai tróc nhẹ (như ảnh), vải bị nhăn gần miệng khóa (như ảnh) nhg ko ảnh hg gì khi sd ạa\n36 x 24 x 14","Tình trạng":"Còn hàng","Thành tiền":788425},
       {"Mã":"CH-2703-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":1112605},
@@ -410,7 +410,7 @@
       {"Mã":"LC-3011-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-3011-270326\nxanh navy size M \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi nào đáng kể ạa\n33 x 24 x 13","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"LC-6133-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"LC-1405-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":722940},
-      {"Mã":"LC-1472-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":722940},
+      {"Mã":"LC-1472-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-1472-270326\nxanh navy size S quai ngắn \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, chỉ có một vết bẩn mặt sau (như ảnh) và vài chấm nhỏ dưới đáy thuii ạa\n44 x 26 x 20","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"CH-2703-270326-02","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":2498605},
       {"Mã":"LC-0754-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-0754-270326\nmini pouch màu paper\ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ. Túi có kèm dây đeo chéo ạ\n18 x 10 x 6","Tình trạng":"Còn hàng","Thành tiền":608605},
       {"Mã":"LC-4834-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-4834-270326\nxanh navy size L \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, quai trầy nhẹ chủ yếu mặt dưới, lót gần quai tróc xíu xiu ko ảnh hg gì ạa\n44 x 29 x 19","Tình trạng":"Còn hàng","Thành tiền":1112605},
