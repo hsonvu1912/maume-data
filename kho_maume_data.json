@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/04/2026 12:30",
+  "lastUpdated": "01/04/2026 13:01",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Mã là SKU cross-ref với sale.",
   "data": {
@@ -466,7 +466,7 @@
       {"Mã":"GLCLIC1510","Ngày về":"15/10/2025","Sản phẩm":"Ichendorf glass tumbler\nTình trạng: Như ảnh, còn hộp\nKích thước: 8 x 8cm","Tình trạng":"Hết hàng","Thành tiền":201750},
       {"Mã":"SEWHUB1510","Ngày về":"15/10/2025","Sản phẩm":"UMBRA CHICKIE CREAM AND SUGER SET\nTình trạng: Như ảnh, còn hộp\nKích thước: 9 x 15cm","Tình trạng":"Hết hàng","Thành tiền":238800},
       {"Mã":"GLBLAO1510","Ngày về":"15/10/2025","Sản phẩm":"Cốc nước AORTALS All-the-cherries\nTình trạng: Như ảnh, còn hộp\nKích thước: 9,5 x 11,5 cm\nDung tích 350ml","Tình trạng":"Hết hàng","Thành tiền":254810},
-      {"Mã":"STPILE1510","Ngày về":"15/10/2025","Sản phẩm":"Lego Storage\nTình trạng: Như ảnh, còn hộp\nKích thước: 50 x 25 x 19cm","Tình trạng":"Còn hàng","Thành tiền":985798,"Giá bán":1000000},
+      {"Mã":"STPILE1510","Ngày về":"15/10/2025","Sản phẩm":"Lego Storage\nTình trạng: Như ảnh, còn hộp\nKích thước: 50 x 25 x 19cm","Tình trạng":"Hết hàng","Thành tiền":985798,"Giá bán":1000000},
       {"Mã":"CLWHUM1510","Ngày về":"15/10/2025","Sản phẩm":"Umbra Wooden Wall Clocks\nTình trạng: Như ảnh, còn hộp\nKích thước: d41,2 cm\nKim trôi","Tình trạng":"Còn hàng","Thành tiền":691780,"Giá bán":1000000},
       {"Mã":"CLCRUM1510","Ngày về":"15/10/2025","Sản phẩm":"Umbra Loopa wall clock\nTình trạng: Như ảnh, còn hộp\nKích thước: 25,4 x 33,6 cm","Tình trạng":"Hết hàng","Thành tiền":527694},
       {"Mã":"LAREIK1510","Ngày về":"15/10/2025","Sản phẩm":"BAROMETER work lamp\nTình trạng: Như ảnh\nKích thước: d18 x 48cm","Tình trạng":"Hết hàng","Thành tiền":485640},
@@ -1105,7 +1105,7 @@
       {"Mã":"LEVÍ26032600","Ngày về":"26/03/2026","Sản phẩm":"Lego Purse Blue\n\nChất liệu: Silicon\n\nPhân Loại: Ví\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 80mm\n\nGiá: 450.000","Tình trạng":"Hết hàng","Thành tiền":194850,"Giá bán":450000},
       {"Mã":"LEVÍ26032601","Ngày về":"26/03/2026","Sản phẩm":"Lego Purse Pink\n\nChất liệu: Silicon\n\nPhân Loại: Ví\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d90 x 60mm\n\nGiá: 450.000","Tình trạng":"Hết hàng","Thành tiền":155150,"Giá bán":450000},
       {"Mã":"LEĐÈ26032600","Ngày về":"26/03/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model\n\nChất liệu: Nhựa, cao su\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\nNguồn Type C 5V\n\nKích thước: d80 x 110mm\n\nGiá: 800.000","Tình trạng":"Hết hàng","Thành tiền":210254,"Giá bán":800000},
-      {"Mã":"LEĐÈ26032601","Ngày về":"26/03/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model\n\nChất liệu: Nhựa, cao su\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\nNguồn Type C 5V\n\nKích thước: d80 x 110mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Thành tiền":194850,"Giá bán":800000},
+      {"Mã":"LEĐÈ26032601","Ngày về":"26/03/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model\n\nChất liệu: Nhựa, cao su\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\nNguồn Type C 5V\n\nKích thước: d80 x 110mm\n\nGiá: 800.000","Tình trạng":"Hết hàng","Thành tiền":194850,"Giá bán":800000},
       {"Mã":"IKĐÈ26032600","Ngày về":"26/03/2026","Sản phẩm":"Ikea Strala\n\nChất liệu: Giấy, kim loại\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14\n\nKích thước: 300 x 300mm\n\nGiá: 500.000","Tình trạng":"Hết hàng","Thành tiền":299333,"Giá bán":500000},
       {"Mã":"IKĐÈ26032601","Ngày về":"26/03/2026","Sản phẩm":"Ikea Fryebo - 2014\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, không kèm pin (AA 1,2v)\n\nKích thước: 90 x 90 x 360mm\n\nGiá: 1.000.000","Tình trạng":"Hết hàng","Thành tiền":159900,"Giá bán":1000000},
       {"Mã":"LEHỘ26032600","Ngày về":"26/03/2026","Sản phẩm":"Lego 4-Stud Desk Drawer Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp, xước 1 vết\n\nKích thước: 150 x 150 x 110mm\n\nGiá: 500.000","Tình trạng":"Hết hàng","Thành tiền":236581,"Giá bán":500000},
