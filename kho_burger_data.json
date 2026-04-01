@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/04/2026 14:04",
+  "lastUpdated": "01/04/2026 14:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Items 'Het hang' without 'Gia ban' = sold but price not recorded (see 'Ghi chu'). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -355,7 +355,7 @@
       {"Mã":"CH-2703-01-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":968425},
       {"Mã":"LC-9439-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-9439-270326\nđen size L bản đời mới có 2 ngăn phụ \ncondition rất tốt, độ mới cao, form dày dặn, quai siêu cứng cáp, túi sạch sẽ ạa\n46 x 30 x 19","Tình trạng":"Còn hàng","Thành tiền":1490965},
       {"Mã":"LC-5280-200326","Ngày về":"20/03/2026","Sản phẩm":"LC-5280-200326\nxanh navy size L \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, quai trầy nhẹ ở mặt dưới khi đeo lên vai sẽ ko thấy đâu\n46 x 29 x 20\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Thành tiền":1065857,"Giá bán":1750000},
-      {"Mã":"LC-6193-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-6193-270326\nđen size L \ncondition tốt, form dày dặn cứng cáp, quai có một vài vết trầy nhỏ ở mặt dưới khi đeo lên vai sẽ ko thấy đâu ạa, túi sạch sẽ, dưới đáy có một vài vết sườn vải nhỏ nhg túi màu tối nên khó thấy ạ\n45 x 30 x 19","Tình trạng":"Còn hàng","Thành tiền":1382605},
+      {"Mã":"LC-6193-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-6193-270326\nđen size L \ncondition tốt, form dày dặn cứng cáp, quai có một vài vết trầy nhỏ ở mặt dưới khi đeo lên vai sẽ ko thấy đâu ạa, túi sạch sẽ, dưới đáy có một vài vết sờn vải nhỏ nhg túi màu tối nên khó thấy ạ\n45 x 30 x 19","Tình trạng":"Còn hàng","Thành tiền":1382605},
       {"Mã":"LC-7663-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-7663-270326\nLC size L màu steel bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, quai trầy nhẹ xíu xiu ko đáng kể, túi có một vài vết bẩn khách mua về vsinh sdung bình thg ạa \n45 x 30 x 19","Tình trạng":"Còn hàng","Thành tiền":1373785},
       {"Mã":"LC-7583-200326","Ngày về":"20/03/2026","Sản phẩm":"LC-7583-200326\nKO BAO AUTH \nxanh navy size S quai ngắn \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, màu sắc legit ạ\n30 x 21 x 14\nGiá: 680.000đ","Tình trạng":"Còn hàng","Thành tiền":678857,"Giá bán":680000},
       {"Mã":"LC-2781-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-2781-270326\nxanh navy size L phối đỏ dòng club \ncondition rất tốt, chủ yếu qua lưu trữ, form dày dặn, quai cứng cáp, túi sạch sẽ ạa\n46 x 30 x 19","Tình trạng":"Còn hàng","Thành tiền":824605},
