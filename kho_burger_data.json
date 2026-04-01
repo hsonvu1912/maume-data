@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/04/2026 10:34",
+  "lastUpdated": "01/04/2026 11:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Items 'Het hang' without 'Gia ban' = sold but price not recorded (see 'Ghi chu'). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -362,7 +362,7 @@
       {"Mã":"LC-5081-200326","Ngày về":"20/03/2026","Sản phẩm":"LC-5081-200326\nLC cói \ncondition tốt, form dày dặn, quai cứng cáp, lót sạch sẽ, ko  có lỗi nào lớn ạa. Túi có kèm dây đeo chéo\n24 x 17 x 12\nGiá: 2.100.000đ","Tình trạng":"Hết hàng","Thành tiền":984857,"Giá bán":2100000},
       {"Mã":"LC-7697-200326","Ngày về":"20/03/2026","Sản phẩm":"LC-7697-200326\nmini pouch dòng limited \ncondition tốt, form dày dặn, quai cứng cáp, túi sạch sẽ. Túi có kèm dây đeo chéo ạa\n24 x 14 x 10\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Thành tiền":768857,"Giá bán":1500000},
       {"Mã":"LC-8293-200326","Ngày về":"20/03/2026","Sản phẩm":"LC-8293-200326\nđen size M bản đời mới có 2 ngăn phụ \ncondition rất tốt, form dày dặn, quai cứng cáp, túi sạch sẽ ạ \n39 x 26 x 16 (vừa laptop 13inch) \nGiá: 2.700.000đ","Tình trạng":"Hết hàng","Thành tiền":1382400,"Giá bán":2700000},
-      {"Mã":"LC-2500-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":1238605},
+      {"Mã":"LC-2500-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-2500-270326\nđen dòng neo size L \ncondition tốt, form dày dặn, quai cứng cáp, túi khá sạch sẽ, mặt trước túi có một vết sờn nhỏ (như ảnh) nhg ko ảnh hg gì khi sd ạa\n45 x 29 x 19","Tình trạng":"Còn hàng","Thành tiền":1238605},
       {"Mã":"LC-2904-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-2904-270326\nsize L màu cloud blue dòng club siêu đẹp\ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, có một vài vết bẩn nhỏ khách mua về vsinh sdung bình thg ạa\n46 x 30 x 19","Tình trạng":"Còn hàng","Thành tiền":752605},
       {"Mã":"LC-3032-170326","Ngày về":"17/03/2026","Sản phẩm":"LC-3032-170326\nđen size L \ncondition tốt, form dày dặn, túi sạch sẽ, quai bị trầy nhẹ xíuuuu (như ảnh) nhg ko ảnh hg gì khi sd ạa\n45 x 30 x 19\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Thành tiền":1602900,"Giá bán":1950000},
       {"Mã":"LC-6064-170326","Ngày về":"17/03/2026","Sản phẩm":"LC-6064-170326\nbeige size M bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, quai trầy nhẹ chủ yếu mặt dưới, túi có một vài vết bẩn khách mua về vsinh sdung bình thg ạa\n39 x 26 x 16 (vừa laptop 13inch)\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Thành tiền":1047715,"Giá bán":1700000},
@@ -392,7 +392,7 @@
       {"Mã":"LC-2183-190326","Ngày về":"19/03/2026","Sản phẩm":"LC-2183-190326\nxám size M dòng club phối vàng \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, quai trầy nhẹ xíu xiu mặt dưới khi đeo lên vai sẽ ko thấy đâu ạa\n36 x 24 x 14 (vừa laptop 13inch)\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Thành tiền":1420360,"Giá bán":1950000},
       {"Mã":"LC-0785-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-0785-270326\nđen dòng neo size M \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, lót một bên gần quai tróc nhẹ (như ảnh), vải bị nhăn gần miệng khóa (như ảnh) nhg ko ảnh hg gì khi sd ạa\n36 x 24 x 14","Tình trạng":"Còn hàng","Thành tiền":788425},
       {"Mã":"CH-2703-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":1112605},
-      {"Mã":"LC-2703-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":698605},
+      {"Mã":"LC-2703-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-2703-270326\nnâu ebony size L\ncondition: form dày dặn, túi khá sạch sẽ, lót gần quai bị tróc (như ảnh), vải túi bị nhăn nhẹ gần miệng khóa, túi đã qua sd nên quai túi khá mềm và bị trầy (như ảnh)\n44 x 30 x 18","Tình trạng":"Còn hàng","Thành tiền":698605},
       {"Mã":"CH-2703-270326-00","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":2289805},
       {"Mã":"CH-2703-270326-01","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":428605},
       {"Mã":"LC-2703-270326-00","Ngày về":"27/03/2026","Sản phẩm":"LC-2703-270326-00\nđen size M \ncondition tốt, form dày dặn cứng cáp, túi khá sạch sẽ, quai trầy mảng khá to (như ảnh) nhg ko ảnh hg gì khi sd ạa\n37 x 24 x 14","Tình trạng":"Còn hàng","Thành tiền":392605},
@@ -402,9 +402,9 @@
       {"Mã":"LC-2688-01-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-2688-01-270326\nxám size M bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko lỗi nào đáng kể ạa\n40 x 26 x 16 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":1328605},
       {"Mã":"LC-4262-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":1069405},
       {"Mã":"CH-2703-02-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":425005},
-      {"Mã":"LC-8627-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":722940},
+      {"Mã":"LC-8627-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-8627-270326\neucalyptus size M \ncondition tốt, form dày dặn cứng cáp, quai trầy xíu xiu ko đáng kể, túi có một số vết bẩn khách mua về vsinh sdung bình thg ạa\n34 x 24 x 14","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"LC-2745-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":722940},
-      {"Mã":"LC-7993-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":722940},
+      {"Mã":"LC-7993-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-7993-270326\nmàu xanh nhạt size M bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, quai trầy khá nhiều chủ yếu mặt dưới khi đeo lên vai sẽ ko thấy đâu ạ, túi có vài vết bẩn gần miệng khóa, khách mua về vsinh sd bình thg ạa\n40 x 26 x 16 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"LC-4339-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-4339-270326\neucalyptus size M quai ngắn \ncondition: tốt, form dày dặn, quai bị trầy khá nhiều chủ yếu mặt dưới khi đeo lên vai sẽ ko thấy đâu ạ, lót trắng nên bị ố vàng nhẹ (như ảnh), lót gần quai tróc nhẹ xíu xiu ko ảnh hg gì ạ, mặt sau và đáy có một vài vết bẩn khách mua về vsinh sd bình thg ạa\n44 x 28 x 20 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"LC-2342-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-2342-270326\nđỏ size M dòng club phối trắng \ncondition tốt, form dày dặn cứng cáp, quai trầy nhẹ xíu xiu ko đáng kể, túi khá sạch sẽ có một vài vết bẩn nhỏ chủ yếu dưới đáy, khách mua về vsinh sdung bình thg ạa\n39 x 25 x 15 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"LC-3011-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-3011-270326\nxanh navy size M \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi nào đáng kể ạa\n33 x 24 x 13","Tình trạng":"Còn hàng","Thành tiền":722940},
@@ -447,7 +447,7 @@
       {"Mã":"LC-3328-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1579500},
       {"Mã":"LC-0545-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1189200},
       {"Mã":"LC-0725-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1218315},
-      {"Mã":"LC-5927-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1357500}
+      {"Mã":"LC-5927-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-5927-310326\npaper size M bản đời mới có 2 ngăn phụ \ncondition rất tốt, chủ yếu qua lưu trữ, form dày dặn, quai cứng cáp, túi sạch sẽ ạa\n39 x 25 x 16","Tình trạng":"Còn hàng","Thành tiền":1357500}
     ]
   }
 }
