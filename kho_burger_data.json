@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/04/2026 13:04",
+  "lastUpdated": "01/04/2026 13:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Items 'Het hang' without 'Gia ban' = sold but price not recorded (see 'Ghi chu'). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -404,7 +404,7 @@
       {"Mã":"CH-2703-02-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":425005},
       {"Mã":"LC-8627-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-8627-270326\neucalyptus size M \ncondition tốt, form dày dặn cứng cáp, quai trầy xíu xiu ko đáng kể, túi có một số vết bẩn khách mua về vsinh sdung bình thg ạa\n34 x 24 x 14","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"LC-2745-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-2745-270326\nđen size M dòng club phối trắng quai ngắn \ncondition tốt, form dày dặn, quai cứng cáp, túi sạch sẽ, ko có lỗi nào lớn ạa\n45 x 27 x 20 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":722940},
-      {"Mã":"LC-7993-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-7993-270326\nmàu xanh nhạt size M bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, quai trầy khá nhiều chủ yếu mặt dưới khi đeo lên vai sẽ ko thấy đâu ạ, túi có vài vết bẩn gần miệng khóa, khách mua về vsinh sd bình thg ạa\n40 x 26 x 16 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":722940},
+      {"Mã":"LC-7993-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-7993-270326\nmàu xám nhạt size M bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, quai trầy khá nhiều chủ yếu mặt dưới khi đeo lên vai sẽ ko thấy đâu ạ, túi có vài vết bẩn gần miệng khóa, khách mua về vsinh sd bình thg ạa\n40 x 26 x 16 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"LC-4339-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-4339-270326\neucalyptus size M quai ngắn \ncondition: tốt, form dày dặn, quai bị trầy khá nhiều chủ yếu mặt dưới khi đeo lên vai sẽ ko thấy đâu ạ, lót trắng nên bị ố vàng nhẹ (như ảnh), lót gần quai tróc nhẹ xíu xiu ko ảnh hg gì ạ, mặt sau và đáy có một vài vết bẩn khách mua về vsinh sd bình thg ạa\n44 x 28 x 20 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"LC-2342-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-2342-270326\nđỏ size M dòng club phối trắng \ncondition tốt, form dày dặn cứng cáp, quai trầy nhẹ xíu xiu ko đáng kể, túi khá sạch sẽ có một vài vết bẩn nhỏ chủ yếu dưới đáy, khách mua về vsinh sdung bình thg ạa\n39 x 25 x 15 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"LC-3011-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-3011-270326\nko bao auth xanh navy size M \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi nào đáng kể ạa\n35 x 24 x 13","Tình trạng":"Còn hàng","Thành tiền":722940},
