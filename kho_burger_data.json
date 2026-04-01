@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/04/2026 10:04",
+  "lastUpdated": "01/04/2026 10:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Items 'Het hang' without 'Gia ban' = sold but price not recorded (see 'Ghi chu'). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -395,7 +395,7 @@
       {"Mã":"LC-2703-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":698605},
       {"Mã":"CH-2703-270326-00","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":2289805},
       {"Mã":"CH-2703-270326-01","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":428605},
-      {"Mã":"LC-2703-270326-00","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":392605},
+      {"Mã":"LC-2703-270326-00","Ngày về":"27/03/2026","Sản phẩm":"LC-2703-270326-00\nđen size M \ncondition tốt, form dày dặn cứng cáp, túi khá sạch sẽ, quai trầy mảng khá to (như ảnh) nhg ko ảnh hg gì khi sd ạa\n37 x 24 x 14","Tình trạng":"Còn hàng","Thành tiền":392605},
       {"Mã":"LC-6347-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-6347-270326\nLC Le Pliage Mariniere travel bag size M \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, bên ngoài túi có một vài vết bẩn nhỏ ko đáng kể ạa\n39 x 26 x 16 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":698605},
       {"Mã":"LC-6551-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-6551-270326\nxanh navy size L \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, quai trầy nhẹ xíu xiu chủ yếu mặt dưới khi đeo lên vai sẽ ko thấy đâu ạ, lót gần quai tróc tí ti ko ảnh hg gì ạa\n44 x 29 x 19","Tình trạng":"Còn hàng","Thành tiền":428605},
       {"Mã":"LC-7837-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":284605},
@@ -408,9 +408,9 @@
       {"Mã":"LC-4339-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-4339-270326\neucalyptus size M quai ngắn \ncondition: tốt, form dày dặn, quai bị trầy khá nhiều chủ yếu mặt dưới khi đeo lên vai sẽ ko thấy đâu ạ, lót trắng nên bị ố vàng nhẹ (như ảnh), lót gần quai tróc nhẹ xíu xiu ko ảnh hg gì ạ, mặt sau và đáy có một vài vết bẩn khách mua về vsinh sd bình thg ạa\n44 x 28 x 20 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"LC-2342-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-2342-270326\nđỏ size M dòng club phối trắng \ncondition tốt, form dày dặn cứng cáp, quai trầy nhẹ xíu xiu ko đáng kể, túi khá sạch sẽ có một vài vết bẩn nhỏ chủ yếu dưới đáy, khách mua về vsinh sdung bình thg ạa\n39 x 25 x 15 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"LC-3011-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-3011-270326\nxanh navy size M \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi nào đáng kể ạa\n33 x 24 x 13","Tình trạng":"Còn hàng","Thành tiền":722940},
-      {"Mã":"LC-6133-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":722940},
-      {"Mã":"LC-1405-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":722940},
-      {"Mã":"LC-1472-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-1472-270326\nxanh navy size S quai ngắn \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, chỉ có một vết bẩn mặt sau (như ảnh) và vài chấm nhỏ dưới đáy thuii ạa\n44 x 26 x 20","Tình trạng":"Còn hàng","Thành tiền":722940},
+      {"Mã":"LC-6133-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-6133-270326\nbilberry size S quai ngắn \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, quai bị trầy xíu xiu ko đáng kể ạa\n30 x 21 x 14","Tình trạng":"Còn hàng","Thành tiền":722940},
+      {"Mã":"LC-1405-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-1405-270326\nbilberry size S quai ngắn \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, quai bị trầy một vài mảng khá to (như ảnh) nhg ko ảnh hg gì khi sd đâu ạa\n30 x 21 x 14","Tình trạng":"Còn hàng","Thành tiền":722940},
+      {"Mã":"LC-1472-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-1472-270326\nxanh navy size M quai ngắn \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, chỉ có một vết bẩn mặt sau (như ảnh) và vài chấm nhỏ dưới đáy thuii ạa\n44 x 26 x 20 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":722940},
       {"Mã":"CH-2703-270326-02","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Thành tiền":2498605},
       {"Mã":"LC-0754-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-0754-270326\nmini pouch màu paper\ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ. Túi có kèm dây đeo chéo ạ\n18 x 10 x 6","Tình trạng":"Còn hàng","Thành tiền":608605},
       {"Mã":"LC-4834-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-4834-270326\nxanh navy size L \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, quai trầy nhẹ chủ yếu mặt dưới, lót gần quai tróc xíu xiu ko ảnh hg gì ạa\n44 x 29 x 19","Tình trạng":"Còn hàng","Thành tiền":1112605},
