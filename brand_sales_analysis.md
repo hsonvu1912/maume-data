@@ -140,3 +140,94 @@
 - **BINH & PHICH** can luu y: chi 59% da ban, ton kho 19 SP
 - **NEN & GIA NEN** bien lai thap nhat (26.3%), lai TB chi 124k/SP - xem xet giam nhap
 - **DO CHOI & GAME** tiem nang: bien lai 56.1%, lai 525k/SP
+
+---
+
+## HUONG DAN UU TIEN NHAP HANG CHO NHAN VIEN
+
+> Tong ket tu 3 du kien: (1) Thuong hieu ban chay, (2) San pham ban chay, (3) Phan loai san pham.
+> Du lieu 6/2025 - 3/2026 | 721 SP MauMe da ban | Doanh thu 584 trieu | Lai 237 trieu.
+
+---
+
+### MUC A - UU TIEN CAO (Ban chay + Lai tot + Ton kho thap)
+
+**Thuong hieu uu tien:**
+- **IKEA** - Den ban, dong ho, phu kien nho. Ban 210 SP, ty le ban 70%. NHUNG chi uu tien cac dong: Solvinden, Blasverk, Strala, Frybo, Lampan, Ommjange, NODMAST. Tranh nhap tran lan cac dong it ban.
+- **HAY** - Color Crate S (ban 21 SP, #1 MauMe), Crate XS, Kaleido Tray, Sowden Bottle. Ty le ban 83%, ton kho chi 7. -> Nhap them duoc.
+- **Lego** - Storage Brick, Brick Mug, Desk Drawer, Storage Head. Ty le ban 84% (tot nhat), ton chi 8. -> Nhap them duoc.
+- **DOIY** - Koifish (lai 4.1tr/6SP), Kitty Glasses (lai 3.8tr/6SP). Ty le ban 80%, ton 9. -> Uu tien cac dong Koifish va Kitty.
+
+**Loai san pham uu tien:**
+- **Den ban** (136 SP, 19% doanh thu, bien lai 43.6%) - nganh hang chu luc
+- **Hop & Khay** (112 SP, ty le ban 83%) - ban chay nhat, it ton
+- **Do choi & Game** (bien lai 56.1%, lai TB 525k/SP) - tiem nang mo rong
+
+**San pham cu the nen tim mua:**
+1. HAY Color Crate S (cac mau) - ban 21 SP, #1 ve so luong
+2. Opple Toucan Desk Lamp - ban 15 SP, lai 8.4 trieu, hero product
+3. IKEA Solvinden (cac kieu) - ban 12 SP, da dang mau
+4. IKEA Blasverk Lamp - ban 11 SP
+5. Lego 1-Stud Round Storage Brick - ban 11 SP
+6. DOIY Koifish Glasses - ban 6 SP, lai TB 688k/SP
+7. DOIY Kitty Stacking Glasses - ban 6 SP, lai TB 638k/SP
+8. HAY Kaleido Tray - ban 5 SP, lai TB 427k/SP
+9. Kikkerland Day of the Dead Corkscrew - ban 4 SP, lai TB 905k/SP
+10. IKEA x Virgil Abloh MARKERAD - ban 4 SP, lai TB 845k/SP
+
+---
+
+### MUC B - NHAP VUA PHAI (Ban duoc nhung can can nhac)
+
+**Thuong hieu:**
+- **Alessi** - Ban 17 SP, nhung ton 10 (37%). Chi nhap khi gap gia tot cac dong: Moka Pot, Juicy Salif, Girotondo.
+- **Kikkerland** - Ban 13 SP, ton 6, ty le ban 70%. Uu tien Day of the Dead Corkscrew (lai cuc cao).
+- **Umbra** - Ban 10 SP, ton chi 2, ty le ban 83%. Co the nhap them dong ho treo tuong va wine rack.
+- **Seletti** - Ban 6 SP, ton 5 (36%). Chi nhap dong Toiletpaper Mirror (ban 5 SP).
+- **Normann Copenhagen** - Ban 6 SP, ton 0 (88% ban). Nhung gia nhap cao, bien lai chi 35%.
+- **Lexon** - Ban 8 SP, ton 1 (80% ban). Uu tien dong Mina Lamp.
+
+**Loai san pham:**
+- **Ly & Coc** (74 SP, bien lai 42.2%) - ban on, nhung ton kho 33 SP -> nhap chon loc
+- **Dong ho** (62 SP, bien lai 39.8%) - on dinh nhung ton 28 SP -> chi nhap khi gap hang dep
+- **Do bep** (34 SP, lai TB 417k/SP, ty le ban 80%) - gia tri cao, nhap chon loc
+- **O du** (14 SP, bien lai 48.7%) - ban tot, nhung thi truong nho
+
+---
+
+### MUC C - HAN CHE NHAP (Ton kho nhieu hoac ban cham)
+
+**Thuong hieu can giam:**
+- **Opple** - TON KHO 29/47 SP (61.7% chua ban). Du Toucan ban chay (15 SP), nhap qua nhieu. -> TAM NGUNG NHAP cho den khi ban bot ton kho.
+- **Coach** (Burger) - TON 64/132 SP (48.5%). -> GIAM MANH, chi nhap khi co don dat truoc.
+- **Jnbyhome** - Ton 8/16 (50%). Ban cham. -> Tam ngung.
+- **Takashi Murakami** - Ton 5/8 (62.5%). Hang kho ban. -> Khong nhap them.
+- **Guzzini** - Ton 5/10 (50%). -> Khong nhap them.
+- **Braun** - Ton 3/5 (60%). -> Khong nhap them.
+- **MoMA** - Ton 5/12 (41.7%). -> Han che.
+
+**Loai san pham can giam:**
+- **Nen & Gia nen** - Bien lai THAP NHAT (26.3%), lai TB chi 124k/SP. -> Chi nhap hang designer co ten (Hay, IKEA collab).
+- **Binh & Phich** - Chi 59% da ban, ton 19 SP. -> Tam ngung nhap moi.
+- **Den treo & san** - Bien lai chi 31.1%, gia nhap cao, rui ro lon neu khong ban duoc. -> Chi nhap khi co khach dat.
+
+---
+
+### TOM TAT NHANH CHO NHAN VIEN
+
+```
+UU TIEN NHAP:  HAY (Crate, Kaleido) | Lego (Storage) | DOIY (Koifish, Kitty)
+               IKEA (Solvinden, Blasverk, Strala) | Opple Toucan (khi het ton)
+
+NHAP VUA:      Alessi | Kikkerland | Umbra | Lexon | Do bep designer
+
+HAN CHE:       Opple (tru Toucan) | Coach | Jnbyhome | Braun | Guzzini
+               Nen & Gia nen | Binh & Phich | Den treo gia cao
+
+NGUYEN TAC CHUNG:
+- Uu tien hang co ty le ban/nhap >= 75%
+- Bien lai tot >= 40%
+- Tranh nhap hang thuong hieu da ton > 50%
+- Den ban + Hop/Khay + Ly/Coc = 3 nganh hang chu luc (44.7% doanh so)
+- San pham collab/limited edition (Virgil Abloh, Keith Haring) -> mua khi gap, lai cao
+```
