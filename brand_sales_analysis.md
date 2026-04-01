@@ -46,3 +46,40 @@
 - **DOIY** hieu qua tot: ban 36 SP, ty le ban 80%, lai 15.9 trieu.
 - **Takashi Murakami**, **Guzzini**, **Braun** ton kho ty le cao (>50%) du so luong it.
 - Collab products (Seletti x Toiletpaper, Ikea x Virgil Abloh, Ikea x Lego Bygglek...) da duoc gan dung thuong hieu goc.
+
+## TOP 30 SAN PHAM BAN CHAY NHAT - CHI MAUME (bo Burger)
+
+> Tong: 721 san pham da ban. Cac ten san pham hoi khac do chinh ta da duoc gop lai.
+
+| # | Ten san pham | SL | % | Doanh thu | Lai | Gia TB |
+|---|---|---|---|---|---|---|
+| 1 | HAY Color Crate S | 21 | 2.9% | 8,000,000 | 3,573,930 | 380,952 |
+| 2 | Opple Toucan Desk Lamp | 15 | 2.1% | 12,650,000 | 8,359,786 | 843,333 |
+| 3 | IKEA Solvinden | 12 | 1.7% | 7,750,000 | 2,491,370 | 645,833 |
+| 4 | IKEA Blasverk Lamp | 11 | 1.5% | 5,350,000 | 2,663,113 | 486,364 |
+| 5 | Lego 1-Stud Round Storage Brick | 11 | 1.5% | 3,730,000 | 1,848,164 | 339,091 |
+| 6 | IKEA Strala Lamp | 8 | 1.1% | 8,990,000 | 3,045,185 | 1,123,750 |
+| 7 | Rhythm Clock | 7 | 1.0% | 3,150,000 | 1,371,304 | 450,000 |
+| 8 | DOIY Ginger Kitty Stacking Glasses | 6 | 0.8% | 8,700,000 | 3,828,237 | 1,450,000 |
+| 9 | IKEA Frybo Lamp | 6 | 0.8% | 4,800,000 | 2,404,747 | 800,000 |
+| 10 | IKEA Lampan Lamp | 6 | 0.8% | 3,350,000 | 1,377,668 | 558,333 |
+| 11 | DOIY Koifish Glasses | 6 | 0.8% | 9,600,000 | 4,130,604 | 1,600,000 |
+| 12 | IKEA Ommjange (hook) | 6 | 0.8% | 1,500,000 | 765,022 | 250,000 |
+| 13 | IKEA NODMAST LED Lamp | 5 | 0.7% | 2,650,000 | 1,167,231 | 530,000 |
+| 14 | Umbra Wall Clock | 5 | 0.7% | 4,550,000 | 2,005,486 | 910,000 |
+| 15 | IKEA SOMMAR Glasses | 5 | 0.7% | 2,350,000 | 867,727 | 470,000 |
+| 16 | Bruno Blister Clock | 5 | 0.7% | 3,700,000 | 1,779,278 | 740,000 |
+| 17 | Lego 2x2 Brick Mug | 5 | 0.7% | 2,900,000 | 1,543,819 | 580,000 |
+| 18 | HAY Kaleido Tray | 5 | 0.7% | 3,700,000 | 2,137,726 | 740,000 |
+| 19 | Seletti x Toiletpaper Mirror | 5 | 0.7% | 2,800,000 | 1,245,398 | 560,000 |
+| 20 | Anniversary Gift Night Light Model | 5 | 0.7% | 4,000,000 | 2,788,016 | 800,000 |
+| 21 | Lego 4-Stud Desk Drawer | 5 | 0.7% | 2,900,000 | 1,654,826 | 580,000 |
+| 22 | IKEA Kajuta Lamp | 4 | 0.6% | 1,900,000 | 1,003,610 | 475,000 |
+| 23 | IKEA x Virgil Abloh MARKERAD Toolkit | 4 | 0.6% | 5,500,000 | 3,381,706 | 1,375,000 |
+| 24 | Totes Umbrella | 4 | 0.6% | 2,150,000 | 1,076,810 | 537,500 |
+| 25 | Wiggle Wiggle Floor Mat | 4 | 0.6% | 1,900,000 | 690,154 | 475,000 |
+| 26 | IKEA Fran Wall Hooks | 4 | 0.6% | 1,300,000 | 620,343 | 325,000 |
+| 27 | HAY Crate XS | 4 | 0.6% | 1,400,000 | 445,672 | 350,000 |
+| 28 | Kikkerland Day of the Dead Corkscrew | 4 | 0.6% | 5,300,000 | 3,618,378 | 1,325,000 |
+| 29 | Artemide Tizio Lamp | 3 | 0.4% | 15,510,000 | 4,165,920 | 5,170,000 |
+| 30 | Normann Copenhagen Vacuum Jug | 3 | 0.4% | 3,080,000 | 892,200 | 1,026,667 |
