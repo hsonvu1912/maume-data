@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/04/2026 10:00",
+  "lastUpdated": "01/04/2026 10:31",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Mã là SKU cross-ref với sale.",
   "data": {
@@ -775,12 +775,12 @@
       {"Mã":"KEĐỒ121101","Ngày về":"12/11/2025","Sản phẩm":"Kenzo Wall Clock\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh\n\nKích thước: 205 x 205 x 45mm\n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":645000},
       {"Mã":"NOGƯ121100","Ngày về":"12/11/2025","Sản phẩm":"No brand Antique Iron Mirror\n\nChất liệu: Kim loại\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 460 x 390mm\n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":1171500},
       {"Mã":"TACỐ151200","Ngày về":"15/12/2025","Sản phẩm":"Takashi Murakami x Doraemon Exhibition Mug\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 115 x 80 x 80mm\n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":558000,"Giá bán":700000},
-      {"Mã":"IKGI171100","Ngày về":"17/11/2025","Sản phẩm":"Ikea Tradig\n\nChất liệu: Kim loại\n\nPhân Loại: Giỏ\n\nTình trạng: Như ảnh\n\nKích thước: d300 x 200mm\n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":956630,"Giá bán":1800000},
+      {"Mã":"IKGI171200","Ngày về":"17/12/2025","Sản phẩm":"Ikea Tradig\n\nChất liệu: Kim loại\n\nPhân Loại: Giỏ\n\nTình trạng: Như ảnh\n\nKích thước: d300 x 200mm\n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":956630,"Giá bán":1800000},
       {"Mã":"MUĐÈ171100","Ngày về":"17/11/2025","Sản phẩm":"Muuto Control Table Lamp\r\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, đáy bị kênh nhẹ\n\nKích thước: 230 x 160 x 217mm\n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":1547350,"Giá bán":2500000},
       {"Mã":"IKCH171100","Ngày về":"17/11/2025","Sản phẩm":"Ikea x Hay Ypperlig\n\nChất liệu: Kim loại\n\nPhân Loại: Chân nến\n\nTình trạng: Như ảnh\n\nKích thước: 70 x 50 x 55mm\n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":230500},
       {"Mã":"STGẠ171100","Ngày về":"17/11/2025","Sản phẩm":"Sta Group Ashtray\n\nChất liệu: Thủy tinh\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 95 x 70 x 55mm\n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":211755},
       {"Mã":"HAGI171100","Ngày về":"17/11/2025","Sản phẩm":"Hay Tape Block 1\n\nChất liệu: Gỗ\n\nPhân Loại: Giá để băng dính\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 70 x 55 x 80mm\n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":284800,"Giá bán":500000},
-      {"Mã":"IKĐÈ171100","Ngày về":"17/11/2025","Sản phẩm":"Ikea Stranne - 2016\n\nChất liệu: Kim loại, nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh\n\nKích thước: 183 x 183 x 730mm\n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":967320,"Giá bán":1500000},
+      {"Mã":"IKĐÈ171200","Ngày về":"17/12/2025","Sản phẩm":"Ikea Stranne - 2016\n\nChất liệu: Kim loại, nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh\n\nKích thước: 183 x 183 x 730mm\n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":967320,"Giá bán":1500000},
       {"Mã":"NOĐỒ171100","Ngày về":"17/11/2025","Sản phẩm":"Opple Toucan Desk Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, vỡ 1 vết đã gắn lại, phần mỏ bị lỏng\n\nKích thước: 300 x 305mm\n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":194250},
       {"Mã":"NOĐỒ171101","Ngày về":"17/11/2025","Sản phẩm":"Ikea Kajuta \n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, tặng kèm bóng E14\n\nKích thước: d152 x 305mm\n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":299200},
       {"Mã":"ĐỒ301200","Ngày về":"17/11/2025","Sản phẩm":"Opple Toucan Desk Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh\n\nKích thước: 300 x 305mm\n\nGiá:","Tình trạng":"Sửa chữa","Thành tiền":174350},
@@ -790,7 +790,7 @@
       {"Mã":"CH111100","Ngày về":"17/11/2025","Sản phẩm":"*No brand* Boot Base\n\nChất liệu: Thủy tinh\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 130 x 80 x 100mm\n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":219350},
       {"Mã":"HELỌ171100","Ngày về":"17/11/2025","Sản phẩm":"Heiwa Kogyo Petit  Caster Set\n\nChất liệu: Nhựa\n\nPhân Loại: Lọ gia vị\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d90 x 90mm\nd80 x 100mm\nKhay: 205 x 105 x 15mm\n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":225000},
       {"Mã":"WMGẠ171100","Ngày về":"17/11/2025","Sản phẩm":"Wmf Aschenbecher\n\nChất liệu: Kim loại\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d100 x 30mm\n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":252805},
-      {"Mã":"IKĐÈ171101","Ngày về":"17/11/2025","Sản phẩm":"Ikea Fryebo - 2014\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, không kèm pin (AA 1,2v)\n\nKích thước: 90 x 90 x 360mm\n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":609864,"Giá bán":1000000},
+      {"Mã":"IKĐÈ171100","Ngày về":"17/11/2025","Sản phẩm":"Ikea Fryebo - 2014\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, không kèm pin (AA 1,2v)\n\nKích thước: 90 x 90 x 360mm\n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":609864,"Giá bán":1000000},
       {"Mã":"ZABÁ171100","Ngày về":"17/11/2025","Sản phẩm":"Zara Home Bowl\n\nChất liệu: \n\nPhân Loại: Bát\n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":1305132},
       {"Mã":"DICỐ171100","Ngày về":"17/11/2025","Sản phẩm":"Diesel Living x Seletti Machine Collection Drinking Glass Set\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp, 1 cốc bị nứt\n\nKích thước: d80 x 100mm\n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":1176385,"Giá bán":2500000},
       {"Mã":"DOHỘ171100","Ngày về":"17/11/2025","Sản phẩm":"Doiy Heart Ceramic Box\n\nChất liệu: Gốm\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 100x100x40mm \n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":196275},
@@ -1132,7 +1132,7 @@
       {"Mã":"L'KH26032600","Ngày về":"26/03/2026","Sản phẩm":"L'expressionist  Poolside Trinket Tray\n\nChất liệu: Gốm\n\nPhân Loại: Khay trang sức\n\nTình trạng: Như ảnh\n\nKích thước: 140 x 100 x 25mm\n\nGiá: 550.000","Tình trạng":"Hết hàng","Thành tiền":319760,"Giá bán":550000}
     ],
     "Tháng 4/2026": [
-      {"Mã":"25032600","Ngày về":"25/03/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng"}
+      {"Mã":"IKĐÈ25092500","Ngày về":"25/09/2025","Sản phẩm":"Ikea Isjakt\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 240 x 50 x 1800mm\n\nGiá: 0","Tình trạng":"Còn hàng"}
     ]
   }
 }
