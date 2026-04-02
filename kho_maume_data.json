@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "02/04/2026 11:00",
+  "lastUpdated": "02/04/2026 11:30",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1154,7 +1154,8 @@
       {"Mã":"02042600","Ngày về":"02/04/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Thành tiền":190880},
       {"Mã":"DOCỐ02042600","Ngày về":"02/04/2026","Sản phẩm":"Doiy Koifish\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 80 x 330mm\n\nGiá: 0","Tình trạng":"Còn hàng","Thành tiền":939442},
       {"Mã":"HAKÉ02042600","Ngày về":"02/04/2026","Sản phẩm":"Hay Scissors\n\nChất liệu: Kim loại\n\nPhân Loại: Kéo\n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Thành tiền":129880},
-      {"Mã":"AL02042600","Ngày về":"02/04/2026","Sản phẩm":"Alessi \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Thành tiền":1144928}
+      {"Mã":"AL02042600","Ngày về":"02/04/2026","Sản phẩm":"Alessi \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Thành tiền":1144928},
+      {"Mã":"02042600","Ngày về":"02/04/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng"}
     ]
   }
 }
