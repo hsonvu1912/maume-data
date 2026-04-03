@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/04/2026 11:34",
+  "lastUpdated": "03/04/2026 12:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Items 'Het hang' without 'Gia ban' = sold but price not recorded (see 'Ghi chu'). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -384,7 +384,7 @@
       {"Mã":"LC-5824-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1218500},
       {"Mã":"CH-3103-02-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1773500},
       {"Mã":"CH-3103-01-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1200500},
-      {"Mã":"LC-5496-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":996500},
+      {"Mã":"LC-5496-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-5496-310326\nbeige size L bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ chỉ có vài vệt trắng ở mặt sau thui ạa\n46 x 30 x 19","Tình trạng":"Còn hàng","Thành tiền":996500},
       {"Mã":"LC-9541-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1810500},
       {"Mã":"LC-6350-190326","Ngày về":"19/03/2026","Tình trạng":"Còn hàng","Thành tiền":1828920},
       {"Mã":"LC-1903-01-190326","Ngày về":"19/03/2026","Sản phẩm":"LC-1903-01-190326\nLC go wallet on a chain màu xanh navy \ntúi đeo chéo có thể dùng làm ví, clutch. condition tốt, form cứng cáp, lót sạch sẽ, logo bị tróc nhẹ xíu xiu thui ạ. Túi có kèm dây đeo chéo và hộp \n19 x 12 x 4\nGiá: 1.600.000đ","Tình trạng":"Hết hàng","Thành tiền":975349,"Giá bán":1600000},
@@ -442,12 +442,12 @@
       {"Mã":"LC-3711-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1600150},
       {"Mã":"LC-1379-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1600150},
       {"Mã":"LC-7492-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-7492-310326\nđen size S quai ngắn bản đời mới có 2 ngăn phụ \ncondition tốt, chủ yếu qua lưu trữ, form dày dặn, quai cứng cáp, túi sạch sẽ ạ. Túi tặng kèm định hình đáy túi ạa\n33 x 21 x 14","Tình trạng":"Còn hàng","Thành tiền":1195000},
-      {"Mã":"LC-6906-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1602000},
+      {"Mã":"LC-6906-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-6906-310326\nxanh navy size L \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, quai có một vài chấm trầy xíu xiu ko đáng kể ạ, mặt sau có một vết sờn vải (như ảnh) thui ạ, ko ảnh hg gì khi sd ạa\n45 x 30 x 20","Tình trạng":"Còn hàng","Thành tiền":1602000},
       {"Mã":"LC-8252-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1010000},
-      {"Mã":"LC-3328-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1579500},
+      {"Mã":"LC-3328-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-3328-310326\ncloud blue size L dòng club phối đen đẹp mê li \ncondition tốt, form dày dặn, quai siêu cứng cáp, túi tg đối sạch sẽ, ko có lỗi gì đáng kể ạa\n45 x 30 x 19","Tình trạng":"Còn hàng","Thành tiền":1579500},
       {"Mã":"LC-0545-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1189200},
       {"Mã":"LC-0725-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Thành tiền":1218315},
-      {"Mã":"LC-5927-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-5927-310326\npaper size M bản đời mới có 2 ngăn phụ \ncondition rất tốt, chủ yếu qua lưu trữ, form dày dặn, quai cứng cáp, túi sạch sẽ ạa\n39 x 25 x 16","Tình trạng":"Còn hàng","Thành tiền":1357500}
+      {"Mã":"LC-5927-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-5927-310326\npaper size M bản đời mới có 2 ngăn phụ \ncondition rất tốt, chủ yếu qua lưu trữ, form dày dặn, quai cứng cáp, túi sạch sẽ ạa\n39 x 25 x 16 (vừa laptop 13inch)","Tình trạng":"Còn hàng","Thành tiền":1357500}
     ]
   }
 }
