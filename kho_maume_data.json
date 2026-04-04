@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/04/2026 11:30",
+  "lastUpdated": "04/04/2026 12:00",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1149,7 +1149,7 @@
       {"Mã":"BRĐỒ02042600","Ngày về":"02/04/2026","Sản phẩm":"Braun AG TY4829 Alarm Clock\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh\nPin AA\n\nKích thước: 80 x 35 x 58mm\n\nGiá: NOT FOR SALE","Tình trạng":"Còn hàng","Thành tiền":587543},
       {"Mã":"ZAKH02042600","Ngày về":"02/04/2026","Sản phẩm":"Zara Home Glass Paper Napkin Holder\n\nChất liệu: Thủy tinh\n\nPhân Loại: Khay để giấy ăn\n\nTình trạng: Như ảnh\n\nKích thước: 160 x 100 x 40mm\nPhần để giấy rộng 23mm\n\nGiá: 490.000","Tình trạng":"Còn hàng","Thành tiền":330945,"Giá bán":490000},
       {"Mã":"SEGƯ02042600","Ngày về":"02/04/2026","Sản phẩm":"Seletti x Toiletpaper Spades Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 172 × 228 mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Thành tiền":275400,"Giá bán":550000},
-      {"Mã":"ZAĐỒ02042600","Ngày về":"02/04/2026","Sản phẩm":"Zara Home Kid x Disney Mickey Mouse Dominoes\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 35 x 23 x 10mm\nx 28 mảnh\n\nGiá: 700.000","Tình trạng":"Còn hàng","Thành tiền":340776,"Giá bán":700000},
+      {"Mã":"ZAĐỒ02042600","Ngày về":"02/04/2026","Sản phẩm":"Zara Home Kid x Disney Mickey Mouse Dominoes\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 35 x 23 x 10mm\nx 28 mảnh\n\nGiá: 700.000","Tình trạng":"Hết hàng","Thành tiền":340776,"Giá bán":700000},
       {"Mã":"IKCH02042600","Ngày về":"02/04/2026","Sản phẩm":"Ikea Paperweight Star\n\nChất liệu: Acrylic \n\nPhân Loại: Chặn giấy\n\nTình trạng: Như ảnh\n\nKích thước: 50 x 50 x 235mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Thành tiền":288560,"Giá bán":600000},
       {"Mã":"IKCH02042601","Ngày về":"02/04/2026","Sản phẩm":"Ikea Paperweight Heart\n\nChất liệu: Acrylic \n\nPhân Loại: Chặn giấy\n\nTình trạng: Như ảnh\n\nKích thước: 51 x 50 x 235mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Thành tiền":190880,"Giá bán":300000},
       {"Mã":"DOCỐ02042600","Ngày về":"02/04/2026","Sản phẩm":"Doiy Koifish Black\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 80 x 330mm\n\nGiá: 1.800.000","Tình trạng":"Còn hàng","Thành tiền":939442,"Giá bán":1800000},
