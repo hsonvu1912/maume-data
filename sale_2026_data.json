@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/04/2026 11:43",
+  "lastUpdated": "04/04/2026 12:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -130,7 +130,8 @@
     ],
     "SALE_MauMe_2026-04": [
       {"Mã":"LEĐÈ26032601","Ngày bán":"01/04/2026","Sản phẩm":"Anniversary Gift Night Light Model","Giá nhập":194850,"Giá bán":800000,"Lãi":605150},
-      {"Mã":"STPILE1510","Ngày bán":"01/04/2026","Sản phẩm":"Lego Storage","Giá nhập":985798,"Giá bán":1000000,"Lãi":14202}
+      {"Mã":"STPILE1510","Ngày bán":"01/04/2026","Sản phẩm":"Lego Storage","Giá nhập":985798,"Giá bán":1000000,"Lãi":14202},
+      {"Mã":"ZAĐỒ02042600","Ngày bán":"04/04/2026","Sản phẩm":"Mickey Mouse Dominoes","Giá nhập":340776,"Giá bán":700000,"Lãi":359224}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
