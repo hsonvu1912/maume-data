@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/04/2026 10:34",
+  "lastUpdated": "06/04/2026 11:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Items 'Het hang' without 'Gia ban' = sold but price not recorded (see 'Ghi chu'). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -269,7 +269,7 @@
       {"Mã":"LC-1698-160326-00","Ngày về":"16/03/2026","Sản phẩm":"xanh navy size M \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, quai trầy một vài vết nhỏ xíu ko đáng kể ạa\n37 x 24 x 14\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Thành tiền":1066160,"Giá bán":1700000},
       {"Mã":"CH-1603-160326","Ngày về":"16/03/2026","Sản phẩm":"C hampton bag full da \ncond 8.8/10, form dày dặn, lót sạch sẽ, da mềm. Do túi vintage nên có một số chỗ da sẽ bị ố vàng nhẹ nhg tổng quan vẫn xinh iu ạa\n23 x 29","Tình trạng":"Còn hàng","Thành tiền":895500},
       {"Mã":"CH-1603-160326-00","Ngày về":"16/03/2026","Sản phẩm":"C salmon pink madison maggie woven leather shoulder bag \ncond 9/10, form dày dặn, lót sạch sẽ, da mềm mại, quai và mặt trước có một vài vết bẩn xíu xiu ko đáng kể ạ. Tổng quan xinh iu lắm ạaa\n17 x 32","Tình trạng":"Còn hàng","Thành tiền":895500},
-      {"Mã":"CH-1603-160326-01","Ngày về":"16/03/2026","Tình trạng":"Còn hàng","Thành tiền":895500},
+      {"Mã":"CH-1603-160326-01","Ngày về":"16/03/2026","Tình trạng":"Hết hàng","Thành tiền":895500,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"CH-1603-160326-02","Ngày về":"16/03/2026","Sản phẩm":"C suede hobo shoulder bag \ncond 7.5/10, form dày dặn cứng cáp, lót sạch sẽ, phần da lộn bên ngoài bị bạc màu (như ảnh), phần da quai bị trầy màu nhẹ ạ. Túi còn dustbag\n28 x 16\nGiá: 1.300.000đ","Tình trạng":"Còn hàng","Thành tiền":895500,"Giá bán":1300000},
       {"Mã":"CH-1603-160326-03","Ngày về":"16/03/2026","Sản phẩm":"C hobo shoulder bag full da \ncond 8.8/10, form dày dặn, lót sạch sẽ, quai cứng cáp, da mềm, bên ngoài da túi có một vài vết bẩn nhỏ (như ảnh) thui ạa\n38 x 30","Tình trạng":"Còn hàng","Thành tiền":895500},
       {"Mã":"CH-1603-160326-04","Ngày về":"16/03/2026","Sản phẩm":"C vintage đeo vai full da \ncond 9/10, form dày dặn cứng cáp, túi sạch sẽ, da mềm mại, các khoen tròn và khóa túi bằng kim loại bị tróc nhẹ ạa\n31 x 20","Tình trạng":"Còn hàng","Thành tiền":895500}
