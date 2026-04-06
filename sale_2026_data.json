@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/04/2026 09:43",
+  "lastUpdated": "06/04/2026 10:39",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -131,7 +131,14 @@
     "SALE_MauMe_2026-04": [
       {"Mã":"LEĐÈ26032601","Ngày bán":"01/04/2026","Sản phẩm":"Anniversary Gift Night Light Model","Giá nhập":194850,"Giá bán":800000,"Lãi":605150},
       {"Mã":"STPILE1510","Ngày bán":"01/04/2026","Sản phẩm":"Lego Storage","Giá nhập":985798,"Giá bán":1000000,"Lãi":14202},
-      {"Mã":"ZAĐỒ02042600","Ngày bán":"04/04/2026","Sản phẩm":"Mickey Mouse Dominoes","Giá nhập":340776,"Giá bán":700000,"Lãi":359224}
+      {"Mã":"ZAĐỒ02042600","Ngày bán":"04/04/2026","Sản phẩm":"Mickey Mouse Dominoes","Giá nhập":340776,"Giá bán":700000,"Lãi":359224},
+      {"Mã":"IKGƯ251200","Ngày bán":"06/04/2026","Sản phẩm":"Myken Mirror","Giá nhập":307725,"Giá bán":700000,"Lãi":392275},
+      {"Mã":"THSO02042600","Ngày bán":"06/04/2026","Sản phẩm":"Inflatable Sofa","Giá nhập":336600,"Giá bán":750000,"Lãi":413400},
+      {"Mã":"VIĐỒ02042600","Ngày bán":"06/04/2026","Sản phẩm":"Keith Haring Chess Game","Giá nhập":418007,"Giá bán":1500000,"Lãi":1081993},
+      {"Mã":"IKĐÈ25092500","Ngày bán":"06/04/2026","Sản phẩm":"Isjakt","Giá nhập":2376998,"Giá bán":3000000,"Lãi":623002},
+      {"Mã":"SEGƯ02042600","Ngày bán":"06/04/2026","Sản phẩm":"Spades Mirror","Giá nhập":275400,"Giá bán":550000,"Lãi":274600},
+      {"Mã":"HAKÉ02042600","Ngày bán":"06/04/2026","Sản phẩm":"Scissors","Giá nhập":129880,"Giá bán":350000,"Lãi":220120},
+      {"Mã":"VIĐỒ02042601","Ngày bán":"06/04/2026","Sản phẩm":"Keith Haring Chess Game","Giá nhập":407778,"Giá bán":1500000,"Lãi":1092222}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -394,7 +401,11 @@
       {"Mã":"LC-0717-170326","Ngày bán":"03/04/2026","Sản phẩm":"LC-0717-170326","Giá nhập":997500,"Giá bán":1300000,"Lãi":302500},
       {"Mã":"LC-3298-270326","Ngày bán":"04/04/2026","Sản phẩm":"LC-3298-270326","Giá nhập":1868605,"Giá bán":2700000,"Lãi":831395},
       {"Mã":"CH-1101-08","Ngày bán":"04/04/2026","Sản phẩm":"C leather shoulder bag ivory","Giá nhập":1785816,"Giá bán":2350000,"Lãi":564184},
-      {"Mã":"LC-8606-270326","Ngày bán":"06/04/2026","Sản phẩm":"LC-8606-270326","Giá nhập":1148605,"Giá bán":1890000,"Lãi":741395}
+      {"Mã":"LC-8606-270326","Ngày bán":"06/04/2026","Sản phẩm":"LC-8606-270326","Giá nhập":1148605,"Giá bán":1890000,"Lãi":741395},
+      {"Mã":"LC-4834-270326","Ngày bán":"06/04/2026","Sản phẩm":"LC-4834-270326","Giá nhập":1112605,"Giá bán":1700000,"Lãi":587395},
+      {"Mã":"LC-0125-270326","Ngày bán":"06/04/2026","Sản phẩm":"LC-0125-270326","Giá nhập":1145005,"Giá bán":1750000,"Lãi":604995},
+      {"Mã":"CH-2701-14","Ngày bán":"06/04/2026","Giá nhập":526330,"Giá bán":600000,"Lãi":73670},
+      {"Mã":"CH-2301-10","Ngày bán":"06/04/2026","Sản phẩm":"C bleeker shoulder bag full da","Giá nhập":680000,"Giá bán":600000,"Lãi":-80000}
     ]
   }
 }
