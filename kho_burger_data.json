@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/04/2026 09:34",
+  "lastUpdated": "06/04/2026 10:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Items 'Het hang' without 'Gia ban' = sold but price not recorded (see 'Ghi chu'). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -126,7 +126,7 @@
       {"Mã":"CH-2701-11","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Thành tiền":526327,"Giá bán":800000},
       {"Mã":"CH-2701-12","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Thành tiền":526329,"Giá bán":550000},
       {"Mã":"CH-2701-13","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Thành tiền":526327,"Giá bán":380000},
-      {"Mã":"CH-2701-14","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Thành tiền":526330,"Giá bán":650000},
+      {"Mã":"CH-2701-14","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Thành tiền":526330,"Giá bán":600000},
       {"Mã":"CH-2701-15","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Thành tiền":526327,"Giá bán":680000},
       {"Mã":"CH-2701-16","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Thành tiền":526331,"Giá bán":875000},
       {"Mã":"CH-2701-17","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Thành tiền":526327,"Giá bán":750000},
@@ -176,7 +176,7 @@
       {"Mã":"CH-2301-09","Ngày về":"23/01","Sản phẩm":"C signature fabric/leather studded straps tote\ncond 8.8/10, form dày dặn cứng cáp, lót bẩn nhẹ (như ảnh), bên ngoài sạch sẽ họa tiết C vải ánh kim siu đẹp ạa\n37 x 24","Tình trạng":"Hết hàng","Thành tiền":1256375,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-0713","Ngày về":"23/01","Sản phẩm":"đen dòng neo size S\ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, có kèm dây đeo chéo \n34 x 22 x15","Tình trạng":"Hết hàng","Thành tiền":1216315,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-9722","Ngày về":"23/01","Sản phẩm":"đã viết","Tình trạng":"Hết hàng","Thành tiền":1364500,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
-      {"Mã":"CH-2301-10","Ngày về":"23/01","Sản phẩm":"C bleeker shoulder bag full da \ncond tốt, form dày dặn cứng cáp, túi sạch sẽ, chỉ bị trầy nhẹ 4 góc đáy (như ảnh) thuii ạ \n26 x 22\nGiá: 650.000đ","Tình trạng":"Còn hàng","Thành tiền":680000,"Giá bán":650000},
+      {"Mã":"CH-2301-10","Ngày về":"23/01","Sản phẩm":"C bleeker shoulder bag full da \ncond tốt, form dày dặn cứng cáp, túi sạch sẽ, chỉ bị trầy nhẹ 4 góc đáy (như ảnh) thuii ạ \n26 x 22\nGiá: 600.000đ","Tình trạng":"Hết hàng","Thành tiền":680000,"Giá bán":600000},
       {"Mã":"CH-2301-11","Ngày về":"23/01","Sản phẩm":"C black handbag\ncond tốt, form dày dặn cứng cáp, túi sạch sẽ, ko lỗi nào lớn ạa\n14 x 13\nGiá: 550.000đ","Tình trạng":"Hết hàng","Thành tiền":680000,"Giá bán":550000},
       {"Mã":"CH-2301-12","Ngày về":"23/01","Sản phẩm":"vintage ungaro paris 2way baguette bag\ncond 9,5/10, vải có ánh kim siêu đẹp, form dày dặn cứng cáp, túi sạch sẽ ạ \n25 x 14\nGiá: 850.000đ","Tình trạng":"Hết hàng","Thành tiền":680000,"Giá bán":850000},
       {"Mã":"LC-5368","Ngày về":"02/02/2026","Sản phẩm":"xanh navy size S quai ngắn bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko lỗi nào lớn ạa\n32 x 21 x 14","Tình trạng":"Hết hàng","Thành tiền":896000,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
