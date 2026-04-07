@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/04/2026 17:43",
+  "lastUpdated": "07/04/2026 13:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -405,7 +405,8 @@
       {"Mã":"LC-4834-270326","Ngày bán":"06/04/2026","Sản phẩm":"LC-4834-270326","Giá nhập":1112605,"Giá bán":1700000,"Lãi":587395},
       {"Mã":"LC-0125-270326","Ngày bán":"06/04/2026","Sản phẩm":"LC-0125-270326","Giá nhập":1145005,"Giá bán":1750000,"Lãi":604995},
       {"Mã":"CH-2701-14","Ngày bán":"06/04/2026","Giá nhập":526330,"Giá bán":600000,"Lãi":73670},
-      {"Mã":"CH-2301-10","Ngày bán":"06/04/2026","Sản phẩm":"C bleeker shoulder bag full da","Giá nhập":680000,"Giá bán":600000,"Lãi":-80000}
+      {"Mã":"CH-2301-10","Ngày bán":"06/04/2026","Sản phẩm":"C bleeker shoulder bag full da","Giá nhập":680000,"Giá bán":600000,"Lãi":-80000},
+      {"Mã":"CH-2703-270326-02","Ngày bán":"07/04/2026","Giá nhập":2498605,"Giá bán":3500000,"Lãi":1001395}
     ]
   }
 }
