@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/04/2026 13:13",
+  "lastUpdated": "07/04/2026 15:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -138,7 +138,8 @@
       {"Mã":"IKĐÈ25092500","Ngày bán":"06/04/2026","Sản phẩm":"Isjakt","Giá nhập":2376998,"Giá bán":3000000,"Lãi":623002},
       {"Mã":"SEGƯ02042600","Ngày bán":"06/04/2026","Sản phẩm":"Spades Mirror","Giá nhập":275400,"Giá bán":550000,"Lãi":274600},
       {"Mã":"HAKÉ02042600","Ngày bán":"06/04/2026","Sản phẩm":"Scissors","Giá nhập":129880,"Giá bán":350000,"Lãi":220120},
-      {"Mã":"VIĐỒ02042601","Ngày bán":"06/04/2026","Sản phẩm":"Keith Haring Chess Game","Giá nhập":407778,"Giá bán":1500000,"Lãi":1092222}
+      {"Mã":"VIĐỒ02042601","Ngày bán":"06/04/2026","Sản phẩm":"Keith Haring Chess Game","Giá nhập":407778,"Giá bán":1500000,"Lãi":1092222},
+      {"Mã":"IKĐÈ19032600","Ngày bán":"07/04/2026","Sản phẩm":"Strala Table Lamp","Giá nhập":340570,"Giá bán":550000,"Lãi":209430}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
