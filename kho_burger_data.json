@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/04/2026 18:34",
+  "lastUpdated": "07/04/2026 20:05",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -438,7 +438,7 @@
       {"Mã":"CH-2503-250326-05","Ngày về":"25/03/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1660000},
       {"Mã":"LC-2885-260326","Ngày về":"26/03/2026","Sản phẩm":"LC-2885-260326\nolive size M bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, chỉ có một vài vết bẩn nhỏ dưới đáy, mặt trước túi (gần đáy) có một vài vết sờn vải nhỏ ko đáng kể ạa\n38 x 25 x 16 (vừa laptop 13inch)\nGiá: 1.750.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1304032,"Giá bán":1750000},
       {"Mã":"LC-7156-260326","Ngày về":"26/03/2026","Sản phẩm":"LC-7156-260326\nđen size M dòng neo \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi gì đáng kể ạa\n36 x 25 x 14 \nGiá: 2.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1220880,"Giá bán":2100000},
-      {"Mã":"LC-8849-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-8849-310326\nxanh navy size S quai ngắn bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn, quai cứng cáp, túi sạch sẽ ạa\n33 x 21 x 14\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1047000,"Giá bán":1500000},
+      {"Mã":"LC-8849-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-8849-310326\nxanh navy size S quai ngắn bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn, quai cứng cáp, túi sạch sẽ ạa\n33 x 21 x 14\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1047000,"Giá bán":1500000},
       {"Mã":"LC-3711-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-3711-310326\nbeige size L\ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, ko có lỗi gì lớn ạa\n45 x 30 x 19\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1600150,"Giá bán":2100000},
       {"Mã":"LC-1379-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-1379-310326\nxanh navy size L dòng club phối đỏ \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi nào đáng kể ạa\n44 x 29 x 19\nGiá: 2.200.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1600150,"Giá bán":2200000},
       {"Mã":"LC-7492-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-7492-310326\nđen size S quai ngắn bản đời mới có 2 ngăn phụ \ncondition tốt, chủ yếu qua lưu trữ, form dày dặn, quai cứng cáp, túi sạch sẽ ạ. Túi tặng kèm định hình đáy túi ạa\n33 x 21 x 14\nGiá: 1.550.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1195000,"Giá bán":1550000},
