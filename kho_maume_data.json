@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/04/2026 11:30",
+  "lastUpdated": "07/04/2026 15:30",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1090,7 +1090,7 @@
       {"Mã":"KIMỞ19032600","Ngày về":"19/03/2026","Sản phẩm":"Kikkerland Fish Corkscrew\n\nChất liệu: Kim loại, gỗ\n\nPhân Loại: Mở rượu vang\n\nTình trạng: Như ảnh, còn vỏ\n\nKích thước: 125 x 35mm\n\nGiá: 500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":251400,"Giá bán":500000},
       {"Mã":"DOĐỒ19032600","Ngày về":"19/03/2026","Sản phẩm":"Doiy Monstera Jigsaw Puzzle -  500 Pieces\n\nChất liệu: Bìa cứng\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 380 x 390mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":132280,"Giá bán":300000},
       {"Mã":"IKMÓ19032600","Ngày về":"19/03/2026","Sản phẩm":"Ikea Fjantig Hook\n\nChất liệu: Nhựa\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 60 x 120mm\n\nGiá: 250.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":114200,"Giá bán":250000},
-      {"Mã":"IKĐÈ19032600","Ngày về":"19/03/2026","Sản phẩm":"Ikea Strala Table Lamp\n\nChất liệu: Kim loại, vải\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14\n\nKích thước: d220 x 295mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":340570,"Giá bán":550000},
+      {"Mã":"IKĐÈ19032600","Ngày về":"19/03/2026","Sản phẩm":"Ikea Strala Table Lamp\n\nChất liệu: Kim loại, vải\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14\n\nKích thước: d220 x 295mm\n\nGiá: 550.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":340570,"Giá bán":550000},
       {"Mã":"IKĐÈ19032601","Ngày về":"19/03/2026","Sản phẩm":"Ikea Forsa\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14\n\nKích thước: 152 x 355 x đường kính chụp đèn 127mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":474130,"Giá bán":700000},
       {"Mã":"IKĐÈ19032602","Ngày về":"19/03/2026","Sản phẩm":"Ikea Smila Blomma - 2016\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn tường\n\nTình trạng: Như ảnh, tặng kèm bóng E14\n\nKích thước: d340 x 75mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":224400,"Giá bán":350000},
       {"Mã":"SEGƯ19032600","Ngày về":"19/03/2026","Sản phẩm":"Seletti x Smiley Plastic Mirror Smiley\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: d215mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":487922,"Giá bán":800000},
