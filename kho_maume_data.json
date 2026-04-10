@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/04/2026 15:55",
+  "lastUpdated": "10/04/2026 16:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1156,12 +1156,12 @@
       {"Mã":"HAKÉ02042600","Ngày về":"02/04/2026","Sản phẩm":"Hay Scissors\n\nChất liệu: Kim loại\n\nPhân Loại: Kéo\n\nTình trạng: Như ảnh\n\nKích thước: 200 x 60mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":129880,"Giá bán":350000},
       {"Mã":"ALMỞ02042600","Ngày về":"02/04/2026","Sản phẩm":"Alessi Twergi ES17 Corkscrew\n\nChất liệu: Gỗ\n\nPhân Loại: Mở rượu vang\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 100 x 50 x 145mm\n\nGiá: 2.100.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1144928,"Giá bán":2100000},
       {"Mã":"BRBÌ02042600","Ngày về":"02/04/2026","Sản phẩm":"Broste Copenhagen Etta Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 180 x 75 x 290mm\n\nGiá: 990.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":751757,"Giá bán":990000},
-      {"Mã":"PEĐĨ07042600","Ngày về":"07/04/2026","Sản phẩm":"Peanuts Snoopy Small Plate\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d90 x 10mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"LEHỘ07042600","Ngày về":"07/04/2026","Sản phẩm":"Lego Storage Box CD Case\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 140 x 170 x 140mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"LEHỘ07042601","Ngày về":"07/04/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Aqua\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 250 x 250 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"LEHỘ07042602","Ngày về":"07/04/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Royal Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 250 x 250 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"LEHỘ07042603","Ngày về":"07/04/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Grey\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 250 x 250 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"LEHỘ07042604","Ngày về":"07/04/2026","Sản phẩm":"Lego 8 Knobs Brick Drawer - Grey\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 500 x 250 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"PEĐĨ07042600","Ngày về":"07/04/2026","Sản phẩm":"Peanuts Snoopy Small Plate\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d90 x 10mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":496500},
+      {"Mã":"LEHỘ07042600","Ngày về":"07/04/2026","Sản phẩm":"Lego Storage Box CD Case\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 140 x 170 x 140mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":475500},
+      {"Mã":"LEHỘ07042601","Ngày về":"07/04/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Aqua\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 250 x 250 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":720000},
+      {"Mã":"LEHỘ07042602","Ngày về":"07/04/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Royal Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 250 x 250 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":720000},
+      {"Mã":"LEHỘ07042603","Ngày về":"07/04/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Grey\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 250 x 250 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":366118},
+      {"Mã":"LEHỘ07042604","Ngày về":"07/04/2026","Sản phẩm":"Lego 8 Knobs Brick Drawer - Grey\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 500 x 250 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":679934},
       {"Mã":"IKĐÈ09042600","Ngày về":"09/04/2026","Sản phẩm":"Ikea Strala\n\nChất liệu: Giấy, kim loại\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14\n\nKích thước: 300 x 300mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":427575},
       {"Mã":"LEHỘ09042600","Ngày về":"09/04/2026","Sản phẩm":"Lego Storage Head – Mini (Girl)\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d100 x 110mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":192975},
       {"Mã":"LEHỘ09042601","Ngày về":"09/04/2026","Sản phẩm":"Lego Storage Head – Mini (Winking)\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d100 x 110mm\n\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":192975},
@@ -1202,7 +1202,7 @@
       {"Mã":"KIMỞ09042602","Ngày về":"09/04/2026","Sản phẩm":"Kikkerland Fish Corkscrew\n\nChất liệu: Kim loại, gỗ\n\nPhân Loại: Mở rượu vang\n\nTình trạng: Như ảnh, còn vỏ\n\nKích thước: 125 x 35mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":252182},
       {"Mã":"BRBÌ09042600","Ngày về":"09/04/2026","Sản phẩm":"Broste Copenhagen Etta Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 180 x 75 x 290mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":751757},
       {"Mã":"09042600","Ngày về":"09/04/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":503905},
-      {"Mã":"09042600","Ngày về":"09/04/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":553680}
+      {"Mã":"ROBÌ09042600","Ngày về":"09/04/2026","Sản phẩm":"Rosenthal Tütenvase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":553680}
     ]
   }
 }
