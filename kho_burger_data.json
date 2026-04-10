@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/04/2026 12:34",
+  "lastUpdated": "10/04/2026 13:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -277,7 +277,7 @@
     "Tháng 3": [
       {"Mã":"LC-0842-030326","Ngày về":"03/03/2026","Sản phẩm":"LC-0842-030326\nxám size M \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ ạ\n34 x 25 x 14","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1182315,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-4408-030326","Ngày về":"03/03/2026","Sản phẩm":"LC-4408-030326\nxanh navy dòng neo size L\ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, ko lỗi nào đáng kể ạ \n46 x 29 x 19","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1317500,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
-      {"Mã":"LC-2177-030326","Ngày về":"03/03/2026","Sản phẩm":"LC-2177-030326\nLC size M bản limited \ncondition tốt, form dày dặn cứng cáp, túi có một vài vết bẩn khách mua về vs sdung bình thường ạa\n35 x 25 x 14\nGiá: 1.200.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":814300,"Giá bán":1200000},
+      {"Mã":"LC-2177-030326","Ngày về":"03/03/2026","Sản phẩm":"LC-2177-030326\nLC size M bản limited \ncondition tốt, form dày dặn cứng cáp, túi có một vài vết bẩn khách mua về vs sdung bình thường ạa\n35 x 25 x 14\nGiá: 990.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":814300,"Giá bán":990000},
       {"Mã":"LC-4825-030326","Ngày về":"03/03/2026","Sản phẩm":"LC-4825-030326\nđen size L bản đơi mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, nắp túi có 1 vết đen xíu xiu như ảnh thui ạ \n46 x 29 x 19","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1262000,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-5132-030326","Ngày về":"03/03/2026","Sản phẩm":"LC-5132-030326\nđen size M bản đơi mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko lỗi nào lớn ạ \n40 x 26 x 16","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1740780,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"CH-0303-030326","Ngày về":"03/03/2026","Sản phẩm":"CH-0303-030326\nC monogram đeo vai/đeo chéo\ncond 9.8/10, form dày dặn, quai/dây da mềm cứng cáp, túi sạch sẽ, logo sắc nét. Túi có kèm dây đeo chéo\n32 x 22 x 11\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1299000,"Giá bán":1700000},
