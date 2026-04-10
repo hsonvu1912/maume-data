@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/04/2026 13:04",
+  "lastUpdated": "10/04/2026 13:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -379,7 +379,7 @@
       {"Mã":"CH-3103-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1994500},
       {"Mã":"LC-3103-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-3103-310326\nxám đậm size S quai ngắn bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, quai bay màu sơn nhẹ nhẹ như ảnh, nhìn qua ko rõ\n32 x 21 x 13\nGiá: 1.380.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1069500,"Giá bán":1380000},
       {"Mã":"LC-3103-02-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-3103-02-310326\nđen size M \ncondition: form dày dặn cứng cáp, túi tg đối sạch sẽ, quai bị trầy một bên như ảnh, ở mặt dưới nên khi đeo lên vai sẽ ko thấy đâu ạ, lót gần quai tróc nhẹ (như ảnh) ko ảnh hg gì khi sd ạ\n35 x 24 x 14\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1367000,"Giá bán":1650000},
-      {"Mã":"LC-4028-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-4028-310326\nđen size M \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, dính bẩn nhẹ ở đáy\n46 x 29 x 19\nGiá: 2.050.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1417000,"Giá bán":2050000},
+      {"Mã":"LC-4028-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-4028-310326\nđen size M \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, dính bẩn nhẹ ở đáy\n46 x 29 x 19\nGiá: 2.000.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1417000,"Giá bán":2000000},
       {"Mã":"LC-3103-01-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-3103-01-310326\nbeige size M \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ có một vài vết bẩn chủ yếu dưới đáy, nhìn qua ko rõ\n36 x 24 x 14\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1441500,"Giá bán":1950000},
       {"Mã":"LC-5824-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-5824-310326\nbeige size M \ncondition tốt, form dày dặn, quai cứng cáp, bề mặt túi sạch sẽ\n36 x 25 x 14\nGiá: 2.050.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1218500,"Giá bán":2050000},
       {"Mã":"CH-3103-02-310326","Ngày về":"31/03/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1773500},
