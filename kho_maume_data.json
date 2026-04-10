@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/04/2026 11:55",
+  "lastUpdated": "10/04/2026 12:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1196,9 +1196,9 @@
       {"Mã":"STCỐ09042600","Ngày về":"09/04/2026","Sản phẩm":"Starbucks Ceramic Mug Black\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 85 x 150 x 90mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":329250},
       {"Mã":"09042600","Ngày về":"09/04/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":605610},
       {"Mã":"CHGẠ09042600","Ngày về":"09/04/2026","Sản phẩm":"Chao Zhou Jinyi Ceramics Xu Hong Fei Sculpture Art Ashtray\n\nChất liệu: Gốm\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 200 x 160 x 30mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"ANKH09042600","Ngày về":"09/04/2026","Sản phẩm":"Anthropology x Natalie Lete HandTrinket Dish\n\nChất liệu: Gốm\n\nPhân Loại: Khay trang sức\n\nTình trạng: Như ảnh\n\nKích thước: 110 x 60 x 25mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":145800},
+      {"Mã":"ANKH09042600","Ngày về":"09/04/2026","Sản phẩm":"Anthropology x Natalie Lete Hand Trinket Dish\n\nChất liệu: Gốm\n\nPhân Loại: Khay trang sức\n\nTình trạng: Như ảnh\n\nKích thước: 110 x 60 x 25mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":145800},
       {"Mã":"KIMỞ09042600","Ngày về":"09/04/2026","Sản phẩm":"Kikkerland Fish Corkscrew\n\nChất liệu: Kim loại, gỗ\n\nPhân Loại: Mở rượu vang\n\nTình trạng: Như ảnh, còn vỏ\n\nKích thước: 125 x 35mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":756546},
-      {"Mã":"BRBÌ09042600","Ngày về":"09/04/2026","Sản phẩm":"Broste Copenhagen Etta Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 180 x 75 x 290mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"BRBÌ09042600","Ngày về":"09/04/2026","Sản phẩm":"Broste Copenhagen Etta Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 180 x 75 x 290mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":751757},
       {"Mã":"09042600","Ngày về":"09/04/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":503905}
     ]
   }
