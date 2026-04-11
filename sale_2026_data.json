@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/04/2026 10:43",
+  "lastUpdated": "11/04/2026 11:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -145,7 +145,11 @@
       {"Mã":"HAMÔ09042600","Ngày bán":"11/04/2026","Sản phẩm":"Hay Wooden Hand","Giá nhập":152250,"Giá bán":400000,"Lãi":247750},
       {"Mã":"ANKH09042600","Ngày bán":"11/04/2026","Sản phẩm":"Anthropology x Natalie Lete Hand Trinket Dish","Giá nhập":145800,"Giá bán":350000,"Lãi":204200},
       {"Mã":"LEHỘ09042601","Ngày bán":"11/04/2026","Sản phẩm":"Lego Storage Head – Mini (Winking)","Giá nhập":192975,"Giá bán":300000,"Lãi":107025},
-      {"Mã":"LEHỘ09042600","Ngày bán":"11/04/2026","Sản phẩm":"Lego Storage Head – Mini (Girl)","Giá nhập":192975,"Giá bán":300000,"Lãi":107025}
+      {"Mã":"LEHỘ09042600","Ngày bán":"11/04/2026","Sản phẩm":"Lego Storage Head – Mini (Girl)","Giá nhập":192975,"Giá bán":300000,"Lãi":107025},
+      {"Mã":"PRHỘ09042601","Ngày bán":"11/04/2026","Sản phẩm":"Propaganda Container Sweet Tooth","Giá nhập":242279,"Giá bán":600000,"Lãi":357721},
+      {"Mã":"JNCỐ02042600","Ngày bán":"11/04/2026","Sản phẩm":"Jnbyhome Hemispherical Glass Cup","Giá nhập":450616,"Giá bán":700000,"Lãi":249384},
+      {"Mã":"WAKH02042600","Ngày bán":"11/04/2026","Sản phẩm":"Wako Silver Tray","Giá nhập":538042,"Giá bán":800000,"Lãi":261958},
+      {"Mã":"ROBÌ09042600","Ngày bán":"11/04/2026","Sản phẩm":"Rosenthal Tütenvase","Giá nhập":553680,"Giá bán":900000,"Lãi":346320}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
