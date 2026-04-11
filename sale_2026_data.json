@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/04/2026 10:13",
+  "lastUpdated": "11/04/2026 10:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -141,7 +141,11 @@
       {"Mã":"VIĐỒ02042601","Ngày bán":"06/04/2026","Sản phẩm":"Keith Haring Chess Game","Giá nhập":407778,"Giá bán":1500000,"Lãi":1092222},
       {"Mã":"IKĐÈ19032600","Ngày bán":"07/04/2026","Sản phẩm":"Strala Table Lamp","Giá nhập":340570,"Giá bán":550000,"Lãi":209430},
       {"Mã":"KIMỞ09042600","Ngày bán":"10/04/2026","Sản phẩm":"Kikkerland Fish Corkscrew","Giá nhập":252182,"Giá bán":500000,"Lãi":247818},
-      {"Mã":"JNBÌ251200","Ngày bán":"10/04/2026","Sản phẩm":"Jnbyhome Swaying Borosilicate Glass Vase - Green/Yellow","Giá nhập":622943,"Giá bán":1300000,"Lãi":677057}
+      {"Mã":"JNBÌ251200","Ngày bán":"10/04/2026","Sản phẩm":"Jnbyhome Swaying Borosilicate Glass Vase - Green/Yellow","Giá nhập":622943,"Giá bán":1300000,"Lãi":677057},
+      {"Mã":"HAMÔ09042600","Ngày bán":"11/04/2026","Sản phẩm":"Hay Wooden Hand","Giá nhập":152250,"Giá bán":400000,"Lãi":247750},
+      {"Mã":"ANKH09042600","Ngày bán":"11/04/2026","Sản phẩm":"Anthropology x Natalie Lete Hand Trinket Dish","Giá nhập":145800,"Giá bán":350000,"Lãi":204200},
+      {"Mã":"LEHỘ09042601","Ngày bán":"11/04/2026","Sản phẩm":"Lego Storage Head – Mini (Winking)","Giá nhập":192975,"Giá bán":300000,"Lãi":107025},
+      {"Mã":"LEHỘ09042600","Ngày bán":"11/04/2026","Sản phẩm":"Lego Storage Head – Mini (Girl)","Giá nhập":192975,"Giá bán":300000,"Lãi":107025}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -439,7 +443,7 @@
       {"Mã":"LC-2314-200326","Ngày bán":"11/04/2026","Sản phẩm":"LC-2314-200326","Giá nhập":984857,"Giá bán":1350000,"Lãi":365143},
       {"Mã":"LC-0704-02-070426","Ngày bán":"11/04/2026","Sản phẩm":"LC-0704-02-070426","Giá nhập":974053,"Giá bán":1150000,"Lãi":175947},
       {"Mã":"LC-0704-00-070426","Ngày bán":"11/04/2026","Sản phẩm":"LC-0704-00-070426","Giá nhập":1082053,"Giá bán":1850000,"Lãi":767947},
-      {"Mã":"LC-3638-070426","Ngày bán":"11/04/2026","Sản phẩm":"LC-3638-070426","Giá nhập":452053,"Giá bán":1350000,"Lãi":897947}
+      {"Mã":"LC-3638-070426","Ngày bán":"11/04/2026","Sản phẩm":"LC-3638-070426","Giá nhập":452053,"Giá bán":1150000,"Lãi":697947}
     ]
   }
 }
