@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/04/2026 10:34",
+  "lastUpdated": "13/04/2026 09:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -447,7 +447,10 @@
       {"Mã":"LC-3328-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-3328-310326\ncloud blue size L dòng club phối đen đẹp mê li \ncondition tốt, form dày dặn, quai siêu cứng cáp, túi tg đối sạch sẽ, ko có lỗi gì đáng kể ạa\n45 x 30 x 19\nGiá: 2.200.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1547100,"Giá bán":2200000},
       {"Mã":"LC-0545-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-0545-310326\nxanh navy size L dòng neo \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi nào lớn ạa\n45 x 30 x 19\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1165200,"Giá bán":1950000},
       {"Mã":"LC-0725-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-0725-310326\nđen dòng neo size M \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, lót gần quai tróc nhẹ xíu xiu ko đáng kể ạ\n46 x 29 x 19\nGiá: 2.050.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1193919,"Giá bán":2050000},
-      {"Mã":"LC-5927-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-5927-310326\npaper size M bản đời mới có 2 ngăn phụ \ncondition rất tốt, chủ yếu qua lưu trữ, form dày dặn, quai cứng cáp, túi sạch sẽ ạa\n39 x 25 x 16 (vừa laptop 13inch)\nGiá: 2.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1329900,"Giá bán":2400000}
+      {"Mã":"LC-5927-310326","Ngày về":"31/03/2026","Sản phẩm":"LC-5927-310326\npaper size M bản đời mới có 2 ngăn phụ \ncondition rất tốt, chủ yếu qua lưu trữ, form dày dặn, quai cứng cáp, túi sạch sẽ ạa\n39 x 25 x 16 (vừa laptop 13inch)\nGiá: 2.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1329900,"Giá bán":2400000},
+      {"Mã":"LC-0393-100426","Ngày về":"10/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":705900},
+      {"Mã":"LC-8302-100426","Ngày về":"10/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":560919},
+      {"Mã":"LC-0758-100426","Ngày về":"10/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":524900}
     ],
     "Tháng 4": [
       {"Mã":"LC-5999-020426","Ngày về":"02/04/2026","Sản phẩm":"LC-5999-020426\nmini pouch màu petal pink dòng green \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, ko có lỗi nào đáng kể ạa. Túi ko kèm dây đeo chéo, khách mua thêm trên sọp pi giúp em nha \n19 x 10 x 6","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2057940},
