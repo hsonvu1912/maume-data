@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12/04/2026 17:55",
+  "lastUpdated": "13/04/2026 09:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1162,7 +1162,7 @@
       {"Mã":"LEHỘ07042602","Ngày về":"07/04/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Royal Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 250 x 250 x 180mm\n\nGiá: 1.300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":720000,"Giá bán":1300000},
       {"Mã":"LEHỘ07042603","Ngày về":"07/04/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Grey\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 250 x 250 x 180mm\n\nGiá: 950.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":366118,"Giá bán":950000},
       {"Mã":"LEHỘ07042604","Ngày về":"07/04/2026","Sản phẩm":"Lego 8 Knobs Brick Drawer - Grey\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 500 x 250 x 180mm\n\nGiá: 1.750.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":679934,"Giá bán":1750000},
-      {"Mã":"IKĐÈ09042600","Ngày về":"09/04/2026","Sản phẩm":"Ikea Strala\n\nChất liệu: Giấy, kim loại\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14\n\nKích thước: 500 x 500mm\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":427575,"Giá bán":350000},
+      {"Mã":"IKĐÈ09042600","Ngày về":"09/04/2026","Sản phẩm":"Ikea Strala\n\nChất liệu: Giấy, kim loại\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14. Rách 2 chỗ (ảnh 8,9)\n\nKích thước: 500 x 500mm\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":427575,"Giá bán":350000},
       {"Mã":"LEHỘ09042600","Ngày về":"09/04/2026","Sản phẩm":"Lego Storage Head – Mini (Girl)\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d100 x 110mm\n\nGiá: 300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":192975,"Giá bán":300000},
       {"Mã":"LEHỘ09042601","Ngày về":"09/04/2026","Sản phẩm":"Lego Storage Head – Mini (Winking)\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d100 x 110mm\n\n\nGiá: 300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":192975,"Giá bán":300000},
       {"Mã":"DOLỌ09042600","Ngày về":"09/04/2026","Sản phẩm":"Doiy Pinky Swear\n\nChất liệu: Gốm\n\nPhân Loại: Lọ gia vị\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 50 x 115mm\n\nGiá: 250.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":136800,"Giá bán":250000},
