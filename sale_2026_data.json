@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12/04/2026 17:43",
+  "lastUpdated": "13/04/2026 14:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -151,7 +151,8 @@
       {"Mã":"WAKH02042600","Ngày bán":"11/04/2026","Sản phẩm":"Wako Silver Tray","Giá nhập":538042,"Giá bán":800000,"Lãi":261958},
       {"Mã":"ROBÌ09042600","Ngày bán":"11/04/2026","Sản phẩm":"Rosenthal Tütenvase","Giá nhập":553680,"Giá bán":900000,"Lãi":346320},
       {"Mã":"KEĐỒ110100","Ngày bán":"12/04/2026","Sản phẩm":"Kenzo Wall Clock","Giá nhập":1005116,"Giá bán":2500000,"Lãi":1494884},
-      {"Mã":"IKHỘ09042600","Ngày bán":"12/04/2026","Sản phẩm":"Ikea Grejsimojs Storage","Giá nhập":161000,"Giá bán":300000,"Lãi":139000}
+      {"Mã":"IKHỘ09042600","Ngày bán":"12/04/2026","Sản phẩm":"Ikea Grejsimojs Storage","Giá nhập":161000,"Giá bán":300000,"Lãi":139000},
+      {"Mã":"IKĐÈ09042600","Ngày bán":"13/04/2026","Sản phẩm":"Ikea Strala","Giá nhập":427575,"Giá bán":350000,"Lãi":-77575}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
