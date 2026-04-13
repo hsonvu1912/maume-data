@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/04/2026 09:34",
+  "lastUpdated": "13/04/2026 13:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -472,7 +472,10 @@
       {"Mã":"LC-7770-070426","Ngày về":"07/04/2026","Sản phẩm":"LC-7770-070426\nđen size M bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, quai bị bay màu sơn ở mặt dưới (như ảnh) nhg ko ảnh hg gì khi sd. Túi còn sổ và túi giấy ạ\n39 x 26 x 16 (vừa laptop 13inch)\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1172053,"Giá bán":1900000},
       {"Mã":"LC-2841-070426","Ngày về":"07/04/2026","Sản phẩm":"LC-2841-070426\nxanh navy size M dòng club phối đỏ\ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko lỗi nào đáng kể ạ \n39 x 26 x 16 (vừa laptop 13inch)\nGiá: 2.200.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1082053,"Giá bán":2200000},
       {"Mã":"LC-0704-070426","Ngày về":"07/04/2026","Sản phẩm":"LC-0704-070426\nxanh navy size L dòng neo \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, quai trầy nhẹ chủ yếu mặt dưới khi đeo lên vai sẽ ko thấy đâu ạ, vải bị nhăn nhẹ xíu xiu gần miệng khóa ko đáng kể ạ\n46 x 29 x 18\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":614053,"Giá bán":1500000},
-      {"Mã":"LC-2787-070426","Ngày về":"07/04/2026","Sản phẩm":"LC-2787-070426\nđen size L bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, quai bị trầy như ảnh nhg ko ảnh hg gì khi sd ạ, túi tg đối sạch sẽ chỉ bị một vài vết bẩn nhỏ gần đáy\n46 x 30 x 19\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1351873,"Giá bán":1800000}
+      {"Mã":"LC-2787-070426","Ngày về":"07/04/2026","Sản phẩm":"LC-2787-070426\nđen size L bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, quai bị trầy như ảnh nhg ko ảnh hg gì khi sd ạ, túi tg đối sạch sẽ chỉ bị một vài vết bẩn nhỏ gần đáy\n46 x 30 x 19\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1351873,"Giá bán":1800000},
+      {"Mã":"LC-1004-100426","Ngày về":"10/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":778000},
+      {"Mã":"LC-6481-100426","Ngày về":"10/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1647100},
+      {"Mã":"LC-8853-100426","Ngày về":"10/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1466100}
     ]
   }
 }
