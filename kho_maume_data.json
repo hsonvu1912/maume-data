@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/04/2026 22:25",
+  "lastUpdated": "14/04/2026 23:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1187,7 +1187,7 @@
       {"Mã":"PRTH09042600","Ngày về":"09/04/2026","Sản phẩm":"Propaganda Mr.P Be Happy Paper Bin\n\nChất liệu: Nhựa\n\nPhân Loại: Thùng rác\n\nTình trạng: Như ảnh\n\nKích thước: d140 x 170mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":345300,"Giá bán":700000},
       {"Mã":"PRGI09042601","Ngày về":"09/04/2026","Sản phẩm":"Propaganda Mr.P Be The Wiper\n\nChất liệu: Nhựa\n\nPhân Loại: Giá để giấy vệ sinh\n\nTình trạng: Như ảnh\n\nKích thước: d200 x 160mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":323700,"Giá bán":800000},
       {"Mã":"IKHỘ09042600","Ngày về":"09/04/2026","Sản phẩm":"Ikea Grejsimojs Storage\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 150 x 150 x240mm\n\nGiá: 300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":161000,"Giá bán":300000},
-      {"Mã":"IKHỘ09042601","Ngày về":"09/04/2026","Sản phẩm":"Ikea Grejsimojs Storage\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 150 x 150 x240mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":161000,"Giá bán":300000},
+      {"Mã":"IKHỘ09042601","Ngày về":"09/04/2026","Sản phẩm":"Ikea Grejsimojs Storage\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 150 x 150 x240mm\n\nGiá: 300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":161000,"Giá bán":300000},
       {"Mã":"HAĐÈ09042600","Ngày về":"09/04/2026","Sản phẩm":"Hay PC Portable Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh\n\nKích thước: 140 x 140 x 220mm\n\nGiá: 1.600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1096739,"Giá bán":1600000},
       {"Mã":"HAMÔ09042600","Ngày về":"09/04/2026","Sản phẩm":"Hay Wooden Hand\n\nChất liệu: Gỗ\n\nPhân Loại: Mô hình\n\nTình trạng: Như ảnh\n\nKích thước: 96 x 210mm\n\nGiá: 400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":152250,"Giá bán":400000},
       {"Mã":"09042600","Ngày về":"09/04/2026","Sản phẩm":"2","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":116585},
