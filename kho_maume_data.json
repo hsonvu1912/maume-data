@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/04/2026 11:55",
+  "lastUpdated": "14/04/2026 12:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1205,14 +1205,14 @@
       {"Mã":"VIĐĨ09042601","Ngày về":"09/04/2026","Sản phẩm":"Virgil Abloh x Prospect Life Itself 2021\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: d267mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":167968},
       {"Mã":"VIĐĨ09042602","Ngày về":"09/04/2026","Sản phẩm":"Virgil Abloh x Prospect Life Itself 2021\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: d267mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":167968},
       {"Mã":"ROBÌ09042600","Ngày về":"09/04/2026","Sản phẩm":"Rosenthal Tütenvase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 115 x 75 x 70mm\n\nGiá: 900.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":553680,"Giá bán":900000},
-      {"Mã":"KIBỘ10042600","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Motion Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 65 x 21mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"KIBỘ10042601","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland 3D Cat Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 65 x 21mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"KIBỘ10042602","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland 3D Dog Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 65 x 21mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"DOĐẾ10042600","Ngày về":"10/04/2026","Sản phẩm":"Doiy Om Incense Holder\n\nChất liệu: Gốm\n\nPhân Loại: Đế  cắm hương thơm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 170 x 50 x 70mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"KIĐỒ10042600","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Balance the Baker Game\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 125 x 60 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"KIGI10042600","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Rosie Bookends\n\nChất liệu: Resin\n\nPhân Loại: Giá đỡ sách\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 200 x 900 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"KIMÓ10042600","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Dog Keychain\n\nChất liệu: Kim loại\n\nPhân Loại: Móc khóa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 65 x 55mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"KIĐỒ10042601","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Geometric Wood Clock\n\nChất liệu: Gỗ\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 254 x 254 x 29mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"}
+      {"Mã":"KIBỘ10042600","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Motion Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 65 x 21mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":125100},
+      {"Mã":"KIBỘ10042601","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland 3D Cat Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 65 x 21mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":179400},
+      {"Mã":"KIBỘ10042602","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland 3D Dog Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 65 x 21mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":179400},
+      {"Mã":"DOĐẾ10042600","Ngày về":"10/04/2026","Sản phẩm":"Doiy Om Incense Holder\n\nChất liệu: Gốm\n\nPhân Loại: Đế  cắm hương thơm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 170 x 50 x 70mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":442480},
+      {"Mã":"KIĐỒ10042600","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Balance the Baker Game\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 125 x 60 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":687100},
+      {"Mã":"KIGI10042600","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Rosie Bookends\n\nChất liệu: Resin\n\nPhân Loại: Giá đỡ sách\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 200 x 900 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":559800},
+      {"Mã":"KIMÓ10042600","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Dog Keychain\n\nChất liệu: Kim loại\n\nPhân Loại: Móc khóa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 65 x 55mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":325700},
+      {"Mã":"KIĐỒ10042601","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Geometric Wood Clock\n\nChất liệu: Gỗ\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 254 x 254 x 29mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":904100}
     ]
   }
 }
