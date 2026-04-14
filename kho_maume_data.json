@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/04/2026 15:55",
+  "lastUpdated": "14/04/2026 16:26",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1211,7 +1211,7 @@
       {"Mã":"KIĐỒ10042600","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Balance the Baker Game\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 125 x 60 x 105mm\n\nGiá: 1.000.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":687100,"Giá bán":1000000},
       {"Mã":"KIGI10042600","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Rosie Bookends\n\nChất liệu: Resin\n\nPhân Loại: Giá chặn sách\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 200 x 900 x 100mm\n\nGiá: 1.000.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":559800,"Giá bán":1000000},
       {"Mã":"KIMÓ10042600","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Dog Keychain\n\nChất liệu: Kim loại\n\nPhân Loại: Móc khóa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 65 x 55mm\n\nGiá: 490.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":325700,"Giá bán":490000},
-      {"Mã":"KIĐỒ10042601","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Geometric Wood Clock\n\nChất liệu: Gỗ\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 254 x 254 x 29mm\n\nGiá: 1.200.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":904100,"Giá bán":1200000}
+      {"Mã":"KIĐỒ10042601","Ngày về":"10/04/2026","Sản phẩm":"Kikkerland Geometric Wood Clock\n\nChất liệu: Gỗ\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 254 x 254 x 29mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":904100,"Giá bán":1500000}
     ]
   }
 }
