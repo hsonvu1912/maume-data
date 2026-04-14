@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/04/2026 14:25",
+  "lastUpdated": "14/04/2026 14:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1193,7 +1193,7 @@
       {"Mã":"09042600","Ngày về":"09/04/2026","Sản phẩm":"2","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":116585},
       {"Mã":"LABỘ09042600","Ngày về":"09/04/2026","Sản phẩm":"La Prairie Chess Set\n\nChất liệu: Gỗ\n\nPhân Loại: Bộ cờ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 440 x 100 x 75\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":780240},
       {"Mã":"AAGỐ09042600","Ngày về":"09/04/2026","Sản phẩm":"AAPE Hand Warmer\n\nChất liệu: Vải\n\nPhân Loại: Gối\n\nTình trạng: Như ảnh\n\nKích thước: d300 x 200mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":286650,"Giá bán":600000},
-      {"Mã":"STCỐ09042600","Ngày về":"09/04/2026","Sản phẩm":"Starbucks Ceramic Mug Black\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 85 x 150 x 90mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":329250},
+      {"Mã":"STCỐ09042600","Ngày về":"09/04/2026","Sản phẩm":"Starbucks x Fragment Ceramic Mug Black\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 85 x 150 x 90mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":329250},
       {"Mã":"CHGẠ09042600","Ngày về":"09/04/2026","Sản phẩm":"Chao Zhou Jinyi Ceramics Xu Hong Fei Sculpture Art Ashtray\n\nChất liệu: Gốm\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 200 x 160 x 30mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":387855},
       {"Mã":"ANKH09042600","Ngày về":"09/04/2026","Sản phẩm":"Anthropology x Natalie Lete Hand Trinket Dish\n\nChất liệu: Gốm\n\nPhân Loại: Khay trang sức\n\nTình trạng: Như ảnh\n\nKích thước: 110 x 60 x 25mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":145800,"Giá bán":350000},
       {"Mã":"KIMỞ09042600","Ngày về":"09/04/2026","Sản phẩm":"Kikkerland Fish Corkscrew\n\nChất liệu: Kim loại, gỗ\n\nPhân Loại: Mở rượu vang\n\nTình trạng: Như ảnh, còn vỏ\n\nKích thước: 125 x 35mm\n\nGiá: 500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":252182,"Giá bán":500000},
