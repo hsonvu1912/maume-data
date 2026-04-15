@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15/04/2026 14:34",
+  "lastUpdated": "15/04/2026 20:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -474,7 +474,7 @@
       {"Mã":"LC-6481-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-6481-100426\nđen size M bản đời mới 2 ngăn phụ, độ mới cao, phom cứng cáp ko có gì để chê nhen (40 x 25 x 17)\nGiá: 2.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1713100,"Giá bán":2500000},
       {"Mã":"LC-8853-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-8853-100426\nxám gunmetal độ mới cao, condition đẹp ko có lỗi gì lớn (37 x 23 x 14)\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1532100,"Giá bán":1900000},
       {"Mã":"LC-0393-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-0393-100426\nbeige size M độ mới cao, phom cứng cáp, lót bẩn nhẹ ko đáng kể (37 x 24 x 14)\nGiá: 1.650.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":777900,"Giá bán":1650000},
-      {"Mã":"LC-8302-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-8302-100426\nxám graphite size M độ mới cao, không có lỗi lớn nào, tổng quan đẹp lắm ạ (39   26 x 16 vừa laptop 13,14)\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":632919,"Giá bán":2100000},
+      {"Mã":"LC-8302-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-8302-100426\nxám graphite size M độ mới cao, không có lỗi lớn nào, tổng quan đẹp lắm ạ (39   26 x 16 vừa laptop 13,14)\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":632919,"Giá bán":2100000},
       {"Mã":"LC-0758-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-0758-100426\nblack size M dòng neo, độ mới cao, tổng quan đẹp cứng cáp, bề mặt có 1 vài vết trầy vải nhẹ nhìn kỹ mới thấy, không ảnh hưởng chức năng túi ạ (37 x 24 x 14)\nGiá: 1.890.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":596900,"Giá bán":1890000}
     ]
   }
