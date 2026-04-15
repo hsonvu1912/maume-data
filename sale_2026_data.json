@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15/04/2026 12:43",
+  "lastUpdated": "15/04/2026 14:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -157,7 +157,8 @@
       {"Mã":"KIBỘ10042600","Ngày bán":"14/04/2026","Sản phẩm":"Kikkerland Motion Cards","Giá nhập":125100,"Giá bán":290000,"Lãi":164900},
       {"Mã":"KIĐỒ10042601","Ngày bán":"14/04/2026","Sản phẩm":"Kikkerland Geometric Wood Clock","Giá nhập":904100,"Giá bán":1500000,"Lãi":595900},
       {"Mã":"IKHỘ09042601","Ngày bán":"14/04/2026","Sản phẩm":"Ikea Grejsimojs Storage","Giá nhập":161000,"Giá bán":300000,"Lãi":139000},
-      {"Mã":"KIMỞ09042601","Ngày bán":"15/04/2026","Sản phẩm":"Kikkerland Fish Corkscrew","Giá nhập":252182,"Giá bán":500000,"Lãi":247818}
+      {"Mã":"KIMỞ09042601","Ngày bán":"15/04/2026","Sản phẩm":"Kikkerland Fish Corkscrew","Giá nhập":252182,"Giá bán":500000,"Lãi":247818},
+      {"Mã":"KIĐỒ10042600","Ngày bán":"15/04/2026","Sản phẩm":"Kikkerland Balance the Baker Game","Giá nhập":687100,"Giá bán":900000,"Lãi":212900}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
