@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18/04/2026 11:43",
+  "lastUpdated": "18/04/2026 22:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -167,7 +167,9 @@
       {"Mã":"NOCỐ09042628","Ngày bán":"18/04/2026","Sản phẩm":"No brand Cốc Bubble Amber","Giá nhập":49396,"Giá bán":150000,"Lãi":100604},
       {"Mã":"NOCỐ09042627","Ngày bán":"18/04/2026","Sản phẩm":"No brand Cốc Bubble Amber","Giá nhập":49396,"Giá bán":150000,"Lãi":100604},
       {"Mã":"NOKH09042601","Ngày bán":"18/04/2026","Sản phẩm":"No brand Green Leaf Trinket","Giá nhập":67867,"Giá bán":130000,"Lãi":62133},
-      {"Mã":"NOKH09042602","Ngày bán":"18/04/2026","Sản phẩm":"No brand Green Leaf Trinket","Giá nhập":67867,"Giá bán":130000,"Lãi":62133}
+      {"Mã":"NOKH09042602","Ngày bán":"18/04/2026","Sản phẩm":"No brand Green Leaf Trinket","Giá nhập":67867,"Giá bán":130000,"Lãi":62133},
+      {"Mã":"SEKH09042600","Ngày bán":"18/04/2026","Sản phẩm":"Serax Fish and Fish Jadite Green Dish","Giá nhập":197585,"Giá bán":500000,"Lãi":302415},
+      {"Mã":"NOKH09042600","Ngày bán":"18/04/2026","Sản phẩm":"No brand Jade Cake Stand","Giá nhập":379835,"Giá bán":600000,"Lãi":220165}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
