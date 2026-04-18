@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18/04/2026 10:55",
+  "lastUpdated": "18/04/2026 11:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -262,7 +262,7 @@
       {"Mã":"TEWHXX0509","Ngày về":"05/09/2025","Sản phẩm":"Ceramic Teapot\nTình trạng: Như ảnh\nKích thước: 20 x 11,5 x 12,5cm","Tình trạng":"Hết hàng","Thành tiền":730200},
       {"Mã":"UBGRXX0509","Ngày về":"05/09/2025","Sản phẩm":"Umbrella stand\nTình trạng: Như ảnh\nKích thước: D19 x 41 cm","Tình trạng":"Hết hàng","Thành tiền":929136},
       {"Mã":"WCCRLU0509","Ngày về":"05/09/2025","Sản phẩm":"Lucky Wood wine cooler\nTình trạng: Như ảnh, còn hộp\nKích thước:  22 x 22 x 20cm","Tình trạng":"Hết hàng","Thành tiền":513771},
-      {"Mã":"CLBEIK0509","Ngày về":"05/09/2025","Sản phẩm":"IKEA MARKERAD Wall Clock\nTình trạng: Như ảnh\nKích thước: D42 x 6 cm","Tình trạng":"Còn hàng","Thành tiền":1470000,"Giá bán":2700000},
+      {"Mã":"CLBEIK0509","Ngày về":"05/09/2025","Sản phẩm":"IKEA MARKERAD Wall Clock\nTình trạng: Như ảnh\nKích thước: D42 x 6 cm","Tình trạng":"Hết hàng","Thành tiền":1470000,"Giá bán":2700000},
       {"Mã":"CLYLQU0509","Ngày về":"05/09/2025","Sản phẩm":"Quartz Yellow Analog  Wall Clock\nTình trạng: Như ảnh\nKích thước: D19 x 12cm","Tình trạng":"Còn hàng","Thành tiền":691800,"Giá bán":1100000},
       {"Mã":"LABLIK0809","Ngày về":"05/09/2025","Sản phẩm":"ĐÈN LAMPAN VỠ, BỌC CHỐNG SỐC ÍT","Tình trạng":"Hết hàng","Thành tiền":213800},
       {"Mã":"LASIIK0809","Ngày về":"08/09/2025","Sản phẩm":"IKEA Espressivo Clear Telescopic Halogen Desk Lamp\nTình trạng: gãy chân","Tình trạng":"Hỏng","Thành tiền":664207},
@@ -1235,7 +1235,7 @@
       {"Mã":"NOCỐ09042638","Ngày về":"09/04/2026","Sản phẩm":"No brand Cốc Confetti\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: d50 x 50mm\n\nGiá: 70.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":34209,"Giá bán":70000},
       {"Mã":"NOCỐ09042639","Ngày về":"09/04/2026","Sản phẩm":"No brand Cốc Confetti\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: d50 x 50mm\n\nGiá: 70.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":34209,"Giá bán":70000},
       {"Mã":"NOCỐ09042640","Ngày về":"09/04/2026","Sản phẩm":"No brand Cốc Confetti\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: d50 x 50mm\n\nGiá: 70.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":34209,"Giá bán":70000},
-      {"Mã":"NOKH09042601","Ngày về":"09/04/2026","Sản phẩm":"No brand Green Leaf Trinket\n\nChất liệu: Thủy tinh\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 95 x 100 x 10mm\n\nGiá: 130.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":67867,"Giá bán":130000},
+      {"Mã":"NOKH09042601","Ngày về":"09/04/2026","Sản phẩm":"No brand Green Leaf Trinket\n\nChất liệu: Thủy tinh\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 95 x 100 x 10mm\n\nGiá: 130.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":67867,"Giá bán":130000},
       {"Mã":"NOKH09042602","Ngày về":"09/04/2026","Sản phẩm":"No brand Green Leaf Trinket\n\nChất liệu: Thủy tinh\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 95 x 100 x 10mm\n\nGiá: 130.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":67867,"Giá bán":130000},
       {"Mã":"NOKH09042603","Ngày về":"09/04/2026","Sản phẩm":"No brand Green Leaf Trinket\n\nChất liệu: Thủy tinh\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 95 x 100 x 10mm\n\nGiá: 130.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":67867,"Giá bán":130000},
       {"Mã":"NOKH09042604","Ngày về":"09/04/2026","Sản phẩm":"No brand Green Leaf Trinket\n\nChất liệu: Thủy tinh\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 95 x 100 x 10mm\n\nGiá: 130.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":67867,"Giá bán":130000},
@@ -1285,7 +1285,7 @@
       {"Mã":"ADTH16042603","Ngày về":"16/04/2026","Sản phẩm":"Adidas \n\nChất liệu: \n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d990mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":623317},
       {"Mã":"DOBÌ16042600","Ngày về":"16/04/2026","Sản phẩm":"Doiy Girl Power Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 129 x 107 x 271mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":590975},
       {"Mã":"PRLỌ16042600","Ngày về":"16/04/2026","Sản phẩm":"Propaganda Toothpick Holder\n\nChất liệu: Silicon\n\nPhân Loại: Lọ tăm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 47 x 47 x 60mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":174006,"Giá bán":300000},
-      {"Mã":"WEĐĨ16042600","Ngày về":"16/04/2026","Sản phẩm":"West Elm Ski Slope Salad Plate\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: d200 x 30mm\n\nGiá: 400.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":242358,"Giá bán":400000},
+      {"Mã":"WEĐĨ16042600","Ngày về":"16/04/2026","Sản phẩm":"West Elm Ski Slope Salad Plate\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: d200 x 30mm\n\nGiá: 400.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":242358,"Giá bán":400000},
       {"Mã":"RAGẤ16042600","Ngày về":"16/04/2026","Sản phẩm":"Ralph Lauren The Polo Bear L'ours Polo - Navy\n\nChất liệu: \n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 80 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":399220},
       {"Mã":"RAGẤ16042601","Ngày về":"16/04/2026","Sản phẩm":"Ralph Lauren The Polo Bear L'ours Polo - Green\n\nChất liệu: \n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 80 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":399220},
       {"Mã":"RAGẤ16042602","Ngày về":"16/04/2026","Sản phẩm":"Ralph Lauren The Polo Bear L'ours Polo - Red\n\nChất liệu: \n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 80 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":399220},
