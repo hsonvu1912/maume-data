@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18/04/2026 11:13",
+  "lastUpdated": "18/04/2026 11:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -163,7 +163,11 @@
       {"Mã":"LABỘ09042600","Ngày bán":"15/04/2026","Sản phẩm":"La Prairie Chess Set","Giá nhập":780240,"Giá bán":1800000,"Lãi":1019760},
       {"Mã":"BEKH09042600","Ngày bán":"17/04/2026","Sản phẩm":"Bebe Home Photo Frame","Giá nhập":315675,"Giá bán":500000,"Lãi":184325},
       {"Mã":"VIĐĨ09042600","Ngày bán":"18/04/2026","Sản phẩm":"Virgil Abloh x Prospect Life Itself 2021","Giá nhập":167968,"Giá bán":1000000,"Lãi":832032},
-      {"Mã":"CLBEIK0509","Ngày bán":"18/04/2026","Sản phẩm":"IKEA MARKERAD Wall Clock","Giá nhập":1470000,"Giá bán":2700000,"Lãi":1230000}
+      {"Mã":"CLBEIK0509","Ngày bán":"18/04/2026","Sản phẩm":"IKEA MARKERAD Wall Clock","Giá nhập":1470000,"Giá bán":2700000,"Lãi":1230000},
+      {"Mã":"NOCỐ09042628","Ngày bán":"18/04/2026","Sản phẩm":"No brand Cốc Bubble Amber","Giá nhập":49396,"Giá bán":150000,"Lãi":100604},
+      {"Mã":"NOCỐ09042627","Ngày bán":"18/04/2026","Sản phẩm":"No brand Cốc Bubble Amber","Giá nhập":49396,"Giá bán":150000,"Lãi":100604},
+      {"Mã":"NOKH09042601","Ngày bán":"18/04/2026","Sản phẩm":"No brand Green Leaf Trinket","Giá nhập":67867,"Giá bán":130000,"Lãi":62133},
+      {"Mã":"NOKH09042602","Ngày bán":"18/04/2026","Sản phẩm":"No brand Green Leaf Trinket","Giá nhập":67867,"Giá bán":130000,"Lãi":62133}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
