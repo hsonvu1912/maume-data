@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19/04/2026 17:43",
+  "lastUpdated": "19/04/2026 18:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -179,7 +179,12 @@
       {"Mã":"NOCỐ09042642","Ngày bán":"18/04/2026","Sản phẩm":"No brand Ly Tuxedo","Giá nhập":44118,"Giá bán":180000,"Lãi":135882},
       {"Mã":"NOCỐ09042615","Ngày bán":"18/04/2026","Sản phẩm":"No brand Cốc Tortoise","Giá nhập":58293,"Giá bán":150000,"Lãi":91707},
       {"Mã":"NOCỐ09042629","Ngày bán":"19/04/2026","Sản phẩm":"No brand Cốc Bubble Amber","Giá nhập":49396,"Giá bán":150000,"Lãi":100604},
-      {"Mã":"NOCỐ09042630","Ngày bán":"19/04/2026","Sản phẩm":"No brand Cốc Bubble Amber","Giá nhập":49396,"Giá bán":150000,"Lãi":100604}
+      {"Mã":"NOCỐ09042630","Ngày bán":"19/04/2026","Sản phẩm":"No brand Cốc Bubble Amber","Giá nhập":49396,"Giá bán":150000,"Lãi":100604},
+      {"Mã":"NOCỐ09042631","Ngày bán":"19/04/2026","Sản phẩm":"No brand Cốc Black Cube","Giá nhập":54459,"Giá bán":110000,"Lãi":55541},
+      {"Mã":"WEĐĨ16042600","Ngày bán":"19/04/2026","Sản phẩm":"West Elm Ski Slope Salad Plate","Giá nhập":242358,"Giá bán":400000,"Lãi":157642},
+      {"Mã":"NOKH09042603","Ngày bán":"19/04/2026","Sản phẩm":"No brand Green Leaf Trinket","Giá nhập":67867,"Giá bán":130000,"Lãi":62133},
+      {"Mã":"NOKH09042604","Ngày bán":"19/04/2026","Sản phẩm":"No brand Green Leaf Trinket","Giá nhập":67867,"Giá bán":130000,"Lãi":62133},
+      {"Mã":"NOKH09042605","Ngày bán":"19/04/2026","Sản phẩm":"No brand Green Leaf Trinket","Giá nhập":67867,"Giá bán":130000,"Lãi":62133}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
