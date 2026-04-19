@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18/04/2026 23:13",
+  "lastUpdated": "19/04/2026 17:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -177,7 +177,9 @@
       {"Mã":"NOCỐ09042616","Ngày bán":"18/04/2026","Sản phẩm":"No brand Cốc Tortoise","Giá nhập":58293,"Giá bán":150000,"Lãi":91707},
       {"Mã":"NOCỐ09042641","Ngày bán":"18/04/2026","Sản phẩm":"No brand Ly Tuxedo","Giá nhập":44118,"Giá bán":180000,"Lãi":135882},
       {"Mã":"NOCỐ09042642","Ngày bán":"18/04/2026","Sản phẩm":"No brand Ly Tuxedo","Giá nhập":44118,"Giá bán":180000,"Lãi":135882},
-      {"Mã":"NOCỐ09042615","Ngày bán":"18/04/2026","Sản phẩm":"No brand Cốc Tortoise","Giá nhập":58293,"Giá bán":150000,"Lãi":91707}
+      {"Mã":"NOCỐ09042615","Ngày bán":"18/04/2026","Sản phẩm":"No brand Cốc Tortoise","Giá nhập":58293,"Giá bán":150000,"Lãi":91707},
+      {"Mã":"NOCỐ09042629","Ngày bán":"19/04/2026","Sản phẩm":"No brand Cốc Bubble Amber","Giá nhập":49396,"Giá bán":150000,"Lãi":100604},
+      {"Mã":"NOCỐ09042630","Ngày bán":"19/04/2026","Sản phẩm":"No brand Cốc Bubble Amber","Giá nhập":49396,"Giá bán":150000,"Lãi":100604}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
