@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/04/2026 11:25",
+  "lastUpdated": "20/04/2026 16:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1289,7 +1289,9 @@
       {"Mã":"RAGẤ16042600","Ngày về":"16/04/2026","Sản phẩm":"Ralph Lauren The Polo Bear L'ours Polo - Navy\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 80 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":399220},
       {"Mã":"RAGẤ16042601","Ngày về":"16/04/2026","Sản phẩm":"Ralph Lauren The Polo Bear L'ours Polo - Green\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 80 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":399220},
       {"Mã":"RAGẤ16042602","Ngày về":"16/04/2026","Sản phẩm":"Ralph Lauren The Polo Bear L'ours Polo - Red\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 80 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":399220},
-      {"Mã":"IKHỘ16042600","Ngày về":"16/04/2026","Sản phẩm":"Ikea Varfint\n\nChất liệu: Kim loại\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 120 x 80 x 180mm\n100 x 70 x 160mm\n70 x 60 x 120mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193716}
+      {"Mã":"IKHỘ16042600","Ngày về":"16/04/2026","Sản phẩm":"Ikea Varfint\n\nChất liệu: Kim loại\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 120 x 80 x 180mm\n100 x 70 x 160mm\n70 x 60 x 120mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193716},
+      {"Mã":"KIÔ20042600","Ngày về":"20/04/2026","Sản phẩm":"Kikkerland Baguette Umbrella\n\nChất liệu: Kim loại, polyester\n\nPhân Loại: Ô\n\nTình trạng: Như ảnh\n\nKích thước: dd980x 560mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":486875},
+      {"Mã":"MC20042600","Ngày về":"20/04/2026","Sản phẩm":"McDonald's \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":278075}
     ]
   }
 }
