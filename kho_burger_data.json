@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/04/2026 14:34",
+  "lastUpdated": "20/04/2026 15:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -455,8 +455,12 @@
       {"Mã":"LC-6347-070426","Ngày về":"07/04/2026","Sản phẩm":"LC-6347-070426\nđen size M dòng green \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko lỗi nào đáng kể ạa\n39 x 25 x 16 (vừa laptop 13inch) \nGiá: 2.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1082053,"Giá bán":2700000},
       {"Mã":"LC-2924-070426","Ngày về":"07/04/2026","Sản phẩm":"LC-2924-070426\nxám size L dòng neo bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, túi có một vài vết bẩn khách mua về vệ sinh lại là sdung bình thg ạ \n45 x 30 x 18\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":722053,"Giá bán":1700000},
       {"Mã":"LC-3638-070426","Ngày về":"07/04/2026","Sản phẩm":"LC-3638-070426\nxanh navy size M \ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, quai trầy chủ yếu mặt dưới khi đeo lên vai sẽ ko thấy đâu ạ, lót gần quai tróc nhẹ như ảnh\n35 x 24 x 14\nGiá: 1.150.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":452053,"Giá bán":1150000},
+      {"Mã":"LC-3875-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1530000},
       {"Mã":"LC-0704-02-070426","Ngày về":"07/04/2026","Sản phẩm":"LC-0704-02-070426\ntúi lưới LC màu hồng size nhỏ siu xinh \ncondition độ mới cao, chủ yếu qua lưu trữ, quai cứng cáp ạa\n17 x 18 \nGiá: 1.350.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":974053,"Giá bán":1350000},
+      {"Mã":"LC-8367-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1098000},
       {"Mã":"LC-8873-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":900000},
+      {"Mã":"LC-3258-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":630000},
+      {"Mã":"LC-0390-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":630000},
       {"Mã":"LC-2004-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":180000},
       {"Mã":"LC-0818-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":720000},
       {"Mã":"CH-0704-070426","Ngày về":"07/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":722413},
@@ -483,15 +487,20 @@
       {"Mã":"LC-7226-160426","Ngày về":"16/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1325783},
       {"Mã":"LC-8903-160426","Ngày về":"16/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":952700},
       {"Mã":"LC-6227-160426","Ngày về":"16/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1383651},
+      {"Mã":"LC-2654-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK"},
       {"Mã":"LC-2315-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1423800},
       {"Mã":"CH-2004-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":900000},
+      {"Mã":"LC-3702-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":773820},
       {"Mã":"LC-9008-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1237500},
       {"Mã":"LC-8342-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1080000},
+      {"Mã":"LC-3258-200426-00","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1134000},
       {"Mã":"LC-1404-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1440000},
       {"Mã":"LC-2001-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":756000},
       {"Mã":"LC-2915-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1224000},
       {"Mã":"LC-2004-200426-00","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":720000},
       {"Mã":"LC-2004-200426-01","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1062000},
+      {"Mã":"LC-2004-200426-02","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1242000},
+      {"Mã":"LC-2004-200426-03","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":520200},
       {"Mã":"LC-6751-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":716400}
     ]
   }
