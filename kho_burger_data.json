@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/04/2026 15:34",
+  "lastUpdated": "21/04/2026 13:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -84,7 +84,7 @@
       {"Mã":"CH-2301-04","Sản phẩm":"C carly full da thật màu đen \ncond 9/10, form dày dặn, da thơm phức, túi sạch sẽ, ko lỗi nào đáng kể ạ \n31 x 24","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1578750,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"CH-2301-05","Ngày về":"23/01/2026","Sản phẩm":"C trần bông phối lông thỏ màu đen tuyền size nhỏ\nđộ mới cao 9,5/10, lông mềm, túi sạch sẽ, c nào sắp đi xứ lạnh chốt đơn lẹ ạa. Túi còn dust bag \n26 x 21\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1245500,"Giá bán":1700000},
       {"Mã":"LC-2301-02","Sản phẩm":"đỏ size M bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn, túi sạch sẽ, ko lỗi nào đáng kể ạ \n39 x 25 x 16","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":681500,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
-      {"Mã":"CH-2301-06","Ngày về":"23/01/2026","Sản phẩm":"C y2k vải canvas hồng phối da \ncond tốt, form dày dặn cứng cáp, màu siu iu tràn ngập phong cách y2k ạa\n24 x 18\nGiá: 700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":857000,"Giá bán":700000},
+      {"Mã":"CH-2301-06","Ngày về":"23/01/2026","Sản phẩm":"C y2k vải canvas hồng phối da \ncond tốt, form dày dặn cứng cáp, màu siu iu tràn ngập phong cách y2k ạa\n24 x 18\nGiá: 700.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":857000,"Giá bán":700000},
       {"Mã":"CH-2301-07","Sản phẩm":"C vintage suede màu lavender \ncond 8.8/10, túi dày dặn, lót sạch sẽ, mẫu này siêu đẹp cầm nặng tay lắm ạ. Tặng kèm bàn chải vệ sinh da lộn \n25 x 14","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1619500,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-3678","Ngày về":"15/01","Sản phẩm":"màu acier size L bản đời mới có 2 ngăn phụ \ncondition: form dày dặn cứng cáp, túi đã qua sd nên có một vài vết bẩn như ảnh, quai trầy nhẹ xíu xiu chủ yếu ở mặt dưới khi đeo lên vai sẽ ko thấy đâu ạ \n46 x 30 x 19","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1180195,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-2567","Ngày về":"15/01","Sản phẩm":"màu plum size L dòng club \ncondtition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko lỗi gì lớn ạ \n44.5 x 29 x 19.5","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1175395,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
