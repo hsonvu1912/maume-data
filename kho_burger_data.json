@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22/04/2026 00:04",
+  "lastUpdated": "22/04/2026 00:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -461,7 +461,7 @@
       {"Mã":"LC-8873-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":972875},
       {"Mã":"LC-3258-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":702875},
       {"Mã":"LC-0390-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":702875},
-      {"Mã":"LC-2004-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":252875},
+      {"Mã":"LC-2004-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426\nnavy dòng neo size M\ntúi lỗi nhăn vải, lót tróc ở góc như ảnh, tổng quan vẫn sdung được bthg ạ, mặt trước nhìn vẫn oke\n38 x 23 x 16\nGiá: 590.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":252875,"Giá bán":590000},
       {"Mã":"LC-0818-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":792875},
       {"Mã":"CH-0704-070426","Ngày về":"07/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":722413},
       {"Mã":"LC-0068-070426","Ngày về":"07/04/2026","Sản phẩm":"LC-0068-070426\nbeige size M \ncondition tốt, form dày dặn cứng cáp, quai có vài vết trầy chủ yếu ở mặt dưới khi đeo lên vai sẽ ko thấy đâu ạ; túi đã qua sd nên túi và lót có một số vết bẩn, khách mua về vệ sinh sdung bình thg ạa\n37 x 24 x 14\nGiá: 1.450.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":956053,"Giá bán":1450000},
