@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21/04/2026 13:04",
+  "lastUpdated": "21/04/2026 17:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -493,7 +493,7 @@
       {"Mã":"LC-3702-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":846695},
       {"Mã":"LC-9008-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1310375},
       {"Mã":"LC-8342-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1152875},
-      {"Mã":"LC-3258-200426-00","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1206875},
+      {"Mã":"LC-3258-200426-00","Ngày về":"20/04/2026","Sản phẩm":"LC-3258-200426-00\nall black dòng Neo size L, bản đời mới 2 ngăn phụ; condition tốt, một vài dấu vết qua sử dụng nhẹ, nhìn ngoài không hề rõ (46 x 29 x 21cm)\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1206875,"Giá bán":1900000},
       {"Mã":"LC-1404-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1512875},
       {"Mã":"LC-2001-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":828875},
       {"Mã":"LC-2915-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1296875},
