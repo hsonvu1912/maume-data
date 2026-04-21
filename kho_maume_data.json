@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/04/2026 16:25",
+  "lastUpdated": "21/04/2026 13:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1278,7 +1278,7 @@
       {"Mã":"SHCỐ16042601","Ngày về":"16/04/2026","Sản phẩm":"Showa Inc Bolt Mug - Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 100 x 86 x 95mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":267000},
       {"Mã":"SHCỐ16042602","Ngày về":"16/04/2026","Sản phẩm":"Showa Inc Bolt Mug - Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 100 x 86 x 95mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":191250},
       {"Mã":"SHCỐ16042603","Ngày về":"16/04/2026","Sản phẩm":"Showa Inc Bolt Mug - Red\n\nChất liệu: Nhựa\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 100 x 86 x 95mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":290520},
-      {"Mã":"IKĐÈ16042601","Ngày về":"16/04/2026","Sản phẩm":"Ikea Lampan\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh\n\nKích thước: D150 x 240mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":137010},
+      {"Mã":"IKĐÈ16042601","Ngày về":"16/04/2026","Sản phẩm":"Ikea Lampan\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, không kèm bóng E14\n\nKích thước: D150 x 240mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":137010},
       {"Mã":"ADTH16042600","Ngày về":"16/04/2026","Sản phẩm":"Adidas New Year's Carpet - Leading the Way\n\nChất liệu: Cotton & Polyester\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d990mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":623317},
       {"Mã":"ADTH16042601","Ngày về":"16/04/2026","Sản phẩm":"Adidas New Year's Carpet - Leading the Way\n\nChất liệu: Cotton & Polyester\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d990mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":623317},
       {"Mã":"ADTH16042602","Ngày về":"16/04/2026","Sản phẩm":"Adidas New Year's Carpet - Leading the Way\n\nChất liệu: Cotton & Polyester\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d990mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":623317},
