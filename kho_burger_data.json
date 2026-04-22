@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22/04/2026 14:34",
+  "lastUpdated": "22/04/2026 15:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -487,7 +487,7 @@
       {"Mã":"LC-7226-160426","Ngày về":"16/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1325783},
       {"Mã":"LC-8903-160426","Ngày về":"16/04/2026","Sản phẩm":"LC-8903-160426\nnavy size L tổng quan đẹp sạch sẽ, quai da hơi mềm theo thời gian sử dụng thôi chứ ko sao hết ạ (45 x 30 x 19)\nGiá: 1.450.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":952700,"Giá bán":1450000},
       {"Mã":"LC-6227-160426","Ngày về":"16/04/2026","Sản phẩm":"LC-6227-160426\nforest size M dòng green, condition tốt, tổng quan đep, đáy có một vài vết trầy vải nhỏ xíu như ảnh (40 x 26 x 16cm)\nGiá: 1.880.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1383651,"Giá bán":1880000},
-      {"Mã":"LC-2654-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1132715},
+      {"Mã":"LC-2654-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1132715,"Giá bán":2000000},
       {"Mã":"LC-2315-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-2315-200426\nxám gunmetal size M bản đời mới 2 ngăn phụ, độ mới cao, mức độ qua sử dụng ít. KT: 39 x 25 x 17\nGiá: 2.000.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1496675,"Giá bán":2000000},
       {"Mã":"CH-2004-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":972875},
       {"Mã":"LC-3702-200426","Ngày về":"20/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":846695},
