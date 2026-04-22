@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19/04/2026 18:13",
+  "lastUpdated": "22/04/2026 23:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -184,7 +184,11 @@
       {"Mã":"WEĐĨ16042600","Ngày bán":"19/04/2026","Sản phẩm":"West Elm Ski Slope Salad Plate","Giá nhập":242358,"Giá bán":400000,"Lãi":157642},
       {"Mã":"NOKH09042603","Ngày bán":"19/04/2026","Sản phẩm":"No brand Green Leaf Trinket","Giá nhập":67867,"Giá bán":130000,"Lãi":62133},
       {"Mã":"NOKH09042604","Ngày bán":"19/04/2026","Sản phẩm":"No brand Green Leaf Trinket","Giá nhập":67867,"Giá bán":130000,"Lãi":62133},
-      {"Mã":"NOKH09042605","Ngày bán":"19/04/2026","Sản phẩm":"No brand Green Leaf Trinket","Giá nhập":67867,"Giá bán":130000,"Lãi":62133}
+      {"Mã":"NOKH09042605","Ngày bán":"19/04/2026","Sản phẩm":"No brand Green Leaf Trinket","Giá nhập":67867,"Giá bán":130000,"Lãi":62133},
+      {"Mã":"BRBÌ02042600","Ngày bán":"22/04/2026","Sản phẩm":"Broste Copenhagen Etta Vase","Giá nhập":751757,"Giá bán":990000,"Lãi":238243},
+      {"Mã":"BRBÌ09042600","Ngày bán":"22/04/2026","Sản phẩm":"Broste Copenhagen Etta Vase","Giá nhập":751757,"Giá bán":990000,"Lãi":238243},
+      {"Mã":"DOĐẾ10042600","Ngày bán":"22/04/2026","Sản phẩm":"Doiy Om Incense Holder","Giá nhập":442480,"Giá bán":650000,"Lãi":207520},
+      {"Mã":"PRLỌ16042600","Ngày bán":"22/04/2026","Sản phẩm":"Propaganda Toothpick Holder","Giá nhập":174006,"Giá bán":300000,"Lãi":125994}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
