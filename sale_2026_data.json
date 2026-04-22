@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22/04/2026 23:13",
+  "lastUpdated": "22/04/2026 23:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -188,7 +188,13 @@
       {"Mã":"BRBÌ02042600","Ngày bán":"22/04/2026","Sản phẩm":"Broste Copenhagen Etta Vase","Giá nhập":751757,"Giá bán":990000,"Lãi":238243},
       {"Mã":"BRBÌ09042600","Ngày bán":"22/04/2026","Sản phẩm":"Broste Copenhagen Etta Vase","Giá nhập":751757,"Giá bán":990000,"Lãi":238243},
       {"Mã":"DOĐẾ10042600","Ngày bán":"22/04/2026","Sản phẩm":"Doiy Om Incense Holder","Giá nhập":442480,"Giá bán":650000,"Lãi":207520},
-      {"Mã":"PRLỌ16042600","Ngày bán":"22/04/2026","Sản phẩm":"Propaganda Toothpick Holder","Giá nhập":174006,"Giá bán":300000,"Lãi":125994}
+      {"Mã":"PRLỌ16042600","Ngày bán":"22/04/2026","Sản phẩm":"Propaganda Toothpick Holder","Giá nhập":174006,"Giá bán":300000,"Lãi":125994},
+      {"Mã":"IKHỘ16042600","Ngày bán":"22/04/2026","Sản phẩm":"Ikea Varfint","Giá nhập":193716,"Giá bán":290000,"Lãi":96284},
+      {"Mã":"DIHỘ16042600","Ngày bán":"22/04/2026","Sản phẩm":"Disney x Pixar Hamm Piggy Bank","Giá nhập":99003,"Giá bán":300000,"Lãi":200997},
+      {"Mã":"RAGẤ16042601","Ngày bán":"22/04/2026","Sản phẩm":"Ralph Lauren The Polo Bear L'ours Polo - Green","Giá nhập":399220,"Giá bán":750000,"Lãi":350780},
+      {"Mã":"THSO16042600","Ngày bán":"22/04/2026","Sản phẩm":"The North Face Inflatable Sofa","Giá nhập":335880,"Giá bán":850000,"Lãi":514120},
+      {"Mã":"SHCỐ16042601","Ngày bán":"22/04/2026","Sản phẩm":"Showa Inc Bolt Mug - Blue","Giá nhập":235005,"Giá bán":350000,"Lãi":114995},
+      {"Mã":"SHCỐ16042602","Ngày bán":"22/04/2026","Sản phẩm":"Showa Inc Bolt Mug - Yellow","Giá nhập":235005,"Giá bán":350000,"Lãi":114995}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -498,7 +504,9 @@
       {"Mã":"LC-2787-070426","Ngày bán":"16/04/2026","Sản phẩm":"LC-2787-070426","Giá nhập":1351873,"Giá bán":1650000,"Lãi":298127},
       {"Mã":"LC-6347-070426","Ngày bán":"16/04/2026","Sản phẩm":"LC-6347-070426","Giá nhập":1082053,"Giá bán":2700000,"Lãi":1617947},
       {"Mã":"LC-1405-270326","Ngày bán":"17/04/2026","Sản phẩm":"LC-1405-270326","Giá nhập":722940,"Giá bán":650000,"Lãi":-72940},
-      {"Mã":"LC-0704-01-070426","Ngày bán":"17/04/2026","Sản phẩm":"LC-0704-01-070426","Giá nhập":1046053,"Giá bán":1750000,"Lãi":703947}
+      {"Mã":"LC-0704-01-070426","Ngày bán":"17/04/2026","Sản phẩm":"LC-0704-01-070426","Giá nhập":1046053,"Giá bán":1750000,"Lãi":703947},
+      {"Mã":"LC-8342-200426","Ngày bán":"22/04/2026","Sản phẩm":"LC-8342-200426","Giá nhập":1152875,"Giá bán":2400000,"Lãi":1247125},
+      {"Mã":"LC-2315-200426","Ngày bán":"22/04/2026","Sản phẩm":"LC-2315-200426","Giá nhập":1496675,"Giá bán":2000000,"Lãi":503325}
     ]
   }
 }
