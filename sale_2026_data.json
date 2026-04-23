@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/04/2026 08:43",
+  "lastUpdated": "23/04/2026 23:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -194,7 +194,10 @@
       {"Mã":"RAGẤ16042601","Ngày bán":"22/04/2026","Sản phẩm":"Ralph Lauren The Polo Bear L'ours Polo - Green","Giá nhập":399220,"Giá bán":750000,"Lãi":350780},
       {"Mã":"THSO16042600","Ngày bán":"22/04/2026","Sản phẩm":"The North Face Inflatable Sofa","Giá nhập":335880,"Giá bán":850000,"Lãi":514120},
       {"Mã":"SHCỐ16042601","Ngày bán":"22/04/2026","Sản phẩm":"Showa Inc Bolt Mug - Blue","Giá nhập":235005,"Giá bán":350000,"Lãi":114995},
-      {"Mã":"SHCỐ16042602","Ngày bán":"22/04/2026","Sản phẩm":"Showa Inc Bolt Mug - Yellow","Giá nhập":235005,"Giá bán":350000,"Lãi":114995}
+      {"Mã":"SHCỐ16042602","Ngày bán":"22/04/2026","Sản phẩm":"Showa Inc Bolt Mug - Yellow","Giá nhập":235005,"Giá bán":350000,"Lãi":114995},
+      {"Mã":"IKĐÈ16042600","Ngày bán":"23/04/2026","Sản phẩm":"Ikea Blasverk - Beige","Giá nhập":227964,"Giá bán":500000,"Lãi":272036},
+      {"Mã":"NOCỐ09042632","Ngày bán":"23/04/2026","Sản phẩm":"No brand Cốc Black Cube","Giá nhập":54459,"Giá bán":110000,"Lãi":55541},
+      {"Mã":"NOCỐ09042633","Ngày bán":"23/04/2026","Sản phẩm":"No brand Cốc Black Cube","Giá nhập":54459,"Giá bán":110000,"Lãi":55541}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
