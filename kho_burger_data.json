@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/04/2026 11:34",
+  "lastUpdated": "23/04/2026 12:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -485,6 +485,7 @@
       {"Mã":"LC-6144-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1164600},
       {"Mã":"LC-1624-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1707600},
       {"Mã":"LC-0170-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":947400},
+      {"Mã":"LC-9695-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1548600},
       {"Mã":"LC-8503-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":971000},
       {"Mã":"LC-0051-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1522980},
       {"Mã":"LS-2304-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":983419},
@@ -510,7 +511,15 @@
       {"Mã":"LC-2004-200426-01","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426-01\nebony size L bản cũ\ncond khá tốt, tổng quan sạch sẽ, quai trầy lớp sơn do qua thời gian sử dụng, ai muốn có thể đi spa dặm lại, không thì dùng bình thường vẫn đẹp ạ\n46 x 29 x 20\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1134875,"Giá bán":1650000},
       {"Mã":"LC-2004-200426-02","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426-02\nblack dòng neo size L, condition tốt, cứng cáp, 1 vài lỗi nhẹ do qua sử dụng ko đáng kể. Kt: 46 x 30 x 19\nGiá: 1.880.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng, Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1314875,"Giá bán":1880000},
       {"Mã":"LC-2004-200426-03","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426-03\nxám size L dòng club\ncond khá tốt, tỏng quan cứng cáp, quai tróc nhẹ phần viền quai sau như ảnh, đeo lên vai sẽ không thấy gì ạ\n45 x 28 x 21\nGiá: 990.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":593075,"Giá bán":990000},
-      {"Mã":"LC-6751-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-6751-200426\nnavy size M độ mới cao, ko lỗi gì lớn, quai sau trầy xíu xiu ko đáng kể. tổng quan đẹp lắm. KT: 38 x 24 x 15\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":789275,"Giá bán":1850000}
+      {"Mã":"LC-6751-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-6751-200426\nnavy size M độ mới cao, ko lỗi gì lớn, quai sau trầy xíu xiu ko đáng kể. tổng quan đẹp lắm. KT: 38 x 24 x 15\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":789275,"Giá bán":1850000},
+      {"Mã":"LC-5015-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1447600},
+      {"Mã":"LC-2306-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1139900},
+      {"Mã":"LC-0599-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1348000},
+      {"Mã":"LC-2476-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":555170},
+      {"Mã":"LC-5798-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1646600},
+      {"Mã":"LC-4372-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1637600},
+      {"Mã":"LC-9607-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1917919},
+      {"Mã":"LC-3709-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":596800}
     ]
   }
 }
