@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/04/2026 09:04",
+  "lastUpdated": "23/04/2026 11:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -480,6 +480,15 @@
       {"Mã":"LC-1004-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-1004-100426\nmàu kaki rêu size M, cond đẹp cứng cáp, ko lỗi gì lớn, đựng vừa ipad (35 x 25 x 15)\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":862400,"Giá bán":1500000},
       {"Mã":"LC-6481-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-6481-100426\nđen size M bản đời mới 2 ngăn phụ, độ mới cao, phom cứng cáp ko có gì để chê nhen (40 x 25 x 17)\nGiá: 2.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1713100,"Giá bán":2500000},
       {"Mã":"LC-8853-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-8853-100426\nxám gunmetal độ mới cao, condition đẹp ko có lỗi gì lớn (37 x 23 x 14)\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1532100,"Giá bán":1900000},
+      {"Mã":"LC-1389-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1347480},
+      {"Mã":"LC-3074-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1106055},
+      {"Mã":"LC-6144-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1164600},
+      {"Mã":"LC-1624-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1707600},
+      {"Mã":"LC-0170-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":947400},
+      {"Mã":"LC-8503-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":971000},
+      {"Mã":"LC-0051-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1522980},
+      {"Mã":"LS-2304-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":983419},
+      {"Mã":"LC-8441-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":893100},
       {"Mã":"LC-0393-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-0393-100426\nbeige size M độ mới cao, phom cứng cáp, lót bẩn nhẹ ko đáng kể (37 x 24 x 14)\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":777900,"Giá bán":1650000},
       {"Mã":"LC-8302-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-8302-100426\nxám graphite size M độ mới cao, không có lỗi lớn nào, tổng quan đẹp lắm ạ (39   26 x 16 vừa laptop 13,14)\nGiá: 2.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":632919,"Giá bán":2100000},
       {"Mã":"LC-0758-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-0758-100426\nblack size M dòng neo, độ mới cao, tổng quan đẹp cứng cáp, bề mặt có 1 vài vết trầy vải nhẹ nhìn kỹ mới thấy, không ảnh hưởng chức năng túi ạ (37 x 24 x 14)\nGiá: 1.890.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":596900,"Giá bán":1890000},
