@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24/04/2026 14:34",
+  "lastUpdated": "24/04/2026 17:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -119,7 +119,7 @@
       {"Mã":"LC-3486","Ngày về":"10/01/2026","Sản phẩm":"hồng size S quai ngắn dòng club phối xanh navy \ncondition tốt, form dày dặn, quai cứng cáp, túi tg đối sạch sẽ chỉ bị một vài chấm bấn nhó xíu xiu thui ạ \n32 x 21 x 14","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1169500,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-6713","Ngày về":"16/01/2026","Sản phẩm":"xanh navy size M bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn, quai cứng cáp, túi sạch sẽ, ko lỗi nào đáng kể ạa\n39 x 26 x 15","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1175423,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-6745","Ngày về":"16/01/2026","Sản phẩm":"màu vàng quai ngắn size s full da\ncondition tốt, form dày dặn, quai cứng cáp, lót sạch sẽ, túi có một vài vết bẩn nhỏ xíu thôi ạa. Túi có kèm dây đeo chéo\n36 x 21 x 16","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1265093,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
-      {"Mã":"LC-3446","Ngày về":"16/01/2026","Sản phẩm":"mini pouch màu hồng full da \ncondition form dày dặn, lót sạch sẽ, lớp da bên ngoài bị phai màu một số chỗ (như ảnh) ạ. Túi có kèm dây đeo chéo \n24 x 15 x 9\nGiá: 1.600.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":809240,"Giá bán":1600000},
+      {"Mã":"LC-3446","Ngày về":"16/01/2026","Sản phẩm":"mini pouch màu hồng full da \ncondition form dày dặn, lót sạch sẽ, lớp da bên ngoài bị phai màu một số chỗ (như ảnh) ạ. Túi có kèm dây đeo chéo \n24 x 15 x 9\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":809240,"Giá bán":1500000},
       {"Mã":"CH-2701-08","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":800000},
       {"Mã":"CH-2701-09","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":650000},
       {"Mã":"CH-2701-10","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526328,"Giá bán":350000},
