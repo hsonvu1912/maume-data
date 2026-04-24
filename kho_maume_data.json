@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/04/2026 22:55",
+  "lastUpdated": "24/04/2026 11:56",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1068,7 +1068,7 @@
       {"Mã":"IKĐÈ12032601","Ngày về":"12/03/2026","Sản phẩm":"Ikea Grejsimojs - Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 177 x 304 x 279mm\n\nGiá: 1.400.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":987362,"Giá bán":1400000},
       {"Mã":"IKĐÈ12032602","Ngày về":"12/03/2026","Sản phẩm":"Ikea Solvinden\n\nChất liệu: Kim loại, nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\nKhông kèm pin, sạc (3 x HR6 AA)\n\nKích thước: d260 x 180mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":460639,"Giá bán":600000},
       {"Mã":"LEMÓ12032600","Ngày về":"12/03/2026","Sản phẩm":"Lego Wall Hanger Rack\n\nChất liệu: Nhựa\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 334 x 65 x 44mm\n\nGiá: 550.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":295400,"Giá bán":550000},
-      {"Mã":"LEMÓ12032602","Ngày về":"12/03/2026","Sản phẩm":"Lego Wall Hanger Set\n\nChất liệu: Nhựa\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d40, d70, d90mm\n\nGiá: 450.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":234200,"Giá bán":450000},
+      {"Mã":"LEMÓ12032601","Ngày về":"12/03/2026","Sản phẩm":"Lego Wall Hanger Set\n\nChất liệu: Nhựa\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d40, d70, d90mm\n\nGiá: 450.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":234200,"Giá bán":450000},
       {"Mã":"LEĐÈ12032601","Ngày về":"12/03/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model\n\nChất liệu: Nhựa, cao su\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\nNguồn Type C 5V\n\nKích thước: d80 x 110mm\n\nGiá: 800.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":321280,"Giá bán":800000},
       {"Mã":"STKH12032600","Ngày về":"12/03/2026","Sản phẩm":"Stelton Bowl Small\n\nChất liệu: Kim loại\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 225  x 85 x 30mm\n\nGiá: 1.100.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":685517,"Giá bán":1100000},
       {"Mã":"KKTH12032600","Ngày về":"12/03/2026","Sản phẩm":"KKV x SpongeBob Mr.Krabs First Dollar Rug\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh, còn vỏ\n\nKích thước: 600 x 300mm\n\nGiá: 500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":231800,"Giá bán":500000},
