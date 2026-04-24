@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24/04/2026 23:25",
+  "lastUpdated": "24/04/2026 23:56",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1293,7 +1293,7 @@
       {"Mã":"KIÔ20042600","Ngày về":"20/04/2026","Sản phẩm":"Kikkerland Baguette Umbrella\n\nChất liệu: Kim loại, polyester\n\nPhân Loại: Ô\n\nTình trạng: Như ảnh\n\nKích thước: dd980x 560mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":486875},
       {"Mã":"MCHỘ20042600","Ngày về":"20/04/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar\n\nChất liệu: Kim loại\n\nPhân Loại: Hộp thức ăn\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":278075},
       {"Mã":"LABỘ24042600","Ngày về":"24/04/2026","Sản phẩm":"La Prairie Chess Set\n\nChất liệu: Gỗ\n\nPhân Loại: Bộ cờ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":625822},
-      {"Mã":"CỐ24042600","Ngày về":"24/04/2026","Sản phẩm":"2022 Sugar Skull\n\nChất liệu: \n\nPhân Loại: Cốc\n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":362064},
+      {"Mã":"STCỐ24042600","Ngày về":"24/04/2026","Sản phẩm":"Starbucks  2022 Sugar Skull\n\nChất liệu: \n\nPhân Loại: Cốc\n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":362064},
       {"Mã":"IKĐÈ24042600","Ngày về":"24/04/2026","Sản phẩm":"Ikea Sjöpenna\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng E14\n\nKích thước: dd300 x 300mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":210972},
       {"Mã":"SEGƯ24042600","Ngày về":"24/04/2026","Sản phẩm":"Seletti x Toiletpaper Small Vegetables Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 175 x 230mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":375792},
       {"Mã":"LEMÓ24042600","Ngày về":"24/04/2026","Sản phẩm":"Lego Wall Hanger Rack\n\nChất liệu: Nhựa\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 334 x 65 x 44mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":171756},
@@ -1304,7 +1304,7 @@
       {"Mã":"DOCỐ24042600","Ngày về":"24/04/2026","Sản phẩm":"Doiy Hestia Mug\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 130 x 90 x110mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":446792},
       {"Mã":"PRGI24042600","Ngày về":"24/04/2026","Sản phẩm":"Propaganda Mr. P Tape Dispenser\n\nChất liệu: Nhựa\n\nPhân Loại: Giá để băng dính\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 167 x 116 x 87mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":144612},
       {"Mã":"ANBÌ24042600","Ngày về":"24/04/2026","Sản phẩm":"Anthropologie Terra Pitcher\n\nChất liệu: Gốm\n\nPhân Loại: Bình nước\n\nTình trạng: Như ảnh\n\nKích thước: 130x 160 x 210\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":351468},
-      {"Mã":"NOBÌ24042600","Ngày về":"24/04/2026","Sản phẩm":"No brand \n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 136 x 100 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":351468},
+      {"Mã":"NOBÌ24042600","Ngày về":"24/04/2026","Sản phẩm":"No brand Ceramic Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 136 x 100 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":351468},
       {"Mã":"HAKH24042600","Ngày về":"24/04/2026","Sản phẩm":"Hay Kaleido XS\n\nChất liệu: Kim loại\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 190 x 110mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":253056},
       {"Mã":"IKGI24042600","Ngày về":"24/04/2026","Sản phẩm":"Ikea Akea\n\nChất liệu: Kim loại\n\nPhân Loại: Giá kẹp sách\n\nTình trạng: Như ảnh\n\nKích thước: 110 x 40 x 140mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":208309},
       {"Mã":"IKGI24042601","Ngày về":"24/04/2026","Sản phẩm":"Ikea Akea\n\nChất liệu: Kim loại\n\nPhân Loại: Giá kẹp sách\n\nTình trạng: Như ảnh\n\nKích thước: 110 x 40 x 140mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":208309},
