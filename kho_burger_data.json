@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/04/2026 12:04",
+  "lastUpdated": "24/04/2026 14:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -482,12 +482,12 @@
       {"Mã":"LC-8853-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-8853-100426\nxám gunmetal độ mới cao, condition đẹp ko có lỗi gì lớn (37 x 23 x 14)\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1532100,"Giá bán":1900000},
       {"Mã":"LC-1389-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1347480},
       {"Mã":"LC-3074-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1106055},
-      {"Mã":"LC-6144-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1164600},
+      {"Mã":"LC-6144-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-6144-230426\npâper size S quai ngắn bản đời mới nhất (có 2 ngăn phụ). condition rất tốt, quai da cứng cáp như hàng new. màu classic của hãng kbh lỗi thời, ai cũng nên có ạ💘 KT: 33 x 21 x 14\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1164600,"Giá bán":1500000},
       {"Mã":"LC-1624-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1707600},
-      {"Mã":"LC-0170-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":947400},
+      {"Mã":"LC-0170-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-0170-230426\nolive size M. condition tốt. quai cứng cáp, vải sạch sẽ, qua sử dụng nhẹ nhẹ thôi ạ. Kt: 37 x 24 x 14","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":947400},
       {"Mã":"LC-9695-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1548600},
-      {"Mã":"LC-8503-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":971000},
-      {"Mã":"LC-0051-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1522980},
+      {"Mã":"LC-8503-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-8503-230426\nmàu mật ong (miel / mã P15) bản đời mới 2 ngăn phụ, còn zip bag. condition rất tốt, cứng cáp sạch sẽ. mặt sau có vết bút bi, không đáng kể ạ dù sao mặt sau cũng ko ai thấy hếtt😚 KT: 40 x 26 x 16 vừa lap 13\nGiá: 1.450.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":971000,"Giá bán":1450000},
+      {"Mã":"LC-0051-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-0051-230426\nnavy dòng neo size M condition cực tốt, đẹp sạch sẽ, cứng cáp ko chê điểm nào. KT: 38 x 24 x 14\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1522980,"Giá bán":1900000},
       {"Mã":"LS-2304-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":983419},
       {"Mã":"LC-8441-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":893100},
       {"Mã":"LC-0393-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-0393-100426\nbeige size M độ mới cao, phom cứng cáp, lót bẩn nhẹ ko đáng kể (37 x 24 x 14)\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":777900,"Giá bán":1650000},
@@ -512,14 +512,14 @@
       {"Mã":"LC-2004-200426-02","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426-02\nblack dòng neo size L, condition tốt, cứng cáp, 1 vài lỗi nhẹ do qua sử dụng ko đáng kể. Kt: 46 x 30 x 19\nGiá: 1.880.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng, Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1314875,"Giá bán":1880000},
       {"Mã":"LC-2004-200426-03","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426-03\nxám size L dòng club\ncond khá tốt, tỏng quan cứng cáp, quai tróc nhẹ phần viền quai sau như ảnh, đeo lên vai sẽ không thấy gì ạ\n45 x 28 x 21\nGiá: 990.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":593075,"Giá bán":990000},
       {"Mã":"LC-6751-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-6751-200426\nnavy size M độ mới cao, ko lỗi gì lớn, quai sau trầy xíu xiu ko đáng kể. tổng quan đẹp lắm. KT: 38 x 24 x 15\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":789275,"Giá bán":1850000},
-      {"Mã":"LC-5015-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1447600},
+      {"Mã":"LC-5015-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-5015-230426\npâper size M bản đời mới 2 ngăn phụ. condition tốt, phom quai, túi rất cứng cáp. bề mặt có dính vết bút bi nhỏ nhỏ nhìn ngoài ko rõ, các chị cứ dùng bình thường, đừng dùng thuốc tẩy nha. Kt: 40 x 26 x 16\nGiá: 1.700.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1447600,"Giá bán":1700000},
       {"Mã":"LC-2306-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1139900},
-      {"Mã":"LC-0599-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1348000},
+      {"Mã":"LC-0599-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-0599-230426\nxám gunmetal size L. condition tốt độ mới cao, cứng cáp sạch sẽ ko lỗi gì đáng kể. KT; 45 x 29 x 20\nGiá: 2.000.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1348000,"Giá bán":2000000},
       {"Mã":"LC-2476-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":555170},
       {"Mã":"LC-5798-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1646600},
-      {"Mã":"LC-4372-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1637600},
-      {"Mã":"LC-9607-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1917919},
-      {"Mã":"LC-3709-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":596800}
+      {"Mã":"LC-4372-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-4372-230426\nhồng đất dòng club size M. condition rất tốt đẹp cứng cáp sạch sẽ ko lỗi gì đáng kể. KT: 39 x 26 x 16\nGiá: 2.200.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1637600,"Giá bán":2200000},
+      {"Mã":"LC-9607-230426","Ngày về":"23/04/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":4027919},
+      {"Mã":"LC-3709-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-3709-230426\nforest dòng club size M. độ mới khá tốt, sạch sẽ, quai nứt nhẹ phần sơn viền, đeo lên vai sẽ ko thấy gì nha. Kt: 39 x 26 x 16\nGiá: 1.150.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":596800,"Giá bán":1150000}
     ]
   }
 }
