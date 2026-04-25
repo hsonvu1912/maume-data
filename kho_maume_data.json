@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/04/2026 15:25",
+  "lastUpdated": "25/04/2026 15:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1293,7 +1293,7 @@
       {"Mã":"KIÔ20042600","Ngày về":"20/04/2026","Sản phẩm":"Kikkerland Baguette Umbrella\n\nChất liệu: Kim loại, polyester\n\nPhân Loại: Ô\n\nTình trạng: Như ảnh\n\nKích thước: dd980x 560mm\n\nGiá: 750.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":486875,"Giá bán":750000},
       {"Mã":"MCHỘ20042600","Ngày về":"20/04/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar\n\nChất liệu: Kim loại\n\nPhân Loại: Hộp giữ nhiệt\n\nTình trạng: Như ảnh\n\nKích thước: d90x 110mm,\nDung tích: 300ml\n\nGiá: 380.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":278075,"Giá bán":380000},
       {"Mã":"LABỘ24042600","Ngày về":"24/04/2026","Sản phẩm":"La Prairie Chess Set\n\nChất liệu: Gỗ\n\nPhân Loại: Bộ cờ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 335 x 100 x 85mm\n\nGiá: 1.050.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":625822,"Giá bán":1050000},
-      {"Mã":"STCỐ24042600","Ngày về":"24/04/2026","Sản phẩm":"Starbucks  2022 Sugar Skull\n\nChất liệu: \n\nPhân Loại: Cốc\n\nTình trạng: \n\nKích thước: 150 x 90 x 90mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":362064,"Giá bán":600000},
+      {"Mã":"STCỐ24042600","Ngày về":"24/04/2026","Sản phẩm":"Starbucks  2022 Sugar Skull\n\nChất liệu: \n\nPhân Loại: Cốc\n\nTình trạng: \n\nKích thước: 150 x 90 x 90mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":362064,"Giá bán":600000},
       {"Mã":"IKĐÈ24042600","Ngày về":"24/04/2026","Sản phẩm":"Ikea Sjöpenna\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng E14\n\nKích thước: d320 x 300mm\n\nGiá: 650.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":210972,"Giá bán":650000},
       {"Mã":"SEGƯ24042600","Ngày về":"24/04/2026","Sản phẩm":"Seletti x Toiletpaper Small Vegetables Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 175 x 230mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":375792,"Giá bán":600000},
       {"Mã":"LEMÓ24042600","Ngày về":"24/04/2026","Sản phẩm":"Lego Wall Hanger Rack\n\nChất liệu: Nhựa\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 334 x 65 x 44mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":171756,"Giá bán":550000},
@@ -1309,7 +1309,7 @@
       {"Mã":"IKGI24042600","Ngày về":"24/04/2026","Sản phẩm":"Ikea Akea - 2007\n\nChất liệu: Kim loại\n\nPhân Loại: Giá kẹp sách\n\nTình trạng: Như ảnh\n\nKích thước: 110 x 40 x 140mm\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":208309,"Giá bán":350000},
       {"Mã":"IKGI24042601","Ngày về":"24/04/2026","Sản phẩm":"Ikea Akea - 2007\n\nChất liệu: Kim loại\n\nPhân Loại: Giá kẹp sách\n\nTình trạng: Như ảnh\n\nKích thước: 110 x 40 x 140mm\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":208309,"Giá bán":350000},
       {"Mã":"IKGI24042602","Ngày về":"24/04/2026","Sản phẩm":"Ikea Dove\n\nChất liệu: Kim loại\n\nPhân Loại: Giá kẹp sách\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 35 x 110mm\n\nGiá: 150.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":208309,"Giá bán":150000},
-      {"Mã":"UMĐỒ24042600","Ngày về":"24/04/2026","Sản phẩm":"Umbra Ribbon Wall Clock\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, kim trôi\n\nKích thước: 300 x 45mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":997600,"Giá bán":1500000},
+      {"Mã":"UMĐỒ24042600","Ngày về":"24/04/2026","Sản phẩm":"Umbra Ribbon Wall Clock\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, kim trôi\n\nKích thước: 300 x 45mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":997600,"Giá bán":1500000},
       {"Mã":"VIĐỒ24042600","Ngày về":"24/04/2026","Sản phẩm":"Vitra Eames Elephant (small) - Charles & Ray Eames, 1945\n\nChất liệu: Nhựa\n\nPhân Loại: Đồ chơi\n\nTình trạng: Mới\n\nKích thước: 390 x 175 x 210mm\n\nGiá: 3.200.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":2223600,"Giá bán":3200000}
     ]
   }
