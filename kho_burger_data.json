@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/04/2026 11:04",
+  "lastUpdated": "25/04/2026 11:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -480,7 +480,7 @@
       {"Mã":"LC-1004-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-1004-100426\nmàu kaki rêu size M, cond đẹp cứng cáp, ko lỗi gì lớn, đựng vừa ipad (35 x 25 x 15)\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":862400,"Giá bán":1500000},
       {"Mã":"LC-6481-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-6481-100426\nđen size M bản đời mới 2 ngăn phụ, độ mới cao, phom cứng cáp ko có gì để chê nhen (40 x 25 x 17)\nGiá: 2.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1713100,"Giá bán":2500000},
       {"Mã":"LC-8853-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-8853-100426\nxám gunmetal độ mới cao, condition đẹp ko có lỗi gì lớn (37 x 23 x 14)\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1532100,"Giá bán":1900000},
-      {"Mã":"LC-1389-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-1389-230426\nnavy dòng club size M, condition rất tốt, đẹp cứng cáp ko lỗi gì đáng kể. KT: 39 x 26 x 16 vừa laptop 13\nGiá: 2.000.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1347480,"Giá bán":2000000},
+      {"Mã":"LC-1389-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-1389-230426\nnavy dòng club size M, condition rất tốt, đẹp cứng cáp ko lỗi gì đáng kể. KT: 39 x 26 x 16 vừa laptop 13\nGiá: 2.000.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1347480,"Giá bán":2000000},
       {"Mã":"LC-3074-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-3074-230426\nblack dòng club size L, condition khá, phần viền bị nứt như ảnh (là lỗi phổ biến ở dòng club) đeo lên vai sẽ không thấy rõ. 45 x 29 x 20\nGiá: 1.250.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1106055,"Giá bán":1250000},
       {"Mã":"LC-6144-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-6144-230426\npâper size S quai ngắn bản đời mới nhất (có 2 ngăn phụ). condition rất tốt, quai da cứng cáp như hàng new. màu classic của hãng kbh lỗi thời, ai cũng nên có ạ💘 KT: 33 x 21 x 14\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1164600,"Giá bán":1500000},
       {"Mã":"LC-1624-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-1624-230426\nnavy dòng club size M còn sổ, độ mới rất cao, chủ yếu qua lưu trữ, còn sổ. KT 38 x 24 x 14\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1707600,"Giá bán":2100000},
