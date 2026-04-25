@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/04/2026 15:43",
+  "lastUpdated": "25/04/2026 16:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -197,7 +197,11 @@
       {"Mã":"SHCỐ16042602","Ngày bán":"22/04/2026","Sản phẩm":"Showa Inc Bolt Mug - Yellow","Giá nhập":235005,"Giá bán":350000,"Lãi":114995},
       {"Mã":"IKĐÈ16042600","Ngày bán":"23/04/2026","Sản phẩm":"Ikea Blasverk - Beige","Giá nhập":227964,"Giá bán":500000,"Lãi":272036},
       {"Mã":"NOCỐ09042632","Ngày bán":"23/04/2026","Sản phẩm":"No brand Cốc Black Cube","Giá nhập":54459,"Giá bán":110000,"Lãi":55541},
-      {"Mã":"NOCỐ09042633","Ngày bán":"23/04/2026","Sản phẩm":"No brand Cốc Black Cube","Giá nhập":54459,"Giá bán":110000,"Lãi":55541}
+      {"Mã":"NOCỐ09042633","Ngày bán":"23/04/2026","Sản phẩm":"No brand Cốc Black Cube","Giá nhập":54459,"Giá bán":110000,"Lãi":55541},
+      {"Mã":"LABỘ24042600","Ngày bán":"25/04/2026","Sản phẩm":"La Prairie Chess Set","Giá nhập":625822,"Giá bán":1050000,"Lãi":424178},
+      {"Mã":"ANBÌ24042600","Ngày bán":"25/04/2026","Sản phẩm":"Anthropologie Terra Pitcher","Giá nhập":351468,"Giá bán":900000,"Lãi":548532},
+      {"Mã":"DOBÌ24042600","Ngày bán":"25/04/2026","Sản phẩm":"Doiy Namasté Vase","Giá nhập":657771,"Giá bán":950000,"Lãi":292229},
+      {"Mã":"UMĐỒ24042600","Ngày bán":"25/04/2026","Sản phẩm":"Umbra Ribbon Wall Clock","Giá nhập":997600,"Giá bán":1500000,"Lãi":502400}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
