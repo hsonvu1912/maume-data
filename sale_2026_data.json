@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26/04/2026 15:13",
+  "lastUpdated": "27/04/2026 15:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -202,7 +202,9 @@
       {"Mã":"ANBÌ24042600","Ngày bán":"25/04/2026","Sản phẩm":"Anthropologie Terra Pitcher","Giá nhập":351468,"Giá bán":900000,"Lãi":548532},
       {"Mã":"DOBÌ24042600","Ngày bán":"25/04/2026","Sản phẩm":"Doiy Namasté Vase","Giá nhập":657771,"Giá bán":950000,"Lãi":292229},
       {"Mã":"UMĐỒ24042600","Ngày bán":"25/04/2026","Sản phẩm":"Umbra Ribbon Wall Clock","Giá nhập":997600,"Giá bán":1500000,"Lãi":502400},
-      {"Mã":"KIÔ20042600","Ngày bán":"26/04/2026","Sản phẩm":"Kikkerland Baguette Umbrella","Giá nhập":486875,"Giá bán":750000,"Lãi":263125}
+      {"Mã":"KIÔ20042600","Ngày bán":"26/04/2026","Sản phẩm":"Kikkerland Baguette Umbrella","Giá nhập":486875,"Giá bán":750000,"Lãi":263125},
+      {"Mã":"MCHỘ20042600","Ngày bán":"27/04/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar","Giá nhập":278075,"Giá bán":380000,"Lãi":101925},
+      {"Mã":"IKGI24042602","Ngày bán":"27/04/2026","Sản phẩm":"Ikea Dove","Giá nhập":208309,"Giá bán":150000,"Lãi":-58309}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -547,7 +549,9 @@
       {"Mã":"LC-2306-230426","Ngày bán":"26/04/2026","Sản phẩm":"LC-2306-230426","Giá nhập":1139900,"Giá bán":1600000,"Lãi":460100},
       {"Mã":"LC-3074-230426","Ngày bán":"26/04/2026","Sản phẩm":"LC-3074-230426","Giá nhập":1106055,"Giá bán":1250000,"Lãi":143945},
       {"Mã":"LC-3709-230426","Ngày bán":"26/04/2026","Sản phẩm":"LC-3709-230426","Giá nhập":596800,"Giá bán":1150000,"Lãi":553200},
-      {"Mã":"LC-5015-230426","Ngày bán":"26/04/2026","Sản phẩm":"LC-5015-230426","Giá nhập":1447600,"Giá bán":1700000,"Lãi":252400}
+      {"Mã":"LC-5015-230426","Ngày bán":"26/04/2026","Sản phẩm":"LC-5015-230426","Giá nhập":1447600,"Giá bán":1700000,"Lãi":252400},
+      {"Mã":"LC-1624-230426","Ngày bán":"27/04/2026","Sản phẩm":"LC-1624-230426","Giá nhập":1707600,"Giá bán":2100000,"Lãi":392400},
+      {"Mã":"LS-2304-230426","Ngày bán":"27/04/2026","Sản phẩm":"LS-2304-230426","Giá nhập":983419,"Giá bán":1550000,"Lãi":566581}
     ]
   }
 }
