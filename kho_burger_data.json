@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/04/2026 16:04",
+  "lastUpdated": "28/04/2026 09:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -495,7 +495,7 @@
       {"Mã":"LC-0758-100426","Ngày về":"10/04/2026","Sản phẩm":"LC-0758-100426\nblack size M dòng neo, độ mới cao, tổng quan đẹp cứng cáp, bề mặt có 1 vài vết trầy vải nhẹ nhìn kỹ mới thấy, không ảnh hưởng chức năng túi ạ (37 x 24 x 14)\nGiá: 1.890.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":596900,"Giá bán":1890000},
       {"Mã":"LC-0194-160426","Ngày về":"16/04/2026","Sản phẩm":"LC-0194-160426\nnavy dòng neo size M condition tốt, sạch sẽ cứng cáp ko lỗi gì lớn. KT: 38 x 24 x 14\nGiá: 1.780.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1232190,"Giá bán":1780000},
       {"Mã":"LC-7226-160426","Ngày về":"16/04/2026","Sản phẩm":"LC-7226-160426\nchiếc paper size L này e ko bao auth ạ, tuy nhiên các details cá nhân em đánh giá rất legit, da cũng là da thật. khách ko nhạy cảm mua về dùng bình thường, màu sắc cũng legit nữa. KT: 45 x 30 x 19\nGiá: 700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1325783,"Giá bán":700000},
-      {"Mã":"LC-8903-160426","Ngày về":"16/04/2026","Sản phẩm":"LC-8903-160426\nnavy size L tổng quan đẹp sạch sẽ, phần da theo thời gian sử dụng có độ mềm đi (này ko tính là lỗi, là đặc điểm đặc trưng của da thật). KT: 45 x 30 x 19\nGiá: 1.450.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":952700,"Giá bán":1450000},
+      {"Mã":"LC-8903-160426","Ngày về":"16/04/2026","Sản phẩm":"LC-8903-160426\nnavy size L tổng quan đẹp sạch sẽ, phần da theo thời gian sử dụng có độ mềm đi (này ko tính là lỗi, là đặc điểm đặc trưng của da thật). KT: 45 x 30 x 19\nGiá: 1.450.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":952700,"Giá bán":1450000},
       {"Mã":"LC-6227-160426","Ngày về":"16/04/2026","Sản phẩm":"LC-6227-160426\nforest size M dòng green, condition tốt, tổng quan đep, đáy có một vài vết trầy vải nhỏ xíu như ảnh (40 x 26 x 16cm)\nGiá: 1.880.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1383651,"Giá bán":1880000},
       {"Mã":"LC-2654-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-2654-200426\nblack dòng club size L. condition rất tốt, cứng cáp sạch sẽ, qua sử dụng nhẹ. Kt: 45 x 30 x 20\nGiá: 2.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1132715,"Giá bán":2000000},
       {"Mã":"LC-2315-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-2315-200426\nxám gunmetal size M bản đời mới 2 ngăn phụ, độ mới cao, mức độ qua sử dụng ít. KT: 39 x 25 x 17\nGiá: 2.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1496675,"Giá bán":2000000},
