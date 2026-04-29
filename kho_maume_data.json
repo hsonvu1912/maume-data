@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/04/2026 14:25",
+  "lastUpdated": "29/04/2026 16:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1311,7 +1311,7 @@
       {"Mã":"IKGI24042602","Ngày về":"24/04/2026","Sản phẩm":"Ikea Dove\n\nChất liệu: Kim loại\n\nPhân Loại: Giá kẹp sách\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 35 x 110mm\n\nGiá: 150.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":208309,"Giá bán":150000},
       {"Mã":"UMĐỒ24042600","Ngày về":"24/04/2026","Sản phẩm":"Umbra Ribbon Wall Clock\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, kim trôi\n\nKích thước: 300 x 45mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":997600,"Giá bán":1500000},
       {"Mã":"VIĐỒ24042600","Ngày về":"24/04/2026","Sản phẩm":"Vitra Eames Elephant (small) - Charles & Ray Eames, 1945\n\nChất liệu: Nhựa\n\nPhân Loại: Đồ chơi\n\nTình trạng: Mới\n\nKích thước: 390 x 175 x 210mm\n\nGiá: 3.200.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":2223600,"Giá bán":3200000},
-      {"Mã":"NOĐÈ29042600","Ngày về":"29/04/2026","Sản phẩm":"No brand Gx6438 Halogen Desk Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng Gu10\n\nKích thước: d145 x 450mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":252506},
+      {"Mã":"NOĐÈ29042600","Ngày về":"29/04/2026","Sản phẩm":"No brand Gx6438 Halogen Desk Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng Gu10\nNứt 1 vết chụp đèn\n\nKích thước: d145 x 450mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":252506},
       {"Mã":"SEGƯ29042600","Ngày về":"29/04/2026","Sản phẩm":"Seletti x Toiletpaper Spades Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 172 × 228 mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":255640},
       {"Mã":"SEGƯ29042601","Ngày về":"29/04/2026","Sản phẩm":"Seletti x Toiletpaper Small Vegetables Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 175 x 230mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":351160},
       {"Mã":"SEGƯ29042602","Ngày về":"29/04/2026","Sản phẩm":"Seletti x Toiletpaper Mirror Small Shit\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước:  175 x 230mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":390960},
