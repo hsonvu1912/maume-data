@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/04/2026 15:43",
+  "lastUpdated": "02/05/2026 21:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -205,6 +205,10 @@
       {"Mã":"KIÔ20042600","Ngày bán":"26/04/2026","Sản phẩm":"Kikkerland Baguette Umbrella","Giá nhập":486875,"Giá bán":750000,"Lãi":263125},
       {"Mã":"MCHỘ20042600","Ngày bán":"27/04/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar","Giá nhập":278075,"Giá bán":380000,"Lãi":101925},
       {"Mã":"IKGI24042602","Ngày bán":"27/04/2026","Sản phẩm":"Ikea Dove","Giá nhập":208309,"Giá bán":150000,"Lãi":-58309}
+    ],
+    "SALE_MauMe_2026-05": [
+      {"Mã":"KIBỘ10042601","Ngày bán":"02/05/2026","Sản phẩm":"Kikkerland 3D Cat Cards","Giá nhập":179400,"Giá bán":290000,"Lãi":110600},
+      {"Mã":"PEĐĨ07042600","Ngày bán":"02/05/2026","Sản phẩm":"Peanuts Snoopy Small Plate","Giá nhập":496500,"Giá bán":800000,"Lãi":303500}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -555,6 +559,10 @@
       {"Mã":"LC-8903-160426","Ngày bán":"28/04/2026","Sản phẩm":"LC-8903-160426","Giá nhập":952700,"Giá bán":1450000,"Lãi":497300},
       {"Mã":"LC-0170-230426","Ngày bán":"28/04/2026","Sản phẩm":"LC-0170-230426","Giá nhập":947400,"Giá bán":1600000,"Lãi":652600},
       {"Mã":"LC-0818-200426","Ngày bán":"29/04/2026","Sản phẩm":"LC-0818-200426","Giá nhập":792875,"Giá bán":1600000,"Lãi":807125}
+    ],
+    "SALE_Burger_2026-05": [
+      {"Mã":"LC-8873-200426","Ngày bán":"02/05/2026","Sản phẩm":"LC-8873-200426","Giá nhập":972875,"Giá bán":2200000,"Lãi":1227125},
+      {"Mã":"LC-6144-230426","Ngày bán":"02/05/2026","Sản phẩm":"LC-6144-230426","Giá nhập":1164600,"Giá bán":1500000,"Lãi":335400}
     ]
   }
 }
