@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/04/2026 16:25",
+  "lastUpdated": "04/05/2026 10:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1332,7 +1332,10 @@
       {"Mã":"EDĐÈ29042600","Ngày về":"29/04/2026","Sản phẩm":"Edi Light Floor Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng E26\n\nKích thước: d120 x 550mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":213338},
       {"Mã":"EDĐÈ29042601","Ngày về":"29/04/2026","Sản phẩm":"Edi Light Floor Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng E26\n\nKích thước: d120 x 550mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":213338},
       {"Mã":"EDĐÈ29042602","Ngày về":"29/04/2026","Sản phẩm":"Edi Light Floor Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng E26\n\nKích thước: d120 x 550mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":213338},
-      {"Mã":"ANCH29042600","Ngày về":"29/04/2026","Sản phẩm":"Anthropologie Dupe Poker Casino Shot\n\nChất liệu: Thủy tinh\n\nPhân Loại: Chén\n\nTình trạng: Như ảnh\n\nKích thước: d40 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":366816}
+      {"Mã":"ANCH29042600","Ngày về":"29/04/2026","Sản phẩm":"Anthropologie Dupe Poker Casino Shot\n\nChất liệu: Thủy tinh\n\nPhân Loại: Chén\n\nTình trạng: Như ảnh\n\nKích thước: d40 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":366816},
+      {"Mã":"KIBỘ04052600","Ngày về":"04/05/2026","Sản phẩm":"Kikkerland 3D Cat Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 65 x 21mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":186570},
+      {"Mã":"KIBỘ04052601","Ngày về":"04/05/2026","Sản phẩm":"Kikkerland Invisible Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh\n\nKích thước: 64 x 89 x 2mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":146625},
+      {"Mã":"KIBỘ04052602","Ngày về":"04/05/2026","Sản phẩm":"Kikkerland Invisible Cards JFJC\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh\n\nKích thước: 64 x 89 x 2mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":146625}
     ]
   }
 }
