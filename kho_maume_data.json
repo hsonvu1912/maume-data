@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/05/2026 11:55",
+  "lastUpdated": "06/05/2026 12:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1347,7 +1347,7 @@
       {"Mã":"HA30129903","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":160462},
       {"Mã":"HA30129904","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":160462},
       {"Mã":"HA30129905","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":160462},
-      {"Mã":"FOĐÈ30129900","Sản phẩm":"Foscarini Binic Table Lamp - Red\n\nChất liệu: \n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng E14\n\nKích thước: 140 x 140 x 200mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":2881294},
+      {"Mã":"FOĐÈ30129900","Sản phẩm":"Foscarini Binic Table Lamp - Red\n\nChất liệu: \n\nPhân Loại: Đèn bàn\n\nTình trạng: Mới, tặng kèm bóng E14\n\nKích thước: 140 x 140 x 200mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":2881294},
       {"Mã":"DO30129900","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":859823},
       {"Mã":"KI30129900","Sản phẩm":"Kikkerland \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":254660},
       {"Mã":"IK30129900","Sản phẩm":"Ikea \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":219580},
