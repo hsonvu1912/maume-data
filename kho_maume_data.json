@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/05/2026 10:55",
+  "lastUpdated": "06/05/2026 11:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1336,6 +1336,22 @@
       {"Mã":"KIBỘ04052600","Ngày về":"04/05/2026","Sản phẩm":"Kikkerland 3D Cat Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 65 x 21mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":186570},
       {"Mã":"KIBỘ04052601","Ngày về":"04/05/2026","Sản phẩm":"Kikkerland Invisible Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh\n\nKích thước: 64 x 89 x 2mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":146625},
       {"Mã":"KIBỘ04052602","Ngày về":"04/05/2026","Sản phẩm":"Kikkerland Invisible Cards JFJC\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh\n\nKích thước: 64 x 89 x 2mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":146625}
+    ],
+    "Tháng 5/2026": [
+      {"Mã":"TH30129900","Sản phẩm":"The North Face \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":330840},
+      {"Mã":"JN30129900","Sản phẩm":"Jnbyhome \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":426418},
+      {"Mã":"JN30129901","Sản phẩm":"Jnbyhome \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":419362},
+      {"Mã":"HA30129900","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":160462},
+      {"Mã":"HA30129901","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":160462},
+      {"Mã":"HA30129902","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":160462},
+      {"Mã":"HA30129903","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":160462},
+      {"Mã":"HA30129904","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":160462},
+      {"Mã":"HA30129905","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":160462},
+      {"Mã":"FOĐÈ30129900","Sản phẩm":"Foscarini Binic Table Lamp - Red\n\nChất liệu: \n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng E14\n\nKích thước: 140 x 140 x 200mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":2881294},
+      {"Mã":"DO30129900","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":859823},
+      {"Mã":"KI30129900","Sản phẩm":"Kikkerland \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":254660},
+      {"Mã":"IK30129900","Sản phẩm":"Ikea \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":219580},
+      {"Mã":"DO30129901","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":261716}
     ]
   }
 }
