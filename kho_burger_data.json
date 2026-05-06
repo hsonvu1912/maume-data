@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/05/2026 09:34",
+  "lastUpdated": "06/05/2026 10:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -515,9 +515,9 @@
       {"Mã":"LC-2004-200426-01","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426-01\nebony size L bản cũ\ncond khá tốt, tổng quan sạch sẽ, quai trầy lớp sơn do qua thời gian sử dụng, ai muốn có thể đi spa dặm lại, không thì dùng bình thường vẫn đẹp ạ\n46 x 29 x 20\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1134875,"Giá bán":1650000},
       {"Mã":"LC-1693-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1184650},
       {"Mã":"LC-2695-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1238650},
-      {"Mã":"LC-0050-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1692250},
-      {"Mã":"LC-1374-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK"},
-      {"Mã":"MA-0405-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK"},
+      {"Mã":"LC-0050-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":603250},
+      {"Mã":"LC-1374-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":603250},
+      {"Mã":"MA-0405-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":603250},
       {"Mã":"LC-2004-200426-02","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426-02\nblack dòng neo size L, condition tốt, cứng cáp, 1 vài lỗi nhẹ do qua sử dụng ko đáng kể. Kt: 46 x 30 x 19\nGiá: 1.880.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1314875,"Giá bán":1880000},
       {"Mã":"LC-2004-200426-03","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426-03\nxám size L dòng club\ncond khá tốt, tỏng quan cứng cáp, quai tróc nhẹ phần viền quai sau như ảnh, đeo lên vai sẽ không thấy gì ạ\n45 x 28 x 21\nGiá: 990.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":593075,"Giá bán":990000},
       {"Mã":"LC-6751-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-6751-200426\nnavy size M độ mới cao, ko lỗi gì lớn, qua sử dụng nhẹ. tổng quan đẹp, cứng cáp. KT: 38 x 24 x 15\nGiá: 1.850.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":789275,"Giá bán":1850000},
