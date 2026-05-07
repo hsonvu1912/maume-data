@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/05/2026 13:25",
+  "lastUpdated": "07/05/2026 13:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -742,7 +742,7 @@
       {"Mã":"101200","Ngày về":"10/12/2025","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"ko đăng","Thành tiền":289900},
       {"Mã":"GAĐỒ101200","Ngày về":"10/12/2025","Sản phẩm":"Galison Andy Warhol Soup Cans Puzzle\n\nChất liệu: Bìa cứng\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 450 x 279mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":339880},
       {"Mã":"UMMÓ101200","Ngày về":"10/12/2025","Sản phẩm":"Umbra Steel Wired Hello\n\nChất liệu: Kim loại\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 323 x 76 x 146mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":348017,"Giá bán":500000},
-      {"Mã":"PO101200","Ngày về":"10/12/2025","Sản phẩm":"Chất liệu: \n\nPhân Loại: Poster\n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"ko đăng","Thành tiền":134700},
+      {"Mã":"101200","Ngày về":"10/12/2025","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"ko đăng","Thành tiền":134700},
       {"Mã":"IKĐÈ101200","Ngày về":"10/12/2025","Sản phẩm":"Ikea Global - 2009\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng\n\nKích thước: 400 x 100 x 700mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1204658,"Giá bán":1900000},
       {"Mã":"IKBỘ101200","Ngày về":"10/12/2025","Sản phẩm":"Ikea x Virgil Abloh Home Work Toolkit\n\nChất liệu: Nhựa, kim loại\n\nPhân Loại: Bộ dụng cụ\n\nTình trạng: Như ảnh\n\nKích thước: Hộp: 275 x 180 x 45mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":747335,"Giá bán":1300000},
       {"Mã":"VIBỘ111100","Ngày về":"10/12/2025","Sản phẩm":"Hay Sowden Bottle\n\nChất liệu: Kim loại\n\nPhân Loại: Bình giữ nhiệt\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70 x 210mm. 0,35L\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":176205,"Giá bán":600000},
@@ -969,7 +969,8 @@
       {"Mã":"KIDỤ290100","Ngày về":"29/01/2026","Sản phẩm":"Kikkerland Monkey Tea Infuser\n\nChất liệu: Kim loại\n\nPhân Loại: Dụng cụ pha trà\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 50 x 50 x 60mm\nKhi mở tay 130 x 50 x 60mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":310200},
       {"Mã":"WIHỘ290100","Ngày về":"29/01/2026","Sản phẩm":"Wiggle Wiggle Folding Box\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp gấp gọn\n\nTình trạng: Như ảnh\n\nKích thước: Khi mở: 490 x 290 x 355cm\nKhi gấp: 490 x 290 x 95mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":286806},
       {"Mã":"HALỌ290100","Ngày về":"29/01/2026","Sản phẩm":"Hay Arcs Salt and Pepper Mill\n\nChất liệu: Kim loại\n\nPhân Loại: Lọ xay tiêu\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d45 x 170mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":453182,"Giá bán":1200000},
-      {"Mã":"MUĐÈ300100","Ngày về":"30/01/2026","Sản phẩm":"Muuto Ambit Pendant Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn thả\n\nTình trạng: Như ảnh, không kèm bóng E14\n\nKích thước: d250 x 20mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":732330}
+      {"Mã":"MUĐÈ300100","Ngày về":"30/01/2026","Sản phẩm":"Muuto Ambit Pendant Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn thả\n\nTình trạng: Như ảnh, không kèm bóng E14\n\nKích thước: d250 x 20mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":732330},
+      {"Mã":"HAPO290100","Ngày về":"29/01/2026","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: Poster\n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":562658}
     ],
     "Tháng 2/2026": [
       {"Mã":"KINA020200","Ngày về":"02/02/2026","Sản phẩm":"Kikkerland Dog Butt Magnets\n\nChất liệu: Nhựa\n\nPhân Loại: Nam châm\n\nTình trạng: Như ảnh\n\nKích thước: 32 x 50 x 19mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":149100},
