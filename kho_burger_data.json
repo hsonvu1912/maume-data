@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/05/2026 10:04",
+  "lastUpdated": "07/05/2026 22:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -509,7 +509,7 @@
       {"Mã":"LC-8342-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-8342-200426\nmini pouch màu acier condition tốt, kèm sẵn dây đeo chéo như ảnh, 1 vài dấu vết qua sử dụng ko đáng kể ạ\nGiá: 2.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1152875,"Giá bán":2400000},
       {"Mã":"LC-3258-200426-00","Ngày về":"20/04/2026","Sản phẩm":"LC-3258-200426-00\nall black dòng Neo size L, bản đời mới 2 ngăn phụ; condition tốt, một vài dấu vết qua sử dụng nhẹ, nhìn ngoài không hề rõ (46 x 29 x 21cm)\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1206875,"Giá bán":1900000},
       {"Mã":"LC-1404-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-1404-200426\nđen size M, condition tốt, sạch sẽ, cứng cáp ko lỗi gì đáng kể. KT: 37 x 24 x 14\nGiá: 2.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1512875,"Giá bán":2000000},
-      {"Mã":"LC-2001-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-2001-200426\nmàu be rêu size L, bản đời mới 2 ngăn phụ. condition tốt, không lỗi nào lớn, tổng quan đẹp cứng cáp, có ít dấu vết qua sử dụng nhẹ (46 x 30 x 19)\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":828875,"Giá bán":1850000},
+      {"Mã":"LC-2001-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-2001-200426\nmàu be rêu size L, bản đời mới 2 ngăn phụ. condition tốt, không lỗi nào lớn, tổng quan đẹp cứng cáp, có ít dấu vết qua sử dụng nhẹ (46 x 30 x 19)\nGiá: 1.850.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":828875,"Giá bán":1850000},
       {"Mã":"LC-2915-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-2915-200426\nbilberry size L, condition tốt, sạch sẽ cứng cáp, quai trầy nhẹ xíu ko thấy rõ (45 x 29 x 19)\nGiá: 1.350.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1296875,"Giá bán":1350000},
       {"Mã":"LC-2004-200426-00","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426-00\nxám be size M\ncondition tốt, không lỗi nào lớn, tổng quan đẹp cứng cáo\n40 x 26 x 16\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":792875,"Giá bán":1800000},
       {"Mã":"LC-2004-200426-01","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426-01\nebony size L bản cũ\ncond khá tốt, tổng quan sạch sẽ, quai trầy lớp sơn do qua thời gian sử dụng, ai muốn có thể đi spa dặm lại, không thì dùng bình thường vẫn đẹp ạ\n46 x 29 x 20\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1134875,"Giá bán":1650000},
