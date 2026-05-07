@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/05/2026 09:43",
+  "lastUpdated": "07/05/2026 22:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -212,7 +212,13 @@
       {"Mã":"SHCỐ16042600","Ngày bán":"02/05/2026","Sản phẩm":"Showa Inc Bolt Mug - Black","Giá nhập":235005,"Giá bán":350000,"Lãi":114995},
       {"Mã":"STCỐ09042600","Ngày bán":"02/05/2026","Sản phẩm":"Starbucks x Fragment Ceramic Mug Black","Giá nhập":329250,"Giá bán":600000,"Lãi":270750},
       {"Mã":"HAKH24042600","Ngày bán":"05/05/2026","Sản phẩm":"Hay Kaleido XS","Giá nhập":253056,"Giá bán":350000,"Lãi":96944},
-      {"Mã":"LECỐ16042600","Ngày bán":"06/05/2026","Sản phẩm":"Lego 2 x 2 Brick Mug","Giá nhập":220065,"Giá bán":600000,"Lãi":379935}
+      {"Mã":"LECỐ16042600","Ngày bán":"06/05/2026","Sản phẩm":"Lego 2 x 2 Brick Mug","Giá nhập":220065,"Giá bán":600000,"Lãi":379935},
+      {"Mã":"NOTH29042600","Ngày bán":"07/05/2026","Sản phẩm":"No brand Windows XP Mat","Giá nhập":409433,"Giá bán":800000,"Lãi":390567},
+      {"Mã":"IKGI29042600","Ngày bán":"07/05/2026","Sản phẩm":"Ikea Lånespelare","Giá nhập":512474,"Giá bán":750000,"Lãi":237526},
+      {"Mã":"NOĐÈ29042600","Ngày bán":"07/05/2026","Sản phẩm":"No brand Gx6438 Halogen Desk Lamp","Giá nhập":252506,"Giá bán":600000,"Lãi":347494},
+      {"Mã":"KIGI10042600","Ngày bán":"07/05/2026","Sản phẩm":"Kikkerland Rosie Bookends","Giá nhập":559800,"Giá bán":800000,"Lãi":240200},
+      {"Mã":"SEGƯ29042600","Ngày bán":"07/05/2026","Sản phẩm":"Seletti x Toiletpaper Spades Mirror","Giá nhập":255640,"Giá bán":500000,"Lãi":244360},
+      {"Mã":"KIDỤ29042600","Ngày bán":"07/05/2026","Sản phẩm":"Kikkerland Jacques The Tea Infuser","Giá nhập":149121,"Giá bán":350000,"Lãi":200879}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -582,7 +588,8 @@
       {"Mã":"LC-3115-040526","Ngày bán":"06/05/2026","Sản phẩm":"LC-3115-040526","Giá nhập":930130,"Giá bán":1600000,"Lãi":669870},
       {"Mã":"LC-6374-040526","Ngày bán":"06/05/2026","Sản phẩm":"LC-6374-040526","Giá nhập":2407750,"Giá bán":3400000,"Lãi":992250},
       {"Mã":"LC-0405-040526","Ngày bán":"06/05/2026","Sản phẩm":"LC-0405-040526","Giá nhập":382750,"Giá bán":1600000,"Lãi":1217250},
-      {"Mã":"LC-0050-040526","Ngày bán":"07/05/2026","Sản phẩm":"LC-0050-040526","Giá nhập":603250,"Giá bán":1700000,"Lãi":1096750}
+      {"Mã":"LC-0050-040526","Ngày bán":"07/05/2026","Sản phẩm":"LC-0050-040526","Giá nhập":603250,"Giá bán":1700000,"Lãi":1096750},
+      {"Mã":"LC-2001-200426","Ngày bán":"07/05/2026","Sản phẩm":"LC-2001-200426","Giá nhập":828875,"Giá bán":1850000,"Lãi":1021125}
     ]
   }
 }
