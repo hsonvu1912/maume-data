@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08/05/2026 10:13",
+  "lastUpdated": "08/05/2026 17:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -219,7 +219,9 @@
       {"Mã":"KIGI10042600","Ngày bán":"07/05/2026","Sản phẩm":"Kikkerland Rosie Bookends","Giá nhập":559800,"Giá bán":800000,"Lãi":240200},
       {"Mã":"SEGƯ29042600","Ngày bán":"07/05/2026","Sản phẩm":"Seletti x Toiletpaper Spades Mirror","Giá nhập":255640,"Giá bán":500000,"Lãi":244360},
       {"Mã":"KIDỤ29042600","Ngày bán":"07/05/2026","Sản phẩm":"Kikkerland Jacques The Tea Infuser","Giá nhập":149121,"Giá bán":350000,"Lãi":200879},
-      {"Mã":"MOCỜ29042600","Ngày bán":"08/05/2026","Sản phẩm":"Mojang The Noble Collection Minecraft Chess Set","Giá nhập":648123,"Giá bán":1200000,"Lãi":551877}
+      {"Mã":"MOCỜ29042600","Ngày bán":"08/05/2026","Sản phẩm":"Mojang The Noble Collection Minecraft Chess Set","Giá nhập":648123,"Giá bán":1200000,"Lãi":551877},
+      {"Mã":"SEGƯ29042602","Ngày bán":"08/05/2026","Sản phẩm":"Seletti x Toiletpaper Mirror Small Shit","Giá nhập":390960,"Giá bán":500000,"Lãi":109040},
+      {"Mã":"KIDỤ29042601","Ngày bán":"08/05/2026","Sản phẩm":"Kikkerland Cliff The Climber Tea Infuser","Giá nhập":149121,"Giá bán":350000,"Lãi":200879}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
