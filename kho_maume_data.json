@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/05/2026 22:55",
+  "lastUpdated": "08/05/2026 10:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -742,7 +742,7 @@
       {"Mã":"101200","Ngày về":"10/12/2025","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"ko đăng","Thành tiền":289900},
       {"Mã":"GAĐỒ101200","Ngày về":"10/12/2025","Sản phẩm":"Galison Andy Warhol Soup Cans Puzzle\n\nChất liệu: Bìa cứng\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 450 x 279mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":339880},
       {"Mã":"UMMÓ101200","Ngày về":"10/12/2025","Sản phẩm":"Umbra Steel Wired Hello\n\nChất liệu: Kim loại\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 323 x 76 x 146mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":348017,"Giá bán":500000},
-      {"Mã":"101200","Ngày về":"10/12/2025","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"ko đăng","Thành tiền":134700},
+      {"Mã":"PO101200","Ngày về":"10/12/2025","Sản phẩm":"My Energy by Esfrom Freedom\n\nChất liệu: \n\nPhân Loại: Poster\n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"ko đăng","Thành tiền":134700},
       {"Mã":"IKĐÈ101200","Ngày về":"10/12/2025","Sản phẩm":"Ikea Global - 2009\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng\n\nKích thước: 400 x 100 x 700mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1204658,"Giá bán":1900000},
       {"Mã":"IKBỘ101200","Ngày về":"10/12/2025","Sản phẩm":"Ikea x Virgil Abloh Home Work Toolkit\n\nChất liệu: Nhựa, kim loại\n\nPhân Loại: Bộ dụng cụ\n\nTình trạng: Như ảnh\n\nKích thước: Hộp: 275 x 180 x 45mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":747335,"Giá bán":1300000},
       {"Mã":"VIBỘ111100","Ngày về":"10/12/2025","Sản phẩm":"Hay Sowden Bottle\n\nChất liệu: Kim loại\n\nPhân Loại: Bình giữ nhiệt\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70 x 210mm. 0,35L\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":176205,"Giá bán":600000},
@@ -829,7 +829,7 @@
       {"Mã":"IKGƯ251200","Ngày về":"25/12/2025","Sản phẩm":"Ikea Myken Mirror\n\nChất liệu: Kim loại\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 250 x 390mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":307725,"Giá bán":700000},
       {"Mã":"VIĐĨ251200","Ngày về":"25/12/2025","Sản phẩm":"Virgil Abloh x Prospect Life Itself 2021\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: d267mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":322540,"Giá bán":1000000},
       {"Mã":"VIĐĨ251201","Ngày về":"25/12/2025","Sản phẩm":"Virgil Abloh x Prospect Life Itself 2021\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: d267mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":322540,"Giá bán":1000000},
-      {"Mã":"PO251200","Ngày về":"25/12/2025","Sản phẩm":"Chất liệu: \n\nPhân Loại: Poster\n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":861585},
+      {"Mã":"PO251200","Ngày về":"25/12/2025","Sản phẩm":"Chất liệu: \n\nPhân Loại: Poster\n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":172317},
       {"Mã":"NOXÔ291200","Ngày về":"29/12/2025","Sản phẩm":"No brand Ice Pail\n\nChất liệu: Kim loại, nhựa\n\nPhân Loại: Xô Đá\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d150 x 150mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":436000,"Giá bán":800000},
       {"Mã":"SHGƯ291200","Ngày về":"29/12/2025","Sản phẩm":"Shiseido Camelia Superieur Hand Mirror\n\nChất liệu: Kim loại\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 220 x 130mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":473000},
       {"Mã":"LEĐÈ291200","Ngày về":"29/12/2025","Sản phẩm":"Lego Brick Light\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\n3 x AAA \n\nKích thước: 76 x 76 x 44mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":746315,"Giá bán":800000},
