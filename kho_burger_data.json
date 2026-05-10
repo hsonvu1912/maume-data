@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09/05/2026 12:04",
+  "lastUpdated": "10/05/2026 16:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -533,7 +533,7 @@
       {"Mã":"CH-0405-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":500250},
       {"Mã":"LC-1097-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1228750},
       {"Mã":"LC-6287-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1282750},
-      {"Mã":"LC-4642-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":454750},
+      {"Mã":"LC-4642-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-4642-040526\nxám gunmetal size L độ mới tốt","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":454750},
       {"Mã":"LC-5515-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":930950},
       {"Mã":"LC-5015-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-5015-230426\npâper size M bản đời mới 2 ngăn phụ. condition tốt, phom quai, túi rất cứng cáp. bề mặt có dính vết bút bi nhỏ nhỏ nhìn ngoài ko rõ, các chị cứ dùng bình thường, đừng dùng thuốc tẩy nha. Kt: 40 x 26 x 16\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1447600,"Giá bán":1700000},
       {"Mã":"LC-2306-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-2306-230426\nnavy dòng club size L, condition tốt, qua sử dụng nhẹ vừa phải. phần sơn viền quai nứt nhẹ như ảnh (dòng club hay bị vậy) đeo lên vai sẽ ko thấy gì đâu. Kt: 45 x 29 x 20\nGiá: 1.600.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1139900,"Giá bán":1600000},
