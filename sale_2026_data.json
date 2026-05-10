@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/05/2026 23:43",
+  "lastUpdated": "11/05/2026 00:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -222,7 +222,9 @@
       {"Mã":"MOCỜ29042600","Ngày bán":"08/05/2026","Sản phẩm":"Mojang The Noble Collection Minecraft Chess Set","Giá nhập":648123,"Giá bán":1200000,"Lãi":551877},
       {"Mã":"SEGƯ29042602","Ngày bán":"08/05/2026","Sản phẩm":"Seletti x Toiletpaper Mirror Small Shit","Giá nhập":390960,"Giá bán":500000,"Lãi":109040},
       {"Mã":"KIDỤ29042601","Ngày bán":"08/05/2026","Sản phẩm":"Kikkerland Cliff The Climber Tea Infuser","Giá nhập":149121,"Giá bán":350000,"Lãi":200879},
-      {"Mã":"EDĐÈ29042601","Ngày bán":"09/05/2026","Sản phẩm":"Edi Light Floor Lamp - Green","Giá nhập":213338,"Giá bán":900000,"Lãi":686662}
+      {"Mã":"EDĐÈ29042601","Ngày bán":"09/05/2026","Sản phẩm":"Edi Light Floor Lamp - Green","Giá nhập":213338,"Giá bán":900000,"Lãi":686662},
+      {"Mã":"VIĐỒ02042600","Ngày bán":"10/05/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":418007,"Giá bán":1500000,"Lãi":1081993},
+      {"Mã":"LEHỘ29042601","Ngày bán":"10/05/2026","Sản phẩm":"Lego Desk Drawer 4 Knobs - Blue","Giá nhập":258252,"Giá bán":600000,"Lãi":341748}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
