@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/05/2026 19:04",
+  "lastUpdated": "10/05/2026 20:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -557,7 +557,7 @@
       {"Mã":"LC-3736-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-3736-040526\nđỏ đậm size M dòng club, màu đỏ rất sang. condition khá, có các dấu vết qua sử dụng ở mặt dưới quai. mặt sau có 1 vết trầy vải nhỏ, ko phải rách thủng gì đâu ạ. Kt: 39 x 25 x 17\nGiá: 950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":493070,"Giá bán":950000},
       {"Mã":"LC-4477-060526","Ngày về":"06/05/2026","Sản phẩm":"LC-4477-060526\nhawthorn dòng club size L, độ mới tốt, mức độ qua sử dụng nhẹ, ko có lỗi nào lớn. KT: 45 x 30 x 19\nGiá: 1.790.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1237437,"Giá bán":1790000},
       {"Mã":"LC-4785-060526","Ngày về":"06/05/2026","Sản phẩm":"LC-4785-060526\nxanh dòng club size M siêuuu đẹp, ko có lỗi lớn nào ạ. KT: 40 x 26 x 16\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1400870,"Giá bán":1900000},
-      {"Mã":"LC-1063-060526","Ngày về":"06/05/2026","Sản phẩm":"LC-1063-060526\nchoco brown dòng neo size M màu cực đẹpp luônn. tổng quan đẹp cứng cáp, có 1 vài vết trầy màu nhẹ do qua sử dụng, nhìn ngoài ko đáng kể. KT: 37 x 24 x 14\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1400000,"Giá bán":1950000}
+      {"Mã":"LC-1063-060526","Ngày về":"06/05/2026","Sản phẩm":"LC-1063-060526\nchoco brown dòng neo size M màu cực đẹpp luônn. tổng quan đẹp cứng cáp, có 1 vài vết trầy màu nhẹ do qua sử dụng, nhìn ngoài ko đáng kể. KT: 37 x 24 x 14\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1400000,"Giá bán":1950000}
     ]
   }
 }
