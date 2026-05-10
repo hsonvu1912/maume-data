@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/05/2026 21:34",
+  "lastUpdated": "10/05/2026 22:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -552,7 +552,7 @@
       {"Mã":"LC-1916-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-1916-040526\ngunmetal size M condition tốt, mức độ qua sử dụng nhẹ, ko có lỗi nào lớn. KT: 37 x 24 x 15\nGiá: 1.700.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":859750,"Giá bán":1700000},
       {"Mã":"LC-8481-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-8481-040526\nxanh xám size L còn sổ. độ mới rất cao gần như ko qua sử dụng chỉ qua lưu trữ đẹp nét căng. Kt: 45 x 30 x 19\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":810355,"Giá bán":1700000},
       {"Mã":"LC-7869-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-7869-040526\nnavy size S quai ngắn xách tay. condition tốt chủ yếu qua lưu trữ nên ko có lỗi gì đáng kể. 30 x 20 x 14\nGiá: 1.050.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":810355,"Giá bán":1050000},
-      {"Mã":"LC-1624-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-1624-040526\nxám dòng club size L. condition khá tốt. phần sơn viền màu vàng nứt nhẹ (lỗi thường gặp của dòng club) tổng quan vẫn dày dặn cứng cáp sử dụng bình thường. KT: 45 x 30 x 19\nGiá: 950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":414572,"Giá bán":950000},
+      {"Mã":"LC-1624-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-1624-040526\nxám dòng club size L. condition khá tốt. phần sơn viền màu vàng nứt nhẹ (lỗi thường gặp của dòng club) tổng quan vẫn dày dặn cứng cáp sử dụng bình thường. KT: 45 x 30 x 19\nGiá: 950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":414572,"Giá bán":950000},
       {"Mã":"LC-1266-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-1266-040526\nnavy dòng neo size M condition tốt, dày dặn cứng cáp, ko lỗi nào lớn. KT: 37 x 23 x 15\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":838390,"Giá bán":1700000},
       {"Mã":"LC-3736-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-3736-040526\nđỏ đậm size M dòng club, màu đỏ rất sang. condition khá, có các dấu vết qua sử dụng ở mặt dưới quai. mặt sau có 1 vết trầy vải nhỏ, ko phải rách thủng gì đâu ạ. Kt: 39 x 25 x 17\nGiá: 950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":493070,"Giá bán":950000},
       {"Mã":"LC-4477-060526","Ngày về":"06/05/2026","Sản phẩm":"LC-4477-060526\nhawthorn dòng club size L, độ mới tốt, mức độ qua sử dụng nhẹ, ko có lỗi nào lớn. KT: 45 x 30 x 19\nGiá: 1.790.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1237437,"Giá bán":1790000},
