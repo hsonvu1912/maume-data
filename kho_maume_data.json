@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09/05/2026 13:25",
+  "lastUpdated": "11/05/2026 09:26",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -229,7 +229,7 @@
       {"Mã":"LASIIK2508","Ngày về":"25/08/2025","Sản phẩm":"\"Ikea Morker desk lamp\nTình trạng: Như ảnh, tặng kèm bóng\nKich thước: 16 x 25 x 42cm","Tình trạng":"Hết hàng","Thành tiền":477270},
       {"Mã":"LAYLIK2508","Ngày về":"25/08/2025","Sản phẩm":"IKEA BLÅSVERK Table lamp\nTình trạng: Như ảnh, tặng kèm bóng\nKích thước: \nĐường kính đế 15.24 cm\nĐường kính đèn: 17.78 cm\nChiều cao: 35,5 cm","Tình trạng":"Hết hàng","Thành tiền":213050},
       {"Mã":"LAGRPL2508","Ngày về":"25/08/2025","Sản phẩm":"Plat Table Lamp\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước: D13.5 x 15cm","Tình trạng":"Hết hàng","Thành tiền":827472},
-      {"Mã":"LAREIK2508","Ngày về":"25/08/2025","Sản phẩm":"Ikea Kila Desk Lamp\n\nTình trạng: Như ảnh, Kính chắn đèn nút nhẹ, có vết xước ở chân và thân đèn\n\nKích thước: 60 x 23 x 40cm","Tình trạng":"Còn hàng","Thành tiền":1402873,"Giá bán":2000000},
+      {"Mã":"LAREIK2508","Ngày về":"25/08/2025","Sản phẩm":"Ikea Kila Desk Lamp\n\nTình trạng: Như ảnh, Kính chắn đèn nút nhẹ, có vết xước ở chân và thân đèn\n\nKích thước: 60 x 23 x 40cm","Tình trạng":"Hết hàng","Thành tiền":1402873,"Giá bán":2000000},
       {"Mã":"VAYLMA2508","Ngày về":"25/08/2025","Sản phẩm":"MAISON JOSEPH DECO Heritage vase\nTình trạng: Như ảnh, còn mới,còn hộp\nKích thước: D10 x 13 cm","Tình trạng":"Hết hàng","Thành tiền":700351},
       {"Mã":"BOWHIK2508","Ngày về":"25/08/2025","Sản phẩm":"IKEA FOREMAL BOX\nTình trạng: Như ảnh, còn hộp\nKích thước: 10 x 6,4 x 2,1 cm","Tình trạng":"Hết hàng","Thành tiền":327325},
       {"Mã":"ASSIXX2808","Ngày về":"28/08/2025","Sản phẩm":"Cube-shaped ashtray\nTình trạng: Như ảnh\nKích thước: 5,5 x 5,5 x 5,5 cm","Tình trạng":"Hết hàng","Thành tiền":520000},
