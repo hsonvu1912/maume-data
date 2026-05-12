@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12/05/2026 08:55",
+  "lastUpdated": "12/05/2026 17:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1356,13 +1356,13 @@
       {"Mã":"THPO06052600","Ngày về":"06/05/2026","Sản phẩm":"The Simpsons Wanted Bart Simpson Textile Poster \n\nChất liệu: Vải\n\nPhân Loại: Poster\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 750 x 1100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":530108},
       {"Mã":"IKKH06052600","Ngày về":"06/05/2026","Sản phẩm":"Ikea Fössta Serving Container\n\nChất liệu: Gỗ\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh, còn hộp, vỡ phần màu đỏ\n\nKích thước: 279 x 254mm\n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":259301},
       {"Mã":"LEHỘ06052600","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - White\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295},
-      {"Mã":"LEHỘ06052601","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - White\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295},
+      {"Mã":"LEHỘ06052601","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - White\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295},
       {"Mã":"LEHỘ06052602","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295},
-      {"Mã":"LEHỘ06052603","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295},
+      {"Mã":"LEHỘ06052603","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295},
       {"Mã":"LEHỘ06052604","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295},
-      {"Mã":"LEHỘ06052605","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick  - Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295},
+      {"Mã":"LEHỘ06052605","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick  - Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295},
       {"Mã":"LEHỘ06052606","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Green\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295},
-      {"Mã":"LEHỘ06052607","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Green\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295},
+      {"Mã":"LEHỘ06052607","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Green\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295},
       {"Mã":"NOBÁ06052600","Ngày về":"06/05/2026","Sản phẩm":"No brand Ceramic Bathtub Dish\n\nChất liệu: Gốm\n\nPhân Loại: Bát\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 95 x 50mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":197712}
     ]
   }
