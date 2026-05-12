@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12/05/2026 08:34",
+  "lastUpdated": "12/05/2026 09:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -542,7 +542,16 @@
       {"Mã":"LC-5798-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-5798-230426\nlâu rồi e mới về 1 chiếc dòng city. màu beige classic hợp mọi loại outfit, chất liệu da canvas chống nước, chống bẩn rất tốt. độ mới cao, chỉ qua sdung nhẹ thôi. KT: 40 x 26 x 16 \nGiá: 2.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1646600,"Giá bán":2800000},
       {"Mã":"LC-4372-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-4372-230426\nhồng đất dòng club size M. condition rất tốt đẹp cứng cáp sạch sẽ ko lỗi gì đáng kể. KT: 39 x 26 x 16\nGiá: 2.200.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1637600,"Giá bán":2200000},
       {"Mã":"LC-9607-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-9607-230426\nđen size M bản đời mới 2 ngăn phụ, condition like new chủ yếu qua lưu trữ. hàng new bây giờ lên 4tr rồiii. KT: 40 x 26 x 16\nGiá: 2.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1917919,"Giá bán":2700000},
-      {"Mã":"LC-3709-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-3709-230426\nforest dòng club size M. độ mới khá tốt, sạch sẽ, quai nứt nhẹ phần sơn viền, đeo lên vai sẽ ko thấy gì nha. Kt: 39 x 26 x 16\nGiá: 1.150.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":596800,"Giá bán":1150000}
+      {"Mã":"LC-3709-230426","Ngày về":"23/04/2026","Sản phẩm":"LC-3709-230426\nforest dòng club size M. độ mới khá tốt, sạch sẽ, quai nứt nhẹ phần sơn viền, đeo lên vai sẽ ko thấy gì nha. Kt: 39 x 26 x 16\nGiá: 1.150.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":596800,"Giá bán":1150000},
+      {"Mã":"LC-4926-110526","Ngày về":"11/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":823100},
+      {"Mã":"LC-1105-110526","Ngày về":"11/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1537919},
+      {"Mã":"LC-5511-110526","Ngày về":"11/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1547100},
+      {"Mã":"LC-4289-110526","Ngày về":"11/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1320900},
+      {"Mã":"LC-8772-110526","Ngày về":"11/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1556300},
+      {"Mã":"LS-1105-110526","Ngày về":"11/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1373919},
+      {"Mã":"LC-0789-110526","Ngày về":"11/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":916600},
+      {"Mã":"LC-1250-110526","Ngày về":"11/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1538100},
+      {"Mã":"LC-7339-110526","Ngày về":"11/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1176100}
     ],
     "Tháng 5": [
       {"Mã":"LC-0599-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-0599-040526\nxám gunmetal size L độ mới rất cao, cứng cáp dày dặn chủ yếu qua lưu trữ. KT: 45  x 30 x 19\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1286950,"Giá bán":1900000},
@@ -557,7 +566,8 @@
       {"Mã":"LC-3736-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-3736-040526\nđỏ đậm size M dòng club, màu đỏ rất sang. condition khá, có các dấu vết qua sử dụng ở mặt dưới quai. mặt sau có 1 vết trầy vải nhỏ, ko phải rách thủng gì đâu ạ. Kt: 39 x 25 x 17\nGiá: 950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":493070,"Giá bán":950000},
       {"Mã":"LC-4477-060526","Ngày về":"06/05/2026","Sản phẩm":"LC-4477-060526\nhawthorn dòng club size L, độ mới tốt, mức độ qua sử dụng nhẹ, ko có lỗi nào lớn. KT: 45 x 30 x 19\nGiá: 1.790.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1237437,"Giá bán":1790000},
       {"Mã":"LC-4785-060526","Ngày về":"06/05/2026","Sản phẩm":"LC-4785-060526\nxanh dòng club size M siêuuu đẹp, ko có lỗi lớn nào ạ. KT: 40 x 26 x 16\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1400870,"Giá bán":1900000},
-      {"Mã":"LC-1063-060526","Ngày về":"06/05/2026","Sản phẩm":"LC-1063-060526\nchoco brown dòng neo size M màu cực đẹpp luônn. tổng quan đẹp cứng cáp, có 1 vài vết trầy màu nhẹ do qua sử dụng, nhìn ngoài ko đáng kể. KT: 37 x 24 x 14\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1400000,"Giá bán":1950000}
+      {"Mã":"LC-1063-060526","Ngày về":"06/05/2026","Sản phẩm":"LC-1063-060526\nchoco brown dòng neo size M màu cực đẹpp luônn. tổng quan đẹp cứng cáp, có 1 vài vết trầy màu nhẹ do qua sử dụng, nhìn ngoài ko đáng kể. KT: 37 x 24 x 14\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1400000,"Giá bán":1950000},
+      {"Mã":"LC-1072-110526","Ngày về":"11/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":723600}
     ]
   }
 }
