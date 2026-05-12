@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/05/2026 16:13",
+  "lastUpdated": "12/05/2026 08:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -226,7 +226,8 @@
       {"Mã":"VIĐỒ02042600","Ngày bán":"10/05/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":418007,"Giá bán":1500000,"Lãi":1081993},
       {"Mã":"LEHỘ29042601","Ngày bán":"10/05/2026","Sản phẩm":"Lego Desk Drawer 4 Knobs - Blue","Giá nhập":258252,"Giá bán":600000,"Lãi":341748},
       {"Mã":"LAREIK2508","Ngày bán":"11/05/2026","Sản phẩm":"Ikea Kila Desk Lamp","Giá nhập":1402873,"Giá bán":2000000,"Lãi":597127},
-      {"Mã":"IKCH26032600","Ngày bán":"11/05/2026","Sản phẩm":"Ikea Vinterfint Candle Holder","Giá nhập":68640,"Giá bán":150000,"Lãi":81360}
+      {"Mã":"IKCH26032600","Ngày bán":"11/05/2026","Sản phẩm":"Ikea Vinterfint Candle Holder","Giá nhập":68640,"Giá bán":150000,"Lãi":81360},
+      {"Mã":"SOĐÈ06032600","Ngày bán":"12/05/2026","Sản phẩm":"Sowden Portable Lamp LP1","Giá nhập":1309080,"Giá bán":2100000,"Lãi":790920}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -616,7 +617,8 @@
       {"Mã":"LC-1063-060526","Ngày bán":"10/05/2026","Sản phẩm":"LC-1063-060526","Giá nhập":1400000,"Giá bán":1950000,"Lãi":550000},
       {"Mã":"LC-5515-040526","Ngày bán":"11/05/2026","Sản phẩm":"LC-5515-040526","Giá nhập":930950,"Giá bán":690000,"Lãi":-240950},
       {"Mã":"LC-3454-040526","Ngày bán":"11/05/2026","Sản phẩm":"LC-3454-040526","Giá nhập":414750,"Giá bán":1750000,"Lãi":1335250},
-      {"Mã":"LC-3103-310326","Ngày bán":"11/05/2026","Sản phẩm":"LC-3103-310326","Giá nhập":1049100,"Giá bán":1050000,"Lãi":900}
+      {"Mã":"LC-3103-310326","Ngày bán":"11/05/2026","Sản phẩm":"LC-3103-310326","Giá nhập":1049100,"Giá bán":1050000,"Lãi":900},
+      {"Mã":"LC-0268-040526","Ngày bán":"12/05/2026","Sản phẩm":"LC-0268-040526","Giá nhập":1003210,"Giá bán":1650000,"Lãi":646790}
     ]
   }
 }
