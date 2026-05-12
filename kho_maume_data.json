@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/05/2026 09:26",
+  "lastUpdated": "12/05/2026 08:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1062,7 +1062,7 @@
       {"Mã":"MOBÁ06032602","Ngày về":"06/03/2026","Sản phẩm":"Moma La Maison Inondée Bowl - XS - White\n\nChất liệu: Gốm\n\nPhân Loại: Bát\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Size XS: 120 x 30mm\n\nGiá: 500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":475789,"Giá bán":500000},
       {"Mã":"IKĐÈ06032600","Ngày về":"06/03/2026","Sản phẩm":"Ikea Blasverk\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14\n\nKích thước: Đường kính đế 15.24 cm\nĐường kính đèn: 17.78 cm\nChiều cao: 35,5 cm\n\nGiá: 550.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":290840,"Giá bán":550000},
       {"Mã":"NOĐÈ06032600","Ngày về":"06/03/2026","Sản phẩm":"No brand Table Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, tặng kèm bóng E27\n\nKích thước: d190 x 730mm\n\nGiá: 900.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":599288,"Giá bán":900000},
-      {"Mã":"SOĐÈ06032600","Ngày về":"06/03/2026","Sản phẩm":"Sowden Portable Lamp LP1\n\nChất liệu: Kim loại, nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\nSạc Type C\n\nKích thước: d130 x 240mm\n\nGiá: 2.100.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1309080,"Giá bán":2100000},
+      {"Mã":"SOĐÈ06032600","Ngày về":"06/03/2026","Sản phẩm":"Sowden Portable Lamp LP1\n\nChất liệu: Kim loại, nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\nSạc Type C\n\nKích thước: d130 x 240mm\n\nGiá: 2.100.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1309080,"Giá bán":2100000},
       {"Mã":"SMBÌ07032600","Ngày về":"07/03/2026","Sản phẩm":"Smart x Keith Haring Stainless Steel Vacuum Mug\n\nChất liệu: Kim loại\n\nPhân Loại: Bình giữ nhiệt\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70 X 200mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":402370,"Giá bán":600000},
       {"Mã":"LEĐÈ12032600","Ngày về":"12/03/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model\n\nChất liệu: Nhựa, cao su\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\nNguồn Type C 5V\n\nKích thước: d80 x 110mm\n\nGiá: 800.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":234200,"Giá bán":800000},
       {"Mã":"IKĐÈ12032600","Ngày về":"12/03/2026","Sản phẩm":"Ikea Grejsimojs\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\nKhông kèm pin (2 x AA)\n\nKích thước: 250 x 330 x 750mm\n\nGiá: 1.400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1012442,"Giá bán":1400000},
