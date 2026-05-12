@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12/05/2026 08:43",
+  "lastUpdated": "12/05/2026 18:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -227,7 +227,16 @@
       {"Mã":"LEHỘ29042601","Ngày bán":"10/05/2026","Sản phẩm":"Lego Desk Drawer 4 Knobs - Blue","Giá nhập":258252,"Giá bán":600000,"Lãi":341748},
       {"Mã":"LAREIK2508","Ngày bán":"11/05/2026","Sản phẩm":"Ikea Kila Desk Lamp","Giá nhập":1402873,"Giá bán":2000000,"Lãi":597127},
       {"Mã":"IKCH26032600","Ngày bán":"11/05/2026","Sản phẩm":"Ikea Vinterfint Candle Holder","Giá nhập":68640,"Giá bán":150000,"Lãi":81360},
-      {"Mã":"SOĐÈ06032600","Ngày bán":"12/05/2026","Sản phẩm":"Sowden Portable Lamp LP1","Giá nhập":1309080,"Giá bán":2100000,"Lãi":790920}
+      {"Mã":"SOĐÈ06032600","Ngày bán":"12/05/2026","Sản phẩm":"Sowden Portable Lamp LP1","Giá nhập":1309080,"Giá bán":2100000,"Lãi":790920},
+      {"Mã":"LEHỘ09042602","Ngày bán":"12/05/2026","Sản phẩm":"Lego Storage Head – Mini (Girl)","Giá nhập":208701,"Giá bán":300000,"Lãi":91299},
+      {"Mã":"LEHỘ09042603","Ngày bán":"12/05/2026","Sản phẩm":"Lego Storage Head – Mini (Winking)","Giá nhập":208701,"Giá bán":300000,"Lãi":91299},
+      {"Mã":"LEHỘ29042600","Ngày bán":"12/05/2026","Sản phẩm":"Lego Desk Drawer 4 Knobs - Red","Giá nhập":258252,"Giá bán":600000,"Lãi":341748},
+      {"Mã":"LEHỘ29042601","Ngày bán":"12/05/2026","Sản phẩm":"Lego Desk Drawer 4 Knobs - Blue","Giá nhập":258252,"Giá bán":600000,"Lãi":341748},
+      {"Mã":"LEĐÈ09042600","Ngày bán":"12/05/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model","Giá nhập":198450,"Giá bán":800000,"Lãi":601550},
+      {"Mã":"LEHỘ06052607","Ngày bán":"12/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Green","Giá nhập":168295,"Giá bán":350000,"Lãi":181705},
+      {"Mã":"LEHỘ06052605","Ngày bán":"12/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick  - Yellow","Giá nhập":168295,"Giá bán":350000,"Lãi":181705},
+      {"Mã":"LEHỘ06052603","Ngày bán":"12/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Blue","Giá nhập":168295,"Giá bán":350000,"Lãi":181705},
+      {"Mã":"LEHỘ06052601","Ngày bán":"12/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - White","Giá nhập":168295,"Giá bán":350000,"Lãi":181705}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
