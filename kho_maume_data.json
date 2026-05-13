@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/05/2026 08:55",
+  "lastUpdated": "13/05/2026 10:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -633,7 +633,6 @@
       {"Mã":"OCBÌ171101","Ngày về":"17/11/2025","Sản phẩm":"Octaevo Paper Vase Florero\n\nChất liệu: Giấy\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 269 x 290mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":140190},
       {"Mã":"OCBÌ171101","Ngày về":"17/11/2025","Sản phẩm":"Octaevo Paper Vase Florero - Black\n\nChất liệu: Giấy\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 270 x 290mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":140190,"Giá bán":500000},
       {"Mã":"EGĐÈ181100","Ngày về":"18/11/2025","Sản phẩm":"Eglo Bogota Table Lamp\n\nChất liệu: Kim loại, thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, vỡ\n\nKích thước: 140 x 140 x 440mm\n\nGiá:","Tình trạng":"Sửa chữa","Thành tiền":501955},
-      {"Mã":"PO171100","Ngày về":"17/11/2025","Sản phẩm":"Chất liệu: \n\nPhân Loại: Poster\n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":212700},
       {"Mã":"MOBÁ171100","Ngày về":"17/11/2025","Sản phẩm":"Moma La Maison Inondée Bowl \n\nChất liệu: Gốm\n\nPhân Loại: Bát\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Size S: 177 x 381mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":620129},
       {"Mã":"VIKH171100","Ngày về":"17/11/2025","Sản phẩm":"Vitra High Tray\r\n\nChất liệu: Nhựa\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh \n\nKích thước: d300 x 150mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":867250,"Giá bán":1600000},
       {"Mã":"KH171100","Ngày về":"17/11/2025","Sản phẩm":"Soap Tray\n\nChất liệu: Gốm\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh \n\nKích thước: 170 x 120 x 30mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":244290},
@@ -726,7 +725,6 @@
       {"Mã":"GUHỘ031200","Ngày về":"03/12/2025","Sản phẩm":"Guzzini Zero Salad Lunch Box\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp cơm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: ‎168 x 168 x 144mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":481232,"Giá bán":800000},
       {"Mã":"LECỐ031200","Ngày về":"03/12/2025","Sản phẩm":"Lego 2 x 2 Brick Mug\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 130 x 95 x 85mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":187500},
       {"Mã":"HABÌ031200","Ngày về":"03/12/2025","Sản phẩm":"Hay Sowden Bottle\n\nChất liệu: Kim loại\n\nPhân Loại: Bình giữ nhiệt\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70 x 210mm. 0,35L\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":600550},
-      {"Mã":"PO031200","Ngày về":"03/12/2025","Sản phẩm":"Chất liệu: \n\nPhân Loại: Poster\n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"ko đăng","Thành tiền":193050},
       {"Mã":"MACỐ101200","Ngày về":"10/12/2025","Sản phẩm":"Marimekko Mini Unikko Coffee Cup\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: d75 x 70mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":247850},
       {"Mã":"CAĐỒ101200","Ngày về":"10/12/2025","Sản phẩm":"Casio IQ-6 Wall Clock\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh\n\nKích thước: 265 x 265 x 40mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":765930},
       {"Mã":"EGĐÈ101200","Ngày về":"10/12/2025","Sản phẩm":"Eglo Sambuca\n\nChất liệu: Kim loại, thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 280 x 154 x 420mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1029250},
@@ -1363,7 +1361,10 @@
       {"Mã":"LEHỘ06052605","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick  - Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295,"Giá bán":350000},
       {"Mã":"LEHỘ06052606","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Green\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295,"Giá bán":350000},
       {"Mã":"LEHỘ06052607","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Green\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295,"Giá bán":350000},
-      {"Mã":"NOBÁ06052600","Ngày về":"06/05/2026","Sản phẩm":"No brand Ceramic Bathtub Dish\n\nChất liệu: Gốm\n\nPhân Loại: Bát\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 95 x 50mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":197712}
+      {"Mã":"NOBÁ06052600","Ngày về":"06/05/2026","Sản phẩm":"No brand Ceramic Bathtub Dish\n\nChất liệu: Gốm\n\nPhân Loại: Bát\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 95 x 50mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":197712},
+      {"Mã":"VIPH20102500","Ngày về":"20/10/2025","Sản phẩm":"Vitra Eames Quotes Greeting Cards - Charles & Ray Eames\n\nChất liệu: Giấy\n\nPhân Loại: Phong bì thư\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":148850},
+      {"Mã":"SUPO17112500","Ngày về":"17/11/2025","Sản phẩm":"Supreme x Undercover Public Enemy Poster\n\nChất liệu: Giấy\n\nPhân Loại: Poster\n\nTình trạng: Như ảnh\n\nKích thước: 457 x 609mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":212700},
+      {"Mã":"SUPO30122500","Ngày về":"30/12/2025","Sản phẩm":"Supreme Fall Winter 2025 Poster\n\nChất liệu: Giấy\n\nPhân Loại: Poster\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193050}
     ]
   }
 }
