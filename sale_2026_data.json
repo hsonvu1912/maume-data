@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/05/2026 08:43",
+  "lastUpdated": "13/05/2026 12:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -237,7 +237,10 @@
       {"Mã":"LEHỘ06052605","Ngày bán":"12/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick  - Yellow","Giá nhập":168295,"Giá bán":350000,"Lãi":181705},
       {"Mã":"LEHỘ06052603","Ngày bán":"12/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Blue","Giá nhập":168295,"Giá bán":350000,"Lãi":181705},
       {"Mã":"LEHỘ06052601","Ngày bán":"12/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - White","Giá nhập":168295,"Giá bán":350000,"Lãi":181705},
-      {"Mã":"IKĐÈ29042601","Ngày bán":"13/05/2026","Sản phẩm":"Ikea Dromminge","Giá nhập":154410,"Giá bán":500000,"Lãi":345590}
+      {"Mã":"IKĐÈ29042601","Ngày bán":"13/05/2026","Sản phẩm":"Ikea Dromminge","Giá nhập":154410,"Giá bán":500000,"Lãi":345590},
+      {"Mã":"KIDỤ29042602","Ngày bán":"13/05/2026","Sản phẩm":"Kikkerland Monkey Tea Infuser","Giá nhập":149121,"Giá bán":350000,"Lãi":200879},
+      {"Mã":"KIDỤ29042603","Ngày bán":"13/05/2026","Sản phẩm":"Kikkerland Robot Tea Infuser","Giá nhập":149121,"Giá bán":350000,"Lãi":200879},
+      {"Mã":"KIDỤ29042604","Ngày bán":"13/05/2026","Sản phẩm":"Kikkerland Frog Tea Infuser","Giá nhập":149121,"Giá bán":350000,"Lãi":200879}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
