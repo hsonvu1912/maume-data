@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12/05/2026 22:55",
+  "lastUpdated": "13/05/2026 08:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1329,7 +1329,7 @@
       {"Mã":"LEHỘ29042600","Ngày về":"29/04/2026","Sản phẩm":"Lego Desk Drawer 4 Knobs - Red\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 240 x 240 x 180mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":258252,"Giá bán":600000},
       {"Mã":"LEHỘ29042601","Ngày về":"29/04/2026","Sản phẩm":"Lego Desk Drawer 4 Knobs - Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 240 x 240 x 180mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":258252,"Giá bán":600000},
       {"Mã":"IKĐÈ29042600","Ngày về":"29/04/2026","Sản phẩm":"Ikea Kvart\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Hỏng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":309882},
-      {"Mã":"IKĐÈ29042601","Ngày về":"29/04/2026","Sản phẩm":"Ikea Dromminge\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn tường\n\nTình trạng: Như ảnh\n\nKích thước: 210 x 10 x 300mm\n\nGiá: 500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":154410,"Giá bán":500000},
+      {"Mã":"IKĐÈ29042601","Ngày về":"29/04/2026","Sản phẩm":"Ikea Dromminge\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn tường\n\nTình trạng: Như ảnh\n\nKích thước: 210 x 10 x 300mm\n\nGiá: 500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":154410,"Giá bán":500000},
       {"Mã":"EDĐÈ29042600","Ngày về":"29/04/2026","Sản phẩm":"Edi Light Floor Lamp - Orange\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng E26\n\nKích thước: d120 x 550mm\n\nGiá: 900.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":213338,"Giá bán":900000},
       {"Mã":"EDĐÈ29042601","Ngày về":"29/04/2026","Sản phẩm":"Edi Light Floor Lamp - Green\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng E26\n\nKích thước: d120 x 550mm\n\nGiá: 900.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":213338,"Giá bán":900000},
       {"Mã":"EDĐÈ29042602","Ngày về":"29/04/2026","Sản phẩm":"Edi Light Floor Lamp - Orange\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng E26\n\nKích thước: d120 x 550mm\n\nGiá: 900.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":213338,"Giá bán":900000},
