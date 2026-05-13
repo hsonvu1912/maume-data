@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/05/2026 11:55",
+  "lastUpdated": "13/05/2026 13:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1337,8 +1337,8 @@
       {"Mã":"KIBỘ04052602","Ngày về":"04/05/2026","Sản phẩm":"Kikkerland Invisible Cards JFJC\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh\n\nKích thước: 64 x 89 x 2mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":146625}
     ],
     "Tháng 5/2026": [
-      {"Mã":"THSO06052600","Ngày về":"06/05/2026","Sản phẩm":"The North Face Inflatable Sofa\n\nChất liệu: Polyester & ABS\n\nPhân Loại: Sofa khí\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Gấp gọn: 370 x 220 x 100mm\nMở: 1600 x 680 x 480mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":330840},
-      {"Mã":"JNĐỆ06052600","Ngày về":"06/05/2026","Sản phẩm":"Jnbyhome @ Velvet Cushion\n\nChất liệu: Vải nhung\n\nPhân Loại: Đệm\n\nTình trạng: Như ảnh\n\nKích thước: 570 x 480mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":426418},
+      {"Mã":"THSO06052600","Ngày về":"06/05/2026","Sản phẩm":"The North Face Inflatable Sofa\n\nChất liệu: Polyester & ABS\n\nPhân Loại: Sofa khí\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Gấp gọn: 370 x 220 x 100mm\nMở: 1600 x 680 x 480mm\n\nGiá: 850.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":330840,"Giá bán":850000},
+      {"Mã":"JNĐỆ06052600","Ngày về":"06/05/2026","Sản phẩm":"Jnbyhome @ Velvet Cushion\n\nChất liệu: Vải nhung\n\nPhân Loại: Đệm\n\nTình trạng: Như ảnh\n\nKích thước: 570 x 480mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":426418,"Giá bán":700000},
       {"Mã":"JNCH06052600","Ngày về":"06/05/2026","Sản phẩm":"Jnbyhome Home Compact Fluffy Blanket Towel\n\nChất liệu: Vải\n\nPhân Loại: Chăn\n\nTình trạng: Như ảnh\n\nKích thước: 1600 x 1000mm, gấp gọn 250 x 250 x 130mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":419362},
       {"Mã":"HARỔ06052600","Ngày về":"06/05/2026","Sản phẩm":"Hay Colour Crate S - Dark Mint\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 170 x 265 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":160462},
       {"Mã":"HARỔ06052601","Ngày về":"06/05/2026","Sản phẩm":"Hay Colour Crate S - Mint\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 171 x 265 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":160462},
