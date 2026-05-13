@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/05/2026 12:13",
+  "lastUpdated": "13/05/2026 15:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -240,7 +240,13 @@
       {"Mã":"IKĐÈ29042601","Ngày bán":"13/05/2026","Sản phẩm":"Ikea Dromminge","Giá nhập":154410,"Giá bán":500000,"Lãi":345590},
       {"Mã":"KIDỤ29042602","Ngày bán":"13/05/2026","Sản phẩm":"Kikkerland Monkey Tea Infuser","Giá nhập":149121,"Giá bán":350000,"Lãi":200879},
       {"Mã":"KIDỤ29042603","Ngày bán":"13/05/2026","Sản phẩm":"Kikkerland Robot Tea Infuser","Giá nhập":149121,"Giá bán":350000,"Lãi":200879},
-      {"Mã":"KIDỤ29042604","Ngày bán":"13/05/2026","Sản phẩm":"Kikkerland Frog Tea Infuser","Giá nhập":149121,"Giá bán":350000,"Lãi":200879}
+      {"Mã":"KIDỤ29042604","Ngày bán":"13/05/2026","Sản phẩm":"Kikkerland Frog Tea Infuser","Giá nhập":149121,"Giá bán":350000,"Lãi":200879},
+      {"Mã":"LEHỘ07042600","Ngày bán":"13/05/2026","Sản phẩm":"Lego CD Storage","Giá nhập":475500,"Giá bán":650000,"Lãi":174500},
+      {"Mã":"LEĐÈ16042601","Ngày bán":"13/05/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model","Giá nhập":197130,"Giá bán":800000,"Lãi":602870},
+      {"Mã":"NOCỐ09042621","Ngày bán":"13/05/2026","Sản phẩm":"No brand Ly Red Swirl","Giá nhập":34209,"Giá bán":130000,"Lãi":95791},
+      {"Mã":"NOCỐ09042622","Ngày bán":"13/05/2026","Sản phẩm":"No brand Ly Red Swirl","Giá nhập":34209,"Giá bán":130000,"Lãi":95791},
+      {"Mã":"NOCỐ09042623","Ngày bán":"13/05/2026","Sản phẩm":"No brand Ly Red Swirl","Giá nhập":34209,"Giá bán":130000,"Lãi":95791},
+      {"Mã":"NOCỐ09042624","Ngày bán":"13/05/2026","Sản phẩm":"No brand Ly Red Swirl","Giá nhập":34209,"Giá bán":130000,"Lãi":95791}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -631,7 +637,18 @@
       {"Mã":"LC-5515-040526","Ngày bán":"11/05/2026","Sản phẩm":"LC-5515-040526","Giá nhập":930950,"Giá bán":690000,"Lãi":-240950},
       {"Mã":"LC-3454-040526","Ngày bán":"11/05/2026","Sản phẩm":"LC-3454-040526","Giá nhập":414750,"Giá bán":1750000,"Lãi":1335250},
       {"Mã":"LC-3103-310326","Ngày bán":"11/05/2026","Sản phẩm":"LC-3103-310326","Giá nhập":1049100,"Giá bán":1050000,"Lãi":900},
-      {"Mã":"LC-0268-040526","Ngày bán":"12/05/2026","Sản phẩm":"LC-0268-040526","Giá nhập":1003210,"Giá bán":1650000,"Lãi":646790}
+      {"Mã":"LC-0268-040526","Ngày bán":"12/05/2026","Sản phẩm":"LC-0268-040526","Giá nhập":1003210,"Giá bán":1650000,"Lãi":646790},
+      {"Mã":"LC-1105-110526","Ngày bán":"13/05/2026","Sản phẩm":"LC-1105-110526","Giá nhập":1537919,"Giá bán":1950000,"Lãi":412081},
+      {"Mã":"LC-5511-110526","Ngày bán":"13/05/2026","Sản phẩm":"LC-5511-110526","Giá nhập":1547100,"Giá bán":2000000,"Lãi":452900},
+      {"Mã":"LS-1105-110526","Ngày bán":"13/05/2026","Sản phẩm":"LS-1105-110526","Giá nhập":1241919,"Giá bán":1700000,"Lãi":458081},
+      {"Mã":"LC-4926-110526","Ngày bán":"13/05/2026","Sản phẩm":"LC-4926-110526","Giá nhập":823100,"Giá bán":1550000,"Lãi":726900},
+      {"Mã":"LC-5210-110526","Ngày bán":"13/05/2026","Sản phẩm":"LC-5210-110526","Giá nhập":1369100,"Giá bán":1870000,"Lãi":500900},
+      {"Mã":"LC-7339-110526","Ngày bán":"13/05/2026","Sản phẩm":"balo navy condition tốt. qua sdung nhẹ, ko lỗi gì lớn. KT: 28 x 30 x 10 vừa laptop 13","Giá nhập":1242100,"Giá bán":1500000,"Lãi":257900},
+      {"Mã":"LC-0789-110526","Ngày bán":"13/05/2026","Sản phẩm":"xám bạc silver dòng neo size M màu cực lạ và xinh. phom cứng cáp đẹp lắm lun. mức độ qua sử dụng nhẹ ko có lỗi nào lớn. KT: 38 x 25 x 14","Giá nhập":916600,"Giá bán":1700000,"Lãi":783400},
+      {"Mã":"LC-1250-110526","Ngày bán":"13/05/2026","Sản phẩm":"xám gunmetal size L condition rất tốt, phom đẹp cứng cáp, ít qua sử dụng. KT: 45 x 30 x 19","Giá nhập":1604100,"Giá bán":1900000,"Lãi":295900},
+      {"Mã":"LC-8772-110526","Ngày bán":"13/05/2026","Sản phẩm":"LC-8772-110526","Giá nhập":1556300,"Giá bán":1950000,"Lãi":393700},
+      {"Mã":"LC-8953-110526","Ngày bán":"13/05/2026","Sản phẩm":"LC-8953-110526","Giá nhập":1278600,"Giá bán":2300000,"Lãi":1021400},
+      {"Mã":"LC-4289-110526","Ngày bán":"13/05/2026","Sản phẩm":"LC-4289-110526","Giá nhập":1320900,"Giá bán":1850000,"Lãi":529100}
     ]
   }
 }
