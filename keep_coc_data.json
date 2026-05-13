@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "02/05/2026 22:23",
+  "lastUpdated": "13/05/2026 15:04",
   "source": "hàng khách keep/cọc",
   "description": "Danh sach khach keep/da coc. 4 sections: maume_keep, maume_coc, burger_keep, burger_coc.",
   "sections": {
@@ -17,16 +17,8 @@
       {"stt":8,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""}
     ],
     "maume_coc": [
-      {"stt":1,"ma":"","sanPham":"Lego 4-Stud Desk Drawer - blue - ĐÃ VỀ","thoiGian":"04/01/2026","igKhach":"https://www.instagram.com/lf.pvnirvana/","ghiChu":"đã cọc 500k"},
-      {"stt":null,"ma":"","sanPham":"Lego 4-Stud Desk Drawer - red","thoiGian":"","igKhach":"","ghiChu":""},
-      {"stt":null,"ma":"","sanPham":"Lego Brick Drawer 4 Knobs - red","thoiGian":"","igKhach":"","ghiChu":""},
-      {"stt":null,"ma":"","sanPham":"Lego Storage Head - Mini (girl) - ĐÃ VỀ","thoiGian":"","igKhach":"","ghiChu":""},
-      {"stt":null,"ma":"","sanPham":"Lego Storage Head - Mini (winking) - ĐÃ VỀ","thoiGian":"","igKhach":"","ghiChu":""},
-      {"stt":null,"ma":"","sanPham":"Lego 1-Stud Round Storage Brick - white","thoiGian":"","igKhach":"","ghiChu":""},
-      {"stt":null,"ma":"","sanPham":"Lego 1-Stud Round Storage Brick - blue","thoiGian":"","igKhach":"","ghiChu":""},
-      {"stt":null,"ma":"","sanPham":"Lego 1-Stud Round Storage Brick - yellow","thoiGian":"","igKhach":"","ghiChu":""},
-      {"stt":null,"ma":"","sanPham":"Lego 1-Stud Round Storage Brick - green","thoiGian":"","igKhach":"","ghiChu":""},
-      {"stt":2,"ma":"","sanPham":"Kikkerland Fish Corkscrew","thoiGian":"21/3/2026","igKhach":"https://www.instagram.com/vanv/","ghiChu":"đã trả full"}
+      {"stt":1,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""},
+      {"stt":2,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""}
     ],
     "burger_keep": [],
     "burger_coc": []
