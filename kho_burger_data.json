@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "13/05/2026 16:04",
+  "lastUpdated": "14/05/2026 09:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
     "Tháng 1": [
       {"Mã":"LC-1624","Ngày về":"26/11","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1030800,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"CH-1212-01","Ngày về":"12/12/2025","Sản phẩm":"mini pouch C dáng turn lock signature của hãng, độ mới rất cao 9/10, không lỗi gì đáng kể KT 20 x 11 x 5 vừa dt","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1096000,"Giá bán":1900000},
-      {"Mã":"LC-5076","Ngày về":"12/12/2025","Sản phẩm":"LC le roseau shoulder bag màu hồng da, be hồng vừa đẹp vừa hiếmmm. còn sổ, dust bag. độ mới cực cao, chủ yếu qua lưu trữ. góc đáy không trầy sờn gì luôn 29 x 20 x 10 size này ko vừa laptop đâu ạ giá new tham khảo khoảng 9-10tr\nGiá: 3.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":2889500,"Giá bán":3800000},
+      {"Mã":"LC-5076","Ngày về":"12/12/2025","Sản phẩm":"LC le roseau shoulder bag màu hồng da, be hồng vừa đẹp vừa hiếmmm. còn sổ, dust bag. độ mới cực cao, chủ yếu qua lưu trữ. góc đáy không trầy sờn gì luôn 29 x 20 x 10 size này ko vừa laptop đâu ạ giá new tham khảo khoảng 9-10tr\nGiá: 3.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":2889500,"Giá bán":3800000},
       {"Mã":"LC-5081","Ngày về":"29/12","Sản phẩm":"túi cói size S phối quai nâu\ncondition tốt, túi dày dặn cứng cáp, có quai đeo chéo, lót có một vài vết bẩn như ảnh \n23 x 16 x 11","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1472000,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-7188","Ngày về":"29/12","Sản phẩm":"mini pouch màu đen\ncondition rất tốt, ít qua sd, túi sạch sẽ cứng cáp \n22 x 11 x 6 vừa dth, khách mua thêm dây đeo chéo là đeo đc nha","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":887000,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-0798","Ngày về":"29/12","Sản phẩm":"đen size L bản đời mới có hai ngăn phụ \ncondition: tổng quan túi dày dặn sạch sẽ, quai bị trầy chủ yếu ở mặt dưới, lót có một vài vết rách nhỏ như ảnh ko ảnh hg gì khi sd  \n45 x 29,5 x 19","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1200315,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
