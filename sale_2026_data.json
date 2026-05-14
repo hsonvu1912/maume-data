@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/05/2026 15:43",
+  "lastUpdated": "14/05/2026 09:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -648,7 +648,8 @@
       {"Mã":"LC-1250-110526","Ngày bán":"13/05/2026","Sản phẩm":"xám gunmetal size L condition rất tốt, phom đẹp cứng cáp, ít qua sử dụng. KT: 45 x 30 x 19","Giá nhập":1604100,"Giá bán":1900000,"Lãi":295900},
       {"Mã":"LC-8772-110526","Ngày bán":"13/05/2026","Sản phẩm":"LC-8772-110526","Giá nhập":1556300,"Giá bán":1950000,"Lãi":393700},
       {"Mã":"LC-8953-110526","Ngày bán":"13/05/2026","Sản phẩm":"LC-8953-110526","Giá nhập":1278600,"Giá bán":2300000,"Lãi":1021400},
-      {"Mã":"LC-4289-110526","Ngày bán":"13/05/2026","Sản phẩm":"LC-4289-110526","Giá nhập":1320900,"Giá bán":1850000,"Lãi":529100}
+      {"Mã":"LC-4289-110526","Ngày bán":"13/05/2026","Sản phẩm":"LC-4289-110526","Giá nhập":1320900,"Giá bán":1850000,"Lãi":529100},
+      {"Mã":"LC-5076","Ngày bán":"14/05/2026","Sản phẩm":"LC le roseau shoulder bag màu hồng da, be hồng vừa đẹp vừa hiếmmm. còn sổ, dust bag. độ mới cực cao, chủ yếu qua lưu trữ. góc đáy không trầy sờn gì luôn 29 x 20 x 10 size này ko vừa laptop đâu ạ giá new tham khảo khoảng 9-10tr","Giá nhập":2889500,"Giá bán":3800000,"Lãi":910500}
     ]
   }
 }
