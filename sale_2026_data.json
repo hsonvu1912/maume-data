@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/05/2026 11:43",
+  "lastUpdated": "14/05/2026 15:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -251,7 +251,13 @@
       {"Mã":"HARỔ06052600","Ngày bán":"14/05/2026","Sản phẩm":"Hay Colour Crate S - Dark Mint","Giá nhập":160462,"Giá bán":250000,"Lãi":89538},
       {"Mã":"KIGI06052600","Ngày bán":"14/05/2026","Sản phẩm":"Kikkerland Palm Reader Jewelry Stand","Giá nhập":254660,"Giá bán":400000,"Lãi":145340},
       {"Mã":"LEHỘ06052602","Ngày bán":"14/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Blue","Giá nhập":168295,"Giá bán":350000,"Lãi":181705},
-      {"Mã":"HARỔ06052601","Ngày bán":"14/05/2026","Sản phẩm":"Hay Colour Crate S - Mint","Giá nhập":160462,"Giá bán":250000,"Lãi":89538}
+      {"Mã":"HARỔ06052601","Ngày bán":"14/05/2026","Sản phẩm":"Hay Colour Crate S - Mint","Giá nhập":160462,"Giá bán":250000,"Lãi":89538},
+      {"Mã":"HARỔ06052605","Ngày bán":"14/05/2026","Sản phẩm":"Hay Colour Crate S - Grey","Giá nhập":160462,"Giá bán":250000,"Lãi":89538},
+      {"Mã":"HARỔ06052604","Ngày bán":"14/05/2026","Sản phẩm":"Hay Colour Crate S - Lavender","Giá nhập":160462,"Giá bán":250000,"Lãi":89538},
+      {"Mã":"HARỔ06052603","Ngày bán":"14/05/2026","Sản phẩm":"Hay Colour Crate S - Dusty Rose","Giá nhập":160462,"Giá bán":250000,"Lãi":89538},
+      {"Mã":"HARỔ06052602","Ngày bán":"14/05/2026","Sản phẩm":"Hay Colour Crate S - Light Yellow","Giá nhập":160462,"Giá bán":250000,"Lãi":89538},
+      {"Mã":"NOBÌ24042600","Ngày bán":"14/05/2026","Sản phẩm":"No brand Ceramic Vase","Giá nhập":351468,"Giá bán":600000,"Lãi":248532},
+      {"Mã":"KIBỘ04052600","Ngày bán":"14/05/2026","Sản phẩm":"Kikkerland 3D Cat Cards","Giá nhập":186570,"Giá bán":290000,"Lãi":103430}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
