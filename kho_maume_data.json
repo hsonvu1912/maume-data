@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/05/2026 10:25",
+  "lastUpdated": "16/05/2026 10:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1333,7 +1333,7 @@
       {"Mã":"EDĐÈ29042602","Ngày về":"29/04/2026","Sản phẩm":"Edi Light Floor Lamp - Orange\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng E26\n\nKích thước: d120 x 550mm\n\nGiá: 900.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":213338,"Giá bán":900000},
       {"Mã":"ANCH29042600","Ngày về":"29/04/2026","Sản phẩm":"Anthropologie Dupe Poker Casino Shot\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: d40 x 100mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":366816,"Giá bán":700000},
       {"Mã":"KIBỘ04052600","Ngày về":"04/05/2026","Sản phẩm":"Kikkerland 3D Cat Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 65 x 21mm\n\nGiá: 290.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":186570,"Giá bán":290000},
-      {"Mã":"KIBỘ04052601","Ngày về":"04/05/2026","Sản phẩm":"Kikkerland Invisible Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh\n\nKích thước: 64 x 89 x 2mm\n\nGiá: 290.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":146625,"Giá bán":290000},
+      {"Mã":"KIBỘ04052601","Ngày về":"04/05/2026","Sản phẩm":"Kikkerland Invisible Cards\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh\n\nKích thước: 64 x 89 x 2mm\n\nGiá: 290.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":146625,"Giá bán":290000},
       {"Mã":"KIBỘ04052602","Ngày về":"04/05/2026","Sản phẩm":"Kikkerland Invisible Cards JFJC\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh\n\nKích thước: 64 x 89 x 2mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":146625,"Giá bán":290000}
     ],
     "Tháng 5/2026": [
@@ -1381,7 +1381,7 @@
       {"Mã":"IKĐỒ14052600","Ngày về":"14/05/2026","Sản phẩm":"Ikea Duktig 24-Piece Pizza Set\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 350 x 250mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195156,"Giá bán":300000},
       {"Mã":"IKĐỒ14052601","Ngày về":"14/05/2026","Sản phẩm":"Ikea Duktig  14-Piece Vegetables Set\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh\n\nKích thước: 170 x 140 x 100mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":155356,"Giá bán":300000},
       {"Mã":"DOCỐ14052600","Ngày về":"14/05/2026","Sản phẩm":"Doiy Kitty Ginger\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước:  70 x 80 x 290mm\n\nGiá: 1.800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1077521,"Giá bán":1800000},
-      {"Mã":"THDÂ14052600","Ngày về":"14/05/2026","Sản phẩm":"The North Face Pet Leash & Tnf Pet Chest Harness Back Pack\n\nChất liệu: Nhựa, vải\n\nPhân Loại: Dây xích, đai thú cưng\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 9 x 1800mm\n60 x 60 x 105mm\n\nGiá: 1.800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":970845,"Giá bán":1800000},
+      {"Mã":"THDÂ14052600","Ngày về":"14/05/2026","Sản phẩm":"The North Face Pet Leash & Tnf Pet Chest Harness Back Pack\n\nChất liệu: Nhựa, vải\n\nPhân Loại: Dây xích, đai thú cưng\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Kích thước dây: 9 x 1800mm\nKích thước đai: Vòng cổ 440-540mm\nVòng ngực 460-630mm\nCân nặng: 7,5~14kg\n\nGiá: 1.800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":970845,"Giá bán":1800000},
       {"Mã":"THCỜ14052600","Ngày về":"14/05/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 370 x 280mm\n\nGiá: 2.000.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1064876,"Giá bán":2000000}
     ]
   }
