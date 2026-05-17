@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "16/05/2026 12:27",
+  "lastUpdated": "17/05/2026 12:27",
   "source": "DASHBOARD 2026",
   "description": "Dashboard tổng hợp kinh doanh 2026: doanh thu, lợi nhuận, chi phí, hàng tồn, đầu tư. Giá trị tiền = VND, margin = thập phân (0.48 = 48%).",
   "data": {
-    "currentMonth": "KEY DATA THÁNG 4",
+    "currentMonth": "Key data Tháng 5",
     "summary": {
       "SALE": 124519000,
       "UNITS SOLD": 107,
