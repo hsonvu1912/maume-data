@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/05/2026 10:43",
+  "lastUpdated": "18/05/2026 09:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -262,7 +262,10 @@
       {"Mã":"THSO06052600","Ngày bán":"15/05/2026","Sản phẩm":"The North Face Inflatable Sofa","Giá nhập":330840,"Giá bán":850000,"Lãi":519160},
       {"Mã":"IKĐÈ06052600","Ngày bán":"15/05/2026","Sản phẩm":"Ikea Lövmånad - 2023","Giá nhập":219580,"Giá bán":350000,"Lãi":130420},
       {"Mã":"LEHỘ06052604","Ngày bán":"16/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Yellow","Giá nhập":168295,"Giá bán":350000,"Lãi":181705},
-      {"Mã":"KIBỘ04052601","Ngày bán":"16/05/2026","Sản phẩm":"Kikkerland Invisible Cards","Giá nhập":146625,"Giá bán":290000,"Lãi":143375}
+      {"Mã":"KIBỘ04052601","Ngày bán":"16/05/2026","Sản phẩm":"Kikkerland Invisible Cards","Giá nhập":146625,"Giá bán":290000,"Lãi":143375},
+      {"Mã":"VIĐỒ14052601","Ngày bán":"18/05/2026","Sản phẩm":"Vilac Keith Haring Stacking Game","Giá nhập":356586,"Giá bán":800000,"Lãi":443414},
+      {"Mã":"IKĐÈ14052600","Ngày bán":"18/05/2026","Sản phẩm":"Ikea Aftonsparv - 2024","Giá nhập":326316,"Giá bán":550000,"Lãi":223684},
+      {"Mã":"RIGẠ14052600","Ngày bán":"18/05/2026","Sản phẩm":"Rip N Dip Lazy Nerm Ceramic Ash Tray","Giá nhập":456811,"Giá bán":800000,"Lãi":343189}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
