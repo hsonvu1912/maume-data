@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18/05/2026 09:43",
+  "lastUpdated": "18/05/2026 10:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -265,7 +265,15 @@
       {"Mã":"KIBỘ04052601","Ngày bán":"16/05/2026","Sản phẩm":"Kikkerland Invisible Cards","Giá nhập":146625,"Giá bán":290000,"Lãi":143375},
       {"Mã":"VIĐỒ14052601","Ngày bán":"18/05/2026","Sản phẩm":"Vilac Keith Haring Stacking Game","Giá nhập":356586,"Giá bán":800000,"Lãi":443414},
       {"Mã":"IKĐÈ14052600","Ngày bán":"18/05/2026","Sản phẩm":"Ikea Aftonsparv - 2024","Giá nhập":326316,"Giá bán":550000,"Lãi":223684},
-      {"Mã":"RIGẠ14052600","Ngày bán":"18/05/2026","Sản phẩm":"Rip N Dip Lazy Nerm Ceramic Ash Tray","Giá nhập":456811,"Giá bán":800000,"Lãi":343189}
+      {"Mã":"RIGẠ14052600","Ngày bán":"18/05/2026","Sản phẩm":"Rip N Dip Lazy Nerm Ceramic Ash Tray","Giá nhập":456811,"Giá bán":800000,"Lãi":343189},
+      {"Mã":"IKĐỒ14052600","Ngày bán":"18/05/2026","Sản phẩm":"Ikea Duktig 24-Piece Pizza Set","Giá nhập":195156,"Giá bán":300000,"Lãi":104844},
+      {"Mã":"IKĐỒ14052601","Ngày bán":"18/05/2026","Sản phẩm":"Ikea Duktig  14-Piece Vegetables Set","Giá nhập":155356,"Giá bán":300000,"Lãi":144644},
+      {"Mã":"THTÚ14052600","Ngày bán":"18/05/2026","Sản phẩm":"The North Face Foldable Tote Bag 2.0","Giá nhập":409031,"Giá bán":1000000,"Lãi":590969},
+      {"Mã":"THCỜ14052600","Ngày bán":"18/05/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style","Giá nhập":1064876,"Giá bán":2000000,"Lãi":935124},
+      {"Mã":"HAKÉ14052600","Ngày bán":"18/05/2026","Sản phẩm":"Hay Scissors - Black","Giá nhập":171276,"Giá bán":350000,"Lãi":178724},
+      {"Mã":"IKĐÈ14052601","Ngày bán":"18/05/2026","Sản phẩm":"Ikea Smila Blomma - 2016","Giá nhập":156804,"Giá bán":500000,"Lãi":343196},
+      {"Mã":"IKĐÈ14052603","Ngày bán":"18/05/2026","Sản phẩm":"Ikea Solvinden Solar Lamp","Giá nhập":239660,"Giá bán":400000,"Lãi":160340},
+      {"Mã":"LEMÓ24042600","Ngày bán":"18/05/2026","Sản phẩm":"Lego Wall Hanger Rack","Giá nhập":171756,"Giá bán":550000,"Lãi":378244}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
