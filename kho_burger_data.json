@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/05/2026 11:04",
+  "lastUpdated": "18/05/2026 13:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -127,7 +127,7 @@
       {"Mã":"CH-2701-12","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526329,"Giá bán":550000},
       {"Mã":"CH-2701-13","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":380000},
       {"Mã":"CH-2701-14","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526330,"Giá bán":600000},
-      {"Mã":"CH-2701-15","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":680000},
+      {"Mã":"CH-2701-15","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":680000},
       {"Mã":"CH-2701-16","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526331,"Giá bán":875000},
       {"Mã":"CH-2701-17","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":750000},
       {"Mã":"CH-2701-18","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526332,"Giá bán":700000},
