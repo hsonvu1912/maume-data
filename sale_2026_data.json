@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19/05/2026 12:13",
+  "lastUpdated": "19/05/2026 12:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -273,7 +273,12 @@
       {"Mã":"HAKÉ14052600","Ngày bán":"18/05/2026","Sản phẩm":"Hay Scissors - Black","Giá nhập":171276,"Giá bán":350000,"Lãi":178724},
       {"Mã":"IKĐÈ14052601","Ngày bán":"18/05/2026","Sản phẩm":"Ikea Smila Blomma - 2016","Giá nhập":156804,"Giá bán":500000,"Lãi":343196},
       {"Mã":"IKĐÈ14052603","Ngày bán":"18/05/2026","Sản phẩm":"Ikea Solvinden Solar Lamp","Giá nhập":239660,"Giá bán":400000,"Lãi":160340},
-      {"Mã":"LEMÓ24042600","Ngày bán":"18/05/2026","Sản phẩm":"Lego Wall Hanger Rack","Giá nhập":171756,"Giá bán":550000,"Lãi":378244}
+      {"Mã":"LEMÓ24042600","Ngày bán":"18/05/2026","Sản phẩm":"Lego Wall Hanger Rack","Giá nhập":171756,"Giá bán":550000,"Lãi":378244},
+      {"Mã":"MACỐ101200","Ngày bán":"19/05/2026","Sản phẩm":"Marimekko Mini Unikko Coffee Cup","Giá nhập":247850,"Giá bán":400000,"Lãi":152150},
+      {"Mã":"DOBÌ311000","Ngày bán":"19/05/2026","Sản phẩm":"Doiy Daisy Vase","Giá nhập":668648,"Giá bán":800000,"Lãi":131352},
+      {"Mã":"IKMÓ290100","Ngày bán":"19/05/2026","Sản phẩm":"Ikea Ommjänge","Giá nhập":145521,"Giá bán":250000,"Lãi":104479},
+      {"Mã":"BRĐÈ031200","Ngày bán":"19/05/2026","Sản phẩm":"Brilliant Junior","Giá nhập":767678,"Giá bán":900000,"Lãi":132322},
+      {"Mã":"LEMÓ24042601","Ngày bán":"19/05/2026","Sản phẩm":"Lego Wall Hanger Rack","Giá nhập":153256,"Giá bán":550000,"Lãi":396744}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
