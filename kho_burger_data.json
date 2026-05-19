@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19/05/2026 10:04",
+  "lastUpdated": "19/05/2026 10:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -570,6 +570,7 @@
       {"Mã":"LC-1072-110526","Ngày về":"11/05/2026","Sản phẩm":"LC-1072-110526\nnavy size L condition khá tốt, qua sử dụng nhẹ, tổng quan đẹp, phom cứng cáp. KT: 45 x 29 x 20\nGiá: 1.650.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":723600,"Giá bán":1650000},
       {"Mã":"LC-5210-110526","Ngày về":"11/05/2026","Sản phẩm":"LC-5210-110526\nxám dòng club size M còn sổ, condition rất mới, chủ yếu qua lưu trữ chứ ko sdung nhiều. KT: 40 x 26 x 16\nGiá: 1.870.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1369100,"Giá bán":1870000},
       {"Mã":"LC-8262-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1267000},
+      {"Mã":"LC-5147-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1629000},
       {"Mã":"LC-3371-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":832600},
       {"Mã":"LC-7650-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":828980},
       {"Mã":"LC-9112-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1556600},
