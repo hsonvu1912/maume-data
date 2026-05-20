@@ -1,18 +1,15 @@
 {
-  "lastUpdated": "14/05/2026 16:14",
+  "lastUpdated": "20/05/2026 22:10",
   "source": "hàng khách keep/cọc",
   "description": "Danh sach khach keep/da coc. 4 sections: maume_keep, maume_coc, burger_keep, burger_coc.",
   "sections": {
     "maume_keep": [
       {"stt":1,"ma":"","sanPham":"Ikea Lampan (orange)","thoiGian":"22/1/2026","igKhach":"https://www.instagram.com/bnphm0609/","ghiChu":"chưa trả lời"},
-      {"stt":2,"ma":"MACỐ101200","sanPham":"Marimekko Mini Unikko Coffee Cup","thoiGian":"22/1/2026","igKhach":"https://www.instagram.com/sillymeo/","ghiChu":"khách muốn tiếp tục keep"},
-      {"stt":null,"ma":"DOBÌ311000","sanPham":"Doiy Daisy Vase","thoiGian":"","igKhach":"","ghiChu":""},
-      {"stt":null,"ma":"IKMÓ290100","sanPham":"Ikea Ommjänge","thoiGian":"31/1/2026","igKhach":"","ghiChu":""},
-      {"stt":null,"ma":"BRĐÈ031200","sanPham":"Brilliant Junior","thoiGian":"","igKhach":"","ghiChu":""},
+      {"stt":2,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""},
       {"stt":3,"ma":"SPXXIK0608","sanPham":"Ikea LUSY 5x","thoiGian":"22/1/2026","igKhach":"https://www.instagram.com/just_dinie/","ghiChu":"seen ko rep"},
       {"stt":4,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""},
       {"stt":5,"ma":"","sanPham":"Cốc speckled grey + emerald","thoiGian":"18/4/2026","igKhach":"https://www.instagram.com/tthaomy_?igsh=NGt0cTU1N2M3dmUy","ghiChu":"Keep Đã ck full"},
-      {"stt":6,"ma":"","sanPham":"Lego Wall Hanger Rack","thoiGian":"26/4/2026","igKhach":"https://www.instagram.com/sillymeo/?utm_source=ig_web_button_share_sheet","ghiChu":"Keep Đã ck full"},
+      {"stt":6,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""},
       {"stt":7,"ma":"","sanPham":"THẢM SIMPSONS","thoiGian":"14/5/2026","igKhach":"https://www.instagram.com/hoangle29715/?utm_source=ig_web_button_share_sheet","ghiChu":"Keep Đã ck full"},
       {"stt":8,"ma":"KECRST0509 | VIĐỒ24042600 |  IKGI171200","sanPham":"Stella Sferico stainless steel kettle\nVitra Eames Elephant (small) - Charles & Ray Eames, 1945 | Ikea Tradig","thoiGian":"14/5/2026","igKhach":"https://www.instagram.com/khue.tt?igsh=bWJ6ejA5amM5anBh","ghiChu":"Đã cọc 1tr"}
     ],
