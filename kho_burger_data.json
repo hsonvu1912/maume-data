@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/05/2026 15:04",
+  "lastUpdated": "20/05/2026 15:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -591,10 +591,10 @@
       {"Mã":"LC-3371-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":924850},
       {"Mã":"LC-7650-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":921230},
       {"Mã":"LC-9112-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1648850},
-      {"Mã":"LC-3130-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1105850},
+      {"Mã":"LC-3130-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1105850,"Giá bán":2000000},
       {"Mã":"LC-8879-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1739169},
       {"Mã":"LC-8953-190526","Ngày về":"19/05/2026","Sản phẩm":"LC-8953-190526\ngraphite size L độ mới like new chủ yếu qua lưu trữ chứ ko sử dụng. KT: 45 x 30 x 19\nGiá: 2.300.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1278600,"Giá bán":2300000},
-      {"Mã":"LC-1905-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1049100},
+      {"Mã":"LC-1905-190526","Ngày về":"19/05/2026","Sản phẩm":"LC-1905-190526\nnavy size M bản đời mới 2 ngăn phụ. condition khá tốt, tổng quan đẹp. quai do qua sử dụng nên bị trầy mặt dưới (lỗi thường thấy) khi đeo lên cũng ko ảnh hưởng gì đâu ạ. KT: 40 x 25 x 17\nGiá: 1.400.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1049100,"Giá bán":1400000},
       {"Mã":"LS-1905-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1320600},
       {"Mã":"LC-4593-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1351100},
       {"Mã":"LC-8047-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":807919},
