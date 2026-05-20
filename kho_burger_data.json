@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/05/2026 14:34",
+  "lastUpdated": "20/05/2026 15:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -569,6 +569,7 @@
       {"Mã":"LC-6214-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1598440},
       {"Mã":"LC-2598-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1245822},
       {"Mã":"LC-4441-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1157000},
+      {"Mã":"LC-2858-01-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":797440},
       {"Mã":"LC-2904-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1103600},
       {"Mã":"LC-3905-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1520832},
       {"Mã":"LC-5758-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1513000},
@@ -598,8 +599,12 @@
       {"Mã":"LC-4593-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1351100},
       {"Mã":"LC-8047-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":807919},
       {"Mã":"LC-9541-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":985480},
+      {"Mã":"LC-2239-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1119620},
       {"Mã":"LC-1430-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":854400},
+      {"Mã":"LC-8058-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1388400},
       {"Mã":"LC-5984-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1219300},
+      {"Mã":"LC-7447-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2047000},
+      {"Mã":"LC-4337-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":890000},
       {"Mã":"LS-2005-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":979000}
     ]
   }
