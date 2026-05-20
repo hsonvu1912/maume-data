@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19/05/2026 13:34",
+  "lastUpdated": "20/05/2026 14:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -564,6 +564,11 @@
       {"Mã":"LC-1624-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-1624-040526\nxám dòng club size L. condition khá tốt. phần sơn viền màu vàng nứt nhẹ (lỗi thường gặp của dòng club) tổng quan vẫn dày dặn cứng cáp sử dụng bình thường. KT: 45 x 30 x 19\nGiá: 950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":414572,"Giá bán":950000},
       {"Mã":"LC-1266-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-1266-040526\nnavy dòng neo size M condition tốt, dày dặn cứng cáp, ko lỗi nào lớn. KT: 37 x 23 x 15\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":838390,"Giá bán":1700000},
       {"Mã":"LC-3736-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-3736-040526\nđỏ đậm size M dòng club, màu đỏ rất sang. condition khá, có các dấu vết qua sử dụng ở mặt dưới quai. mặt sau có 1 vết trầy vải nhỏ, ko phải rách thủng gì đâu ạ. Kt: 39 x 25 x 17\nGiá: 950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":493070,"Giá bán":950000},
+      {"Mã":"LC-3234-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":750270},
+      {"Mã":"LC-2858-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":861520},
+      {"Mã":"LC-9224-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1424000},
+      {"Mã":"LC-5514-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":658600},
+      {"Mã":"LC-2813-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1032400},
       {"Mã":"LC-4477-060526","Ngày về":"06/05/2026","Sản phẩm":"LC-4477-060526\nhawthorn dòng club size L, độ mới tốt, mức độ qua sử dụng nhẹ, ko có lỗi nào lớn. KT: 45 x 30 x 19\nGiá: 1.790.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1237437,"Giá bán":1790000},
       {"Mã":"LC-4785-060526","Ngày về":"06/05/2026","Sản phẩm":"LC-4785-060526\nxanh dòng club size M siêuuu đẹp, ko có lỗi lớn nào ạ. KT: 40 x 26 x 16\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1400870,"Giá bán":1900000},
       {"Mã":"LC-1063-060526","Ngày về":"06/05/2026","Sản phẩm":"LC-1063-060526\nchoco brown dòng neo size M màu cực đẹpp luônn. tổng quan đẹp cứng cáp, có 1 vài vết trầy màu nhẹ do qua sử dụng, nhìn ngoài ko đáng kể. KT: 37 x 24 x 14\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1400000,"Giá bán":1950000},
@@ -582,7 +587,8 @@
       {"Mã":"LS-1905-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1320600},
       {"Mã":"LC-4593-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1351100},
       {"Mã":"LC-8047-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":807919},
-      {"Mã":"LC-9541-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":985480}
+      {"Mã":"LC-9541-190526","Ngày về":"19/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":985480},
+      {"Mã":"LC-1430-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":854400}
     ]
   }
 }
