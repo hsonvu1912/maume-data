@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21/05/2026 23:13",
+  "lastUpdated": "21/05/2026 23:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -280,7 +280,10 @@
       {"Mã":"BRĐÈ031200","Ngày bán":"19/05/2026","Sản phẩm":"Brilliant Junior","Giá nhập":767678,"Giá bán":900000,"Lãi":132322},
       {"Mã":"LEMÓ24042601","Ngày bán":"19/05/2026","Sản phẩm":"Lego Wall Hanger Rack","Giá nhập":153256,"Giá bán":550000,"Lãi":396744},
       {"Mã":"SHCỐ16042600","Ngày bán":"21/05/2026","Sản phẩm":"Showa Inc Bolt Mug - Black","Giá nhập":235005,"Giá bán":350000,"Lãi":114995},
-      {"Mã":"STCỐ09042600","Ngày bán":"21/05/2026","Sản phẩm":"Starbucks x Fragment Ceramic Mug Black","Giá nhập":329250,"Giá bán":600000,"Lãi":270750}
+      {"Mã":"STCỐ09042600","Ngày bán":"21/05/2026","Sản phẩm":"Starbucks x Fragment Ceramic Mug Black","Giá nhập":329250,"Giá bán":600000,"Lãi":270750},
+      {"Mã":"VIĐỒ14052600","Ngày bán":"21/05/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":412396,"Giá bán":1500000,"Lãi":1087604},
+      {"Mã":"TAORMT1510A","Ngày bán":"21/05/2026","Sản phẩm":"Mt Tape Cutter","Giá nhập":125449,"Giá bán":150000,"Lãi":24551},
+      {"Mã":"DOBÌ16042600","Ngày bán":"21/05/2026","Sản phẩm":"Doiy Girl Power Vase","Giá nhập":590975,"Giá bán":900000,"Lãi":309025}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
