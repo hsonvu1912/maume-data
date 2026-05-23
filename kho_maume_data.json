@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/05/2026 09:55",
+  "lastUpdated": "23/05/2026 10:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1386,7 +1386,7 @@
       {"Mã":"KIMỞ20052600","Ngày về":"20/05/2026","Sản phẩm":"Kikkerland  Shark Keyring Bottle Opener & Corkscrew\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia & rượu vang\n\nTình trạng: Như ảnh\n\nKích thước: 90 x 38\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":196000},
       {"Mã":"MCHỘ20052600","Ngày về":"20/05/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar\n\nChất liệu: Kim loại\n\nPhân Loại: Hộp giữ nhiệt\n\nTình trạng: Như ảnh\n\nKích thước: d90x 110mm,\nDung tích: 300ml\n\nGiá: 380.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":231900,"Giá bán":380000},
       {"Mã":"MCHỘ20052601","Ngày về":"20/05/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar\n\nChất liệu: Kim loại\n\nPhân Loại: Hộp giữ nhiệt\n\nTình trạng: Như ảnh\n\nKích thước: d90x 110mm,\nDung tích: 300ml\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":231900},
-      {"Mã":"MCBỘ20052600","Ngày về":"20/05/2026","Sản phẩm":"Mcdonald's x Beams Design McDonald's Lucky Bag Set\r\n\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ quà\n\nTình trạng: Như ảnh\n\nKích thước: Cốc giữ nhiệt: d90x 110mm\nDung tích: 300ml\nĐèn: 60 x 130mm\nKẹp: 40 x 40 x 160mm\nKhăn: 220 x 200mm\nTúi: 150 x 195mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":276500},
+      {"Mã":"MCBỘ20052600","Ngày về":"20/05/2026","Sản phẩm":"Mcdonald's x Beams Design McDonald's Lucky Bag Set\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ quà\n\nTình trạng: Như ảnh\n\nKích thước: Cốc giữ nhiệt: d90x 110mm\nDung tích: 300ml\nĐèn: 60 x 130mm\nKẹp: 40 x 40 x 160mm\nKhăn: 220 x 200mm\nTúi: 150 x 195mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":276500},
       {"Mã":"MCBỘ20052601","Ngày về":"20/05/2026","Sản phẩm":"Mcdonald's x Francfranc McDonald's Lucky Bag Set\r\n\nChất liệu: Cốc kim loại, đèn nhựa\n\nPhân Loại: Bộ quà\n\nTình trạng: Như ảnh\n\nKích thước: Cốc giữ nhiệt: d90x 110mm\nDung tích: 300ml\nĐèn: 90 x 130mm\nKhăn: 245 x 245mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":366790},
       {"Mã":"IKĐỒ20052600","Ngày về":"20/05/2026","Sản phẩm":"Ikea Persby\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh\n\nKích thước: d300 x 45mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":281994},
       {"Mã":"THĐỒ20052600","Ngày về":"20/05/2026","Sản phẩm":"The North Face Pet Knot Toy\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi thú cưng\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 90 x 200mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":74562},
