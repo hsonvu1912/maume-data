@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22/05/2026 12:13",
+  "lastUpdated": "25/05/2026 16:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -284,7 +284,13 @@
       {"Mã":"VIĐỒ14052600","Ngày bán":"21/05/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":412396,"Giá bán":1500000,"Lãi":1087604},
       {"Mã":"TAORMT1510A","Ngày bán":"21/05/2026","Sản phẩm":"Mt Tape Cutter","Giá nhập":125449,"Giá bán":150000,"Lãi":24551},
       {"Mã":"DOBÌ16042600","Ngày bán":"21/05/2026","Sản phẩm":"Doiy Girl Power Vase","Giá nhập":590975,"Giá bán":900000,"Lãi":309025},
-      {"Mã":"MCHỘ20052600","Ngày bán":"22/05/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar","Giá nhập":231900,"Giá bán":380000,"Lãi":148100}
+      {"Mã":"MCHỘ20052600","Ngày bán":"22/05/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar","Giá nhập":231900,"Giá bán":380000,"Lãi":148100},
+      {"Mã":"NOCỐ09042617","Ngày bán":"25/05/2026","Sản phẩm":"No brand Cốc Speckled Grey","Giá nhập":54459,"Giá bán":130000,"Lãi":75541},
+      {"Mã":"NOCỐ09042618","Ngày bán":"25/05/2026","Sản phẩm":"No brand Cốc Speckled Grey","Giá nhập":54459,"Giá bán":130000,"Lãi":75541},
+      {"Mã":"NOCỐ09042619","Ngày bán":"25/05/2026","Sản phẩm":"No brand Cốc Speckled Grey","Giá nhập":54459,"Giá bán":130000,"Lãi":75541},
+      {"Mã":"NOCỐ09042620","Ngày bán":"25/05/2026","Sản phẩm":"No brand Cốc Speckled Grey","Giá nhập":54459,"Giá bán":130000,"Lãi":75541},
+      {"Mã":"NOCỐ09042609","Ngày bán":"25/05/2026","Sản phẩm":"No brand Cốc Emerald","Giá nhập":68418,"Giá bán":180000,"Lãi":111582},
+      {"Mã":"NOCỐ09042610","Ngày bán":"25/05/2026","Sản phẩm":"No brand Cốc Emerald","Giá nhập":68418,"Giá bán":180000,"Lãi":111582}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
