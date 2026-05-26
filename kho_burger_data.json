@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/05/2026 00:34",
+  "lastUpdated": "27/05/2026 01:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -617,7 +617,7 @@
       {"Mã":"LC-2239-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1205707},
       {"Mã":"LC-1430-200526","Ngày về":"20/05/2026","Sản phẩm":"LC-1430-200526\nblack dòng neo size M, túi condition tốt, qua sd nhẹ, bên ngoài đẹp nesttt. KT 38 x 24 x 15\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":940487,"Giá bán":1800000},
       {"Mã":"LC-8058-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1474487},
-      {"Mã":"LC-5984-200526","Ngày về":"20/05/2026","Sản phẩm":"LC-5984-200526\nforest dòng green size L condition tốt, qua sử dụng nhe, quai đẹp cứng cáp ạ. KT 46 x 30 x 19\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1305387,"Giá bán":2100000},
+      {"Mã":"LC-5984-200526","Ngày về":"20/05/2026","Sản phẩm":"LC-5984-200526\nforest dòng green size L condition tốt, qua sử dụng nhe, quai đẹp cứng cáp ạ. có in chữ custom nhưng nhìn ngoài ko để ý lắmmm. KT 46 x 30 x 19\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1305387,"Giá bán":1850000},
       {"Mã":"LC-7447-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2133087},
       {"Mã":"LC-4337-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":976087},
       {"Mã":"LS-2005-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1065087},
