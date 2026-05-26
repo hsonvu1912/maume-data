@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26/05/2026 13:04",
+  "lastUpdated": "26/05/2026 13:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -607,6 +607,11 @@
       {"Mã":"LC-7872-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1104100},
       {"Mã":"LC-7448-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1592800},
       {"Mã":"LC-7728-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":902828},
+      {"Mã":"LC-4441-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1013600},
+      {"Mã":"LC-8808-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1466100},
+      {"Mã":"LC-6109-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1448000},
+      {"Mã":"LC-8911-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1556600},
+      {"Mã":"LC-8974-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":905000},
       {"Mã":"LC-2239-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1205707},
       {"Mã":"LC-1430-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":940487},
       {"Mã":"LC-8058-200526","Ngày về":"20/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1474487},
