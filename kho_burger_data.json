@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/05/2026 01:04",
+  "lastUpdated": "27/05/2026 14:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -600,7 +600,7 @@
       {"Mã":"LC-4593-190526","Ngày về":"19/05/2026","Sản phẩm":"LC-4593-190526\nforest xanh rêu size L condition rất tốt ạ, 1 vài lỗi bẩn nhỏ do qua sử dụng kh đáng kể nhenn ngoài đời cứng cáp đẹp lắm. KT: 45   30 x 19\nGiá: 2.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1351100,"Giá bán":2000000},
       {"Mã":"LC-8047-190526","Ngày về":"19/05/2026","Sản phẩm":"LC-8047-190526\nnavy size M nhỏ, condition tốt, mặt dưới quai có 1 vài vết trầy, đeo lên vai sẽ ko thấy đâu ạ. tổng quan đẹp cứng cáp. KT 35 x 24 x 15\nGiá: 1.350.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":807919,"Giá bán":1350000},
       {"Mã":"LC-9541-190526","Ngày về":"19/05/2026","Sản phẩm":"LC-9541-190526\nmini pouch paper condition like new còn nguyên phụ kiện sổ, kèm dây chéo\nGiá: 2.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":985480,"Giá bán":2000000},
-      {"Mã":"LC-5693-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1224646},
+      {"Mã":"LC-5493-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1224646},
       {"Mã":"LC-8723-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":2081000},
       {"Mã":"LC-5984-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1447600,"Giá bán":2050000},
       {"Mã":"LS-2605-260526","Ngày về":"26/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1139900},
