@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/05/2026 09:25",
+  "lastUpdated": "27/05/2026 17:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -977,7 +977,7 @@
     "Tháng 2/2026": [
       {"Mã":"KINA020200","Ngày về":"02/02/2026","Sản phẩm":"Kikkerland Dog Butt Magnets\n\nChất liệu: Nhựa\n\nPhân Loại: Nam châm\n\nTình trạng: Như ảnh\n\nKích thước: 32 x 50 x 19mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":149100},
       {"Mã":"HOLỌ050200","Ngày về":"05/02/2026","Sản phẩm":"Hoobbe Shaky Duck Pepper & Salt Shaker\n\nChất liệu: Nhựa\n\nPhân Loại: Lọ gia vị\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 50 x 140 x 60mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":168200},
-      {"Mã":"KIĐỒ050200","Ngày về":"05/02/2026","Sản phẩm":"Kikkerland Stack the Bones\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 80 x 300mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":379309,"Giá bán":600000},
+      {"Mã":"KIĐỒ050200","Ngày về":"05/02/2026","Sản phẩm":"Kikkerland Stack the Bones\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 80 x 300mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":379309,"Giá bán":600000},
       {"Mã":"KIMỞ050200","Ngày về":"05/02/2026","Sản phẩm":"Kikkerland Day of the Dead Corkscrew\n\nChất liệu: Kim loại\n\nPhân Loại: Mở rượu vang\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 215 x 80 x 38mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":518338},
       {"Mã":"KIMỞ050201","Ngày về":"05/02/2026","Sản phẩm":"Kikkerland Day of the Dead Corkscrew\n\nChất liệu: Kim loại\n\nPhân Loại: Mở rượu vang\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 215 x 80 x 38mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":558714,"Giá bán":1400000},
       {"Mã":"THTÚ050200","Ngày về":"05/02/2026","Sản phẩm":"The North Face Foldable Tote Bag 2.0\n\nChất liệu: Vải\n\nPhân Loại: Túi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Khi gấp: 75 x 90mm Khi mở: 550 x 420 x 150mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":451336},
@@ -1366,7 +1366,7 @@
       {"Mã":"LEHỘ06052606","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Green\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":168295,"Giá bán":350000},
       {"Mã":"LEHỘ06052607","Ngày về":"06/05/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - Green\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 180mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168295,"Giá bán":350000},
       {"Mã":"NOBÁ06052600","Ngày về":"06/05/2026","Sản phẩm":"No brand Ceramic Bathtub Dish\n\nChất liệu: Gốm\n\nPhân Loại: Bát\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 95 x 50mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":197712,"Giá bán":600000},
-      {"Mã":"VIPH20102500","Ngày về":"20/10/2025","Sản phẩm":"Vitra Eames Quotes Greeting Cards - Charles & Ray Eames\n\nChất liệu: Giấy\n\nPhân Loại: Phong bì thư\n\nTình trạng: Như ảnh\n\nKích thước: 115 x 170mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":148850,"Giá bán":300000},
+      {"Mã":"VIPH20102500","Ngày về":"20/10/2025","Sản phẩm":"Vitra Eames Quotes Greeting Cards - Charles & Ray Eames\n\nChất liệu: Giấy\n\nPhân Loại: Phong bì thư\n\nTình trạng: Như ảnh\n\nKích thước: 115 x 170mm\n\nGiá: 300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":148850,"Giá bán":300000},
       {"Mã":"SUPO17112500","Ngày về":"17/11/2025","Sản phẩm":"Supreme x Undercover Public Enemy Poster\n\nChất liệu: Giấy\n\nPhân Loại: Poster\n\nTình trạng: Như ảnh\n\nKích thước: 457 x 609mm\n\nGiá: 500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":212700,"Giá bán":500000},
       {"Mã":"SUPO30122500","Ngày về":"30/12/2025","Sản phẩm":"Supreme Fall Winter 2025 Poster\n\nChất liệu: Giấy\n\nPhân Loại: Poster\n\nTình trạng: Như ảnh\n\nKích thước: 650 x 904mm\n\nGiá: 500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193050,"Giá bán":500000},
       {"Mã":"VIĐỒ14052600","Ngày về":"14/05/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":412396,"Giá bán":1500000},
