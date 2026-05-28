@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/05/2026 17:25",
+  "lastUpdated": "28/05/2026 12:56",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1397,7 +1397,37 @@
       {"Mã":"THĐỒ20052600","Ngày về":"20/05/2026","Sản phẩm":"The North Face Pet Knot Toy\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi thú cưng\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 90 x 200mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":74562,"Giá bán":300000},
       {"Mã":"IKĐÈ20052600","Ngày về":"20/05/2026","Sản phẩm":"Ikea Smila Blomma - 2016\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn tường\n\nTình trạng: Như ảnh, không kèm bóng E14\n\nKích thước: d340 x 75mm\n\nGiá: 500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":171096,"Giá bán":500000},
       {"Mã":"IKMÓ20052600","Ngày về":"20/05/2026","Sản phẩm":"Ikea Krokig\n\nChất liệu: Nhựa\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: d70 x 60mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Giá bán":300000},
-      {"Mã":"PO20052600","Ngày về":"20/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Poster\n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"}
+      {"Mã":"PO20052600","Ngày về":"20/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Poster\n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"IKĐỒ27052600","Ngày về":"27/05/2026","Sản phẩm":"Ikea Lattjo Wooden Multi Game Set\n( Cờ caro, Cờ vua, Cờ backgammon, Cờ vây Anh và Cờ Ludo)\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh\n\nKích thước: 360 x 360 x 55mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":883953},
+      {"Mã":"THCỜ27052600","Ngày về":"27/05/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 370 x 280mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":962249},
+      {"Mã":"HARỔ27052600","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate L - Dusty Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 345 x 5330 x 185mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":385952},
+      {"Mã":"HARỔ27052601","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate L - Dusty Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 345 x 5330 x 185mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":385952},
+      {"Mã":"HARỔ27052602","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate M - Mint\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 265 x 345 x 140mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":226752},
+      {"Mã":"HARỔ27052603","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate S - Light Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 171 x 265 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":110669},
+      {"Mã":"HARỔ27052604","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate S - Red\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 172 x 265 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":110669},
+      {"Mã":"HARỔ27052605","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate S - Dusty Rose\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 173 x 265 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":110669},
+      {"Mã":"HARỔ27052606","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate S - White\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 174 x 265 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":110669},
+      {"Mã":"HARỔ27052607","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate S - Lavender\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 175 x 265 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":110669},
+      {"Mã":"HARỔ27052608","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate S - Lavender\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 176 x 265 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":110669},
+      {"Mã":"LABỘ27052600","Ngày về":"27/05/2026","Sản phẩm":"La Prairie Chess Set\n\nChất liệu: Gỗ\n\nPhân Loại: Bộ cờ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 440 x 100 x 75\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":905981},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":291690},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":499376},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":261912},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":300652},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":300652},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":329227},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":329227},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":236464},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":236464},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":505211},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1200256},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":175980},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":386094},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":209758},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":151774},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":281812},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":224464},
+      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":206682}
     ]
   }
 }
