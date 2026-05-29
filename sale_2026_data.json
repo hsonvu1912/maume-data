@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28/05/2026 08:13",
+  "lastUpdated": "29/05/2026 11:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -297,7 +297,8 @@
       {"Mã":"CPO251201","Ngày bán":"27/05/2026","Sản phẩm":"Comme Des Garcons Poster 30x21","Giá nhập":172317,"Giá bán":700000,"Lãi":527683},
       {"Mã":"IKĐÈ20052600","Ngày bán":"27/05/2026","Sản phẩm":"Ikea Smila Blomma - 2016","Giá nhập":171096,"Giá bán":500000,"Lãi":328904},
       {"Mã":"VIPH20102500","Ngày bán":"27/05/2026","Sản phẩm":"Vitra Eames Quotes Greeting Cards - Charles & Ray Eames","Giá nhập":148850,"Giá bán":300000,"Lãi":151150},
-      {"Mã":"KIĐỒ050200","Ngày bán":"27/05/2026","Sản phẩm":"Kikkerland Stack the Bones","Giá nhập":379309,"Giá bán":600000,"Lãi":220691}
+      {"Mã":"KIĐỒ050200","Ngày bán":"27/05/2026","Sản phẩm":"Kikkerland Stack the Bones","Giá nhập":379309,"Giá bán":600000,"Lãi":220691},
+      {"Mã":"IKNH221100","Ngày bán":"29/05/2026","Sản phẩm":"IKEA X Keith Haring Slätthult Wall Stickers","Giá nhập":343260,"Giá bán":600000,"Lãi":256740}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
