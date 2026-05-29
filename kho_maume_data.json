@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/05/2026 14:25",
+  "lastUpdated": "29/05/2026 15:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1399,7 +1399,7 @@
       {"Mã":"IKMÓ20052600","Ngày về":"20/05/2026","Sản phẩm":"Ikea Krokig\n\nChất liệu: Nhựa\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: d70 x 60mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Giá bán":300000},
       {"Mã":"PO20052600","Ngày về":"20/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Poster\n\nTình trạng: Như ảnh, không kèm khung \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
       {"Mã":"IKĐỒ27052600","Ngày về":"27/05/2026","Sản phẩm":"Ikea Lattjo Wooden Multi Game Set\n( Cờ caro, Cờ vua, Cờ backgammon, Cờ vây Anh và Cờ Ludo)\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh\n\nKích thước: 360 x 360 x 55mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":883953},
-      {"Mã":"THCỜ27052600","Ngày về":"27/05/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 370 x 280mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":962249},
+      {"Mã":"THCỜ27052600","Ngày về":"27/05/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp, 1 quân cờ bị gãy tay 9 (ảnh 5)\n\nKích thước: 370 x 280mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":962249},
       {"Mã":"HARỔ27052600","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate L - Dusty Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 345 x 5330 x 185mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":385952},
       {"Mã":"HARỔ27052601","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate L - Dusty Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 345 x 5330 x 185mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":385952},
       {"Mã":"HARỔ27052602","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate M - Mint\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 265 x 345 x 140mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":226752},
