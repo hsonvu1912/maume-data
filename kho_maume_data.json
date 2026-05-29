@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/05/2026 15:25",
+  "lastUpdated": "29/05/2026 15:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1391,7 +1391,7 @@
       {"Mã":"MCHỘ20052600","Ngày về":"20/05/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar\n\nChất liệu: Kim loại\n\nPhân Loại: Hộp giữ nhiệt\n\nTình trạng: Như ảnh\n\nKích thước: d90x 110mm,\nDung tích: 300ml\n\nGiá: 380.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":231900,"Giá bán":380000},
       {"Mã":"MCHỘ20052601","Ngày về":"20/05/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar\n\nChất liệu: Kim loại\n\nPhân Loại: Hộp giữ nhiệt\n\nTình trạng: Như ảnh\n\nKích thước: d90x 110mm,\nDung tích: 300ml\n\nGiá: 380.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":231900,"Giá bán":380000},
       {"Mã":"MCBỘ20052600","Ngày về":"20/05/2026","Sản phẩm":"Mcdonald's x Beams Design Lucky Bag Set\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ quà\n\nTình trạng: Như ảnh\n\nKích thước: Đèn: 60 x 130mm\nKẹp: 40 x 40 x 160mm\nKhăn: 220 x 200mm\nTúi: 150 x 195mm\n\nGiá: 500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":276500,"Giá bán":500000},
-      {"Mã":"Cốc kim loại, đèn nhựa","Ngày về":"20/05/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar & Hand Towel\n\nChất liệu: Cốc kim loại, đèn nhựa\n\nPhân Loại: Cốc giữ nhiệt\n\nTình trạng: Như ảnh\n\nKích thước: Cốc giữ nhiệt: d90x 110mm\nDung tích: 300ml\nKhăn: 245 x 245mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":183395},
+      {"Mã":"MCCỐ20052600","Ngày về":"20/05/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar & Hand Towel\n\nChất liệu: Cốc kim loại, đèn nhựa\n\nPhân Loại: Cốc giữ nhiệt\n\nTình trạng: Như ảnh\n\nKích thước: Cốc giữ nhiệt: d90x 110mm\nDung tích: 300ml\nKhăn: 245 x 245mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":183395},
       {"Mã":"MCĐÈ20052600","Ngày về":"20/05/2026","Sản phẩm":"Mcdonald's x Beams Design Big Mac Lantern\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 130mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":183395},
       {"Mã":"IKĐỒ20052600","Ngày về":"20/05/2026","Sản phẩm":"Ikea Persby\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh\n\nKích thước: d300 x 45mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":281994,"Giá bán":350000},
       {"Mã":"THĐỒ20052600","Ngày về":"20/05/2026","Sản phẩm":"The North Face Pet Knot Toy\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi thú cưng\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 90 x 200mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":74562,"Giá bán":300000},
