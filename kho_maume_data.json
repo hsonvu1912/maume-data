@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/05/2026 09:55",
+  "lastUpdated": "29/05/2026 11:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -660,7 +660,7 @@
       {"Mã":"DOMỞ221100","Ngày về":"22/11/2025","Sản phẩm":"Doiy Stadium Opener\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 20 x 175mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":240773,"Giá bán":450000},
       {"Mã":"DOMỞ221101","Ngày về":"22/11/2025","Sản phẩm":"Doiy Stadium Opener\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 91 x 20 x 175mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":240773,"Giá bán":450000},
       {"Mã":"IKĐÈ221101","Ngày về":"22/11/2025","Sản phẩm":"Ikea Östanå\n\nChất liệu: Kim loại, kính\n\nPhân Loại: Đèn tường\n\nTình trạng: Như ảnh\n\nKích thước: 160 x 80 x 190mm\n\nGiá:","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":757535},
-      {"Mã":"IKNH221100","Ngày về":"22/11/2025","Sản phẩm":"IKEA X Keith Haring Slätthult Wall Stickers \n\nChất liệu: Giấy\n\nPhân Loại: Nhãn dán\n\nTình trạng: Như ảnh\n\nKích thước: 500 x 300mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":343260,"Giá bán":600000},
+      {"Mã":"IKNH221100","Ngày về":"22/11/2025","Sản phẩm":"IKEA X Keith Haring Slätthult Wall Stickers \n\nChất liệu: Giấy\n\nPhân Loại: Nhãn dán\n\nTình trạng: Như ảnh\n\nKích thước: 500 x 300mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":343260,"Giá bán":600000},
       {"Mã":"IKĐỒ221100","Ngày về":"22/11/2025","Sản phẩm":"Ikea Snajdare - 2022\n\nChất liệu: Gỗ\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh\nKim trôi\nPin: 1 x AA\n\nKích thước: 280 x 260 x 20mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":264000},
       {"Mã":"CAĐĨ221100","Ngày về":"22/11/2025","Sản phẩm":"Carrie M. Weems for Dior - 2023 Brooklyn Artists Ball\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: d275mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":444690,"Giá bán":1000000},
       {"Mã":"VIĐĨ221100","Ngày về":"22/11/2025","Sản phẩm":"Virgil Abloh x Prospect Life Itself 2021\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: d267mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":393734},
