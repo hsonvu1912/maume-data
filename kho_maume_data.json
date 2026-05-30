@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/05/2026 15:55",
+  "lastUpdated": "30/05/2026 16:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -500,7 +500,7 @@
       {"Mã":"GLBLDO2010","Ngày về":"20/10/2025","Sản phẩm":"DOIY Koifish Glasses Blue\nTình trạng: Như ảnh, còn hộp\nKích thước: 83 x 83 x 325 mm","Tình trạng":"Hết hàng","Thành tiền":1068658},
       {"Mã":"CRXXHA2010","Ngày về":"20/10/2025","Sản phẩm":"Hay Color Crate S \nTình trạng: Như ảnh\nKích thước: 170 x 265 x 105mm\n1 xanh lá 1, 1 xanh nhạt","Tình trạng":"Hết hàng","Thành tiền":935712},
       {"Mã":"HOEGEG2010","Ngày về":"20/10/2025","Sản phẩm":"Egizia Guest Glass Holder 6 Dof\nTình trạng: Như ảnh, còn hộp\nKích thước: 180 x 300 x 200mm","Tình trạng":"Còn hàng","Thành tiền":1459502,"Giá bán":2500000},
-      {"Mã":"CHORSU2010","Ngày về":"20/10/2025","Sản phẩm":"Sunny Life Baciato Dal Bole\r\nBeach Chair\nTình trạng: Như ảnh\nKích thước: 640 x 540x 506mm","Tình trạng":"Còn hàng","Thành tiền":703890,"Giá bán":1400000},
+      {"Mã":"CHORSU2010","Ngày về":"20/10/2025","Sản phẩm":"Sunny Life Baciato Dal Bole\nBeach Chair\nTình trạng: Như ảnh\nKích thước: 640 x 540x 506mm\nGiá: Sale 43% 1.400.000 => 800.000","Tình trạng":"Còn hàng","Thành tiền":703890,"Giá bán":1400000},
       {"Mã":"SOCRSO2010","Ngày về":"20/10/2025","Sản phẩm":"Sowden Coffee SoftBrew & Sowden Cup\nTình trạng: Như ảnh, còn hộp\nKích thước: 150 x 11 x 125mm &\n d65 x 68mm","Tình trạng":"Hết hàng","Thành tiền":591329},
       {"Mã":"TRNAIK2010","Ngày về":"20/10/2025","Sản phẩm":"IKEA Bastua Serving Tray\nTình trạng: Như ảnh\nKích thước: d430mm","Tình trạng":"Hết hàng","Thành tiền":331400},
       {"Mã":"PAWHXX2310","Ngày về":"23/10/2025","Sản phẩm":"Iittala Cheetah Paper Napkins \nTình trạng: Mới\nKích thước: 330 x 330mm & 125 x 125mm","Tình trạng":"Còn hàng","Thành tiền":130180,"Giá bán":170000},
