@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/06/2026 13:13",
+  "lastUpdated": "01/06/2026 14:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -299,10 +299,8 @@
       {"Mã":"VIPH20102500","Ngày bán":"27/05/2026","Sản phẩm":"Vitra Eames Quotes Greeting Cards - Charles & Ray Eames","Giá nhập":148850,"Giá bán":300000,"Lãi":151150},
       {"Mã":"KIĐỒ050200","Ngày bán":"27/05/2026","Sản phẩm":"Kikkerland Stack the Bones","Giá nhập":379309,"Giá bán":600000,"Lãi":220691},
       {"Mã":"IKNH221100","Ngày bán":"29/05/2026","Sản phẩm":"IKEA X Keith Haring Slätthult Wall Stickers","Giá nhập":343260,"Giá bán":600000,"Lãi":256740},
-      {"Mã":"THCỜ27052600","Ngày bán":"31/05/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style","Giá nhập":962249,"Giá bán":1500000,"Lãi":537751}
-    ],
-    "SALE_MauMe_2026-06": [
-      {"Mã":"UBGRTO2810","Ngày bán":"01/06/2026","Sản phẩm":"TOTES UMBRELLA","Giá nhập":417810,"Giá bán":650000,"Lãi":232190},
+      {"Mã":"THCỜ27052600","Ngày bán":"31/05/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style","Giá nhập":962249,"Giá bán":1500000,"Lãi":537751},
+      {"Mã":"UBGRTO2810","Ngày bán":"01/06/2026","Sản phẩm":"TOTES UMBRELLA","Giá nhập":417810,"Giá bán":400000,"Lãi":17810},
       {"Mã":"ERBÁ27052600","Ngày bán":"01/06/2026","Sản phẩm":"Erik. x Onepice Luffy's Straw Hat Bowl","Giá nhập":206682,"Giá bán":700000,"Lãi":493318},
       {"Mã":"THGẠ27052600","Ngày bán":"01/06/2026","Sản phẩm":"The Scene Loong Ashtray","Giá nhập":499376,"Giá bán":800000,"Lãi":300624},
       {"Mã":"URCỐ27052600","Ngày bán":"01/06/2026","Sản phẩm":"Urban Outfitters Bailey Cocktail Tumbler - Blue","Giá nhập":236464,"Giá bán":350000,"Lãi":113536},
@@ -746,9 +744,7 @@
       {"Mã":"LC-3234-200526","Ngày bán":"28/05/2026","Sản phẩm":"LC-3234-200526","Giá nhập":836357,"Giá bán":1750000,"Lãi":913643},
       {"Mã":"LC-1430-200526","Ngày bán":"29/05/2026","Sản phẩm":"LC-1430-200526","Giá nhập":940487,"Giá bán":1700000,"Lãi":759513},
       {"Mã":"LC-3905-200526","Ngày bán":"29/05/2026","Sản phẩm":"LC-3905-200526","Giá nhập":1606919,"Giá bán":2900000,"Lãi":1293081},
-      {"Mã":"LC-6350-190326","Ngày bán":"30/05/2026","Sản phẩm":"LC-6350-190326","Giá nhập":1828920,"Giá bán":2700000,"Lãi":871080}
-    ],
-    "SALE_Burger_2026-06": [
+      {"Mã":"LC-6350-190326","Ngày bán":"30/05/2026","Sản phẩm":"LC-6350-190326","Giá nhập":1828920,"Giá bán":2700000,"Lãi":871080},
       {"Mã":"LC-2858-01-200526","Ngày bán":"01/06/2026","Sản phẩm":"LC-2858-01-200526","Giá nhập":883527,"Giá bán":1950000,"Lãi":1066473},
       {"Mã":"LC-9224-200526","Ngày bán":"01/06/2026","Sản phẩm":"LC-9224-200526","Giá nhập":1510087,"Giá bán":2700000,"Lãi":1189913}
     ]
