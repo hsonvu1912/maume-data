@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "02/06/2026 08:43",
+  "lastUpdated": "02/06/2026 16:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -309,7 +309,8 @@
       {"Mã":"VICỜ27052600","Ngày bán":"01/06/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":386094,"Giá bán":1500000,"Lãi":1113906}
     ],
     "SALE_MauMe_2026-06": [
-      {"Mã":"URCỐ27052601","Ngày bán":"02/06/2026","Sản phẩm":"Urban Outfitters Bailey Cocktail Tumbler - Orange","Giá nhập":236464,"Giá bán":350000,"Lãi":113536}
+      {"Mã":"URCỐ27052601","Ngày bán":"02/06/2026","Sản phẩm":"Urban Outfitters Bailey Cocktail Tumbler - Orange","Giá nhập":236464,"Giá bán":350000,"Lãi":113536},
+      {"Mã":"MICỐ171100","Ngày bán":"02/06/2026","Sản phẩm":"Miniso x Minecraft Ceramic Mug With Coaster","Giá nhập":225450,"Giá bán":300000,"Lãi":74550}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
