@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/06/2026 13:25",
+  "lastUpdated": "03/06/2026 13:57",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1413,8 +1413,8 @@
       {"Mã":"IKMÓ27052600","Ngày về":"27/05/2026","Sản phẩm":"Ikea Frän Wall Hooks\n\nChất liệu: Kim loại\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh \n\nKích thước: 200 x 180 x 160mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":291690,"Giá bán":600000},
       {"Mã":"THGẠ27052600","Ngày về":"27/05/2026","Sản phẩm":"The Scene Loong Ashtray\n\nChất liệu: Gốm\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 175 x 25mm\n\nGiá: 800.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":499376,"Giá bán":800000},
       {"Mã":"SEGƯ27052600","Ngày về":"27/05/2026","Sản phẩm":"Seletti x Toiletpaper Spades Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 172 × 228 mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":261912},
-      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":300652},
-      {"Mã":"27052600","Ngày về":"27/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":300652},
+      {"Mã":"UNCH27052600","Ngày về":"27/05/2026","Sản phẩm":"Uniqlo x JW Anderson Blanket Green\n\nChất liệu: Vải\n\nPhân Loại: Chăn\n\nTình trạng: Như ảnh\n\nKích thước: 1400 x 1000mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":300652},
+      {"Mã":"UNCH27052601","Ngày về":"27/05/2026","Sản phẩm":"Uniqlo x JW Anderson Blanket Red\n\nChất liệu: Vải\n\nPhân Loại: Chăn\n\nTình trạng: Như ảnh\n\nKích thước: 1400 x 1000mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":300652},
       {"Mã":"NOKH27052600","Ngày về":"27/05/2026","Sản phẩm":"No brand Checkerd Ceramic Tray - Green\n\nChất liệu: Gốm\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 205 x 165 x 12mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":329227},
       {"Mã":"NOKH27052601","Ngày về":"27/05/2026","Sản phẩm":"No brand Checkerd Ceramic Tray - Black\n\nChất liệu: Gốm\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 205 x 165 x 12mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":329227},
       {"Mã":"URCỐ27052600","Ngày về":"27/05/2026","Sản phẩm":"Urban Outfitters Bailey Cocktail Tumbler - Blue\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: d89 x 83mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":236464,"Giá bán":350000},
