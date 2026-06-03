@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/06/2026 16:35",
+  "lastUpdated": "03/06/2026 19:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -629,7 +629,7 @@
       {"Mã":"LC-2190-260526","Ngày về":"26/05/2026","Sản phẩm":"LC-2190-260526\nnavy size L condition tốt, cứng cáp. có một vài vết trầy bé xíu ở mặt dưới quai. tất cả các lỗi nhẹ do qua sử dụng khi nhìn bên ngoài đều ko rõ. KT: 45 x 29 x 20\nGiá: 1.490.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":645100,"Giá bán":1490000},
       {"Mã":"LC-7875-260526","Ngày về":"26/05/2026","Sản phẩm":"LC-7875-260526\nxám gunmetal size M. condition tốt, qua sdung nhẹe, phom cứng cáp. Kt: 37 x 24 x 14\nGiá: 1.790.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":916600,"Giá bán":1790000},
       {"Mã":"LC-2484-260526","Ngày về":"26/05/2026","Sản phẩm":"LC-2484-260526\nnavy size M bản đời mới 2 ngăn phụ, condition rất tốt, ít qua sử dụng. đẹp cứng cáp luônnn. KT: 40 x 26 x 16\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1676600,"Giá bán":2100000},
-      {"Mã":"TH-0204-020426","Ngày về":"02/04/2026","Sản phẩm":"TH-0204-020426\ntúi tote du lịch gấp gọn của The North Face, chiếc này theo em tìm hiểu thì là 1 sản phẩm độc quyền ở thị trường TQ. nhìn chung độc và hiếm nên các tình yêu săn liềnnn, mùa hè xách đi biển bao hợp lý. KT: 55 x 42 x 15 (khi mở) 7,5 x 9 (khi gấp gọn)\nGiá: 1.000.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":445208,"Giá bán":1000000}
+      {"Mã":"TH-0204-020426","Ngày về":"02/04/2026","Sản phẩm":"TH-0204-020426\ntúi tote du lịch gấp gọn của The North Face, chiếc này theo em tìm hiểu thì là 1 sản phẩm độc quyền ở 1 vài thị trường, trong đó có TQ, ko bán mà chỉ là quà tặng hoặc đổi điểm. nhìn chung độc và hiếm nên các tình yêu săn liềnnn, mùa hè xách đi biển bao hợp lý. charm yêu xỉuuu. KT: 55 x 42 x 15 (khi mở)\nGiá: 1.000.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":445208,"Giá bán":1000000}
     ]
   }
 }
