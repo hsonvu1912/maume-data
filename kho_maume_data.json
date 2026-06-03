@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "02/06/2026 16:55",
+  "lastUpdated": "03/06/2026 13:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1398,7 +1398,7 @@
       {"Mã":"IKĐÈ20052600","Ngày về":"20/05/2026","Sản phẩm":"Ikea Smila Blomma - 2016\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn tường\n\nTình trạng: Như ảnh, không kèm bóng E14\n\nKích thước: d340 x 75mm\n\nGiá: 500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":171096,"Giá bán":500000},
       {"Mã":"IKMÓ20052600","Ngày về":"20/05/2026","Sản phẩm":"Ikea Krokig\n\nChất liệu: Nhựa\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: d70 x 60mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Giá bán":300000},
       {"Mã":"PO20052600","Ngày về":"20/05/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Poster\n\nTình trạng: Như ảnh, không kèm khung \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"IKĐỒ27052600","Ngày về":"27/05/2026","Sản phẩm":"Ikea Lattjo Wooden Multi Game Set\n( Cờ caro, Cờ vua, Cờ backgammon, Cờ vây Anh và Cờ Ludo)\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh\n\nKích thước: 360 x 360 x 55mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":883953},
+      {"Mã":"IKCỜ27052600","Ngày về":"27/05/2026","Sản phẩm":"Ikea Lattjo Wooden Multi Game Set\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ caro, Cờ vua, Cờ Backgammon, Cờ vây Anh, Cờ Ludo\n\nTình trạng: Như ảnh\n\nKích thước: 360 x 360 x 55mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":883953},
       {"Mã":"THCỜ27052600","Ngày về":"27/05/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp, 1 Bart bị gãy tay\n\nKích thước: 370 x 280mm\n\nGiá: 1.900.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":962249,"Giá bán":1900000},
       {"Mã":"HARỔ27052600","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate L - Dusty Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 345 x 5330 x 185mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":385952},
       {"Mã":"HARỔ27052601","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate L - Dusty Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 345 x 5330 x 185mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":385952},
@@ -1423,13 +1423,14 @@
       {"Mã":"IKĐÈ27052600","Ngày về":"27/05/2026","Sản phẩm":"Ikea Kila - 2014\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh\n\nKích thước: 220 x 620 x 460mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1200256},
       {"Mã":"HAKÉ27052600","Ngày về":"27/05/2026","Sản phẩm":"Hay Scissors - Black\n\nChất liệu: Kim loại\n\nPhân Loại: Kéo\n\nTình trạng: Như ảnh\n\nKích thước: 200 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":175980},
       {"Mã":"VICỜ27052600","Ngày về":"27/05/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":386094,"Giá bán":1500000},
-      {"Mã":"IKĐỒ27052601","Ngày về":"27/05/2026","Sản phẩm":"Ikea Flodkrafta Clock\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 82 x 44 x 146mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":209758},
+      {"Mã":"IKĐỒ27052600","Ngày về":"27/05/2026","Sản phẩm":"Ikea Flodkrafta Clock\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 82 x 44 x 146mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":209758},
       {"Mã":"LEĐÈ27052600","Ngày về":"27/05/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model\n\nChất liệu: Nhựa, cao su\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d80 x 110mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":151774},
       {"Mã":"JNNẾ27052600","Ngày về":"27/05/2026","Sản phẩm":"Jnbyhome In Basket\n\nChất liệu: Gốm\n\nPhân Loại: Nến và chân nến\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 110 x 75 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":281812},
       {"Mã":"IKĐÈ27052601","Ngày về":"27/05/2026","Sản phẩm":"Ikea Strala \n\nChất liệu: Kim loại, giấy\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14\n\nKích thước: 200 x 200 x 140\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":224464},
       {"Mã":"ERBÁ27052600","Ngày về":"27/05/2026","Sản phẩm":"Erik. x Onepice Luffy's Straw Hat Bowl\n\nChất liệu: Gốm\n\nPhân Loại: Bát\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 200 x 87 x 200mm\n\nGiá: 700.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":206682,"Giá bán":700000},
       {"Mã":"LENA27052600","Ngày về":"27/05/2026","Sản phẩm":"Lego Magnet Set - Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Nam châm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 47 x 47mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":150422},
-      {"Mã":"LENA27052601","Ngày về":"27/05/2026","Sản phẩm":"Lego Magnet Set - Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Nam châm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 47 x 47mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":150422}
+      {"Mã":"LENA27052601","Ngày về":"27/05/2026","Sản phẩm":"Lego Magnet Set - Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Nam châm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 47 x 47mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":150422},
+      {"Mã":"KINA21012600","Ngày về":"21/01/2026","Sản phẩm":"Kikkerland Cat Butt Magnets\n\nChất liệu: Nhựa\n\nPhân Loại: Nam châm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 32 x 50 x 19mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":397800}
     ]
   }
 }
