@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/06/2026 09:13",
+  "lastUpdated": "03/06/2026 18:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -300,13 +300,13 @@
       {"Mã":"KIĐỒ050200","Ngày bán":"27/05/2026","Sản phẩm":"Kikkerland Stack the Bones","Giá nhập":379309,"Giá bán":600000,"Lãi":220691},
       {"Mã":"IKNH221100","Ngày bán":"29/05/2026","Sản phẩm":"IKEA X Keith Haring Slätthult Wall Stickers","Giá nhập":343260,"Giá bán":600000,"Lãi":256740},
       {"Mã":"THCỜ27052600","Ngày bán":"31/05/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style","Giá nhập":962249,"Giá bán":1500000,"Lãi":537751},
-      {"Mã":"UBGRTO2810","Ngày bán":"01/06/2026","Sản phẩm":"TOTES UMBRELLA","Giá nhập":417810,"Giá bán":400000,"Lãi":17810},
-      {"Mã":"ERBÁ27052600","Ngày bán":"01/06/2026","Sản phẩm":"Erik. x Onepice Luffy's Straw Hat Bowl","Giá nhập":206682,"Giá bán":700000,"Lãi":493318},
-      {"Mã":"THGẠ27052600","Ngày bán":"01/06/2026","Sản phẩm":"The Scene Loong Ashtray","Giá nhập":499376,"Giá bán":800000,"Lãi":300624},
-      {"Mã":"URCỐ27052600","Ngày bán":"01/06/2026","Sản phẩm":"Urban Outfitters Bailey Cocktail Tumbler - Blue","Giá nhập":236464,"Giá bán":350000,"Lãi":113536},
-      {"Mã":"CHORSU2010","Ngày bán":"01/06/2026","Sản phẩm":"Sunny Life Baciato Dal Bole","Giá nhập":703890,"Giá bán":1400000,"Lãi":696110},
-      {"Mã":"OPĐÈ210103","Ngày bán":"01/06/2026","Sản phẩm":"Opple Toucan Desk Lamp","Giá nhập":358800,"Giá bán":700000,"Lãi":341200},
-      {"Mã":"VICỜ27052600","Ngày bán":"01/06/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":386094,"Giá bán":1500000,"Lãi":1113906}
+      {"Mã":"UBGRTO2810","Ngày bán":"31/05/2026","Sản phẩm":"TOTES UMBRELLA","Giá nhập":417810,"Giá bán":400000,"Lãi":17810},
+      {"Mã":"ERBÁ27052600","Ngày bán":"31/05/2026","Sản phẩm":"Erik. x Onepice Luffy's Straw Hat Bowl","Giá nhập":206682,"Giá bán":700000,"Lãi":493318},
+      {"Mã":"THGẠ27052600","Ngày bán":"31/05/2026","Sản phẩm":"The Scene Loong Ashtray","Giá nhập":499376,"Giá bán":800000,"Lãi":300624},
+      {"Mã":"URCỐ27052600","Ngày bán":"31/05/2026","Sản phẩm":"Urban Outfitters Bailey Cocktail Tumbler - Blue","Giá nhập":236464,"Giá bán":350000,"Lãi":113536},
+      {"Mã":"CHORSU2010","Ngày bán":"31/05/2026","Sản phẩm":"Sunny Life Baciato Dal Bole","Giá nhập":703890,"Giá bán":1400000,"Lãi":696110},
+      {"Mã":"OPĐÈ210103","Ngày bán":"31/05/2026","Sản phẩm":"Opple Toucan Desk Lamp","Giá nhập":358800,"Giá bán":700000,"Lãi":341200},
+      {"Mã":"VICỜ27052600","Ngày bán":"31/05/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":386094,"Giá bán":1500000,"Lãi":1113906}
     ],
     "SALE_MauMe_2026-06": [
       {"Mã":"URCỐ27052601","Ngày bán":"02/06/2026","Sản phẩm":"Urban Outfitters Bailey Cocktail Tumbler - Orange","Giá nhập":236464,"Giá bán":350000,"Lãi":113536},
@@ -750,8 +750,8 @@
       {"Mã":"LC-1430-200526","Ngày bán":"29/05/2026","Sản phẩm":"LC-1430-200526","Giá nhập":940487,"Giá bán":1700000,"Lãi":759513},
       {"Mã":"LC-3905-200526","Ngày bán":"29/05/2026","Sản phẩm":"LC-3905-200526","Giá nhập":1606919,"Giá bán":2900000,"Lãi":1293081},
       {"Mã":"LC-6350-190326","Ngày bán":"30/05/2026","Sản phẩm":"LC-6350-190326","Giá nhập":1828920,"Giá bán":2700000,"Lãi":871080},
-      {"Mã":"LC-2858-01-200526","Ngày bán":"01/06/2026","Sản phẩm":"LC-2858-01-200526","Giá nhập":883527,"Giá bán":1950000,"Lãi":1066473},
-      {"Mã":"LC-9224-200526","Ngày bán":"01/06/2026","Sản phẩm":"LC-9224-200526","Giá nhập":1510087,"Giá bán":2700000,"Lãi":1189913}
+      {"Mã":"LC-2858-01-200526","Ngày bán":"31/05/2026","Sản phẩm":"LC-2858-01-200526","Giá nhập":883527,"Giá bán":1950000,"Lãi":1066473},
+      {"Mã":"LC-9224-200526","Ngày bán":"31/05/2026","Sản phẩm":"LC-9224-200526","Giá nhập":1510087,"Giá bán":2700000,"Lãi":1189913}
     ],
     "SALE_Burger_2026-06": [
       {"Mã":"LC-5809-200526","Ngày bán":"01/06/2026","Sản phẩm":"LC-5809-200526","Giá nhập":816065,"Giá bán":1600000,"Lãi":783935},
