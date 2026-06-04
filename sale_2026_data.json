@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/06/2026 09:43",
+  "lastUpdated": "04/06/2026 10:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -310,7 +310,9 @@
     ],
     "SALE_MauMe_2026-06": [
       {"Mã":"URCỐ27052601","Ngày bán":"02/06/2026","Sản phẩm":"Urban Outfitters Bailey Cocktail Tumbler - Orange","Giá nhập":236464,"Giá bán":350000,"Lãi":113536},
-      {"Mã":"MICỐ171100","Ngày bán":"02/06/2026","Sản phẩm":"Miniso x Minecraft Ceramic Mug With Coaster","Giá nhập":225450,"Giá bán":300000,"Lãi":74550}
+      {"Mã":"MICỐ171100","Ngày bán":"02/06/2026","Sản phẩm":"Miniso x Minecraft Ceramic Mug With Coaster","Giá nhập":225450,"Giá bán":300000,"Lãi":74550},
+      {"Mã":"VABEIK3007","Ngày bán":"04/06/2026","Sản phẩm":"Ikea Glittrig Vase","Giá nhập":231775,"Giá bán":250000,"Lãi":18225},
+      {"Mã":"MOCỐ111100","Ngày bán":"04/06/2026","Sản phẩm":"Moma Ombré Juice Glasses","Giá nhập":508670,"Giá bán":650000,"Lãi":141330}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -767,7 +769,10 @@
       {"Mã":"LS-2605-260526","Ngày bán":"04/06/2026","Sản phẩm":"LS-2605-260526","Giá nhập":1139900,"Giá bán":1600000,"Lãi":460100},
       {"Mã":"LC-2841-260526","Ngày bán":"04/06/2026","Sản phẩm":"LC-2841-260526","Giá nhập":1158000,"Giá bán":1800000,"Lãi":642000},
       {"Mã":"LC-5556-260526","Ngày bán":"04/06/2026","Sản phẩm":"LC-5556-260526","Giá nhập":1586100,"Giá bán":2150000,"Lãi":563900},
-      {"Mã":"LC-8911-260526","Ngày bán":"04/06/2026","Sản phẩm":"LC-8911-260526","Giá nhập":1628600,"Giá bán":2700000,"Lãi":1071400}
+      {"Mã":"LC-8911-260526","Ngày bán":"04/06/2026","Sản phẩm":"LC-8911-260526","Giá nhập":1628600,"Giá bán":2700000,"Lãi":1071400},
+      {"Mã":"LC-8808-260526","Ngày bán":"04/06/2026","Sản phẩm":"LC-8808-260526","Giá nhập":1538100,"Giá bán":2700000,"Lãi":1161900},
+      {"Mã":"LC-0006-260526","Ngày bán":"04/06/2026","Sản phẩm":"LC-0006-260526","Giá nhập":1212300,"Giá bán":1850000,"Lãi":637700},
+      {"Mã":"LC-8723-260526","Ngày bán":"04/06/2026","Sản phẩm":"LC-8723-260526","Giá nhập":2081000,"Giá bán":3500000,"Lãi":1419000}
     ]
   }
 }
