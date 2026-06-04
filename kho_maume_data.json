@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/06/2026 15:25",
+  "lastUpdated": "04/06/2026 16:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1423,7 +1423,7 @@
       {"Mã":"IKĐÈ27052600","Ngày về":"27/05/2026","Sản phẩm":"Ikea Kila - 2014\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh\n\nKích thước: 220 x 620 x 460mm\n\nGiá: 2.200.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1200256,"Giá bán":2200000},
       {"Mã":"HAKÉ27052600","Ngày về":"27/05/2026","Sản phẩm":"Hay Scissors - Black\n\nChất liệu: Kim loại\n\nPhân Loại: Kéo\n\nTình trạng: Như ảnh\n\nKích thước: 200 x 60mm\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":175980,"Giá bán":350000},
       {"Mã":"VICỜ27052600","Ngày về":"27/05/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":386094,"Giá bán":1500000},
-      {"Mã":"IKĐỒ27052600","Ngày về":"27/05/2026","Sản phẩm":"Ikea Flodkrafta - 2026\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 82 x 44 x 146mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":209758,"Giá bán":300000},
+      {"Mã":"IKĐỒ27052600","Ngày về":"27/05/2026","Sản phẩm":"Ikea Flodkrafta - 2026\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp, kim trôi\n\nKích thước: 82 x 44 x 146mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":209758,"Giá bán":300000},
       {"Mã":"LEĐÈ27052600","Ngày về":"27/05/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model\n\nChất liệu: Nhựa, cao su\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d80 x 110mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":151774,"Giá bán":800000},
       {"Mã":"JNNẾ27052600","Ngày về":"27/05/2026","Sản phẩm":"Jnbyhome In Basket\n\nChất liệu: Gốm\n\nPhân Loại: Nến và chân nến\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 110 x 75 x 100mm\n\nGiá: 400.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":281812,"Giá bán":400000},
       {"Mã":"IKĐÈ27052601","Ngày về":"27/05/2026","Sản phẩm":"Ikea Strala - 2019\n\nChất liệu: Kim loại, giấy\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14\n\nKích thước: 200 x 200 x 140\n\nGiá: 450.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":224464,"Giá bán":450000},
