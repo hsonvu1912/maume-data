@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/06/2026 15:25",
+  "lastUpdated": "04/06/2026 10:26",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -107,7 +107,7 @@
       {"Mã":"GLCLIK3007","Ngày về":"30/07/2025","Sản phẩm":"IKEA 6xSOMMAR 2018 \nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước: D 9 x 8,5 cm","Tình trạng":"Hết hàng","Thành tiền":342727},
       {"Mã":"CLWDBO3007","Ngày về":"30/07/2025","Sản phẩm":"BoConcept MDF Wall Clock\nTình trạng: Như ảnh, tróc viền 3 chỗ, còn hộp\nKích thước: D28cm","Tình trạng":"Hết hàng","Thành tiền":178000},
       {"Mã":"LAPIOP3007","Ngày về":"30/07/2025","Sản phẩm":"OPPLE TOUCAN DESK LAMP BLUE-PINK\nMT- HY0T-02\nTình trạng: Như ảnh, qua sử dụng\nKích thước: 30 x 30.5 cm","Tình trạng":"Hết hàng","Thành tiền":249920},
-      {"Mã":"VABEIK3007","Ngày về":"30/07/2025","Sản phẩm":"Ikea Glittrig Vase\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước: D100 x 290mm\nGiá: Sale 44% 450.000 => 250.000","Tình trạng":"Còn hàng","Thành tiền":231775,"Giá bán":450000},
+      {"Mã":"VABEIK3007","Ngày về":"30/07/2025","Sản phẩm":"Ikea Glittrig Vase\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước: D100 x 290mm\nGiá: Sale 44% 450.000 => 250.000","Tình trạng":"Hết hàng","Thành tiền":231775,"Giá bán":450000},
       {"Mã":"LARESW3108","Ngày về":"31/07/2025","Sản phẩm":"SOWDEN PL1 lamp\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước: Ø 130 mm, height 240 mm","Tình trạng":"Hết hàng","Thành tiền":1587600},
       {"Mã":"CLREGU3108","Ngày về":"31/07/2025","Sản phẩm":"Guzzini Time Square Red Wall Clock\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước:  360 x 50 mm","Tình trạng":"Còn hàng","Thành tiền":1513200,"Giá bán":2000000},
       {"Mã":"CBBLZO3108","Ngày về":"31/07/2025","Sản phẩm":"Zojirushi Cubic Bar & Water and snack plate set\nTình trạng: Như ảnh, còn hộp\nKích thước:  22.4 x 10 x 3.3 cm","Tình trạng":"Còn hàng","Thành tiền":865200,"Giá bán":5000000}
@@ -601,7 +601,7 @@
       {"Mã":"NOĐÈ111100","Ngày về":"11/11/2025","Sản phẩm":"Normann Copenhagen  Momento Table Lamp\n\nChất liệu: Kim loại sơn tĩnh điện\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 510 x 440mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1246410},
       {"Mã":"IKGẤ111100","Ngày về":"11/11/2025","Sản phẩm":"Ikea Fornyad Soft Toy\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh\n\nKích thước: 220 x 370mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"\"Đã đăng, mới về lại\"","Thành tiền":283440,"Giá bán":600000},
       {"Mã":"PHĐÈ111100","Ngày về":"11/11/2025","Sản phẩm":"Philips Energy Saving\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 340 x 150 x 350mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":347250},
-      {"Mã":"MOCỐ111100","Ngày về":"11/11/2025","Sản phẩm":"Moma Ombré Juice Glasses\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 70 x 140mm\n\nGiá: Sale 28% 900.000 => 650.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":508670,"Giá bán":900000},
+      {"Mã":"MOCỐ111100","Ngày về":"11/11/2025","Sản phẩm":"Moma Ombré Juice Glasses\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 70 x 140mm\n\nGiá: Sale 28% 900.000 => 650.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":508670,"Giá bán":900000},
       {"Mã":"MOCỐ111101","Ngày về":"11/11/2025","Sản phẩm":"Moma Ombré Juice Glasses\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 71 x 140mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":508670},
       {"Mã":"CH111100","Ngày về":"11/11/2025","Sản phẩm":"Candle Holder\n\nChất liệu: Gốm\n\nPhân Loại: Chân nến\n\nTình trạng: Như ảnh\n\nKích thước: 130 x 130 x 110mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":185460},
       {"Mã":"SOTR111100","Ngày về":"11/11/2025","Sản phẩm":"Southeast Wall Art\n\nChất liệu: Nhựa\n\nPhân Loại: Trang trí treo tường\n\nTình trạng: Như ảnh \nLỗi 1:Gãy đã gắn keo\nLỗi 2:Gãy\n\nKích thước: 470 x 380 x 50mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":694965,"Giá bán":2000000},
