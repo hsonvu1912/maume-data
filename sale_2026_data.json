@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/06/2026 01:13",
+  "lastUpdated": "05/06/2026 10:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -312,7 +312,19 @@
       {"Mã":"URCỐ27052601","Ngày bán":"02/06/2026","Sản phẩm":"Urban Outfitters Bailey Cocktail Tumbler - Orange","Giá nhập":236464,"Giá bán":350000,"Lãi":113536},
       {"Mã":"MICỐ171100","Ngày bán":"02/06/2026","Sản phẩm":"Miniso x Minecraft Ceramic Mug With Coaster","Giá nhập":225450,"Giá bán":300000,"Lãi":74550},
       {"Mã":"VABEIK3007","Ngày bán":"04/06/2026","Sản phẩm":"Ikea Glittrig Vase","Giá nhập":231775,"Giá bán":250000,"Lãi":18225},
-      {"Mã":"MOCỐ111100","Ngày bán":"04/06/2026","Sản phẩm":"Moma Ombré Juice Glasses","Giá nhập":508670,"Giá bán":650000,"Lãi":141330}
+      {"Mã":"MOCỐ111100","Ngày bán":"04/06/2026","Sản phẩm":"Moma Ombré Juice Glasses","Giá nhập":508670,"Giá bán":650000,"Lãi":141330},
+      {"Mã":"NOLỌ12032600","Ngày bán":"05/06/2026","Sản phẩm":"No brand Teenage Mutant","Giá bán":150000,"Lãi":150000},
+      {"Mã":"HARỔ27052604","Ngày bán":"05/06/2026","Sản phẩm":"Hay Colour Crate S - Red","Giá nhập":110669,"Giá bán":250000,"Lãi":139331},
+      {"Mã":"LABỘ27052600","Ngày bán":"05/06/2026","Sản phẩm":"La Prairie Chess Set","Giá nhập":905981,"Giá bán":1800000,"Lãi":894019},
+      {"Mã":"IKCỜ27052600","Ngày bán":"05/06/2026","Sản phẩm":"Ikea Lattjo Wooden Multi Game Set","Giá nhập":883953,"Giá bán":1500000,"Lãi":616047},
+      {"Mã":"NOKH27052600","Ngày bán":"05/06/2026","Sản phẩm":"No brand Checkerd Ceramic Tray - Green","Giá nhập":329227,"Giá bán":600000,"Lãi":270773},
+      {"Mã":"HAKÉ27052600","Ngày bán":"05/06/2026","Sản phẩm":"Hay Scissors - Black","Giá nhập":175980,"Giá bán":350000,"Lãi":174020},
+      {"Mã":"HARỔ27052605","Ngày bán":"05/06/2026","Sản phẩm":"Hay Colour Crate S - Dusty Rose","Giá nhập":110669,"Giá bán":250000,"Lãi":139331},
+      {"Mã":"HARỔ27052600","Ngày bán":"05/06/2026","Sản phẩm":"Hay Colour Crate L - Dusty Blue","Giá nhập":385952,"Giá bán":750000,"Lãi":364048},
+      {"Mã":"HARỔ27052606","Ngày bán":"05/06/2026","Sản phẩm":"Hay Colour Crate S - White","Giá nhập":110669,"Giá bán":250000,"Lãi":139331},
+      {"Mã":"IKĐỒ27052600","Ngày bán":"05/06/2026","Sản phẩm":"Ikea Flodkrafta - 2026","Giá nhập":209758,"Giá bán":300000,"Lãi":90242},
+      {"Mã":"HARỔ27052607","Ngày bán":"05/06/2026","Sản phẩm":"Hay Colour Crate S - Lavender","Giá nhập":110669,"Giá bán":250000,"Lãi":139331},
+      {"Mã":"HARỔ27052603","Ngày bán":"05/06/2026","Sản phẩm":"Hay Colour Crate S - Light Yellow","Giá nhập":110669,"Giá bán":250000,"Lãi":139331}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -776,7 +788,8 @@
       {"Mã":"LC-3434-260526","Ngày bán":"04/06/2026","Sản phẩm":"LC-3434-260526","Giá nhập":777900,"Giá bán":1550000,"Lãi":772100},
       {"Mã":"TH-0204-020426","Ngày bán":"04/06/2026","Sản phẩm":"TH-0204-020426","Giá nhập":445208,"Giá bán":1000000,"Lãi":554792},
       {"Mã":"LC-2605-260526-00","Ngày bán":"04/06/2026","Sản phẩm":"LC-2605-260526-00","Giá nhập":1007100,"Giá bán":1500000,"Lãi":492900},
-      {"Mã":"LS-2605-260526-00","Ngày bán":"05/06/2026","Sản phẩm":"LS-2605-260526-00","Giá nhập":1224100,"Giá bán":1700000,"Lãi":475900}
+      {"Mã":"LS-2605-260526-00","Ngày bán":"05/06/2026","Sản phẩm":"LS-2605-260526-00","Giá nhập":1224100,"Giá bán":1700000,"Lãi":475900},
+      {"Mã":"LC-6109-260526","Ngày bán":"05/06/2026","Sản phẩm":"LC-6109-260526","Giá nhập":1520000,"Giá bán":2800000,"Lãi":1280000}
     ]
   }
 }
