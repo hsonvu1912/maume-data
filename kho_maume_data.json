@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/06/2026 12:55",
+  "lastUpdated": "05/06/2026 14:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -980,7 +980,7 @@
       {"Mã":"KIĐỒ050200","Ngày về":"05/02/2026","Sản phẩm":"Kikkerland Stack the Bones\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 80 x 300mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":379309,"Giá bán":600000},
       {"Mã":"KIMỞ050200","Ngày về":"05/02/2026","Sản phẩm":"Kikkerland Day of the Dead Corkscrew\n\nChất liệu: Kim loại\n\nPhân Loại: Mở rượu vang\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 215 x 80 x 38mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":518338},
       {"Mã":"KIMỞ050201","Ngày về":"05/02/2026","Sản phẩm":"Kikkerland Day of the Dead Corkscrew\n\nChất liệu: Kim loại\n\nPhân Loại: Mở rượu vang\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 215 x 80 x 38mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":558714,"Giá bán":1400000},
-      {"Mã":"THTÚ050200","Ngày về":"05/02/2026","Sản phẩm":"The North Face Foldable Tote Bag 2.0\n\nChất liệu: Vải\n\nPhân Loại: Túi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Khi gấp: 75 x 90mm Khi mở: 550 x 420 x 150mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":451336},
+      {"Mã":"THTÚ050200","Ngày về":"05/02/2026","Sản phẩm":"The North Face Foldable Tote Bag 2.0\n\nChất liệu: Vải\n\nPhân Loại: Túi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Khi gấp: 75 x 90mm Khi mở: 550 x 420 x 150mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":451336},
       {"Mã":"MOLÓ050200","Ngày về":"05/02/2026","Sản phẩm":"MoMA Lily Pad Coasters\n\nChất liệu: Nhựa\n\nPhân Loại: Lót cốc\n\nTình trạng: Như ảnh\n\nKích thước: d90mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":286995},
       {"Mã":"MOLÓ050201","Ngày về":"05/02/2026","Sản phẩm":"MoMA Lily Pad Coasters\n\nChất liệu: Nhựa\n\nPhân Loại: Lót cốc\n\nTình trạng: Như ảnh\n\nKích thước: d90mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":286995,"Giá bán":900000},
       {"Mã":"THCỐ050200","Ngày về":"05/02/2026","Sản phẩm":"The North Face Outdoor Enamel Cup\n\nChất liệu: Kim loại\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 120 x 90 x 80mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":173000},
