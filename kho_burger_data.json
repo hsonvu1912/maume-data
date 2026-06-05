@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/06/2026 10:34",
+  "lastUpdated": "05/06/2026 11:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -635,7 +635,17 @@
       {"Mã":"LC-0421-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
       {"Mã":"LC-0063-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
       {"Mã":"LC-5131-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
-      {"Mã":"LC-5926-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"}
+      {"Mã":"LC-5926-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-6597-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-8197-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-5546-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-7454-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-8102-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-8529-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-0506-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-6783-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"CH-0506-050626","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"CH-0506-050626-00","Ngày về":"05/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"}
     ]
   }
 }
