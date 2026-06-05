@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/06/2026 10:43",
+  "lastUpdated": "05/06/2026 13:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -324,7 +324,10 @@
       {"Mã":"HARỔ27052606","Ngày bán":"05/06/2026","Sản phẩm":"Hay Colour Crate S - White","Giá nhập":110669,"Giá bán":250000,"Lãi":139331},
       {"Mã":"IKĐỒ27052600","Ngày bán":"05/06/2026","Sản phẩm":"Ikea Flodkrafta - 2026","Giá nhập":209758,"Giá bán":300000,"Lãi":90242},
       {"Mã":"HARỔ27052607","Ngày bán":"05/06/2026","Sản phẩm":"Hay Colour Crate S - Lavender","Giá nhập":110669,"Giá bán":250000,"Lãi":139331},
-      {"Mã":"HARỔ27052603","Ngày bán":"05/06/2026","Sản phẩm":"Hay Colour Crate S - Light Yellow","Giá nhập":110669,"Giá bán":250000,"Lãi":139331}
+      {"Mã":"HARỔ27052603","Ngày bán":"05/06/2026","Sản phẩm":"Hay Colour Crate S - Light Yellow","Giá nhập":110669,"Giá bán":250000,"Lãi":139331},
+      {"Mã":"UNCH27052601","Ngày bán":"05/06/2026","Sản phẩm":"Uniqlo x JW Anderson Blanket Red","Giá nhập":300652,"Giá bán":700000,"Lãi":399348},
+      {"Mã":"NOKH27052601","Ngày bán":"05/06/2026","Sản phẩm":"No brand Checkerd Ceramic Tray - Black","Giá nhập":329227,"Giá bán":600000,"Lãi":270773},
+      {"Mã":"THTÚ050200","Ngày bán":"05/06/2026","Sản phẩm":"The North Face Foldable Tote Bag 2.0","Giá nhập":451336,"Giá bán":1000000,"Lãi":548664}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
