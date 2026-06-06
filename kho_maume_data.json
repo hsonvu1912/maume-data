@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/06/2026 12:25",
+  "lastUpdated": "06/06/2026 12:56",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1433,7 +1433,26 @@
       {"Mã":"KINA21012600","Ngày về":"21/01/2026","Sản phẩm":"Kikkerland Cat Butt Magnets\n\nChất liệu: Nhựa\n\nPhân Loại: Nam châm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 32 x 50 x 19mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":397800,"Giá bán":600000}
     ],
     "Tháng 6/2026": [
-      {"Mã":"DO30129900","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1207380}
+      {"Mã":"DO30129900","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1207380},
+      {"Mã":"HA30129900","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129901","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129902","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129903","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129904","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129905","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129906","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129907","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129908","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129909","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129910","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129911","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129912","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129913","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"HA30129914","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155182},
+      {"Mã":"IK30129900","Sản phẩm":"Ikea \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1740458},
+      {"Mã":"IK30129902","Sản phẩm":"Ikea \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1740458},
+      {"Mã":"TA30129900","Sản phẩm":"Tamburins \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":194360}
     ]
   }
 }
