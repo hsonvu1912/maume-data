@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/06/2026 14:55",
+  "lastUpdated": "06/06/2026 12:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1431,6 +1431,9 @@
       {"Mã":"LENA27052600","Ngày về":"27/05/2026","Sản phẩm":"Lego Magnet Set - Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Nam châm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 47 x 47mm\n\nGiá: 250.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":150422,"Giá bán":250000},
       {"Mã":"LENA27052601","Ngày về":"27/05/2026","Sản phẩm":"Lego Magnet Set - Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Nam châm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 47 x 47mm\n\nGiá: 250.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":150422,"Giá bán":250000},
       {"Mã":"KINA21012600","Ngày về":"21/01/2026","Sản phẩm":"Kikkerland Cat Butt Magnets\n\nChất liệu: Nhựa\n\nPhân Loại: Nam châm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 32 x 50 x 19mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":397800,"Giá bán":600000}
+    ],
+    "Tháng 6/2026": [
+      {"Mã":"DO30129900","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1207380}
     ]
   }
 }
