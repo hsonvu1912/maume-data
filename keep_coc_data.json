@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/05/2026 09:16",
+  "lastUpdated": "11/06/2026 10:16",
   "source": "hàng khách keep/cọc",
   "description": "Danh sach khach keep/da coc. 4 sections: maume_keep, maume_coc, burger_keep, burger_coc.",
   "sections": {
@@ -11,7 +11,7 @@
       {"stt":5,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""},
       {"stt":6,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""},
       {"stt":7,"ma":"","sanPham":"THẢM SIMPSONS","thoiGian":"14/5/2026","igKhach":"https://www.instagram.com/hoangle29715/?utm_source=ig_web_button_share_sheet","ghiChu":"Keep Đã ck full"},
-      {"stt":8,"ma":"KECRST0509 | VIĐỒ24042600 |  IKGI171200","sanPham":"Stella Sferico stainless steel kettle\nVitra Eames Elephant (small) - Charles & Ray Eames, 1945 | Ikea Tradig","thoiGian":"14/5/2026","igKhach":"https://www.instagram.com/khue.tt?igsh=bWJ6ejA5amM5anBh","ghiChu":"Đã cọc 1tr"}
+      {"stt":8,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""}
     ],
     "maume_coc": [
       {"stt":1,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""},
