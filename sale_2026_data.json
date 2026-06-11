@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/06/2026 10:13",
+  "lastUpdated": "11/06/2026 10:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -330,7 +330,10 @@
       {"Mã":"THTÚ050200","Ngày bán":"05/06/2026","Sản phẩm":"The North Face Foldable Tote Bag 2.0","Giá nhập":451336,"Giá bán":1000000,"Lãi":548664},
       {"Mã":"HARỔ27052602","Ngày bán":"08/06/2026","Sản phẩm":"Hay Colour Crate M - Mint","Giá nhập":226752,"Giá bán":450000,"Lãi":223248},
       {"Mã":"JNÔ251200","Ngày bán":"11/06/2026","Sản phẩm":"Jnbyhome Sheiter Umbrella","Giá nhập":326984,"Giá bán":400000,"Lãi":73016},
-      {"Mã":"VIĐỒ24042600","Ngày bán":"11/06/2026","Sản phẩm":"Vitra Eames Elephant (small) - Charles & Ray Eames, 1945","Giá nhập":2223600,"Giá bán":3200000,"Lãi":976400}
+      {"Mã":"VIĐỒ24042600","Ngày bán":"11/06/2026","Sản phẩm":"Vitra Eames Elephant (small) - Charles & Ray Eames, 1945","Giá nhập":2223600,"Giá bán":3200000,"Lãi":976400},
+      {"Mã":"VIĐỒ24042600","Ngày bán":"11/06/2026","Sản phẩm":"Vitra Eames Elephant (small) - Charles & Ray Eames, 1945","Giá nhập":2223600,"Giá bán":3200000,"Lãi":976400},
+      {"Mã":"KECRST0509","Ngày bán":"11/06/2026","Sản phẩm":"Stella stainless steel kettle","Giá nhập":1114200,"Giá bán":1700000,"Lãi":585800},
+      {"Mã":"IKGI171200","Ngày bán":"11/06/2026","Sản phẩm":"Ikea Tradig","Giá nhập":956630,"Giá bán":1800000,"Lãi":843370}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
