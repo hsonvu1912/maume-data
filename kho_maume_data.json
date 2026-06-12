@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12/06/2026 09:55",
+  "lastUpdated": "12/06/2026 15:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1450,8 +1450,8 @@
       {"Mã":"HARỔ06062613","Ngày về":"06/06/2026","Sản phẩm":"Hay Colour Crate S - Bordeaux\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 183 x 265 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":155182},
       {"Mã":"HARỔ06062614","Ngày về":"06/06/2026","Sản phẩm":"Hay Colour Crate S - Light Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 184 x 265 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":155182},
       {"Mã":"HARỔ06062615","Ngày về":"06/06/2026","Sản phẩm":"Hay Colour Crate S - Dusty Rose\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 185 x 265 x 105mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":155182},
-      {"Mã":"IKĐÈ06062600","Ngày về":"06/06/2026","Sản phẩm":"Ikea PS 2026 Floor Uplighter - Blue\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh\n\nKích thước: 279 x 1828mm\nDài dây điện: 3810mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1740458},
-      {"Mã":"IKĐÈ06062601","Ngày về":"06/06/2026","Sản phẩm":"Ikea PS 2026 Floor Uplighter - Blue\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh\n\nKích thước: 279 x 1828mm\nDài dây điện: 3810mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1740458},
+      {"Mã":"IKĐÈ06062600","Ngày về":"06/06/2026","Sản phẩm":"Ikea PS 2026 Floor Uplighter - Blue\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh\n\nKích thước: 279 x 1828mm\nDài dây điện: 3810mm\n\nGiá: 2.600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1740458,"Giá bán":2600000},
+      {"Mã":"IKĐÈ06062601","Ngày về":"06/06/2026","Sản phẩm":"Ikea PS 2026 Floor Uplighter - Blue\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh\n\nKích thước: 279 x 1828mm\nDài dây điện: 3810mm\n\nGiá: 2.600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1740458,"Giá bán":2600000},
       {"Mã":"IKĐÈ06062602","Ngày về":"06/06/2026","Sản phẩm":"Ikea PS 2026 Floor Uplighter - Red\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh\n\nKích thước: 279 x 1828mm\nDài dây điện: 3810mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1740458},
       {"Mã":"TANẾ06062600","Ngày về":"06/06/2026","Sản phẩm":"Tamburins Pumkini Objet Candle Mini\n\nChất liệu: Nến\n\nPhân Loại: Nến thơm\n\nTình trạng: Như ảnh\n\nKích thước: 50 x40 x 30mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":194360}
     ]
