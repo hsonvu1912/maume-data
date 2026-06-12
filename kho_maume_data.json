@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/06/2026 13:25",
+  "lastUpdated": "12/06/2026 09:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -905,7 +905,7 @@
       {"Mã":"CRCỐ301200","Sản phẩm":"Crow Canyon Splatter Mug & Plate\n\nChất liệu: Kim loại\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước:  Cốc: 120 x 95 x 85mm\nĐĩa: d205mm\n\nGiá:","Tình trạng":"Hỏng","Trạng thái đăng bài":"ko đăng","Thành tiền":160894},
       {"Mã":"CRCỐ301201","Sản phẩm":"Crow Canyon Splatter Mug & Plate\n\nChất liệu: Kim loại\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước:  Cốc: 120 x 95 x 85mm\nĐĩa: d205mm\n\nGiá:","Tình trạng":"Hỏng","Trạng thái đăng bài":"ko đăng","Thành tiền":160894},
       {"Mã":"CRCỐ301202","Sản phẩm":"Crow Canyon Splatter Mug & Plate\n\nChất liệu: Kim loại\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước:  Cốc: 120 x 95 x 85mm\nĐĩa: d205mm\n\nGiá:","Tình trạng":"Hỏng","Trạng thái đăng bài":"ko đăng","Thành tiền":160894},
-      {"Mã":"*NĐÈ150100","Ngày về":"15/01/2026","Sản phẩm":"*No brand* Mirror LED Table lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 660 x 430 x 330mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":591640,"Giá bán":1500000},
+      {"Mã":"*NĐÈ150100","Ngày về":"15/01/2026","Sản phẩm":"*No brand* Mirror LED Table Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 660 x 430 x 330mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":591640,"Giá bán":1500000},
       {"Mã":"EDĐÈ150100","Ngày về":"15/01/2026","Sản phẩm":"Edi Light Floor Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 550mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":245803},
       {"Mã":"EDĐÈ301200","Sản phẩm":"Edi Light Floor Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d120 x 550mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":245803},
       {"Mã":"NOĐÈ150100","Ngày về":"15/01/2026","Sản phẩm":"No brand Gx6530 Halogen Table Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng G9\n\nKích thước: 175 x 150 x 550mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":329850},
