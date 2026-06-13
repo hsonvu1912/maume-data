@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/06/2026 10:43",
+  "lastUpdated": "13/06/2026 11:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -333,7 +333,18 @@
       {"Mã":"VIĐỒ24042600","Ngày bán":"11/06/2026","Sản phẩm":"Vitra Eames Elephant (small) - Charles & Ray Eames, 1945","Giá nhập":2223600,"Giá bán":3200000,"Lãi":976400},
       {"Mã":"VIĐỒ24042600","Ngày bán":"11/06/2026","Sản phẩm":"Vitra Eames Elephant (small) - Charles & Ray Eames, 1945","Giá nhập":2223600,"Giá bán":3200000,"Lãi":976400},
       {"Mã":"KECRST0509","Ngày bán":"11/06/2026","Sản phẩm":"Stella stainless steel kettle","Giá nhập":1114200,"Giá bán":1700000,"Lãi":585800},
-      {"Mã":"IKGI171200","Ngày bán":"11/06/2026","Sản phẩm":"Ikea Tradig","Giá nhập":956630,"Giá bán":1800000,"Lãi":843370}
+      {"Mã":"IKGI171200","Ngày bán":"11/06/2026","Sản phẩm":"Ikea Tradig","Giá nhập":956630,"Giá bán":1800000,"Lãi":843370},
+      {"Mã":"IKKH06052600","Ngày bán":"13/06/2026","Sản phẩm":"Ikea Fössta Serving Container","Giá nhập":259301,"Giá bán":250000,"Lãi":-9301},
+      {"Mã":"TRYLIK1510","Ngày bán":"13/06/2026","Sản phẩm":"IKEA SKALA Tray","Giá nhập":415266,"Giá bán":500000,"Lãi":84734},
+      {"Mã":"HARỔ06062607","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Powder","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"HARỔ06062601","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Off White","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"HARỔ06062609","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Soft Blue","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"HARỔ06062603","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"HARỔ06062606","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Mint","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"HARỔ06062604","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Dark Green","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"HARỔ06062611","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Electric Blue","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"HARỔ06062602","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Lavender","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"HARỔ06062600","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Dusty Yellow","Giá nhập":155182,"Giá bán":250000,"Lãi":94818}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -816,7 +827,8 @@
       {"Mã":"LC-8529-050626","Ngày bán":"09/06/2026","Sản phẩm":"LC-8529-050626","Giá nhập":726857,"Giá bán":2000000,"Lãi":1273143},
       {"Mã":"LC-0421-050626","Ngày bán":"09/06/2026","Sản phẩm":"LC-0421-050626","Giá nhập":946857,"Giá bán":1600000,"Lãi":653143},
       {"Mã":"LC-5546-050626","Ngày bán":"10/06/2026","Sản phẩm":"LC-5546-050626","Giá nhập":1506857,"Giá bán":2600000,"Lãi":1093143},
-      {"Mã":"LC-6597-050626","Ngày bán":"10/06/2026","Sản phẩm":"LC-6597-050626","Giá nhập":986857,"Giá bán":1900000,"Lãi":913143}
+      {"Mã":"LC-6597-050626","Ngày bán":"10/06/2026","Sản phẩm":"LC-6597-050626","Giá nhập":986857,"Giá bán":1900000,"Lãi":913143},
+      {"Mã":"LC-1713-260526","Ngày bán":"13/06/2026","Sản phẩm":"LC-1713-260526","Giá nhập":850300,"Giá bán":1200000,"Lãi":349700}
     ]
   }
 }
