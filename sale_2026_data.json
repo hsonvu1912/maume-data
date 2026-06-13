@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/06/2026 11:13",
+  "lastUpdated": "13/06/2026 13:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -344,7 +344,10 @@
       {"Mã":"HARỔ06062604","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Dark Green","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
       {"Mã":"HARỔ06062611","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Electric Blue","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
       {"Mã":"HARỔ06062602","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Lavender","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
-      {"Mã":"HARỔ06062600","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Dusty Yellow","Giá nhập":155182,"Giá bán":250000,"Lãi":94818}
+      {"Mã":"HARỔ06062600","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Dusty Yellow","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"IKĐÈ06062600","Ngày bán":"13/06/2026","Sản phẩm":"Ikea PS 2026 Floor Uplighter - Blue","Giá nhập":1740458,"Giá bán":2600000,"Lãi":859542},
+      {"Mã":"HARỔ06062605","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Dark Mint","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"HARỔ06062612","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Red","Giá nhập":155182,"Giá bán":250000,"Lãi":94818}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
