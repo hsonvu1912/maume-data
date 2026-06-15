@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/06/2026 03:04",
+  "lastUpdated": "16/06/2026 03:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -659,7 +659,7 @@
       {"Mã":"LS-1106-110626","Ngày về":"11/06/2026","Sản phẩm":"LS-1106-110626\ntote lacoste dòng anna đeo được 2 mặt, đỏ burgundy phối trắng siêuuu đẹppp. condition rất tốt chủ yếu qua lưu trữ. KT: 45 x 29 x 13\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1429100,"Giá bán":1800000},
       {"Mã":"LC-3367-110626","Ngày về":"11/06/2026","Sản phẩm":"LC-3367-110626\nnavy size L condition tốt. quai có 1-2 chấm trầy bé xíu, nhìn qua k rõ. tổng quan đẹp. KT: 45 x 30 x 19\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":488100,"Giá bán":1500000},
       {"Mã":"LC-9029-110626","Ngày về":"11/06/2026","Sản phẩm":"LC-9029-110626\nxanh rêu olive size L, phom đẹp cứng cáp, quai có 1 vài vết trầy bé xíuuuu. tổng quan rất đẹp ạ. KT: 45 x 30 x 19\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1393100,"Giá bán":1800000},
-      {"Mã":"LC-9029-110626-00","Ngày về":"11/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":777700},
+      {"Mã":"LC-9029-110626-00","Ngày về":"11/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":777700,"Giá bán":1350000},
       {"Mã":"LC-4644-110626","Ngày về":"11/06/2026","Sản phẩm":"LC-4644-110626\ntúi le roseau (da thật), một trong những line đắt tiền nhất (1x trở lên). màu burgundy đẹp và hiếm, túi ít qua sử dụng, dáng tote đeo vai tiện dụng. \nGiá: 3.300.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":2298100,"Giá bán":3300000}
     ]
   }
