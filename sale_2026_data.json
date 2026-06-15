@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15/06/2026 13:43",
+  "lastUpdated": "15/06/2026 15:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -351,7 +351,8 @@
       {"Mã":"IKĐÈ110202","Ngày bán":"15/06/2026","Sản phẩm":"Ikea Blasverk","Giá nhập":307400,"Giá bán":495000,"Lãi":187600},
       {"Mã":"IKĐÈ06062601","Ngày bán":"15/06/2026","Sản phẩm":"Ikea PS 2026 Floor Uplighter - Red","Giá nhập":1740458,"Giá bán":2600000,"Lãi":859542},
       {"Mã":"MOÔ311000","Ngày bán":"15/06/2026","Sản phẩm":"Moma Jackson Pollock Folding Umbrella","Giá nhập":158460,"Giá bán":420000,"Lãi":261540},
-      {"Mã":"KIMỞ20052600","Ngày bán":"15/06/2026","Sản phẩm":"Kikkerland Shark Keyring Bottle Opener & Corkscrew","Giá nhập":196000,"Giá bán":350000,"Lãi":154000}
+      {"Mã":"KIMỞ20052600","Ngày bán":"15/06/2026","Sản phẩm":"Kikkerland Shark Keyring Bottle Opener & Corkscrew","Giá nhập":196000,"Giá bán":350000,"Lãi":154000},
+      {"Mã":"TANẾ06062600","Ngày bán":"15/06/2026","Sản phẩm":"Tamburins Pumkini Objet Candle Mini","Giá nhập":194360,"Giá bán":300000,"Lãi":105640}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -835,7 +836,8 @@
       {"Mã":"LC-0421-050626","Ngày bán":"09/06/2026","Sản phẩm":"LC-0421-050626","Giá nhập":946857,"Giá bán":1600000,"Lãi":653143},
       {"Mã":"LC-5546-050626","Ngày bán":"10/06/2026","Sản phẩm":"LC-5546-050626","Giá nhập":1506857,"Giá bán":2600000,"Lãi":1093143},
       {"Mã":"LC-6597-050626","Ngày bán":"10/06/2026","Sản phẩm":"LC-6597-050626","Giá nhập":986857,"Giá bán":1900000,"Lãi":913143},
-      {"Mã":"LC-1713-260526","Ngày bán":"13/06/2026","Sản phẩm":"LC-1713-260526","Giá nhập":850300,"Giá bán":1200000,"Lãi":349700}
+      {"Mã":"LC-1713-260526","Ngày bán":"13/06/2026","Sản phẩm":"LC-1713-260526","Giá nhập":850300,"Giá bán":1200000,"Lãi":349700},
+      {"Mã":"LC-5984-200526","Ngày bán":"15/06/2026","Sản phẩm":"LC-5984-200526","Giá nhập":1305387,"Giá bán":1850000,"Lãi":544613}
     ]
   }
 }
