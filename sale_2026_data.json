@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15/06/2026 10:13",
+  "lastUpdated": "15/06/2026 13:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -350,7 +350,8 @@
       {"Mã":"HARỔ06062612","Ngày bán":"13/06/2026","Sản phẩm":"Hay Colour Crate S - Red","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
       {"Mã":"IKĐÈ110202","Ngày bán":"15/06/2026","Sản phẩm":"Ikea Blasverk","Giá nhập":307400,"Giá bán":495000,"Lãi":187600},
       {"Mã":"IKĐÈ06062601","Ngày bán":"15/06/2026","Sản phẩm":"Ikea PS 2026 Floor Uplighter - Red","Giá nhập":1740458,"Giá bán":2600000,"Lãi":859542},
-      {"Mã":"MOÔ311000","Ngày bán":"15/06/2026","Sản phẩm":"Moma Jackson Pollock Folding Umbrella","Giá nhập":158460,"Giá bán":420000,"Lãi":261540}
+      {"Mã":"MOÔ311000","Ngày bán":"15/06/2026","Sản phẩm":"Moma Jackson Pollock Folding Umbrella","Giá nhập":158460,"Giá bán":420000,"Lãi":261540},
+      {"Mã":"KIMỞ20052600","Ngày bán":"15/06/2026","Sản phẩm":"Kikkerland Shark Keyring Bottle Opener & Corkscrew","Giá nhập":196000,"Giá bán":350000,"Lãi":154000}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
