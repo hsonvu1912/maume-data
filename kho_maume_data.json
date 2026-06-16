@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15/06/2026 10:26",
+  "lastUpdated": "16/06/2026 09:57",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -405,7 +405,7 @@
       {"Mã":"CLBLRH610","Ngày về":"06/10/2025","Sản phẩm":"Rhythm blue alarm clock CRE310NR04\nTình trạng: Như ảnh, còn hộp\nKích thước: 8 x 3 x 8.2 cm","Tình trạng":"Hết hàng","Thành tiền":238800},
       {"Mã":"CLBARH0610","Ngày về":"06/10/2025","Sản phẩm":"RHYTHM CRE308NR01 alarm clock\nTình trạng: Như ảnh, còn hộp\nKích thước: 8,5 x 4 x 9cm","Tình trạng":"Hết hàng","Thành tiền":238800},
       {"Mã":"CLMIRH0610","Ngày về":"06/10/2025","Sản phẩm":"RHYTHM CMG625NR05 WALL CLOCK\nTình trạng: Như ảnh, còn hộp\nKích thước: d22cm","Tình trạng":"Hết hàng","Thành tiền":326696},
-      {"Mã":"CLBLRY0610","Ngày về":"06/10/2025","Sản phẩm":"Rhythm 4MP748WR02 Wall Clock\nTình trạng: Như ảnh, còn hộp\nKích thước: 40,0 x 40,0 x 6,2 cm","Tình trạng":"Còn hàng","Thành tiền":1203571,"Giá bán":1900000},
+      {"Mã":"CLBLRY0610","Ngày về":"06/10/2025","Sản phẩm":"Rhythm 4MP748WR02 Wall Clock\nTình trạng: Như ảnh, còn hộp\nKích thước: 40,0 x 40,0 x 6,2 cm","Tình trạng":"Hết hàng","Thành tiền":1203571,"Giá bán":1900000},
       {"Mã":"CLSIRH0610","Ngày về":"06/10/2025","Sản phẩm":"Rhythm 8RE644WR19 Clock\nTình trạng: Như ảnh, còn hộp\nKích thước: 13.7 x 11.1 x 7.3cm","Tình trạng":"Hết hàng","Thành tiền":238800},
       {"Mã":"CLMIME0610","Ngày về":"06/10/2025","Sản phẩm":"MEMARD Barthroom Clock \nTình trạng: Như ảnh, còn hộp\nKích thước: d19 x 4 cm","Tình trạng":"Hết hàng","Thành tiền":433679},
       {"Mã":"LAWHIK0610N","Ngày về":"06/10/2025","Sản phẩm":"IKEA SOLVINDEN solar lamp\nTình trạng: Như ảnh, còn seal\nkích thước: 18 x 10cm","Tình trạng":"Hết hàng","Thành tiền":432560},
