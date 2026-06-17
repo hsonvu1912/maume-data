@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "17/06/2026 10:55",
+  "lastUpdated": "17/06/2026 11:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1459,7 +1459,7 @@
       {"Mã":"VICỜ16062600","Ngày về":"16/06/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":393150},
       {"Mã":"THCỜ16062600","Ngày về":"16/06/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 370 x 280mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1187084},
       {"Mã":"IKĐÈ16062600","Ngày về":"16/06/2026","Sản phẩm":"Ikea Kvart\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 150 x 400mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":283804},
-      {"Mã":"BÌ16062600","Ngày về":"16/06/2026","Sản phẩm":"Quail Ceramics Goose Flower Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: d90 x 275mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":338060},
+      {"Mã":"*NBÌ16062600","Ngày về":"16/06/2026","Sản phẩm":"*No brand* Quail Ceramics Goose Flower Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: d90 x 275mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":338060},
       {"Mã":"JNGƯ16062600","Ngày về":"16/06/2026","Sản phẩm":"Jnbyhome Mirror\n\nChất liệu: Kim loại\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d67 x 50mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":75756},
       {"Mã":"BYBÌ16062600","Ngày về":"16/06/2026","Sản phẩm":"Byon Crumple Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 235 x 170 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":807965},
       {"Mã":"ROBÌ16062600","Ngày về":"16/06/2026","Sản phẩm":"Rosenthal Tütenvase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 115 x 75 x 70mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":497024},
