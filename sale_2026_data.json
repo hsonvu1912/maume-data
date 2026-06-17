@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/06/2026 16:43",
+  "lastUpdated": "17/06/2026 10:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -352,7 +352,8 @@
       {"Mã":"IKĐÈ06062601","Ngày bán":"15/06/2026","Sản phẩm":"Ikea PS 2026 Floor Uplighter - Red","Giá nhập":1740458,"Giá bán":2600000,"Lãi":859542},
       {"Mã":"MOÔ311000","Ngày bán":"15/06/2026","Sản phẩm":"Moma Jackson Pollock Folding Umbrella","Giá nhập":158460,"Giá bán":420000,"Lãi":261540},
       {"Mã":"KIMỞ20052600","Ngày bán":"15/06/2026","Sản phẩm":"Kikkerland Shark Keyring Bottle Opener & Corkscrew","Giá nhập":196000,"Giá bán":350000,"Lãi":154000},
-      {"Mã":"TANẾ06062600","Ngày bán":"15/06/2026","Sản phẩm":"Tamburins Pumkini Objet Candle Mini","Giá nhập":194360,"Giá bán":300000,"Lãi":105640}
+      {"Mã":"TANẾ06062600","Ngày bán":"15/06/2026","Sản phẩm":"Tamburins Pumkini Objet Candle Mini","Giá nhập":194360,"Giá bán":300000,"Lãi":105640},
+      {"Mã":"HAĐÈ02042600","Ngày bán":"17/06/2026","Sản phẩm":"Habitat Bobby Desk Lamp","Giá nhập":362235,"Giá bán":550000,"Lãi":187765}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -848,7 +849,8 @@
       {"Mã":"LC-4644-110626","Ngày bán":"16/06/2026","Sản phẩm":"LC-4644-110626","Giá nhập":2298100,"Giá bán":3300000,"Lãi":1001900},
       {"Mã":"LS-1106-110626","Ngày bán":"16/06/2026","Sản phẩm":"LS-1106-110626","Giá nhập":1429100,"Giá bán":1800000,"Lãi":370900},
       {"Mã":"LC-3138-110626","Ngày bán":"16/06/2026","Sản phẩm":"LC-3138-110626","Giá nhập":958900,"Giá bán":1650000,"Lãi":691100},
-      {"Mã":"LC-8300-110626","Ngày bán":"16/06/2026","Sản phẩm":"LC-8300-110626","Giá nhập":538980,"Giá bán":900000,"Lãi":361020}
+      {"Mã":"LC-8300-110626","Ngày bán":"16/06/2026","Sản phẩm":"LC-8300-110626","Giá nhập":538980,"Giá bán":900000,"Lãi":361020},
+      {"Mã":"LC-1072-110526","Ngày bán":"17/06/2026","Sản phẩm":"LC-1072-110526","Giá nhập":723600,"Giá bán":1200000,"Lãi":476400}
     ]
   }
 }
