@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18/06/2026 10:13",
+  "lastUpdated": "18/06/2026 10:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -354,7 +354,21 @@
       {"Mã":"KIMỞ20052600","Ngày bán":"15/06/2026","Sản phẩm":"Kikkerland Shark Keyring Bottle Opener & Corkscrew","Giá nhập":196000,"Giá bán":350000,"Lãi":154000},
       {"Mã":"TANẾ06062600","Ngày bán":"15/06/2026","Sản phẩm":"Tamburins Pumkini Objet Candle Mini","Giá nhập":194360,"Giá bán":300000,"Lãi":105640},
       {"Mã":"HAĐÈ02042600","Ngày bán":"17/06/2026","Sản phẩm":"Habitat Bobby Desk Lamp","Giá nhập":362235,"Giá bán":550000,"Lãi":187765},
-      {"Mã":"OPĐÈ210102","Ngày bán":"18/06/2026","Sản phẩm":"Opple Toucan Desk Lamp","Giá nhập":298480,"Giá bán":900000,"Lãi":601520}
+      {"Mã":"OPĐÈ210102","Ngày bán":"18/06/2026","Sản phẩm":"Opple Toucan Desk Lamp","Giá nhập":298480,"Giá bán":900000,"Lãi":601520},
+      {"Mã":"IKĐỒ16062600","Ngày bán":"18/06/2026","Sản phẩm":"Ikea PS 1995 Clock - Pink","Giá nhập":285091,"Giá bán":390000,"Lãi":104909},
+      {"Mã":"IKĐÈ16062602","Ngày bán":"18/06/2026","Sản phẩm":"Ikea Spetsboj - Yellow","Giá nhập":263823,"Giá bán":400000,"Lãi":136177},
+      {"Mã":"SEBÌ050100","Ngày bán":"18/06/2026","Sản phẩm":"Seletti x Toiletpaper Thermal Bottle Shit","Giá nhập":417182,"Giá bán":480000,"Lãi":62818},
+      {"Mã":"IKĐỒ16062600","Ngày bán":"18/06/2026","Sản phẩm":"Ikea PS 1995 Clock - Pink","Giá nhập":285091,"Giá bán":390000,"Lãi":104909},
+      {"Mã":"IKĐÈ16062602","Ngày bán":"18/06/2026","Sản phẩm":"Ikea Spetsboj - Yellow","Giá nhập":263823,"Giá bán":400000,"Lãi":136177},
+      {"Mã":"VICỜ16062600","Ngày bán":"18/06/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":393150,"Giá bán":1500000,"Lãi":1106850},
+      {"Mã":"UCBÌ16062600","Ngày bán":"18/06/2026","Sản phẩm":"UCCA × Henri Matisse The Grapevine Vase","Giá nhập":575320,"Giá bán":900000,"Lãi":324680},
+      {"Mã":"IKĐÈ16062601","Ngày bán":"18/06/2026","Sản phẩm":"Ikea Spetsboj - Green","Giá nhập":263823,"Giá bán":400000,"Lãi":136177},
+      {"Mã":"THCỜ16062600","Ngày bán":"18/06/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style","Giá nhập":1187084,"Giá bán":2000000,"Lãi":812916},
+      {"Mã":"DOLỌ09042600","Ngày bán":"18/06/2026","Sản phẩm":"Doiy Pinky Swear","Giá nhập":136800,"Giá bán":320000,"Lãi":183200},
+      {"Mã":"GUBÌ290100","Ngày bán":"18/06/2026","Sản phẩm":"Guzzini Flat Pack Water Bottle","Giá nhập":656378,"Giá bán":800000,"Lãi":143622},
+      {"Mã":"ASĐỒ16062600","Ngày bán":"18/06/2026","Sản phẩm":"ASSC x Undefeated Submission Clock","Giá nhập":921135,"Giá bán":1300000,"Lãi":378865},
+      {"Mã":"IKĐỒ16062601","Ngày bán":"18/06/2026","Sản phẩm":"Ikea PS 1995 Clock - Black","Giá nhập":285091,"Giá bán":390000,"Lãi":104909},
+      {"Mã":"HARỔ06062615","Ngày bán":"18/06/2026","Sản phẩm":"Hay Colour Crate S - Dusty Rose","Giá nhập":155182,"Giá bán":250000,"Lãi":94818}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
