@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18/06/2026 10:43",
+  "lastUpdated": "19/06/2026 10:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -368,7 +368,11 @@
       {"Mã":"GUBÌ290100","Ngày bán":"18/06/2026","Sản phẩm":"Guzzini Flat Pack Water Bottle","Giá nhập":656378,"Giá bán":800000,"Lãi":143622},
       {"Mã":"ASĐỒ16062600","Ngày bán":"18/06/2026","Sản phẩm":"ASSC x Undefeated Submission Clock","Giá nhập":921135,"Giá bán":1300000,"Lãi":378865},
       {"Mã":"IKĐỒ16062601","Ngày bán":"18/06/2026","Sản phẩm":"Ikea PS 1995 Clock - Black","Giá nhập":285091,"Giá bán":390000,"Lãi":104909},
-      {"Mã":"HARỔ06062615","Ngày bán":"18/06/2026","Sản phẩm":"Hay Colour Crate S - Dusty Rose","Giá nhập":155182,"Giá bán":250000,"Lãi":94818}
+      {"Mã":"HARỔ06062615","Ngày bán":"18/06/2026","Sản phẩm":"Hay Colour Crate S - Dusty Rose","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"JNGƯ16062600","Ngày bán":"19/06/2026","Sản phẩm":"Jnbyhome Mirror","Giá nhập":75756,"Giá bán":150000,"Lãi":74244},
+      {"Mã":"SETH12032601","Ngày bán":"19/06/2026","Sản phẩm":"Seletti x Toiletpaper Mat Revolver","Giá nhập":559476,"Giá bán":600000,"Lãi":40524},
+      {"Mã":"SEGƯ19032600","Ngày bán":"19/06/2026","Sản phẩm":"Seletti x Smiley Plastic Mirror Smiley","Giá nhập":487922,"Giá bán":720000,"Lãi":232078},
+      {"Mã":"ROBÌ16062600","Ngày bán":"19/06/2026","Sản phẩm":"Rosenthal Tütenvase","Giá nhập":497024,"Giá bán":900000,"Lãi":402976}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
