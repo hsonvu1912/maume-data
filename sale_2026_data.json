@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/06/2026 10:43",
+  "lastUpdated": "20/06/2026 11:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -374,7 +374,9 @@
       {"Mã":"SEGƯ19032600","Ngày bán":"19/06/2026","Sản phẩm":"Seletti x Smiley Plastic Mirror Smiley","Giá nhập":487922,"Giá bán":720000,"Lãi":232078},
       {"Mã":"ROBÌ16062600","Ngày bán":"19/06/2026","Sản phẩm":"Rosenthal Tütenvase","Giá nhập":497024,"Giá bán":900000,"Lãi":402976},
       {"Mã":"IKĐÈ19032601","Ngày bán":"20/06/2026","Sản phẩm":"Ikea Forsa","Giá nhập":474130,"Giá bán":560000,"Lãi":85870},
-      {"Mã":"TANẾ16062600","Ngày bán":"20/06/2026","Sản phẩm":"Tamburins Holiday Egg Candle","Giá nhập":171276,"Giá bán":400000,"Lãi":228724}
+      {"Mã":"TANẾ16062600","Ngày bán":"20/06/2026","Sản phẩm":"Tamburins Holiday Egg Candle","Giá nhập":171276,"Giá bán":400000,"Lãi":228724},
+      {"Mã":"BYBÌ16062600","Ngày bán":"20/06/2026","Sản phẩm":"Byon Crumple Vase","Giá nhập":807965,"Giá bán":1500000,"Lãi":692035},
+      {"Mã":"HARỔ06062614","Ngày bán":"20/06/2026","Sản phẩm":"Hay Colour Crate S - Light Yellow","Giá nhập":155182,"Giá bán":250000,"Lãi":94818}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
