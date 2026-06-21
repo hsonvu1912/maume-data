@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "17/06/2026 10:34",
+  "lastUpdated": "21/06/2026 13:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -621,10 +621,10 @@
       {"Mã":"LC-7447-200526","Ngày về":"20/05/2026","Sản phẩm":"LC-7447-200526\nblack dòng city size L condition almost like new đẹp nét cănggg ạ. KT; 46 x 30 x 19\nGiá: 3.150.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2133087,"Giá bán":3150000},
       {"Mã":"LC-4337-200526","Ngày về":"20/05/2026","Sản phẩm":"LC-4337-200526\ntúi full da LC màu hồng, siêu siêu đẹp so với 1 em túi vintage. vibe rất giống city bag của Balen. 1 vài dấu vết qua sử dụng thật sự là ko đáng kể nha. size L KT 47 x 29 x 18\nGiá: 2.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":976087,"Giá bán":2500000},
       {"Mã":"LC-2008-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":920260},
-      {"Mã":"LC-1192-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":631900},
+      {"Mã":"LC-1192-160626","Ngày về":"16/06/2026","Sản phẩm":"LC-1192-160626\nblack size M, tổng quan cond đẹp, mặt dưới quai trầy (lỗi cơ bản), đeo lên vai gần như k thấy gì lun. KT: 37 x 24 x 14\nGiá: 1.450.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":631900,"Giá bán":1450000},
       {"Mã":"LC-9459-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1369710},
-      {"Mã":"LC-0519-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2153800},
-      {"Mã":"LC-0506-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK"},
+      {"Mã":"LC-0519-160626","Ngày về":"16/06/2026","Sản phẩm":"LC-0519-160626\nbalo navy condition tốt, qua sử dụng nhẹ. 26 x 29 x 10\nGiá: 1.450.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1076900,"Giá bán":1450000},
+      {"Mã":"LC-0506-160626","Ngày về":"16/06/2026","Sản phẩm":"LC-0506-160626\nnavy dòng neo size L cond tốt, dày dặn, cứng cáp. KT; 45 x 30 x 19\nGiá: 1.750.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1076900,"Giá bán":1750000},
       {"Mã":"LC-2286-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":854400},
       {"Mã":"LS-2005-200526","Ngày về":"20/05/2026","Sản phẩm":"LS-2005-200526\nlacost dòng anna đeo đc 2 mặt. condition rất tốt, qua sd nhẹ thui ạ. KT: 47 x 28 x 13\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1065087,"Giá bán":1500000},
       {"Mã":"LC-3434-260526","Ngày về":"26/05/2026","Sản phẩm":"LC-3434-260526\nivory dòng club size L condition bên ngoài rất đẹp, phom cứng cáp. có 1 vài vết bẩn chủ yếu ở đáy, nhìn ngoài cũng k rõ đâu ạ. KT: 45 x 30 x 19\nGiá: 1.550.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":777900,"Giá bán":1550000},
@@ -676,8 +676,8 @@
       {"Mã":"LC-7880-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":779640},
       {"Mã":"LC-7171-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1530800},
       {"Mã":"LC-6323-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":742082},
-      {"Mã":"LC-1360-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1068000},
-      {"Mã":"LC-1374-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":889822},
+      {"Mã":"LC-1360-160626","Ngày về":"16/06/2026","Sản phẩm":"LC-1360-160626\nblack size M nhỏ (còn túi giấy), cond tốt, mặt dưới quai trầy (lỗi cơ bản ạ), đeo lên vai gần như k thấy gì luôn. KT: 35 x 24 x 14 hợp người dưới 1m6 nhaa\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1068000,"Giá bán":1500000},
+      {"Mã":"LC-1374-160626","Ngày về":"16/06/2026","Sản phẩm":"LC-1374-160626\nhồng pastel size M màu cưng xỉuuuu, quai cứng cáp, tổng quan đẹp lắm, ít dấu vết qua sử dụng thôi ạ. KT: 37 x 24 x 14\nGiá: 1.350.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":889822,"Giá bán":1350000},
       {"Mã":"LC-1606-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":160200},
       {"Mã":"LC-8342-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1616240}
     ]
