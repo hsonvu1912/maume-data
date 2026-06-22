@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22/06/2026 10:43",
+  "lastUpdated": "22/06/2026 16:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -378,7 +378,8 @@
       {"Mã":"BYBÌ16062600","Ngày bán":"20/06/2026","Sản phẩm":"Byon Crumple Vase","Giá nhập":807965,"Giá bán":1500000,"Lãi":692035},
       {"Mã":"HARỔ06062614","Ngày bán":"20/06/2026","Sản phẩm":"Hay Colour Crate S - Light Yellow","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
       {"Mã":"*NCỐ16062600","Ngày bán":"22/06/2026","Sản phẩm":"*No brand* Green Cup","Giá nhập":288128,"Giá bán":350000,"Lãi":61872},
-      {"Mã":"LABRIK1709","Ngày bán":"22/06/2026","Sản phẩm":"IKEA PS 2014 Pendant lamp","Giá nhập":919116,"Giá bán":2500000,"Lãi":1580884}
+      {"Mã":"LABRIK1709","Ngày bán":"22/06/2026","Sản phẩm":"IKEA PS 2014 Pendant lamp","Giá nhập":919116,"Giá bán":2500000,"Lãi":1580884},
+      {"Mã":"ATBÌ16062600","Ngày bán":"22/06/2026","Sản phẩm":"At home Goose Vase","Giá nhập":338060,"Giá bán":700000,"Lãi":361940}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
