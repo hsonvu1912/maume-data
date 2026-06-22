@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/06/2026 11:55",
+  "lastUpdated": "22/06/2026 10:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -291,7 +291,7 @@
       {"Mã":"SRCRAL0809","Ngày về":"08/09/2025","Sản phẩm":"Alessi Blip Spoon Rest\nTình trạng: Như ảnh, còn hộp\nKích thước: 15 x 9 x 3,4cm","Tình trạng":"Hết hàng","Thành tiền":732382},
       {"Mã":"LABRIK0809","Ngày về":"08/09/2025","Sản phẩm":"IKEA PS 2014 Pendant lamp\nTình trạng: Như ảnh, còn hộp\nKích thước: d35cm\ndây điện 1,5m","Tình trạng":"Hết hàng","Thành tiền":1094407},
       {"Mã":"COCRIK1709","Ngày về":"17/09/2025","Sản phẩm":"IKEA GROGGY\nCoaster\nTình trạng: Như ảnh, còn hộp\nKích thước: 7,94 x 7,94\n6 pack","Tình trạng":"Hết hàng","Thành tiền":402906},
-      {"Mã":"LABRIK1709","Ngày về":"17/09/2025","Sản phẩm":"IKEA PS 2014 Pendant lamp\nTình trạng: Như ảnh, còn hộp\nKích thước: d35cm\ndây điện 1,5m","Tình trạng":"Còn hàng","Thành tiền":919116,"Giá bán":2500000},
+      {"Mã":"LABRIK1709","Ngày về":"17/09/2025","Sản phẩm":"IKEA PS 2014 Pendant lamp\nTình trạng: Như ảnh, còn hộp\nKích thước: d35cm\ndây điện 1,5m","Tình trạng":"Hết hàng","Thành tiền":919116,"Giá bán":2500000},
       {"Mã":"TRYLIK1709","Ngày về":"17/09/2025","Sản phẩm":"IKEA 365+ serving tray\nTình trạng: Như ảnh\nKích thước: 42 x 22cm","Tình trạng":"Hết hàng","Thành tiền":369720},
       {"Mã":"LAWHIK1709","Ngày về":"17/09/2025","Sản phẩm":"IKEA SOLVINDEN LED solar-powered pendant lamp\nTình trạng: Như ảnh, còn hộp\nKích thước: d45cm","Tình trạng":"Hết hàng","Thành tiền":524214},
       {"Mã":"TOREIK1709","Ngày về":"17/09/2025","Sản phẩm":"Virgil Abloh x IKEA MARKERAD \"HOMEWORK\" Toolkit \nTình trạng: Như ảnh\nKích thước hộp: 27,5 x 18 x 4,5","Tình trạng":"Hết hàng","Thành tiền":496095},
@@ -1463,7 +1463,7 @@
       {"Mã":"JNGƯ16062600","Ngày về":"16/06/2026","Sản phẩm":"Jnbyhome Mirror\n\nChất liệu: Kim loại\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d67 x 50mm\n\nGiá: 150.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":75756,"Giá bán":150000},
       {"Mã":"BYBÌ16062600","Ngày về":"16/06/2026","Sản phẩm":"Byon Crumple Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 235 x 170 x 260mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":807965,"Giá bán":1500000},
       {"Mã":"ROBÌ16062600","Ngày về":"16/06/2026","Sản phẩm":"Rosenthal Tütenvase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 115 x 75 x 70mm\n\nGiá: 900.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":497024,"Giá bán":900000},
-      {"Mã":"*NCỐ16062600","Ngày về":"16/06/2026","Sản phẩm":"*No brand* Green Cup\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":288128,"Giá bán":350000},
+      {"Mã":"*NCỐ16062600","Ngày về":"16/06/2026","Sản phẩm":"*No brand* Green Cup\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":288128,"Giá bán":350000},
       {"Mã":"IKĐỒ16062600","Ngày về":"16/06/2026","Sản phẩm":"Ikea PS 1995 Clock - Pink\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp, Pin AAA\nKim trôi\n\nKích thước: 80 x 45 x 140mm\n\nGiá: 390.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":285091,"Giá bán":390000},
       {"Mã":"IKĐỒ16062601","Ngày về":"16/06/2026","Sản phẩm":"Ikea PS 1995 Clock - Black\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp, Pin AAA\nKim trôi\n\nKích thước: 81 x 45 x 140mm\n\nGiá: 390.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":285091,"Giá bán":390000},
       {"Mã":"IKĐỒ16062602","Ngày về":"16/06/2026","Sản phẩm":"Ikea PS 1995 Clock - Orange\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp, Pin AAA\nKim trôi\n\nKích thước: 82 x 45 x 140mm\n\nGiá: 390.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":285091,"Giá bán":390000},
