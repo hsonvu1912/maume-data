@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/06/2026 10:34",
+  "lastUpdated": "23/06/2026 11:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -671,6 +671,8 @@
       {"Mã":"LS-2306-230626","Ngày về":"23/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":996800},
       {"Mã":"LC-0012-230626","Ngày về":"23/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1780000},
       {"Mã":"LC-3561-230626","Ngày về":"23/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1157000},
+      {"Mã":"LC-6228-230626","Ngày về":"23/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":534000},
+      {"Mã":"LC-2306-02-230626","Ngày về":"23/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":516200},
       {"Mã":"LC-4465-230626","Ngày về":"23/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":533941},
       {"Mã":"LC-2814-230626","Ngày về":"23/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":533941},
       {"Mã":"LC-8611-230626","Ngày về":"23/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":533941},
@@ -688,6 +690,7 @@
       {"Mã":"LC-6323-160626","Ngày về":"16/06/2026","Sản phẩm":"LC-6323-160626\nxám size M cond tổng quan vải và quai tốt ạ  phần dây kéo bị kẹt hay gì đó mà em chưa kéo được, khách mua về thử tự xử lý nha. nếu không thì vẫn còn phần nắp hđ bthg, ko sơ rơi rớt đồ đâu a. KT: 35 x 25 x 14\nGiá: 870.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":742082,"Giá bán":870000},
       {"Mã":"LC-1360-160626","Ngày về":"16/06/2026","Sản phẩm":"LC-1360-160626\nblack size M nhỏ (còn túi giấy), cond tốt, mặt dưới quai trầy (lỗi cơ bản ạ), đeo lên vai gần như k thấy gì luôn. KT: 35 x 24 x 14 hợp người dưới 1m6 nhaa\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1068000,"Giá bán":1500000},
       {"Mã":"LC-1374-160626","Ngày về":"16/06/2026","Sản phẩm":"LC-1374-160626\nhồng pastel size M màu cưng xỉuuuu, quai cứng cáp, tổng quan đẹp lắm, ít dấu vết qua sử dụng thôi ạ. KT: 37 x 24 x 14\nGiá: 1.350.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":889822,"Giá bán":1350000},
+      {"Mã":"LC-2306-03-230626","Ngày về":"23/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1064440},
       {"Mã":"LC-1606-160626","Ngày về":"16/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":160200},
       {"Mã":"LC-8342-160626","Ngày về":"16/06/2026","Sản phẩm":"LC-8342-160626\ngraphite dòng green size M, cond tốt, đẹp cứng cáp ít qua sdung ko có gì để chê lun. KT: 39 x 26 x 16\nGiá: 2.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1616240,"Giá bán":2500000}
     ]
