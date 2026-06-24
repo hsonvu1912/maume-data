@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24/06/2026 01:04",
+  "lastUpdated": "24/06/2026 16:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -657,7 +657,7 @@
       {"Mã":"LC-6125-060626","Ngày về":"06/06/2026","Sản phẩm":"LC-6125-060626\nblack size M (không bao auth). chiếc này mới chưa qua sử dụng, ngoaji hình khá sắc nét legit đó ạ. KT: 36 x 23 x 14\nGiá: 400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":349163,"Giá bán":400000},
       {"Mã":"LC-8598-060626","Ngày về":"06/06/2026","Sản phẩm":"LC-8598-060626\nmini pouch màu terra còn đủ sổ, thẻ, túi zip. độ mới like new chủ yếu qua lưu trữ. màu nâu này siêu đẹp luônn\nGiá: 2.200.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Giá bán":2200000},
       {"Mã":"LC-3317-110626","Ngày về":"11/06/2026","Sản phẩm":"LC-3317-110626\nđỏ classic size L. condition cứng cáp phom đẹp lắm luôn. quai có 1-2 chấm trầy bé xiu xiu ạ. KT: 45 x 30 x 19\nGiá: 1.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":560419,"Giá bán":1100000},
-      {"Mã":"LC-4279-110626","Ngày về":"11/06/2026","Sản phẩm":"LC-4279-110626\nxanh rêu size L bản đời mới 2 ngăn phụ. condition rất tốt túi chủ yếu qua lưu trữ, ít qua sử dụng. 1 vài vết bẩn nhỏ xíu. KT: 45 x 30 x 19\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1538100,"Giá bán":1950000},
+      {"Mã":"LC-4279-110626","Ngày về":"11/06/2026","Sản phẩm":"LC-4279-110626\nxanh rêu size L bản đời mới 2 ngăn phụ. condition rất tốt túi chủ yếu qua lưu trữ, ít qua sử dụng. 1 vài vết bẩn nhỏ xíu. KT: 45 x 30 x 19\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1538100,"Giá bán":1950000},
       {"Mã":"LC-8300-110626","Ngày về":"11/06/2026","Sản phẩm":"LC-8300-110626\nnavy size M nhỏ phù hợp ng cao dưới 1m6. đeo daily đựng vừa ipad ko vừa laptop ạ. quai có các vết trầy như ảnh, đeo lên cũng k để ý lắm. KT: 35 x 24 x 15\nGiá: 900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":538980,"Giá bán":900000},
       {"Mã":"LC-2540-110626","Ngày về":"11/06/2026","Sản phẩm":"LC-2540-110626\nnavy/marine size L bản đời mới 2 ngăn phụ, condition tốt, phom cứng cáp, ít qua sdung. KT; 45 x 30 x 19\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1538100,"Giá bán":2100000},
       {"Mã":"LC-3138-110626","Ngày về":"11/06/2026","Sản phẩm":"LC-3138-110626\nivory dòng club size L condition tốt, phom cứng cáp, 1 vài vết bẩn nhỏ ko đáng kể do qua lưu trữ. KT: 45 x 30 x 19\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":958900,"Giá bán":1650000},
