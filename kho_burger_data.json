@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24/06/2026 17:34",
+  "lastUpdated": "24/06/2026 20:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -669,7 +669,7 @@
       {"Mã":"LC-4644-110626","Ngày về":"11/06/2026","Sản phẩm":"LC-4644-110626\ntúi le roseau (da thật), một trong những line đắt tiền nhất (1x trở lên). màu burgundy đẹp và hiếm, túi ít qua sử dụng, dáng tote đeo vai tiện dụng. \nGiá: 3.300.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":2298100,"Giá bán":3300000},
       {"Mã":"LC-3785-230626","Ngày về":"23/06/2026","Sản phẩm":"LC-3785-230626\nblack dòng club size M, tổng quan đẹp cứng cáp, quai có trầy nhẹ nhẹ như ảnh, nhìn ngoài ko rõ lắm ạ. KT: 38 x 25 x 17\nGiá: 1.700.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":531087,"Giá bán":1700000},
       {"Mã":"LS-2306-230626","Ngày về":"23/06/2026","Sản phẩm":"LS-2306-230626\nlacoste dòng anna reversible phối màu đẹp điênnn, chủ yếu qua lưu trữ ko lỗi lầm gì hết nhaa. KT: 45 x 28 x 14\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1082887,"Giá bán":1900000},
-      {"Mã":"LC-0012-230626","Ngày về":"23/06/2026","Sản phẩm":"LC-0012-230626\nmini pouch màu xám, còn full sổ và zip bag, độ mới chủ yếu qua lưu trữ, rất xinh đệp\nGiá: 2.150.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1866087,"Giá bán":2150000},
+      {"Mã":"LC-0012-230626","Ngày về":"23/06/2026","Sản phẩm":"LC-0012-230626\nmini pouch màu xám, còn full sổ và zip bag, độ mới chủ yếu qua lưu trữ, rất xinh đệp\nGiá: 2.150.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1866087,"Giá bán":2150000},
       {"Mã":"LC-3561-230626","Ngày về":"23/06/2026","Sản phẩm":"LC-3561-230626\nxanh xám dòng neo size M bản đời mới 2 ngăn phụ, màu cực đẹp luoonnn, 1 vài dấu vết qua sdung ko đáng kê ạ. KT: 40 x 25 x 17\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1243087,"Giá bán":1800000},
       {"Mã":"LC-6228-230626","Ngày về":"23/06/2026","Sản phẩm":"LC-6228-230626\nblack size M bản đời mới 2 ngăn phụ, độ mới cao, mức độ qua sdung nhẹ, tổng quan kk có lỗi nào lớn. KT: 39 x 25 x 17\nGiá: 2.300.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":620087,"Giá bán":2300000},
       {"Mã":"LC-2306-02-230626","Ngày về":"23/06/2026","Sản phẩm":"LC-2306-02-230626\nnavy size M nhỏ condition tốt, không có lỗi nào lớn. mức độ qua sd nhẹ, KT: 36 x 24 x 15\nGiá: 1.750.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":602287,"Giá bán":1750000},
