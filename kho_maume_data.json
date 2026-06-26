@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/06/2026 15:25",
+  "lastUpdated": "26/06/2026 19:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -564,7 +564,7 @@
       {"Mã":"DIHỘ311000","Ngày về":"31/10/2025","Sản phẩm":"Disney Little Green Popcorn Bucket\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 320 x 140 x 290mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":367475},
       {"Mã":"MOBÌ311000","Ngày về":"31/10/2025","Sản phẩm":"Moma Mondri Vase\n\nChất liệu: Acrylic\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 190 x 80 x 200mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":587257},
       {"Mã":"KAĐỒ041100","Ngày về":"04/11/2025","Sản phẩm":"Kay Bojesen Hippo Wooden Figure\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh\n\nKích thước: 215 x 55 x 90mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":406151},
-      {"Mã":"IKMÓ041100","Ngày về":"04/11/2025","Sản phẩm":"Ikea Fornyad Coat Hangers\n\nChất liệu: Kim loại\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 50 x 45mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":364268,"Giá bán":600000},
+      {"Mã":"IKMÓ041100","Ngày về":"04/11/2025","Sản phẩm":"Ikea Fornyad Coat Hangers\n\nChất liệu: Kim loại\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 50 x 45mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":364268,"Giá bán":600000},
       {"Mã":"IKMÓ041101","Ngày về":"04/11/2025","Sản phẩm":"Ikea Fornyad Coat Hangers\n\nChất liệu: Kim loại\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 51 x 45mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":364268},
       {"Mã":"AABÀ041100","Ngày về":"04/11/2025","Sản phẩm":"AAP AAPE  Round Table\n\nChất liệu: Nhựa\n\nPhân Loại: Bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Gấp gọn: 375 x 375 x 50mm\nMở: 370 x 370 x 400mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":624974},
       {"Mã":"PHĐÈ041100","Ngày về":"04/11/2025","Sản phẩm":"Philips MyLiving Dyna Desk Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 130 x 163 x 269mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":303600},
