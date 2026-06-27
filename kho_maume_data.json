@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26/06/2026 19:25",
+  "lastUpdated": "27/06/2026 11:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1472,7 +1472,26 @@
       {"Mã":"IKĐÈ16062602","Ngày về":"16/06/2026","Sản phẩm":"Ikea Spetsboj - Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14\n\nKích thước: 120 x 220mm\n\nGiá: 400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":263823,"Giá bán":400000},
       {"Mã":"LEĐÈ16062600","Ngày về":"16/06/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model\n\nChất liệu: Nhựa, cao su\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d80 x 110mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":173150,"Giá bán":800000},
       {"Mã":"LEHỘ16062600","Ngày về":"16/06/2026","Sản phẩm":"Lego Mini Box (set)\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 46 x 46 x 43mm\n\nGiá: 390.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":269856,"Giá bán":390000},
-      {"Mã":"KINA16062600","Ngày về":"16/06/2026","Sản phẩm":"Kikkerland Cat Butt Magnets\n\nChất liệu: Nhựa\n\nPhân Loại: Nam châm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 32 x 50 x 19mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":298450,"Giá bán":550000}
+      {"Mã":"KINA16062600","Ngày về":"16/06/2026","Sản phẩm":"Kikkerland Cat Butt Magnets\n\nChất liệu: Nhựa\n\nPhân Loại: Nam châm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 32 x 50 x 19mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":298450,"Giá bán":550000},
+      {"Mã":"FUĐỒ27062600","Ngày về":"27/06/2026","Sản phẩm":"Fundamental Berlin Melt Wall Clock\n\nChất liệu: Gỗ\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 280 x 330 x 40mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":623083},
+      {"Mã":"IKĐÈ27062600","Ngày về":"27/06/2026","Sản phẩm":"Ikea Mörker - 2004\n\nChất liệu: Kim loại, nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14\n\nKích thước: 160 x 250 x 420mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":229168},
+      {"Mã":"27062600","Ngày về":"27/06/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":549220},
+      {"Mã":"27062600","Ngày về":"27/06/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1487927},
+      {"Mã":"IK27062600","Ngày về":"27/06/2026","Sản phẩm":"Ikea \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1785636},
+      {"Mã":"HA27062600","Ngày về":"27/06/2026","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":161996},
+      {"Mã":"HA27062601","Ngày về":"27/06/2026","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":161996},
+      {"Mã":"HA27062602","Ngày về":"27/06/2026","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":161996},
+      {"Mã":"NO27062600","Ngày về":"27/06/2026","Sản phẩm":"Normann Copenhagen  \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":370804},
+      {"Mã":"27062600","Ngày về":"27/06/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":419927},
+      {"Mã":"27062600","Ngày về":"27/06/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":419927},
+      {"Mã":"27062600","Ngày về":"27/06/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":264264},
+      {"Mã":"27062600","Ngày về":"27/06/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":199136},
+      {"Mã":"27062600","Ngày về":"27/06/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":375465},
+      {"Mã":"27062600","Ngày về":"27/06/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":371982},
+      {"Mã":"27062600","Ngày về":"27/06/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":562841},
+      {"Mã":"27062600","Ngày về":"27/06/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":601847},
+      {"Mã":"27062600","Ngày về":"27/06/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":474951},
+      {"Mã":"27062600","Ngày về":"27/06/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":263904}
     ]
   }
 }
