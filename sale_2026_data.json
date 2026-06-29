@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26/06/2026 19:13",
+  "lastUpdated": "29/06/2026 11:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -382,7 +382,8 @@
       {"Mã":"ATBÌ16062600","Ngày bán":"22/06/2026","Sản phẩm":"At home Goose Vase","Giá nhập":338060,"Giá bán":700000,"Lãi":361940},
       {"Mã":"SEGƯ29042601","Ngày bán":"23/06/2026","Sản phẩm":"Seletti x Toiletpaper Small Vegetables Mirror","Giá nhập":351160,"Giá bán":450000,"Lãi":98840},
       {"Mã":"IKĐỒ16062602","Ngày bán":"25/06/2026","Sản phẩm":"Ikea PS 1995 Clock - Orange","Giá nhập":285091,"Giá bán":390000,"Lãi":104909},
-      {"Mã":"IKMÓ041100","Ngày bán":"26/06/2026","Sản phẩm":"Ikea Fornyad Coat Hangers","Giá nhập":364268,"Giá bán":600000,"Lãi":235732}
+      {"Mã":"IKMÓ041100","Ngày bán":"26/06/2026","Sản phẩm":"Ikea Fornyad Coat Hangers","Giá nhập":364268,"Giá bán":600000,"Lãi":235732},
+      {"Mã":"SEGƯ27052600","Ngày bán":"29/06/2026","Sản phẩm":"Seletti x Toiletpaper Spades Mirror","Giá nhập":261912,"Giá bán":500000,"Lãi":238088}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
