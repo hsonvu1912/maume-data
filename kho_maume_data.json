@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/06/2026 21:55",
+  "lastUpdated": "30/06/2026 01:26",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1368,7 +1368,7 @@
       {"Mã":"NOBÁ06052600","Ngày về":"06/05/2026","Sản phẩm":"No brand Ceramic Bathtub Dish\n\nChất liệu: Gốm\n\nPhân Loại: Bát\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 95 x 50mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":197712,"Giá bán":600000},
       {"Mã":"VIPH20102500","Ngày về":"20/10/2025","Sản phẩm":"Vitra Eames Quotes Greeting Cards - Charles & Ray Eames\n\nChất liệu: Giấy\n\nPhân Loại: Phong bì thư\n\nTình trạng: Như ảnh\n\nKích thước: 115 x 170mm\n\nGiá: 300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":148850,"Giá bán":300000},
       {"Mã":"SUPO17112500","Ngày về":"17/11/2025","Sản phẩm":"Supreme x Undercover Public Enemy Poster\n\nChất liệu: Giấy\n\nPhân Loại: Poster\n\nTình trạng: Như ảnh, không kèm khung \n\nKích thước: 457 x 609mm\n\nGiá: 500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":212700,"Giá bán":500000},
-      {"Mã":"SUPO30122500","Ngày về":"30/12/2025","Sản phẩm":"Supreme Fall Winter 2025 Poster\n\nChất liệu: Giấy\n\nPhân Loại: Poster\n\nTình trạng: Như ảnh, không kèm khung \n\nKích thước: 650 x 904mm\n\nGiá: 500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":193050,"Giá bán":500000},
+      {"Mã":"SUPO14052600","Ngày về":"14/05/2026","Sản phẩm":"Supreme Fall Winter 2025 Poster\n\nChất liệu: Giấy\n\nPhân Loại: Poster\n\nTình trạng: Như ảnh, không kèm khung \n\nKích thước: 650 x 904mm\n\nGiá: 500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":193050,"Giá bán":500000},
       {"Mã":"VIĐỒ14052600","Ngày về":"14/05/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":412396,"Giá bán":1500000},
       {"Mã":"IKĐÈ14052600","Ngày về":"14/05/2026","Sản phẩm":"Ikea Aftonsparv - 2024\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh\n\nKích thước: 151 x 307mm\n\nGiá: 550.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":326316,"Giá bán":550000},
       {"Mã":"IKĐÈ14052601","Ngày về":"14/05/2026","Sản phẩm":"Ikea Smila Blomma - 2016\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn tường\n\nTình trạng: Như ảnh, tặng kèm bóng E14\n\nKích thước: d340 x 75mm\n\nGiá: 500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":156804,"Giá bán":500000},
