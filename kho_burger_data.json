@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/07/2026 13:04",
+  "lastUpdated": "01/07/2026 14:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -518,7 +518,7 @@
       {"Mã":"LC-2004-200426-00","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426-00\nxám be size M\ncondition tốt, không lỗi nào lớn, tổng quan đẹp cứng cáo\n40 x 26 x 16\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":792875,"Giá bán":1800000},
       {"Mã":"LC-2004-200426-01","Ngày về":"20/04/2026","Sản phẩm":"LC-2004-200426-01\nebony size L bản cũ\ncond khá tốt, tổng quan sạch sẽ, quai trầy lớp sơn do qua thời gian sử dụng, ai muốn có thể đi spa dặm lại, không thì dùng bình thường vẫn đẹp ạ\n46 x 29 x 20\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1134875,"Giá bán":1650000},
       {"Mã":"LC-1693-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-1693-040526\nolive size M condition tốt cứng cáp, ko lỗi nào lớn. tổng quan đẹpp. KT: 37 x 24 x 15\nGiá: 1.550.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1184650,"Giá bán":1550000},
-      {"Mã":"LC-1800-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-1800-040526\nđỏ đậm/đỏ rượu size L. độ mới khá tốt. có phần lót bên trong hơi tróc nhẹ. nhìn bên ngoài ko thấy gì đâu ạ. tổng quan vẫn đẹp lắm. KT: 45 x 30 x 19\nGiá: 1.000.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":997270,"Giá bán":1000000},
+      {"Mã":"LC-1800-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-1800-040526\nđỏ đậm/đỏ rượu size L. độ mới khá tốt. có phần lót bên trong hơi tróc nhẹ. nhìn bên ngoài ko thấy gì đâu ạ. tổng quan vẫn đẹp lắm. KT: 45 x 30 x 19\nGiá: 1.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":997270,"Giá bán":1000000},
       {"Mã":"LC-2695-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-2695-040526\nnavy size M nhỏ condition tốt, còn sổ. tổng quan đẹp, cứng cáp. quai trầy nhẹ 1 vài chấm nhỏ xíu. size ko vừa laptop chỉ vừa ipad, phù hợp các chị em dưới m6 đeo daily xinh lắm ạ. KT: 35 x 25 x 14\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1238650,"Giá bán":1500000},
       {"Mã":"LC-0268-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-0268-040526\nbeige size M condition tốt, cứng cáp. 1 vài vết bẩn dưới đáy ko sao hết ạ. KT: 37 x 24 x 15\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1003210,"Giá bán":1650000},
       {"Mã":"LC-0050-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-0050-040526\nnavy size M nhỏ độ mới cao, không lỗi gì đáng kể chủ yếu qua lưu trữ. size này không vừa laptop chỉ vừa ipad, nhưng hợp với các chị em chiều cao dưới 1m6 nhỏ xinh đeo daily. KT: 35 x 24 x 15\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":603250,"Giá bán":1700000},
@@ -720,7 +720,7 @@
       {"Mã":"LC-0058-200626","Ngày về":"20/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1537919},
       {"Mã":"LC-8381-190626","Ngày về":"19/06/2026","Sản phẩm":"LC-8381-190626\nmàu đen dòng energy bản đời mới condition like new k có gì để chê. giá new 4-5tr nè siêu mắc tiền nha, mà chất lượng thì dĩ nhiên là xứng đáng rùi. KT: 24 x 14 x 10\nGiá: 3.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1719100,"Giá bán":3100000},
       {"Mã":"TH2706-270626","Ngày về":"27/06/2026","Sản phẩm":"TH2706-270626\ntote gấp gọn của the north face cực đáng iuuu, vải chống nước thuận tiện đi du lịch, em có 3 chiếc mới keng chưa qua sử dụng, auth 100% nhaaa thị trường bán 1tr5-2tr mà chưa chắc đã có để bán vì ko mua được mà chỉ đổi điểm hoặc đc tặng thui\nGiá: 950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":375465,"Giá bán":950000},
-      {"Mã":"TH2706-270626-00","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":371982},
+      {"Mã":"TH2706-270626-00","Ngày về":"27/06/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":371982,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"TH2706-270626-01","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ"},
       {"Mã":"LC-8282-270626","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1192728}
     ]
