@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "02/07/2026 10:27",
+  "lastUpdated": "02/07/2026 11:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1289,7 +1289,7 @@
       {"Mã":"DOBÌ16042600","Ngày về":"16/04/2026","Sản phẩm":"Doiy Girl Power Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 129 x 107 x 271mm\n\nGiá: 900.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":590975,"Giá bán":900000},
       {"Mã":"PRLỌ16042600","Ngày về":"16/04/2026","Sản phẩm":"Propaganda Toothpick Holder\n\nChất liệu: Silicon\n\nPhân Loại: Lọ tăm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 47 x 47 x 60mm\n\nGiá: 300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":174006,"Giá bán":300000},
       {"Mã":"WEĐĨ16042600","Ngày về":"16/04/2026","Sản phẩm":"West Elm Ski Slope Salad Plate\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: d200 x 30mm\n\nGiá: 400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":242358,"Giá bán":400000},
-      {"Mã":"RAGẤ16042600","Ngày về":"16/04/2026","Sản phẩm":"Ralph Lauren The Polo Bear L'ours Polo - Navy\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 80 x 220mm\n\nGiá: 750.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":399220,"Giá bán":750000},
+      {"Mã":"RAGẤ16042600","Ngày về":"16/04/2026","Sản phẩm":"Ralph Lauren The Polo Bear L'ours Polo - Navy\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 80 x 220mm\n\nGiá: 750.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":399220,"Giá bán":750000},
       {"Mã":"RAGẤ16042601","Ngày về":"16/04/2026","Sản phẩm":"Ralph Lauren The Polo Bear L'ours Polo - Green\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 80 x 220mm\n\nGiá: 750.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":399220,"Giá bán":750000},
       {"Mã":"RAGẤ16042602","Ngày về":"16/04/2026","Sản phẩm":"Ralph Lauren The Polo Bear L'ours Polo - Red\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 80 x 220mm\n\nGiá: 750.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":399220,"Giá bán":750000},
       {"Mã":"IKHỘ16042600","Ngày về":"16/04/2026","Sản phẩm":"Ikea Varfint\n\nChất liệu: Kim loại\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 120 x 80 x 180mm\n100 x 70 x 160mm\n70 x 60 x 120mm\n\nGiá: 290.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":193716,"Giá bán":290000},
