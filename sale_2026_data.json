@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/07/2026 14:43",
+  "lastUpdated": "02/07/2026 10:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -397,7 +397,8 @@
       {"Mã":"IKĐÈ27062600","Ngày bán":"30/06/2026","Sản phẩm":"Ikea Mörker - 2004","Giá nhập":229168,"Giá bán":800000,"Lãi":570832}
     ],
     "SALE_MauMe_2026-07": [
-      {"Mã":"QUBÌ050200","Ngày bán":"01/07/2026","Sản phẩm":"Que Rico Lund Stougaard Vase","Giá nhập":246690,"Giá bán":350000,"Lãi":103310}
+      {"Mã":"QUBÌ050200","Ngày bán":"01/07/2026","Sản phẩm":"Que Rico Lund Stougaard Vase","Giá nhập":246690,"Giá bán":350000,"Lãi":103310},
+      {"Mã":"NIĐÈ02042600","Ngày bán":"02/07/2026","Sản phẩm":"Nintendo Super Mario Character Light","Giá nhập":418426,"Giá bán":525000,"Lãi":106574}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
