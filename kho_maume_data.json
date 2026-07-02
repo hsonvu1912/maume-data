@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "02/07/2026 11:55",
+  "lastUpdated": "02/07/2026 13:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1490,6 +1490,16 @@
       {"Mã":"SOĐÈ27062600","Ngày về":"27/06/2026","Sản phẩm":"Sowden Portable Lamp LP1 - Black, White\n\nChất liệu: Kim loại, nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\nSạc Type C\n\nKích thước: d130 x 240mm\n\nGiá: 950.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":474951,"Giá bán":950000},
       {"Mã":"SOĐÈ27062601","Ngày về":"27/06/2026","Sản phẩm":"Sowden Portable Lamp LP1 - Green, White\n\nChất liệu: Kim loại, nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\nSạc Type C\n\nKích thước: d130 x 240mm\n\nGiá: 950.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Giá bán":950000},
       {"Mã":"HAMÔ27062600","Ngày về":"27/06/2026","Sản phẩm":"Hay Wooden Hand\n\nChất liệu: Gỗ\n\nPhân Loại: Mô hình\n\nTình trạng: Như ảnh\n\nKích thước: 96 x 210mm\n\nGiá: 400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":263904,"Giá bán":400000}
+    ],
+    "Tháng 7/2026": [
+      {"Mã":"UMKH30129900","Sản phẩm":"Umbra Profilo Photo Frame\n\nChất liệu: \n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"*N30129900","Sản phẩm":"*No brand* \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng"},
+      {"Mã":"IK30129900","Sản phẩm":"Ikea \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng"},
+      {"Mã":"DO30129900","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng"},
+      {"Mã":"DO30129901","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng"},
+      {"Mã":"F30129900","Sản phẩm":"Ferm Living \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng"},
+      {"Mã":"VI30129900","Sản phẩm":"Vilac \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng"},
+      {"Mã":"LI30129900","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng"}
     ]
   }
 }
