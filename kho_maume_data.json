@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/07/2026 11:25",
+  "lastUpdated": "03/07/2026 11:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1492,14 +1492,14 @@
       {"Mã":"HAMÔ27062600","Ngày về":"27/06/2026","Sản phẩm":"Hay Wooden Hand\n\nChất liệu: Gỗ\n\nPhân Loại: Mô hình\n\nTình trạng: Như ảnh\n\nKích thước: 96 x 210mm\n\nGiá: 400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":263904,"Giá bán":400000}
     ],
     "Tháng 7/2026": [
-      {"Mã":"UMKH30129900","Sản phẩm":"Umbra Profilo Photo Frame\n\nChất liệu: \n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":261914},
-      {"Mã":"*NBỘ30129900","Sản phẩm":"*No brand* Keyboard Stationery\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ văn phòng phẩm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 150 x 70 x 35mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":75756},
-      {"Mã":"IKĐÈ30129900","Sản phẩm":"Ikea Solvinden Pendant Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn thả\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 200 x 480mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":673375},
-      {"Mã":"DOCỐ30129900","Sản phẩm":"Doiy Kitty Ginger\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước:  70 x 80 x 290mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":485580},
-      {"Mã":"DOBÌ30129900","Sản phẩm":"Doiy Acquedotto Arch Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 160 x 75 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":448128},
-      {"Mã":"F30129900","Sản phẩm":"Ferm Living \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":501118},
-      {"Mã":"VICỜ30129900","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":379648},
-      {"Mã":"LITH30129900","Sản phẩm":"Line Friends Sally Tiger Rug\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước:  600 x 770mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":304064}
+      {"Mã":"UMKH03072600","Ngày về":"03/07/2026","Sản phẩm":"Umbra Profilo Photo Frame\n\nChất liệu: \n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":261914},
+      {"Mã":"*NBỘ03072600","Ngày về":"03/07/2026","Sản phẩm":"*No brand* Keyboard Stationery\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ văn phòng phẩm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 150 x 70 x 35mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":75756},
+      {"Mã":"IKĐÈ03072600","Ngày về":"03/07/2026","Sản phẩm":"Ikea Solvinden Pendant Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn thả\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 200 x 480mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":673375},
+      {"Mã":"DOCỐ03072600","Ngày về":"03/07/2026","Sản phẩm":"Doiy Kitty Ginger\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước:  70 x 80 x 290mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":485580},
+      {"Mã":"DOBÌ03072600","Ngày về":"03/07/2026","Sản phẩm":"Doiy Acquedotto Arch Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 160 x 75 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":448128},
+      {"Mã":"FBÌ03072600","Ngày về":"03/07/2026","Sản phẩm":"Ferm Living Ceramic Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: d150 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":501118},
+      {"Mã":"VICỜ03072600","Ngày về":"03/07/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":379648},
+      {"Mã":"LITH03072600","Ngày về":"03/07/2026","Sản phẩm":"Line Friends Sally Tiger Rug\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước:  600 x 770mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":304064}
     ]
   }
 }
