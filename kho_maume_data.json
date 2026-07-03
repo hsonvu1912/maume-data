@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/07/2026 14:55",
+  "lastUpdated": "03/07/2026 15:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -743,7 +743,7 @@
       {"Mã":"CPO101200","Ngày về":"10/12/2025","Sản phẩm":"Comme Des Garcons Poster 19x24\n\nChất liệu: Giấy\n\nPhân Loại: Poster\n\nTình trạng: Như ảnh, không kèm khung \n\nKích thước: 190 x 240mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":134700,"Giá bán":700000},
       {"Mã":"IKĐÈ101200","Ngày về":"10/12/2025","Sản phẩm":"Ikea Global - 2009\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng\n\nKích thước: 400 x 100 x 700mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1204658,"Giá bán":1900000},
       {"Mã":"IKBỘ101200","Ngày về":"10/12/2025","Sản phẩm":"Ikea x Virgil Abloh Home Work Toolkit\n\nChất liệu: Nhựa, kim loại\n\nPhân Loại: Bộ dụng cụ\n\nTình trạng: Như ảnh\n\nKích thước: Hộp: 275 x 180 x 45mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":747335,"Giá bán":1300000},
-      {"Mã":"VIBỘ111100","Ngày về":"10/12/2025","Sản phẩm":"Hay Sowden Bottle\n\nChất liệu: Kim loại\n\nPhân Loại: Bình giữ nhiệt\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70 x 210mm. 0,35L\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":176205,"Giá bán":600000},
+      {"Mã":"VIBỘ111100","Ngày về":"10/12/2025","Sản phẩm":"Sowden  Vacuum\n\nChất liệu: Kim loại\n\nPhân Loại: Bình giữ nhiệt\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70 x 210mm. 0,35L\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":176205,"Giá bán":600000},
       {"Mã":"DOHỘ101200","Ngày về":"10/12/2025","Sản phẩm":"Doiy Organs Mouth\n\nChất liệu: Gốm\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 120 x 228 x 70mm\n\nGiá: Sale 35% 900.000 => 585.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":471803,"Giá bán":900000},
       {"Mã":"STBÌ101200","Ngày về":"10/12/2025","Sản phẩm":"Studio Monana Lic Vase\n\nChất liệu: Kim loại\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1459975,"Giá bán":2500000},
       {"Mã":"IKKH101200","Ngày về":"10/12/2025","Sản phẩm":"Ikea x Marimekko Bastua\n\nChất liệu: Nhựa\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 355 x 482mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":507311,"Giá bán":800000},
@@ -1493,7 +1493,7 @@
     ],
     "Tháng 7/2026": [
       {"Mã":"UMKH03072600","Ngày về":"03/07/2026","Sản phẩm":"Umbra Profilo Photo Frame\n\nChất liệu: \n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":261914},
-      {"Mã":"*NBỘ03072600","Ngày về":"03/07/2026","Sản phẩm":"*No brand* Keyboard Stationery\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ văn phòng phẩm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 150 x 70 x 35mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":75756},
+      {"Mã":"NOBỘ03072600","Ngày về":"03/07/2026","Sản phẩm":"No brand Keyboard Stationery\n\nChất liệu: Nhựa\n\nPhân Loại: Bộ văn phòng phẩm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 150 x 70 x 35mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":75756},
       {"Mã":"IKĐÈ03072600","Ngày về":"03/07/2026","Sản phẩm":"Ikea Solvinden Pendant Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn thả\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 200 x 480mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":673375},
       {"Mã":"DOCỐ03072600","Ngày về":"03/07/2026","Sản phẩm":"Doiy Kitty Ginger\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước:  70 x 80 x 290mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":485580},
       {"Mã":"DOBÌ03072600","Ngày về":"03/07/2026","Sản phẩm":"Doiy Acquedotto Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 160 x 75 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":448128},
