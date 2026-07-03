@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/07/2026 14:34",
+  "lastUpdated": "03/07/2026 13:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -723,6 +723,10 @@
       {"Mã":"TH2706-270626-00","Ngày về":"27/06/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":371982,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"TH2706-270626-01","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ"},
       {"Mã":"LC-8282-270626","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1192728}
+    ],
+    "Tháng 7": [
+      {"Mã":"TH-0307-030726","Ngày về":"03/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":395932},
+      {"Mã":"TH-0307-030726-00","Ngày về":"03/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":377325}
     ]
   }
 }
