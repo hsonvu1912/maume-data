@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "02/07/2026 13:25",
+  "lastUpdated": "03/07/2026 09:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1492,14 +1492,14 @@
       {"Mã":"HAMÔ27062600","Ngày về":"27/06/2026","Sản phẩm":"Hay Wooden Hand\n\nChất liệu: Gỗ\n\nPhân Loại: Mô hình\n\nTình trạng: Như ảnh\n\nKích thước: 96 x 210mm\n\nGiá: 400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":263904,"Giá bán":400000}
     ],
     "Tháng 7/2026": [
-      {"Mã":"UMKH30129900","Sản phẩm":"Umbra Profilo Photo Frame\n\nChất liệu: \n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"*N30129900","Sản phẩm":"*No brand* \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng"},
-      {"Mã":"IK30129900","Sản phẩm":"Ikea \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng"},
-      {"Mã":"DO30129900","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng"},
-      {"Mã":"DO30129901","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng"},
-      {"Mã":"F30129900","Sản phẩm":"Ferm Living \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng"},
-      {"Mã":"VI30129900","Sản phẩm":"Vilac \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng"},
-      {"Mã":"LI30129900","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng"}
+      {"Mã":"UMKH30129900","Sản phẩm":"Umbra Profilo Photo Frame\n\nChất liệu: \n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":261914},
+      {"Mã":"*N30129900","Sản phẩm":"*No brand* \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":75756},
+      {"Mã":"IKĐÈ30129900","Sản phẩm":"Ikea Solvinden Pendant Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn thả\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 200 x 480mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":673375},
+      {"Mã":"DOCỐ30129900","Sản phẩm":"Doiy Kitty Ginger\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước:  70 x 80 x 290mm\n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":485580},
+      {"Mã":"DOBÌ30129900","Sản phẩm":"Doiy Acquedotto Arch Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 160 x 75 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":448128},
+      {"Mã":"F30129900","Sản phẩm":"Ferm Living \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":501118},
+      {"Mã":"VI30129900","Sản phẩm":"Vilac \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":379648},
+      {"Mã":"LI30129900","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":304064}
     ]
   }
 }
