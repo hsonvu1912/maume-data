@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/07/2026 10:55",
+  "lastUpdated": "04/07/2026 11:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -729,10 +729,10 @@
       {"Mã":"CAĐỒ101200","Ngày về":"10/12/2025","Sản phẩm":"Casio IQ-6 Wall Clock\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh\n\nKích thước: 265 x 265 x 40mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":765930},
       {"Mã":"EGĐÈ101200","Ngày về":"10/12/2025","Sản phẩm":"Eglo Sambuca\n\nChất liệu: Kim loại, thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 280 x 154 x 420mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1029250},
       {"Mã":"NOĐỒ101200","Ngày về":"10/12/2025","Sản phẩm":"No brand Traffic Light Toy\n\nChất liệu: Nhựa\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 40 x 200mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":74660},
-      {"Mã":"IKTA101200","Ngày về":"10/12/2025","Sản phẩm":"Ikea Norrbyn \n\nChất liệu: Gỗ\n\nPhân Loại: Tay nắm tủ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":84970,"Giá bán":120000},
-      {"Mã":"IKTA101201","Ngày về":"10/12/2025","Sản phẩm":"Ikea Norrbyn \n\nChất liệu: Gỗ\n\nPhân Loại: Tay nắm tủ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":84970,"Giá bán":120000},
-      {"Mã":"IKTA101202","Ngày về":"10/12/2025","Sản phẩm":"Ikea Norrbyn \n\nChất liệu: Gỗ\n\nPhân Loại: Tay nắm tủ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":84970,"Giá bán":120000},
-      {"Mã":"IKTA101203","Ngày về":"10/12/2025","Sản phẩm":"Ikea Norrbyn \n\nChất liệu: Gỗ\n\nPhân Loại: Tay nắm tủ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":84970,"Giá bán":120000},
+      {"Mã":"IKTA101200","Ngày về":"10/12/2025","Sản phẩm":"Ikea Norrbyn \n\nChất liệu: Gỗ\n\nPhân Loại: Tay nắm tủ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":84970,"Giá bán":120000},
+      {"Mã":"IKTA101201","Ngày về":"10/12/2025","Sản phẩm":"Ikea Norrbyn \n\nChất liệu: Gỗ\n\nPhân Loại: Tay nắm tủ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":84970,"Giá bán":120000},
+      {"Mã":"IKTA101202","Ngày về":"10/12/2025","Sản phẩm":"Ikea Norrbyn \n\nChất liệu: Gỗ\n\nPhân Loại: Tay nắm tủ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":84970,"Giá bán":120000},
+      {"Mã":"IKTA101203","Ngày về":"10/12/2025","Sản phẩm":"Ikea Norrbyn \n\nChất liệu: Gỗ\n\nPhân Loại: Tay nắm tủ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":84970,"Giá bán":120000},
       {"Mã":"GOÔ101200","Ngày về":"10/12/2025","Sản phẩm":"Godandfamus Animal Umbrella\n\nChất liệu: Nhựa\n\nPhân Loại: Ô\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 800 x 900mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":518293},
       {"Mã":"IKLỌ101200","Ngày về":"10/12/2025","Sản phẩm":"Ikea Plats\n\nChất liệu: Kim loại\n\nPhân Loại: Lọ gia vị\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d25 x 76mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":75411,"Giá bán":200000},
       {"Mã":"EGBÌ101200","Ngày về":"10/12/2025","Sản phẩm":"Egan  Le Casette\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 60 x 60 x 180mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":324350},
