@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/07/2026 09:43",
+  "lastUpdated": "06/07/2026 10:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -406,7 +406,19 @@
       {"Mã":"IKTA101201","Ngày bán":"04/07/2026","Sản phẩm":"Ikea Norrbyn","Giá nhập":84970,"Giá bán":120000,"Lãi":35030},
       {"Mã":"IKTA101202","Ngày bán":"04/07/2026","Sản phẩm":"Ikea Norrbyn","Giá nhập":84970,"Giá bán":120000,"Lãi":35030},
       {"Mã":"IKTA101203","Ngày bán":"04/07/2026","Sản phẩm":"Ikea Norrbyn","Giá nhập":84970,"Giá bán":120000,"Lãi":35030},
-      {"Mã":"LECỐ011201","Ngày bán":"06/07/2026","Sản phẩm":"Lego Upscaled Mug","Giá nhập":127800,"Giá bán":350000,"Lãi":222200}
+      {"Mã":"LECỐ011201","Ngày bán":"06/07/2026","Sản phẩm":"Lego Upscaled Mug","Giá nhập":127800,"Giá bán":350000,"Lãi":222200},
+      {"Mã":"HARỔ06062613","Ngày bán":"06/07/2026","Sản phẩm":"Hay Colour Crate S - Bordeaux","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"HARỔ06062610","Ngày bán":"06/07/2026","Sản phẩm":"Hay Colour Crate S - Soft Blue","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"THTÚ16062600","Ngày bán":"06/07/2026","Sản phẩm":"The North Face Travel Storage 3 - Piece Set","Giá nhập":529274,"Giá bán":950000,"Lãi":420726},
+      {"Mã":"NOBỘ03072600","Ngày bán":"06/07/2026","Sản phẩm":"No brand Keyboard Stationery","Giá nhập":75756,"Giá bán":150000,"Lãi":74244},
+      {"Mã":"HARỔ06062608","Ngày bán":"06/07/2026","Sản phẩm":"Hay Colour Crate S - Blush","Giá nhập":155182,"Giá bán":250000,"Lãi":94818},
+      {"Mã":"IKĐÈ03072600","Ngày bán":"06/07/2026","Sản phẩm":"Ikea Solvinden Pendant Lamp","Giá nhập":673375,"Giá bán":990000,"Lãi":316625},
+      {"Mã":"FUCỐ050100","Ngày bán":"06/07/2026","Sản phẩm":"Funko Elmo Ceramic Mug","Giá nhập":258525,"Giá bán":280000,"Lãi":21475},
+      {"Mã":"VICỜ03072600","Ngày bán":"06/07/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":379648,"Giá bán":1500000,"Lãi":1120352},
+      {"Mã":"BICỐ050100","Ngày bán":"06/07/2026","Sản phẩm":"BioWorld Sesame Street Cookie Monster Mug","Giá nhập":191520,"Giá bán":280000,"Lãi":88480},
+      {"Mã":"DOBÌ03072600","Ngày bán":"06/07/2026","Sản phẩm":"Doiy Acquedotto Vase","Giá nhập":448128,"Giá bán":900000,"Lãi":451872},
+      {"Mã":"TĐỒ110200","Ngày bán":"06/07/2026","Sản phẩm":"The Simpsons Duff Beer Wall Clock","Giá nhập":597700,"Giá bán":630000,"Lãi":32300},
+      {"Mã":"LITH03072600","Ngày bán":"06/07/2026","Sản phẩm":"Line Friends Sally Tiger Rug","Giá nhập":304064,"Giá bán":600000,"Lãi":295936}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -967,7 +979,9 @@
       {"Mã":"LC-0058-190626","Ngày bán":"04/07/2026","Sản phẩm":"LC-0058-190626","Giá nhập":1139900,"Giá bán":1800000,"Lãi":660100},
       {"Mã":"LC-1879-190626","Ngày bán":"04/07/2026","Sản phẩm":"LC-1879-190626","Giá nhập":1079600,"Giá bán":1700000,"Lãi":620400},
       {"Mã":"LC-0058-200626","Ngày bán":"06/07/2026","Sản phẩm":"LC-0058-200626","Giá nhập":1537919,"Giá bán":1850000,"Lãi":312081},
-      {"Mã":"LC-8105-200626","Ngày bán":"06/07/2026","Sản phẩm":"LC-8105-200626","Giá nhập":977000,"Giá bán":1550000,"Lãi":573000}
+      {"Mã":"LC-8105-200626","Ngày bán":"06/07/2026","Sản phẩm":"LC-8105-200626","Giá nhập":977000,"Giá bán":1550000,"Lãi":573000},
+      {"Mã":"LC-2904-200526","Ngày bán":"06/07/2026","Sản phẩm":"LC-2904-200526","Giá nhập":1189687,"Giá bán":1900000,"Lãi":710313},
+      {"Mã":"LC-3657-190626","Ngày bán":"06/07/2026","Sản phẩm":"LC-3657-190626","Giá nhập":1441600,"Giá bán":1800000,"Lãi":358400}
     ]
   }
 }
