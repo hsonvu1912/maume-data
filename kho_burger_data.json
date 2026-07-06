@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/07/2026 10:04",
+  "lastUpdated": "06/07/2026 17:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -722,12 +722,12 @@
       {"Mã":"TH2706-270626","Ngày về":"27/06/2026","Sản phẩm":"TH2706-270626\ntote gấp gọn của the north face cực đáng iuuu, vải chống nước thuận tiện đi du lịch, em có 3 chiếc mới keng chưa qua sử dụng, auth 100% nhaaa thị trường bán 1tr5-2tr mà chưa chắc đã có để bán vì ko mua được mà chỉ đổi điểm hoặc đc tặng thui\nGiá: 950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":375465,"Giá bán":950000},
       {"Mã":"TH2706-270626-00","Ngày về":"27/06/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":371982,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"TH2706-270626-01","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ"},
-      {"Mã":"LC-8282-270626","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1192728},
-      {"Mã":"LC-0783-270626","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1156991},
+      {"Mã":"LC-8282-270626","Ngày về":"27/06/2026","Sản phẩm":"LC-8282-270626\nbeige size L cond đẹp cứng cáp sạch sẽ ko lỗi gì lớnnn, used nhẹ xíu, màu xinh xỉuuuu. KT: 45 x 30 x 19\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1192728,"Giá bán":1850000},
+      {"Mã":"LC-0783-270626","Ngày về":"27/06/2026","Sản phẩm":"LC-0783-270626\nolive (màu rêu có tone nâu) nhưng k phải nâu ạ, khách iu tham khảo ảnh cuối dùm em nha. cond rất đẹp cứng cáp k lỗi gì đáng kể, quai k trầy vết gì lun. Size L 45 x 30 x 19\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1156991,"Giá bán":1850000},
       {"Mã":"LC-5784-270626","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1254792},
-      {"Mã":"LC-2465-270626","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1245433},
-      {"Mã":"LC-6778-270626","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1379982},
-      {"Mã":"LC-0778-270626","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":837489}
+      {"Mã":"LC-2465-270626","Ngày về":"27/06/2026","Sản phẩm":"LC-2465-270626\nnavy size L cond đẹp dày dặn, độ used nhẹ ko có lỗi lớn nào ạ; quai đẹp. KT: 45 x 30 x 19\nGiá: 1.750.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1245433,"Giá bán":1750000},
+      {"Mã":"LC-6778-270626","Ngày về":"27/06/2026","Sản phẩm":"LC-6778-270626\nnavy size M bản đời mới 2 ngăn phụ, tổng quan cond tốt, quai đẹp cứng cáp, mức độ used nhẹ. KT: 39 x 26 x 17\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1379982,"Giá bán":1800000},
+      {"Mã":"LC-0778-270626","Ngày về":"27/06/2026","Sản phẩm":"LC-0778-270626\nmàu teal sizeM nhỏ, màu đang hottttt mọi mặt trận kh cần nói nhìu. bên trong lót bẩn xíu, kiểu dính vết mực, dùng lót phom che đi hoặc kệ dùng bthg ko sao. quai da, phom dáng vẫn đẹp ạ. KT: 35 x 24 x 14\nGiá: 1.200.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":837489,"Giá bán":1200000}
     ],
     "Tháng 7": [
       {"Mã":"TH-0307-030726","Ngày về":"03/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":395932},
