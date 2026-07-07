@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/07/2026 10:25",
+  "lastUpdated": "07/07/2026 12:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1499,7 +1499,21 @@
       {"Mã":"DOBÌ03072600","Ngày về":"03/07/2026","Sản phẩm":"Doiy Acquedotto Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 160 x 75 x 220mm\n\nGiá: 900.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":448128,"Giá bán":900000},
       {"Mã":"FBÌ03072600","Ngày về":"03/07/2026","Sản phẩm":"Ferm Living Ceramic Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: d150 x 220mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":501118,"Giá bán":800000},
       {"Mã":"VICỜ03072600","Ngày về":"03/07/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":379648,"Giá bán":1500000},
-      {"Mã":"LITH03072600","Ngày về":"03/07/2026","Sản phẩm":"Line Friends Sally Tiger Rug\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước:  600 x 770mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":304064,"Giá bán":600000}
+      {"Mã":"LITH03072600","Ngày về":"03/07/2026","Sản phẩm":"Line Friends Sally Tiger Rug\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước:  600 x 770mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":304064,"Giá bán":600000},
+      {"Mã":"URTH07072600","Ngày về":"07/07/2026","Sản phẩm":"URFF Deco Puzzle Chopping Board\n\nChất liệu: Nhựa\n\nPhân Loại: Thớt\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 400 x 200 x 15mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":218676},
+      {"Mã":"LI07072600","Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":105064},
+      {"Mã":"LI07072601","Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":925089},
+      {"Mã":"LI07072602","Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":618922},
+      {"Mã":"LI07072603","Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":259364},
+      {"Mã":"LI07072604","Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":340282},
+      {"Mã":"LI07072605","Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":246896},
+      {"Mã":"LI07072606","Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":278736},
+      {"Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":354340},
+      {"Mã":"LI07072607","Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":420376},
+      {"Mã":"LI07072608","Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":378222},
+      {"Mã":"LI07072609","Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":928885},
+      {"Mã":"LI07072610","Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":803261},
+      {"Mã":"LI07072610","Ngày về":"07/07/2026","Sản phẩm":"Line Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":312568}
     ]
   }
 }
