@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08/07/2026 09:56",
+  "lastUpdated": "08/07/2026 14:26",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -467,7 +467,7 @@
       {"Mã":"SEWHUB1510","Ngày về":"15/10/2025","Sản phẩm":"UMBRA CHICKIE CREAM AND SUGER SET\nTình trạng: Như ảnh, còn hộp\nKích thước: 9 x 15cm","Tình trạng":"Hết hàng","Thành tiền":238800},
       {"Mã":"GLBLAO1510","Ngày về":"15/10/2025","Sản phẩm":"Cốc nước AORTALS All-the-cherries\nTình trạng: Như ảnh, còn hộp\nKích thước: 9,5 x 11,5 cm\nDung tích 350ml","Tình trạng":"Hết hàng","Thành tiền":254810},
       {"Mã":"STPILE1510","Ngày về":"15/10/2025","Sản phẩm":"Lego Storage\nTình trạng: Như ảnh, còn hộp\nKích thước: 50 x 25 x 19cm","Tình trạng":"Hết hàng","Thành tiền":985798,"Giá bán":1000000},
-      {"Mã":"CLWHUM1510","Ngày về":"15/10/2025","Sản phẩm":"Umbra Wooden Wall Clocks\nTình trạng: Như ảnh, còn hộp\nKích thước: d41,2 cm\nKim trôi","Tình trạng":"Còn hàng","Thành tiền":691780,"Giá bán":1000000},
+      {"Mã":"CLWHUM1510","Ngày về":"15/10/2025","Sản phẩm":"Umbra Cage Wall Clocks\nTình trạng: Như ảnh, còn hộp\nKích thước: d41,2 cm\nKim trôi","Tình trạng":"Còn hàng","Thành tiền":691780,"Giá bán":1000000},
       {"Mã":"CLCRUM1510","Ngày về":"15/10/2025","Sản phẩm":"Umbra Loopa wall clock\nTình trạng: Như ảnh, còn hộp\nKích thước: 25,4 x 33,6 cm","Tình trạng":"Hết hàng","Thành tiền":527694},
       {"Mã":"LAREIK1510","Ngày về":"15/10/2025","Sản phẩm":"BAROMETER work lamp\nTình trạng: Như ảnh\nKích thước: d18 x 48cm","Tình trạng":"Hết hàng","Thành tiền":485640},
       {"Mã":"MOREDO1510","Ngày về":"15/10/2025","Sản phẩm":"Doiy Space Egg Silicone Egg Frying Mould\nTình trạng: Như ảnh,còn hộp\nKích thước: 17,5 x 20 x 2,5 cm","Tình trạng":"Còn hàng","Thành tiền":266340,"Giá bán":450000},
