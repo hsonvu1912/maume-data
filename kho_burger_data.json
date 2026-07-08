@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08/07/2026 14:34",
+  "lastUpdated": "08/07/2026 15:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -688,6 +688,7 @@
       {"Mã":"LC-7175-230626","Ngày về":"23/06/2026","Sản phẩm":"LC-7175-230626\npapier size M bản đời mới 2 ngăn phụ, màu best seller của hãng, size phù hợp với ng châu Á. condition mới 98% chủ yếu qua lưu trữ. KT: 40 x 26 x 16\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":771387,"Giá bán":1900000},
       {"Mã":"LC-2306-01-230626","Ngày về":"23/06/2026","Sản phẩm":"LC-2306-01-230626\nnâu cognac dòng green size M, condition tốt, 1 vài dấu vệt nhe do qua sử dung, nhìn bên ngoài ko thấy rõ a (như ảnh 1-2). KT: 39 x 25 x 17\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":614747,"Giá bán":1500000},
       {"Mã":"LC-4020-230626","Ngày về":"23/06/2026","Sản phẩm":"LC-4020-230626\nxám size L condition tổng quan tốt, bề mặt dính 1 vài vết mực như ảnh, để kệ dùng bình thường được ạ, hoặc giặt giũ dần theo thời gian sẽ nhạt đi, mng đừng dùng tẩy là oki. KT: 45 x 30 x 19\nGiá: 850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":406487,"Giá bán":850000},
+      {"Mã":"LC-5560-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1368820},
       {"Mã":"LC-8381-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":907800},
       {"Mã":"LC-7619-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":925600},
       {"Mã":"LC-8841-160626","Ngày về":"16/06/2026","Sản phẩm":"LC-8841-160626\nnavy size L bản đời mới 2 ngăn phụ. tổng quan khá đẹp cứng cáp, có 1 vết rách vải ở bên sườn túi, các chị mua thêm lót phom vào là sử dụng bình thường vô tư luôn. KT: 45 x 30 x 19 em để giá rẻ nha\nGiá: 1.200.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":678827,"Giá bán":1200000},
@@ -721,6 +722,8 @@
       {"Mã":"LC-2567-200626","Ngày về":"20/06/2026","Sản phẩm":"LC-2567-200626\nđỏ rượu burgundy dòng club size M, condition rất tốt, quai viền đẹp cứng cáp, trày nhẹ xíu xíu ở gần mặt tiếp xúc với vai thôi nha (lỗi cơ bản). KT: 39 x 25 x17\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1357100,"Giá bán":1750000},
       {"Mã":"LC-0058-200626","Ngày về":"20/06/2026","Sản phẩm":"LC-0058-200626\nnavy size L độ mới cao, tổng quan đẹp cứng cáp ko lỗi nào lớn ạ. KT: 45 x 30 x 19\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1537919,"Giá bán":1850000},
       {"Mã":"LC-8381-190626","Ngày về":"19/06/2026","Sản phẩm":"LC-8381-190626\nmàu đen dòng energy bản đời mới condition like new k có gì để chê. giá new 4-5tr nè siêu mắc tiền nha, mà chất lượng thì dĩ nhiên là xứng đáng rùi. KT: 24 x 14 x 10\nGiá: 3.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1719100,"Giá bán":3100000},
+      {"Mã":"LC-2723-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1228200},
+      {"Mã":"LC-3279-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1540000},
       {"Mã":"TH2706-270626","Ngày về":"27/06/2026","Sản phẩm":"TH2706-270626\ntote gấp gọn của the north face cực đáng iuuu, vải chống nước thuận tiện đi du lịch, em có 3 chiếc mới keng chưa qua sử dụng, auth 100% nhaaa thị trường bán 1tr5-2tr mà chưa chắc đã có để bán vì ko mua được mà chỉ đổi điểm hoặc đc tặng thui\nGiá: 950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":375465,"Giá bán":950000},
       {"Mã":"TH2706-270626-00","Ngày về":"27/06/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":185991,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"TH2706-270626-01","Ngày về":"27/06/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":185991},
@@ -734,6 +737,15 @@
     "Tháng 7": [
       {"Mã":"TH-0307-030726","Ngày về":"03/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":395932},
       {"Mã":"TH-0307-030726-00","Ngày về":"03/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":377325},
+      {"Mã":"LC-9736-070826","Ngày về":"07/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":880000},
+      {"Mã":"LC-0807-01-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1390400},
+      {"Mã":"LC-6237-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1895520},
+      {"Mã":"LC-6304-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2112000},
+      {"Mã":"LC-1210-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1228480},
+      {"Mã":"LC-9141-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1584000},
+      {"Mã":"LC-6109-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1056000},
+      {"Mã":"LC-0807-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1281280},
+      {"Mã":"LC-1704-080726","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":948640},
       {"Mã":"LC-6753-070726","Ngày về":"07/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":758201}
     ]
   }
