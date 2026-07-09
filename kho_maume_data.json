@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08/07/2026 15:55",
+  "lastUpdated": "09/07/2026 14:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1500,9 +1500,9 @@
       {"Mã":"FBÌ03072600","Ngày về":"03/07/2026","Sản phẩm":"Ferm Living Ceramic Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: d150 x 220mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":501118,"Giá bán":800000},
       {"Mã":"VICỜ03072600","Ngày về":"03/07/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":379648,"Giá bán":1500000},
       {"Mã":"LITH03072600","Ngày về":"03/07/2026","Sản phẩm":"Line Friends Sally Tiger Rug\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước:  600 x 770mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":304064,"Giá bán":600000},
-      {"Mã":"URTH07072600","Ngày về":"07/07/2026","Sản phẩm":"URFF Deco Puzzle Chopping Board\n\nChất liệu: Nhựa\n\nPhân Loại: Thớt\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 400 x 200 x 15mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":218676},
-      {"Mã":"RACỐ07072600","Ngày về":"07/07/2026","Sản phẩm":"Rae Dunn x Disney The Nightmare Before Christmas Mug\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 140 x 85 x 120mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":105064},
-      {"Mã":"LABỘ07072600","Ngày về":"07/07/2026","Sản phẩm":"La Prairie Chess Set\n\nChất liệu: Gỗ\n\nPhân Loại: Bộ cờ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 440 x 100 x 75\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":925089},
+      {"Mã":"URTH07072600","Ngày về":"07/07/2026","Sản phẩm":"URFF Deco Puzzle Chopping Board\n\nChất liệu: Nhựa\n\nPhân Loại: Thớt\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 400 x 200 x 15mm\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":218676,"Giá bán":350000},
+      {"Mã":"RACỐ07072600","Ngày về":"07/07/2026","Sản phẩm":"Rae Dunn x Disney The Nightmare Before Christmas Mug\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 140 x 85 x 120mm\n\nGiá: 200.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":105064,"Giá bán":200000},
+      {"Mã":"LABỘ07072600","Ngày về":"07/07/2026","Sản phẩm":"La Prairie Chess Set\n\nChất liệu: Gỗ\n\nPhân Loại: Bộ cờ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 440 x 100 x 75\n\nGiá: 2.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":925089,"Giá bán":2500000},
       {"Mã":"TCBÌ07072600","Ngày về":"07/07/2026","Sản phẩm":"TCS  Form Glass Vase Forest\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 235 x 185mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":618922},
       {"Mã":"COCỐ07072600","Ngày về":"07/07/2026","Sản phẩm":"Copenhagen Design Pantone Original Mug 13-1023 Peach Fuzz\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 124 x 98mm\n375ml\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":259364},
       {"Mã":"NOTH07072600","Ngày về":"07/07/2026","Sản phẩm":"No brand Windows XP Mat\n\nChất liệu: Vải, polyester\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 790 x 510mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":340282},
