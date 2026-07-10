@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09/07/2026 14:13",
+  "lastUpdated": "10/07/2026 10:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -418,7 +418,16 @@
       {"Mã":"BICỐ050100","Ngày bán":"06/07/2026","Sản phẩm":"BioWorld Sesame Street Cookie Monster Mug","Giá nhập":191520,"Giá bán":280000,"Lãi":88480},
       {"Mã":"DOBÌ03072600","Ngày bán":"06/07/2026","Sản phẩm":"Doiy Acquedotto Vase","Giá nhập":448128,"Giá bán":900000,"Lãi":451872},
       {"Mã":"TĐỒ110200","Ngày bán":"06/07/2026","Sản phẩm":"The Simpsons Duff Beer Wall Clock","Giá nhập":597700,"Giá bán":630000,"Lãi":32300},
-      {"Mã":"LITH03072600","Ngày bán":"06/07/2026","Sản phẩm":"Line Friends Sally Tiger Rug","Giá nhập":304064,"Giá bán":600000,"Lãi":295936}
+      {"Mã":"LITH03072600","Ngày bán":"06/07/2026","Sản phẩm":"Line Friends Sally Tiger Rug","Giá nhập":304064,"Giá bán":600000,"Lãi":295936},
+      {"Mã":"FLBÌ07072602","Ngày bán":"10/07/2026","Sản phẩm":"Fluid Market Milk Vase","Giá nhập":378222,"Giá bán":850000,"Lãi":471778},
+      {"Mã":"FLBÌ07072601","Ngày bán":"10/07/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Teckel Vase","Giá nhập":420376,"Giá bán":1200000,"Lãi":779624},
+      {"Mã":"BYBÌ07072600","Ngày bán":"10/07/2026","Sản phẩm":"Byon Crumple Vase - White","Giá nhập":803261,"Giá bán":1500000,"Lãi":696739},
+      {"Mã":"NOTH07072600","Ngày bán":"10/07/2026","Sản phẩm":"No brand Windows XP Mat","Giá nhập":340282,"Giá bán":800000,"Lãi":459718},
+      {"Mã":"THSO07072600","Ngày bán":"10/07/2026","Sản phẩm":"The North Face Inflatable Sofa","Giá nhập":312568,"Giá bán":850000,"Lãi":537432},
+      {"Mã":"SEBÌ07072600","Ngày bán":"10/07/2026","Sản phẩm":"Seletti x Smiley Porcelain Vase SmileyÆ","Giá nhập":928885,"Giá bán":1500000,"Lãi":571115},
+      {"Mã":"MOLÓ050201","Ngày bán":"10/07/2026","Sản phẩm":"MoMA Lily Pad Coasters","Giá nhập":286995,"Giá bán":720000,"Lãi":433005},
+      {"Mã":"LABỘ07072600","Ngày bán":"10/07/2026","Sản phẩm":"La Prairie Chess Set","Giá nhập":925089,"Giá bán":2500000,"Lãi":1574911},
+      {"Mã":"URTH07072600","Ngày bán":"10/07/2026","Sản phẩm":"URFF Deco Puzzle Chopping Board","Giá nhập":218676,"Giá bán":350000,"Lãi":131324}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
