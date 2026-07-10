@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/07/2026 10:13",
+  "lastUpdated": "10/07/2026 10:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -427,7 +427,10 @@
       {"Mã":"SEBÌ07072600","Ngày bán":"10/07/2026","Sản phẩm":"Seletti x Smiley Porcelain Vase SmileyÆ","Giá nhập":928885,"Giá bán":1500000,"Lãi":571115},
       {"Mã":"MOLÓ050201","Ngày bán":"10/07/2026","Sản phẩm":"MoMA Lily Pad Coasters","Giá nhập":286995,"Giá bán":720000,"Lãi":433005},
       {"Mã":"LABỘ07072600","Ngày bán":"10/07/2026","Sản phẩm":"La Prairie Chess Set","Giá nhập":925089,"Giá bán":2500000,"Lãi":1574911},
-      {"Mã":"URTH07072600","Ngày bán":"10/07/2026","Sản phẩm":"URFF Deco Puzzle Chopping Board","Giá nhập":218676,"Giá bán":350000,"Lãi":131324}
+      {"Mã":"URTH07072600","Ngày bán":"10/07/2026","Sản phẩm":"URFF Deco Puzzle Chopping Board","Giá nhập":218676,"Giá bán":350000,"Lãi":131324},
+      {"Mã":"RACỐ07072600","Ngày bán":"10/07/2026","Sản phẩm":"Rae Dunn x Disney The Nightmare Before Christmas Mug","Giá nhập":105064,"Giá bán":200000,"Lãi":94936},
+      {"Mã":"SHCỐ16042603","Ngày bán":"10/07/2026","Sản phẩm":"Showa Inc Bolt Mug - Red","Giá nhập":235005,"Giá bán":350000,"Lãi":114995},
+      {"Mã":"THPO06052600","Ngày bán":"10/07/2026","Sản phẩm":"The Simpsons Wanted Bart Simpson Textile Poster","Giá nhập":530108,"Giá bán":800000,"Lãi":269892}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
