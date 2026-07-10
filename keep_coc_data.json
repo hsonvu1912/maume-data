@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/07/2026 14:26",
+  "lastUpdated": "10/07/2026 10:16",
   "source": "hàng khách keep/cọc",
   "description": "Danh sach khach keep/da coc. 4 sections: maume_keep, maume_coc, burger_keep, burger_coc.",
   "sections": {
@@ -10,7 +10,7 @@
       {"stt":4,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""},
       {"stt":5,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""},
       {"stt":6,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""},
-      {"stt":7,"ma":"","sanPham":"THẢM SIMPSONS","thoiGian":"14/5/2026","igKhach":"https://www.instagram.com/hoangle29715/?utm_source=ig_web_button_share_sheet","ghiChu":"Keep Đã ck full"},
+      {"stt":7,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""},
       {"stt":8,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""}
     ],
     "maume_coc": [
