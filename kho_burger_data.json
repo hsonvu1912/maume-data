@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/07/2026 15:04",
+  "lastUpdated": "10/07/2026 16:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -755,8 +755,27 @@
       {"Mã":"LC-2884-080726--02","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":890000},
       {"Mã":"LC-3279-080726--02","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1540000},
       {"Mã":"LC-4409-080726--02","Ngày về":"08/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1622720},
-      {"Mã":"LC-5839","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
-      {"Mã":"LC-3232-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"}
+      {"Mã":"LC-5839","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
+      {"Mã":"LC-3232-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-5823-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-8747-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-3656-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-6971-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-7047-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-5082-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-7231-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-5075-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-5984-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-3995-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-3381-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-6928-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-6921-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-2933-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-5843-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-1007-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-1536-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-8364-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
+      {"Mã":"LC-0063-100726","Ngày về":"10/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"}
     ]
   }
 }
