@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/07/2026 11:25",
+  "lastUpdated": "11/07/2026 11:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1546,7 +1546,8 @@
       {"Mã":"DOMỞ10072600","Ngày về":"10/07/2026","Sản phẩm":"Doiy Foosball Bottle Opener\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 160 x 42mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":386196},
       {"Mã":"BY10072604","Ngày về":"10/07/2026","Sản phẩm":"Byon \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":213052},
       {"Mã":"FLBÌ10072600","Ngày về":"10/07/2026","Sản phẩm":"Fluid Market  Pasta Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 160 x 50 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":316532},
-      {"Mã":"BY10072605","Ngày về":"10/07/2026","Sản phẩm":"Byon Fruits Chopstick Holders\n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":316872}
+      {"Mã":"BYGÁ10072600","Ngày về":"10/07/2026","Sản phẩm":"Byon Fruits Chopstick Holders\n\nChất liệu: Gốm\n\nPhân Loại: Gác đũa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":316872},
+      {"Mã":"FLBÌ10072601","Ngày về":"10/07/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Teckel Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 250 x 50 x 170mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":179220}
     ]
   }
 }
