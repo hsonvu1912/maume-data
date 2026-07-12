@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/07/2026 12:27",
+  "lastUpdated": "12/07/2026 12:27",
   "source": "DASHBOARD 2026",
   "description": "Dashboard tổng hợp kinh doanh 2026: doanh thu, lợi nhuận, chi phí, hàng tồn, đầu tư. Giá trị tiền = VND, margin = thập phân (0.48 = 48%).",
   "data": {
@@ -7,7 +7,7 @@
     "summary": {
       "SALE": 78435000,
       "UNITS SOLD": 65,
-      "HÀNG TỒN": 330047191.38504195,
+      "HÀNG TỒN": 352602820.52789915,
       "NHẬP HÀNG": 49102481,
       "GROSS PROFIT": 28050149,
       "CASHFLOW": 6972614
@@ -505,8 +505,8 @@
     },
     "hangTonRealtime": {
       "Màu Mè": 209648021.2851111,
-      "Burger": 120399170.09993085,
-      "Tổng": 330047191.38504195
+      "Burger": 142954799.24278802,
+      "Tổng": 352602820.52789915
     },
     "danhMucDauTu": [
       {
