@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/07/2026 16:25",
+  "lastUpdated": "13/07/2026 16:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1548,7 +1548,7 @@
       {"Mã":"NOCH10072600","Ngày về":"10/07/2026","Sản phẩm":"No brand Tulip Candle Holder\n\nChất liệu: Gốm\n\nPhân Loại: Chân nến\n\nTình trạng: Như ảnh\n\nKích thước: d60 x 155mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":213052,"Giá bán":300000},
       {"Mã":"FLBÌ10072600","Ngày về":"10/07/2026","Sản phẩm":"Fluid Market  Pasta Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 160 x 50 x 260mm\n\nGiá: 950.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":316532,"Giá bán":950000},
       {"Mã":"BYGÁ10072600","Ngày về":"10/07/2026","Sản phẩm":"Byon Fruits Chopstick Holders\n\nChất liệu: Gốm\n\nPhân Loại: Gác đũa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 60 x 35 x 18mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":316872,"Giá bán":550000},
-      {"Mã":"FLBÌ10072601","Ngày về":"10/07/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Dachshund Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 250 x 50 x 170mm\n\nGiá: 1.200.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":179220,"Giá bán":1200000}
+      {"Mã":"FLBÌ10072601","Ngày về":"10/07/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Dachshund Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 250 x 50 x 170mm\n\nGiá: 1.200.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":286140,"Giá bán":1200000}
     ]
   }
 }
