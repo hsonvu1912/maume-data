@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/07/2026 09:56",
+  "lastUpdated": "14/07/2026 16:56",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -657,8 +657,8 @@
       {"Mã":"GOÔ221100","Ngày về":"22/11/2025","Sản phẩm":"Godandfamus Animal Umbrella\n\nChất liệu: Nhựa, vải dù\n\nPhân Loại: Ô\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 800 x 900mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":436839},
       {"Mã":"LEĐÈ221100","Ngày về":"22/11/2025","Sản phẩm":"Lego The Movie 2 Flash Litght\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Mới\nPin 3 x AAA 1,5v\n\nKích thước: 75 x 190mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":276900},
       {"Mã":"IKĐÈ221100","Ngày về":"22/11/2025","Sản phẩm":"Ikea Vindkast - 2023\n\nChất liệu: Kim loại, polyester\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng E14\n\nKích thước: 75 x 190mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":421982},
-      {"Mã":"DOMỞ221100","Ngày về":"22/11/2025","Sản phẩm":"Doiy Stadium Opener\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 20 x 175mm\n\nGiá: Sale 30% 450.000 => 315.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":240773,"Giá bán":450000},
-      {"Mã":"DOMỞ221101","Ngày về":"22/11/2025","Sản phẩm":"Doiy Stadium Opener\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 91 x 20 x 175mm\n\nGiá: Sale 30% 450.000 => 315.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":240773,"Giá bán":450000},
+      {"Mã":"DOMỞ221100","Ngày về":"22/11/2025","Sản phẩm":"Doiy Stadium Opener - Gold\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 20 x 175mm\n\nGiá: Sale 30% 450.000 => 315.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":240773,"Giá bán":450000},
+      {"Mã":"DOMỞ221101","Ngày về":"22/11/2025","Sản phẩm":"Doiy Stadium Opener - Rose Gold\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 91 x 20 x 175mm\n\nGiá: Sale 30% 450.000 => 315.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":240773,"Giá bán":450000},
       {"Mã":"IKĐÈ221101","Ngày về":"22/11/2025","Sản phẩm":"Ikea Östanå\n\nChất liệu: Kim loại, kính\n\nPhân Loại: Đèn tường\n\nTình trạng: Như ảnh\n\nKích thước: 160 x 80 x 190mm\n\nGiá:","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":757535},
       {"Mã":"IKNH221100","Ngày về":"22/11/2025","Sản phẩm":"IKEA X Keith Haring Slätthult Wall Stickers \n\nChất liệu: Giấy\n\nPhân Loại: Nhãn dán\n\nTình trạng: Như ảnh\n\nKích thước: 500 x 300mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":343260,"Giá bán":600000},
       {"Mã":"IKĐỒ221100","Ngày về":"22/11/2025","Sản phẩm":"Ikea Snajdare - 2022\n\nChất liệu: Gỗ\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh\nKim trôi\nPin: 1 x AA\n\nKích thước: 280 x 260 x 20mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":264000},
