@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/07/2026 15:43",
+  "lastUpdated": "14/07/2026 10:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -432,7 +432,19 @@
       {"Mã":"SHCỐ16042603","Ngày bán":"10/07/2026","Sản phẩm":"Showa Inc Bolt Mug - Red","Giá nhập":235005,"Giá bán":350000,"Lãi":114995},
       {"Mã":"THPO06052600","Ngày bán":"10/07/2026","Sản phẩm":"The Simpsons Wanted Bart Simpson Textile Poster","Giá nhập":530108,"Giá bán":800000,"Lãi":269892},
       {"Mã":"STBÌ101200","Ngày bán":"10/07/2026","Sản phẩm":"Studio Monana Lic Vase","Giá nhập":1459975,"Giá bán":2500000,"Lãi":1040025},
-      {"Mã":"THCỜ27062600","Ngày bán":"13/07/2026","Sản phẩm":"The Op Games x Adult Swim Rick And Morty Collector'S Chess Set","Giá nhập":1487927,"Giá bán":3500000,"Lãi":2012073}
+      {"Mã":"THCỜ27062600","Ngày bán":"13/07/2026","Sản phẩm":"The Op Games x Adult Swim Rick And Morty Collector'S Chess Set","Giá nhập":1487927,"Giá bán":3500000,"Lãi":2012073},
+      {"Mã":"WEBÌ10072600","Ngày bán":"14/07/2026","Sản phẩm":"West Elm Emma Chamberlain Pigeon Pitcher","Giá nhập":500958,"Giá bán":1500000,"Lãi":999042},
+      {"Mã":"FLBÌ10072601","Ngày bán":"14/07/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Dachshund Vase","Giá nhập":286140,"Giá bán":1200000,"Lãi":913860},
+      {"Mã":"ANCỐ10072600","Ngày bán":"14/07/2026","Sản phẩm":"Anthropologie Dupe Red Cherry Shot","Giá nhập":365920,"Giá bán":700000,"Lãi":334080},
+      {"Mã":"NOGẠ10072600","Ngày bán":"14/07/2026","Sản phẩm":"No brand Ace Of Hearts Ashtray","Giá nhập":125702,"Giá bán":250000,"Lãi":124298},
+      {"Mã":"NOGẠ10072601","Ngày bán":"14/07/2026","Sản phẩm":"No brand Ace Of Spade Ashtray","Giá nhập":125702,"Giá bán":250000,"Lãi":124298},
+      {"Mã":"NOBÌ10072602","Ngày bán":"14/07/2026","Sản phẩm":"No brand Hand-Blown Glass Vase","Giá nhập":505662,"Giá bán":800000,"Lãi":294338},
+      {"Mã":"MABÌ10072600","Ngày bán":"14/07/2026","Sản phẩm":"Manyan Cat Vase","Giá nhập":593660,"Giá bán":880000,"Lãi":286340},
+      {"Mã":"TCỜ08072600","Ngày bán":"14/07/2026","Sản phẩm":"The Simpsons Chess Set","Giá nhập":1502000,"Giá bán":2500000,"Lãi":998000},
+      {"Mã":"MITH10072601","Ngày bán":"14/07/2026","Sản phẩm":"Mini Mono x Toy Story Woody Door Mat","Giá nhập":129708,"Giá bán":300000,"Lãi":170292},
+      {"Mã":"MITH10072600","Ngày bán":"14/07/2026","Sản phẩm":"Mini Mono x Toy Story Buzz Lightyear Door Mat","Giá nhập":129708,"Giá bán":300000,"Lãi":170292},
+      {"Mã":"IKĐÈ27052600","Ngày bán":"14/07/2026","Sản phẩm":"Ikea Kila - 2014","Giá nhập":1200256,"Giá bán":2200000,"Lãi":999744},
+      {"Mã":"IKĐÈ19032603","Ngày bán":"14/07/2026","Sản phẩm":"Ikea Solvinden - Carl Öjerstam","Giá nhập":293880,"Giá bán":420000,"Lãi":126120}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
