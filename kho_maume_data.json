@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15/07/2026 10:25",
+  "lastUpdated": "15/07/2026 15:56",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1408,7 +1408,7 @@
       {"Mã":"HARỔ27052605","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate S - Dusty Rose\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 173 x 265 x 105mm\n\nGiá: 250.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":110669,"Giá bán":250000},
       {"Mã":"HARỔ27052606","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate S - White\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 174 x 265 x 105mm\n\nGiá: 250.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":110669,"Giá bán":250000},
       {"Mã":"HARỔ27052607","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate S - Lavender\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 175 x 265 x 105mm\n\nGiá: 250.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":110669,"Giá bán":250000},
-      {"Mã":"HARỔ27052608","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate S - Lavender\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 176 x 265 x 105mm\n\nGiá: 250.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":110669,"Giá bán":250000},
+      {"Mã":"HARỔ27052608","Ngày về":"27/05/2026","Sản phẩm":"Hay Colour Crate S - Blush\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 176 x 265 x 105mm\n\nGiá: 250.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":110669,"Giá bán":250000},
       {"Mã":"LABỘ27052600","Ngày về":"27/05/2026","Sản phẩm":"La Prairie Chess Set\n\nChất liệu: Gỗ\n\nPhân Loại: Bộ cờ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 440 x 100 x 75\n\nGiá: 1.800.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":905981,"Giá bán":1800000},
       {"Mã":"IKMÓ27052600","Ngày về":"27/05/2026","Sản phẩm":"Ikea Frän Wall Hooks - Red\n\nChất liệu: Kim loại\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh \n\nKích thước: 200 x 180 x 160mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":291690,"Giá bán":600000},
       {"Mã":"THGẠ27052600","Ngày về":"27/05/2026","Sản phẩm":"The Scene Loong Ashtray\n\nChất liệu: Gốm\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 175 x 25mm\n\nGiá: 800.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":499376,"Giá bán":800000},
