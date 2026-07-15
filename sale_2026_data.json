@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/07/2026 17:13",
+  "lastUpdated": "15/07/2026 10:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -447,7 +447,9 @@
       {"Mã":"IKĐÈ19032603","Ngày bán":"14/07/2026","Sản phẩm":"Ikea Solvinden - Carl Öjerstam","Giá nhập":293880,"Giá bán":420000,"Lãi":126120},
       {"Mã":"VIĐĨ251200","Ngày bán":"14/07/2026","Sản phẩm":"Virgil Abloh x Prospect Life Itself 2021","Giá nhập":322540,"Giá bán":1000000,"Lãi":677460},
       {"Mã":"UNCH27052600","Ngày bán":"14/07/2026","Sản phẩm":"Uniqlo x JW Anderson Blanket Green","Giá nhập":300652,"Giá bán":700000,"Lãi":399348},
-      {"Mã":"IKGI14052600","Ngày bán":"14/07/2026","Sản phẩm":"Ikea Tradig - Red","Giá nhập":716101,"Giá bán":1800000,"Lãi":1083899}
+      {"Mã":"IKGI14052600","Ngày bán":"14/07/2026","Sản phẩm":"Ikea Tradig - Red","Giá nhập":716101,"Giá bán":1800000,"Lãi":1083899},
+      {"Mã":"INBÌ10072600","Ngày bán":"15/07/2026","Sản phẩm":"Ini Ceramique Colonne Grecque’ Vase","Giá nhập":303868,"Giá bán":550000,"Lãi":246132},
+      {"Mã":"FLBÌ10072600","Ngày bán":"15/07/2026","Sản phẩm":"Fluid Market Pasta Vase","Giá nhập":316532,"Giá bán":950000,"Lãi":633468}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
