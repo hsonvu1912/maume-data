@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/07/2026 17:25",
+  "lastUpdated": "15/07/2026 10:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1517,7 +1517,7 @@
       {"Mã":"TCỜ08072600","Ngày về":"08/07/2026","Sản phẩm":"The Simpsons Chess Set\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ Vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 370 x 280mm\n\nGiá: 2.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Giá bán":2500000},
       {"Mã":"NOGẠ10072600","Ngày về":"10/07/2026","Sản phẩm":"No brand Ace Of Hearts Ashtray\n\nChất liệu: Gốm\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 135 x 105 x 35mm\n\nGiá: 250.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":125702,"Giá bán":250000},
       {"Mã":"NOGẠ10072601","Ngày về":"10/07/2026","Sản phẩm":"No brand Ace Of Spade Ashtray\n\nChất liệu: Gốm\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 135 x 105 x 35mm\n\nGiá: 250.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":125702,"Giá bán":250000},
-      {"Mã":"INBÌ10072600","Ngày về":"10/07/2026","Sản phẩm":"Ini Ceramique Colonne Grecque’ Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 280 x 200mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":303868,"Giá bán":550000},
+      {"Mã":"INBÌ10072600","Ngày về":"10/07/2026","Sản phẩm":"Ini Ceramique Colonne Grecque’ Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 280 x 200mm\n\nGiá: 550.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":303868,"Giá bán":550000},
       {"Mã":"IKKH10072600","Ngày về":"10/07/2026","Sản phẩm":"Ikea Kuperad\n\nChất liệu: Gốm\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 140 x 200 x 80mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":202450,"Giá bán":700000},
       {"Mã":"WEBÌ10072600","Ngày về":"10/07/2026","Sản phẩm":"West Elm Emma Chamberlain Pigeon Pitcher\n\nChất liệu: Gốm\n\nPhân Loại: Bình nước\n\nTình trạng: Như ảnh\n\nKích thước: 248 × 155 × 290mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":500958,"Giá bán":1500000},
       {"Mã":"HARỔ10072600","Ngày về":"10/07/2026","Sản phẩm":"Hay Colour Crate S - Sage Green\n\nChất liệu: Nhựa\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh\n\nKích thước: 173 x 265 x 105mm\n\nGiá: 250.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":116233,"Giá bán":250000},
@@ -1546,7 +1546,7 @@
       {"Mã":"MITH10072601","Ngày về":"10/07/2026","Sản phẩm":"Mini Mono x Toy Story  Woody Door Mat\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 600 x 400mm\n\nGiá: 300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":129708,"Giá bán":300000},
       {"Mã":"DOMỞ10072600","Ngày về":"10/07/2026","Sản phẩm":"Doiy Foosball Bottle Opener\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 160 x 42mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":386196,"Giá bán":700000},
       {"Mã":"NOCH10072600","Ngày về":"10/07/2026","Sản phẩm":"No brand Tulip Candle Holder\n\nChất liệu: Gốm\n\nPhân Loại: Chân nến\n\nTình trạng: Như ảnh\n\nKích thước: d60 x 155mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":213052,"Giá bán":300000},
-      {"Mã":"FLBÌ10072600","Ngày về":"10/07/2026","Sản phẩm":"Fluid Market  Pasta Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 160 x 50 x 260mm\n\nGiá: 950.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":316532,"Giá bán":950000},
+      {"Mã":"FLBÌ10072600","Ngày về":"10/07/2026","Sản phẩm":"Fluid Market  Pasta Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 160 x 50 x 260mm\n\nGiá: 950.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":316532,"Giá bán":950000},
       {"Mã":"BYGÁ10072600","Ngày về":"10/07/2026","Sản phẩm":"Byon Fruits Chopstick Holders\n\nChất liệu: Gốm\n\nPhân Loại: Gác đũa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 60 x 35 x 18mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":316872,"Giá bán":550000},
       {"Mã":"FLBÌ10072601","Ngày về":"10/07/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Dachshund Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 250 x 50 x 170mm\n\nGiá: 1.200.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":286140,"Giá bán":1200000}
     ]
