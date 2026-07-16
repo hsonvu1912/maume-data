@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/07/2026 19:04",
+  "lastUpdated": "16/07/2026 19:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -747,7 +747,7 @@
       {"Mã":"LC-4095-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-4095-080726\nnavy size M nhỏ độ mới khá tốt, ko có lỗi nào lớn, size nhỏ xinh hợp ng dưới m6, kkh vừa laptop đâu ạ. KT 35 x 24 x 14\nGiá: 1.400.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1078925,"Giá bán":1400000},
       {"Mã":"LC-9929-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-9929-080726\nhồng pastel đời mới đang hot, size L, còn sổ luôn ạ, mức độ qua sdung nhẹ xíu xiu tổng quan vẫn đẹp cứng cáp ít bẩn nhẹ ở đáy ạ. KT 45 x 30 x 19\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1587565,"Giá bán":2100000},
       {"Mã":"LC-6753-070726","Ngày về":"07/07/2026","Sản phẩm":"LC-6753-070726\nnavy size M độ mới cao, đẹp cứng cáp chủ yếu qua lưu trữ, ít qua sử dụng ạ. KT 37 x 25 x 14\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":758201,"Giá bán":1850000},
-      {"Mã":"LC-1379-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-1379-080726\nnavy dòng club size M, độ mới cao, qua sdung ít, tổng quan đẹp. KT 37 x 24 x 14\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1115065,"Giá bán":1800000},
+      {"Mã":"LC-1379-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-1379-080726\nnavy dòng club size M, độ mới cao, qua sdung ít, tổng quan đẹp. KT 37 x 24 x 14\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1115065,"Giá bán":1800000},
       {"Mã":"LC-5560-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-5560-080726\nxám đậm dòng neo size M, condition tốt, ko có lỗi nào lớn, tổng quan đẹp. KT: 37 x 24 x 15\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1460385,"Giá bán":1800000},
       {"Mã":"LC-8381-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-8381-080726\nmarine/navy size S quai ngắn bản đời mới 2 ngăn phụ, cond đẹp cứng cáp chủ yếu qua lưu trữ ít qua sdung. KT 33 x 21 x 14\nGiá: 1.400.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":999365,"Giá bán":1400000},
       {"Mã":"LC-7619-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-7619-080726\npapier size M bản đời mới 2 ngăn phụ, chủ yếu qua lưu trữ, kh có lỗi nào lớn, đẹp cứng cáp. KT: 39 x 26 x 16","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1017165},
