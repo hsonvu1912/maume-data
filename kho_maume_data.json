@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/07/2026 14:55",
+  "lastUpdated": "17/07/2026 14:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -920,7 +920,7 @@
       {"Mã":"PIĐỒ150100","Ngày về":"15/01/2026","Sản phẩm":"Piatnik  Mondrian Playing Cards\n\nChất liệu: Giấy tổng hợp\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn seal\n\nKích thước: 65 x 90 x 20mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":473260},
       {"Mã":"SHGƯ170100","Ngày về":"17/01/2026","Sản phẩm":"Shiseido Camelia Superieur Hand Mirror\n\nChất liệu: Kim loại\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 220 x 130mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":437500},
       {"Mã":"OPĐÈ210100","Ngày về":"21/01/2026","Sản phẩm":"Opple Toucan Desk Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, gãy cạp giữ bóng\n\nKích thước: 300 x 305mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":617493,"Giá bán":900000},
-      {"Mã":"SUĐÈ210100","Ngày về":"21/01/2026","Sản phẩm":"Suck UK Glow Brick\n\nChất liệu: Nhựa thông rắn\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 80 110mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":302800,"Giá bán":650000},
+      {"Mã":"SUĐÈ210100","Ngày về":"21/01/2026","Sản phẩm":"Suck UK Glow Brick\n\nChất liệu: Resin\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 80 110mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":302800,"Giá bán":650000},
       {"Mã":"SULỌ210100","Ngày về":"21/01/2026","Sản phẩm":"Suck UK Wind-Up Robot Salt & Pepper Shakers\n\nChất liệu: Nhựa\n\nPhân Loại: Lọ gia vị\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 45 x 92 x 29mm\n\nGiá: Sale 40% 900.000 => 540.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":432546,"Giá bán":900000},
       {"Mã":"KIMỞ210100","Ngày về":"21/01/2026","Sản phẩm":"Kikkerland  Day of the Dead Corkscrew\n\nChất liệu: Kim loại\n\nPhân Loại: Mở rượu vang\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 215 x 80 x 38mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":177800},
       {"Mã":"KIMỞ210101","Ngày về":"21/01/2026","Sản phẩm":"Kikkerland Elephant Corkscrew\n\nChất liệu: Gỗ, Kim loại\n\nPhân Loại: Mở rượu vang\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 96 x 76 x 33mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":428509},
