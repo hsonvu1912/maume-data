@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "17/07/2026 14:55",
+  "lastUpdated": "19/07/2026 12:26",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1164,7 +1164,7 @@
       {"Mã":"PEĐĨ07042600","Ngày về":"07/04/2026","Sản phẩm":"Peanuts Snoopy Small Plate\n\nChất liệu: Gốm\n\nPhân Loại: Bộ đĩa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d90 x 10mm\n\nGiá: 800.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":496500,"Giá bán":800000},
       {"Mã":"LEHỘ07042600","Ngày về":"07/04/2026","Sản phẩm":"Lego CD Storage\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 140 x 170 x 140mm\n\nGiá: 650.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":475500,"Giá bán":650000},
       {"Mã":"LEHỘ07042601","Ngày về":"07/04/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Aqua\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 250 x 250 x 180mm\n\nGiá: 1.300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":720000,"Giá bán":1300000},
-      {"Mã":"LEHỘ07042602","Ngày về":"07/04/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Royal Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 250 x 250 x 180mm\n\nGiá: 1.300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":720000,"Giá bán":1300000},
+      {"Mã":"LEHỘ07042602","Ngày về":"07/04/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Royal Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 250 x 250 x 180mm\n\nGiá: 1.300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":720000,"Giá bán":1300000},
       {"Mã":"LEHỘ07042603","Ngày về":"07/04/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Grey\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 250 x 250 x 180mm\n\nGiá: 950.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":366118,"Giá bán":950000},
       {"Mã":"LEHỘ07042604","Ngày về":"07/04/2026","Sản phẩm":"Lego 8 Knobs Brick Drawer - Grey\n\nChất liệu: Nhựa\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 500 x 250 x 180mm\n\nGiá: 1.750.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":679934,"Giá bán":1750000},
       {"Mã":"IKĐÈ09042600","Ngày về":"09/04/2026","Sản phẩm":"Ikea Strala\n\nChất liệu: Giấy, kim loại\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng E14. Rách 2 chỗ (ảnh 8,9)\n\nKích thước: 500 x 500mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":427575,"Giá bán":350000},
