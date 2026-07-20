@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19/07/2026 12:26",
+  "lastUpdated": "20/07/2026 15:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1010,7 +1010,7 @@
       {"Mã":"SEGƯ130200","Ngày về":"13/02/2026","Sản phẩm":"Seletti x Toiletpaper Mirror Small Drill\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 175 x 230mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":246800},
       {"Mã":"SEGƯ110201","Ngày về":"11/02/2026","Sản phẩm":"Seletti x Toiletpaper Small Vegetables Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 175 x 230mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":286000},
       {"Mã":"CAGẠ110200","Ngày về":"11/02/2026","Sản phẩm":"Camel Ceramic Ashtray\n\nChất liệu: Gốm\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 120 x 100 x 25mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":442133},
-      {"Mã":"OPĐÈ110200","Ngày về":"11/02/2026","Sản phẩm":"Opple Toucan Desk Lamp - Green\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 300 x 305mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":247276},
+      {"Mã":"OPĐÈ110200","Ngày về":"11/02/2026","Sản phẩm":"Opple Toucan Desk Lamp - Green\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 300 x 305mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":247276},
       {"Mã":"OPĐÈ110201","Ngày về":"11/02/2026","Sản phẩm":"Opple Toucan Desk Lamp - Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 301 x 305mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":247276},
       {"Mã":"OPĐÈ110202","Ngày về":"11/02/2026","Sản phẩm":"Opple Toucan Desk Lamp - Green\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 302 x 305mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":247276},
       {"Mã":"OPĐÈ110203","Ngày về":"11/02/2026","Sản phẩm":"Opple Toucan Desk Lamp - Blue\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 303 x 305mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":247276},
