@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/07/2026 15:43",
+  "lastUpdated": "20/07/2026 17:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -450,7 +450,8 @@
       {"Mã":"IKGI14052600","Ngày bán":"14/07/2026","Sản phẩm":"Ikea Tradig - Red","Giá nhập":716101,"Giá bán":1800000,"Lãi":1083899},
       {"Mã":"INBÌ10072600","Ngày bán":"15/07/2026","Sản phẩm":"Ini Ceramique Colonne Grecque’ Vase","Giá nhập":303868,"Giá bán":550000,"Lãi":246132},
       {"Mã":"FLBÌ10072600","Ngày bán":"15/07/2026","Sản phẩm":"Fluid Market Pasta Vase","Giá nhập":316532,"Giá bán":950000,"Lãi":633468},
-      {"Mã":"LEHỘ07042602","Ngày bán":"19/07/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Royal Blue","Giá nhập":720000,"Giá bán":1300000,"Lãi":580000}
+      {"Mã":"LEHỘ07042602","Ngày bán":"19/07/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Royal Blue","Giá nhập":720000,"Giá bán":1300000,"Lãi":580000},
+      {"Mã":"OPĐÈ110201","Ngày bán":"20/07/2026","Sản phẩm":"Opple Toucan Desk Lamp - Blue","Giá nhập":247276,"Giá bán":1200000,"Lãi":952724}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
