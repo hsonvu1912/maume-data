@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21/07/2026 15:34",
+  "lastUpdated": "21/07/2026 16:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -718,6 +718,7 @@
       {"Mã":"LC-8105-200626","Ngày về":"20/06/2026","Sản phẩm":"LC-8105-200626\nmàu kaki rêu size L, condition tốt, quai đẹp dày dặn ko trày xước. phần mặt đáy có dính 1 vài vết mực nhỏ nhỏ, vì màu đậm nên nhìn bên ngoài gần như không để ý gì luôn (vì ở đáy nữa). KT: 45 x 30 x19\nGiá: 1.550.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":977000,"Giá bán":1550000},
       {"Mã":"LC-2567-200626","Ngày về":"20/06/2026","Sản phẩm":"LC-2567-200626\nđỏ rượu burgundy dòng club size M, condition rất tốt, quai viền đẹp cứng cáp, trày nhẹ xíu xíu ở gần mặt tiếp xúc với vai thôi nha (lỗi cơ bản). KT: 39 x 25 x17\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1357100,"Giá bán":1750000},
       {"Mã":"LC-0058-200626","Ngày về":"20/06/2026","Sản phẩm":"LC-0058-200626\nnavy size L độ mới cao, tổng quan đẹp cứng cáp ko lỗi nào lớn ạ. KT: 45 x 30 x 19\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1537919,"Giá bán":1850000},
+      {"Mã":"LC-8169-210726","Ngày về":"21/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":940900},
       {"Mã":"LC-8381-190626","Ngày về":"19/06/2026","Sản phẩm":"LC-8381-190626\nmàu đen dòng energy bản đời mới condition like new k có gì để chê. giá new 4-5tr nè siêu mắc tiền nha, mà chất lượng thì dĩ nhiên là xứng đáng rùi. KT: 24 x 14 x 10\nGiá: 3.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1719100,"Giá bán":3100000},
       {"Mã":"TH2706-270626","Ngày về":"27/06/2026","Sản phẩm":"TH2706-270626\ntote gấp gọn của the north face cực đáng iuuu, vải chống nước thuận tiện đi du lịch, em có 3 chiếc mới keng chưa qua sử dụng, auth 100% nhaaa thị trường bán 1tr5-2tr mà chưa chắc đã có để bán vì ko mua được mà chỉ đổi điểm hoặc đc tặng thui\nGiá: 950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":375465,"Giá bán":950000},
       {"Mã":"TH2706-270626-00","Ngày về":"27/06/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":185991,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
@@ -731,6 +732,9 @@
     ],
     "Tháng 7": [
       {"Mã":"LC-0418-210726","Ngày về":"21/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1339000},
+      {"Mã":"LC-8248-21/07","Ngày về":"21/07","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":2045100},
+      {"Mã":"LC-7296-210726","Ngày về":"21/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":2045100},
+      {"Mã":"LC-2107-210726","Ngày về":"21/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1909100},
       {"Mã":"TH-0307-030726","Ngày về":"03/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":395932},
       {"Mã":"TH-0307-030726-00","Ngày về":"03/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":377325},
       {"Mã":"LC-9736-070826","Ngày về":"07/08/2026","Sản phẩm":"LC-9736-070826\nmini pouch màu papier, cond rất tốt chủ yếu qua lưu trữ, có sẵn kit dây chéo\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":971565,"Giá bán":2100000},
@@ -776,7 +780,16 @@
       {"Mã":"LC-1007-100726","Ngày về":"10/07/2026","Sản phẩm":"LC-1007-100726\nLC navy, mức độ used nhẹ, tổng quan đẹp dày dặn kok lỗi gì đáng kể. KT: 45 x 30 x 19\nGiá: 1.550.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":973780,"Giá bán":1550000},
       {"Mã":"LC-1536-100726","Ngày về":"10/07/2026","Sản phẩm":"LC-1536-100726\nbalo đen cond đẹp mức độ used nhẹ kh có gì đề chê với 1 bé balo secondhand.KT vừa laptop 13 theo như review ạ\nGiá: 1.450.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":783044,"Giá bán":1450000},
       {"Mã":"LC-8364-100726","Ngày về":"10/07/2026","Sản phẩm":"LC-8364-100726\nblack size L bản đời mới 2 ngăn phụ, cond quai và vải đều đẹp cứng cáp, bề mặt vải có vài lỗi nhẹ nhẹ tí hon thôi nhìn bên ngoài kh rõ chút nào. KT: 45 x 30 x 19\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":996123,"Giá bán":1900000},
-      {"Mã":"LC-0063-100726","Ngày về":"10/07/2026","Sản phẩm":"LC-0063-100726\nbeige size L cond đẹp, mức độ qua sử dụng nhẹ, bên ngoài sạch sẽ cứng cáp ko lỗi gì lớn nha. KT: 45 x 30 x 19\nGiá: 1.450.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":787372,"Giá bán":1450000}
+      {"Mã":"LC-0063-100726","Ngày về":"10/07/2026","Sản phẩm":"LC-0063-100726\nbeige size L cond đẹp, mức độ qua sử dụng nhẹ, bên ngoài sạch sẽ cứng cáp ko lỗi gì lớn nha. KT: 45 x 30 x 19\nGiá: 1.450.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":787372,"Giá bán":1450000},
+      {"Mã":"LC-5515-210726","Ngày về":"21/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1366100},
+      {"Mã":"LC-7728-210726","Ngày về":"21/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":448480},
+      {"Mã":"LC-1096-210726","Ngày về":"21/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1697480},
+      {"Mã":"LC-0447-210726","Ngày về":"21/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1194300},
+      {"Mã":"LC-1462-210726","Ngày về":"21/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":705600},
+      {"Mã":"LC-6380-210726","Ngày về":"21/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1791600},
+      {"Mã":"LC-1724-210726","Ngày về":"21/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1628600},
+      {"Mã":"LC-6414-21/07","Ngày về":"21/07","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":699373},
+      {"Mã":"LC-3164-21/07","Ngày về":"21/07","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1182100}
     ]
   }
 }
