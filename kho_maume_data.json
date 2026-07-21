@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21/07/2026 11:55",
+  "lastUpdated": "21/07/2026 12:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -354,7 +354,7 @@
       {"Mã":"ROGRGU2909","Ngày về":"29/08/2025","Sản phẩm":"Ron Arad for Guzzini Rigoles Borraccia\nTình trạng: Như ảnh, còn hộp\nKích thước: 14,8 x 3 x 21cm","Tình trạng":"Hết hàng","Thành tiền":590165},
       {"Mã":"LAGRIK2909","Ngày về":"29/08/2025","Sản phẩm":"IKEA Svirvel Table Lamp\nTình trạng: Như ảnh,\nKích thước: 170 x  530mm","Tình trạng":"Hết hàng","Thành tiền":368790},
       {"Mã":"LAWHIK2909A","Ngày về":"29/08/2025","Sản phẩm":"IKEA Majorna Table Lamp\nTình trạng: Như ảnh, còn hộp, không kèm bóng\nKích thước: ‎30.2 x 25.4 x 4.8 cm","Tình trạng":"Hết hàng","Thành tiền":250421},
-      {"Mã":"LACRIK2909","Ngày về":"29/08/2025","Sản phẩm":"Ikea Allen Key Torch\nTình trạng: Như ảnh, còn hộp\nKích thước: 125 x 25 x 200mm","Tình trạng":"Còn hàng","Thành tiền":669325,"Giá bán":1400000},
+      {"Mã":"LACRIK2909","Ngày về":"29/08/2025","Sản phẩm":"Ikea Allen Key LampTình trạng: Như ảnh, còn hộp\nKích thước: 125 x 25 x 200mm","Tình trạng":"Còn hàng","Thành tiền":669325,"Giá bán":1400000},
       {"Mã":"LAWHIK2909C","Ngày về":"29/08/2025","Sản phẩm":"IKEA STORUMAN table \nTình trạng: Như ảnh, còn hộp, rách 1 lỗ\nKích thước: 300 x 530mm","Tình trạng":"Hết hàng","Thành tiền":1221192},
       {"Mã":"LAORIK2909","Ngày về":"29/08/2025","Sản phẩm":"\"IKEA LAMPAN LED portable lamp\nTinh trạng: Như ảnh\nKích thước: D15 x 24cm","Tình trạng":"Hết hàng","Thành tiền":427845},
       {"Mã":"LAREIK2909","Ngày về":"29/08/2025","Sản phẩm":"IKEA Fillsta table lamp\nTình trạng: Như ảnh, còn hộp\nKích thước: d27 x 31cm","Tình trạng":"Hết hàng","Thành tiền":438084}
