@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21/07/2026 12:25",
+  "lastUpdated": "21/07/2026 13:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -42,7 +42,7 @@
       {"Mã":"CLBEIK0207","Ngày về":"02/07/2025","Sản phẩm":"IKEA Tjinga alarm clock\nTình trạng: Like New\nKích thước: 8 x 8 x 5 cm","Tình trạng":"Hết hàng","Thành tiền":160890},
       {"Mã":"KSBGAR0207","Ngày về":"02/07/2025","Sản phẩm":"Burger Kitchenware – Aura House\nTình trạng: New With Box","Tình trạng":"Hết hàng","Thành tiền":295750},
       {"Mã":"CLBLBR0207","Ngày về":"02/07/2025","Sản phẩm":"Braun - Black Classic Light Analog Quartz Alarm Clock\nTình trạng: Qua sử dụng, xước mặt nhẹ\nKích thước: 8 x 8 x 3,7 cm","Tình trạng":"Hết hàng","Thành tiền":459980},
-      {"Mã":"GBBLTF0207","Ngày về":"02/07/2025","Sản phẩm":"Tiffany Blue Gift Box White Porcelain Bone China  Jewelry Tình trạng: Like New Kích thước: 9 x 9 x 10 cm","Tình trạng":"Còn hàng","Thành tiền":1025774,"Giá bán":1350000},
+      {"Mã":"GBBLTF0207","Ngày về":"02/07/2025","Sản phẩm":"Tiffany Blue Gift Box White Jewelry Tình trạng: Like New Kích thước: 9 x 9 x 10 cm","Tình trạng":"Còn hàng","Thành tiền":1025774,"Giá bán":1350000},
       {"Mã":"BBWHTF0207","Ngày về":"02/07/2025","Sản phẩm":"Tiffany Crystal Bow Box Yamazaki Bread Company 50th Anniversary\nTình trạng: New No Box\nKích thước: 8.8 x 8.3 x 8.7cm","Tình trạng":"Hết hàng","Thành tiền":733774},
       {"Mã":"TBWHTF0207","Ngày về":"02/07/2025","Sản phẩm":"Tiffany & Co. Elsa Peretti Crystal Heart Trinket Box and Lid\nTình trạng: New With Box\nKích thước: 10 x 10 x 5 cm","Tình trạng":"Hết hàng","Thành tiền":683774},
       {"Mã":"BABLCC0207","Ngày về":"02/07/2025","Sản phẩm":"Túi cote & ciel","Tình trạng":"Hết hàng","Thành tiền":1170390},
