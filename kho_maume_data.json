@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/07/2026 17:25",
+  "lastUpdated": "21/07/2026 11:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -524,7 +524,7 @@
       {"Mã":"HOBLFR2310","Ngày về":"23/10/2025","Sản phẩm":"Fritz Hansen Happy Hook\nTình trạng: Như ảnh, còn hộp\nKích thước:150 x 65 x H 131mm","Tình trạng":"Hết hàng","Thành tiền":878014},
       {"Mã":"LAORIK2310","Ngày về":"23/10/2025","Sản phẩm":"Ikea Lampan Portable Lamp\nTinh trạng: Như ảnh\nKích thước: D150 x 240mm","Tình trạng":"Hết hàng","Thành tiền":475116},
       {"Mã":"TEWHSO2310","Ngày về":"23/10/2025","Sản phẩm":"Sowden Tea SoftBrew\n& Sowden cup\nTình trạng: Như ảnh, còn hộp\nKích thước:210 x 135 x 100mm & \nd65 x 68mm","Tình trạng":"Hết hàng","Thành tiền":662453},
-      {"Mã":"LAPIIK1110","Ngày về":"11/10/2025","Sản phẩm":"Ikea Väte Table Lamp\nTình trạng: Như ảnh\nKích thước: d250 x 300mm","Tình trạng":"Còn hàng","Thành tiền":426081,"Giá bán":1500000},
+      {"Mã":"f","Ngày về":"11/10/2025","Sản phẩm":"Ikea Väte Table Lamp\nTình trạng: Như ảnh\nKích thước: d250 x 300mm","Tình trạng":"Còn hàng","Thành tiền":426081,"Giá bán":1500000},
       {"Mã":"HOREIK2310","Ngày về":"23/10/2025","Sản phẩm":"Ikea Frän Wall Hooks\n1 đỏ 1 đen\nTình trạng: Như ảnh, không kèm vít\nKích thước: 200 x 180 x 160mm\ncòn màu đen","Tình trạng":"Hết hàng","Thành tiền":99375},
       {"Mã":"HOBLIK2310","Ngày về":"23/10/2025","Sản phẩm":"Ikea Frän Wall Hooks\n1 đỏ 1 đen\nTình trạng: Như ảnh, không kèm vít\nKích thước: 200 x 180 x 160mm\ncòn màu đen","Tình trạng":"Hết hàng","Thành tiền":99375},
       {"Mã":"LABLIK2810","Ngày về":"28/10/2025","Sản phẩm":"Ikea Flottilj Desk Lamp\nTình trạng: Như ảnh, không kèm bóng ( GU10 )\nKích thước: 152 X 152 X 279mm","Tình trạng":"Hết hàng","Thành tiền":199950},
