@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21/07/2026 15:25",
+  "lastUpdated": "22/07/2026 10:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -545,12 +545,12 @@
       {"Mã":"LAWHIK2810N","Ngày về":"28/10/2025","Sản phẩm":"Ikea Kallblixt Wall Lamp\nTình trạng: Như ảnh, còn hộp\nKích thước: 215 x 110 x 270mm","Tình trạng":"Hết hàng","Thành tiền":509601}
     ],
     "Tháng 11/2025": [
-      {"Mã":"STTR311000","Ngày về":"31/10/2025","Sản phẩm":"Studio Roof Dakar Mask \n\nChất liệu: Bìa cứng\n\nPhân Loại: Trang trí treo tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 150x 50 x 410mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":345288},
-      {"Mã":"SUTR311000","Ngày về":"31/10/2025","Sản phẩm":"Supreme Inflatable Blimp\n\nChất liệu: Plastic \n\nPhân Loại: Trang trí treo trần\n\nTình trạng: Như ảnh, không kèm dây\n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":243600},
-      {"Mã":"EGĐÈ311000","Ngày về":"31/10/2025","Sản phẩm":"Eglo Io Empori Table Lamp\n\nChất liệu: Thủy tinh, kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 145 x 470mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":285690},
+      {"Mã":"STTRNGÀY00","Ngày về":"NGÀY","Sản phẩm":"Studio Roof Dakar Mask \n\nChất liệu: Bìa cứng\n\nPhân Loại: Trang trí treo tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 150x 50 x 410mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":345288},
+      {"Mã":"SUTRNGÀY00","Ngày về":"NGÀY","Sản phẩm":"Supreme Inflatable Blimp\n\nChất liệu: Plastic \n\nPhân Loại: Trang trí treo trần\n\nTình trạng: Như ảnh, không kèm dây\n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":243600},
+      {"Mã":"EGĐÈNGÀY00","Ngày về":"NGÀY","Sản phẩm":"Eglo Io Empori Table Lamp\n\nChất liệu: Thủy tinh, kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 145 x 470mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":285690},
       {"Mã":"EDĐÈ311000","Ngày về":"31/10/2025","Sản phẩm":"Edi Light Table Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng\n\nKích thước: 146 x 146 x 254mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":449115},
-      {"Mã":"EGĐÈ311001","Ngày về":"31/10/2025","Sản phẩm":"Eglo Linda Table Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng (G4 )\nLắp thêm công tắc\n\nKích thước: 140 x 340mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":308910},
-      {"Mã":"EGĐÈ311002","Ngày về":"31/10/2025","Sản phẩm":"Eglo Blob Table Lamp\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng\n\nKích thước: 105 x 270mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":219900},
+      {"Mã":"EGĐÈ311000","Ngày về":"31/10/2025","Sản phẩm":"Eglo Linda Table Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng (G4 )\nLắp thêm công tắc\n\nKích thước: 140 x 340mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":308910},
+      {"Mã":"EGĐÈ311001","Ngày về":"31/10/2025","Sản phẩm":"Eglo Blob Table Lamp\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng\n\nKích thước: 105 x 270mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":219900},
       {"Mã":"IKĐỒ311000","Ngày về":"31/10/2025","Sản phẩm":"Ikea x Lego Bygglek\n\nChất liệu: Nhựa\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":267750},
       {"Mã":"IKĐỒ311001","Ngày về":"31/10/2025","Sản phẩm":"Ikea Fornyad Soft Toy\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh\n\nKích thước: 220 x 370mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":192750,"Giá bán":600000},
       {"Mã":"IKĐÈ311000","Ngày về":"31/10/2025","Sản phẩm":"Ikea Spetsboj Table Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, tặng kèm bóng\n\nKích thước: 120 x 220mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":225090},
