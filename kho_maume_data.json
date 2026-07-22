@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22/07/2026 15:55",
+  "lastUpdated": "22/07/2026 16:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1571,7 +1571,7 @@
       {"Mã":"HECỐ22072600","Ngày về":"22/07/2026","Sản phẩm":"Hens & Hollyhocks Tumbler\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 90mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":378044},
       {"Mã":"FCỐ22072600","Ngày về":"22/07/2026","Sản phẩm":"Ferm Living Floccula Wine Glass\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 90 x 125mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":477517},
       {"Mã":"FCỐ22072601","Ngày về":"22/07/2026","Sản phẩm":"Ferm Living Floccula Wine Glass\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 91 x 125mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":477517},
-      {"Ngày về":"22/07/2026","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"}
+      {"Ngày về":"22/07/2026","Sản phẩm":"Doiy Fish Umbrella\n\nChất liệu: Vải, kim loại\n\nPhân Loại: Ô\n\nTình trạng: Như ảnh\n\nKích thước: 980 x 980 x 620mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":219008}
     ]
   }
 }
