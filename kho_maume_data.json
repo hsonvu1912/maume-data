@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/07/2026 10:25",
+  "lastUpdated": "23/07/2026 10:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1566,9 +1566,8 @@
       {"Mã":"GIĐĨ22072602","Ngày về":"22/07/2026","Sản phẩm":"Gisela Graham  Leaf Shape Dish\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 220 x 130 x 30mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":122273},
       {"Mã":"GIĐĨ22072603","Ngày về":"22/07/2026","Sản phẩm":"Gisela Graham  Leaf Shape Dish\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 220 x 130 x 30mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":122273},
       {"Mã":"CRBÌ22072600","Ngày về":"22/07/2026","Sản phẩm":"Creative Co-op Fan-Shaped Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 159 x 830 x 210mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":366268},
-      {"Mã":"BRCỐ22072600","Ngày về":"22/07/2026","Sản phẩm":"Broste Copenhagen  Konus Cocktail Glass\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 170mm\n250ml\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":191100},
-      {"Mã":"BRCỐ22072601","Ngày về":"22/07/2026","Sản phẩm":"Broste Copenhagen  Konus Cocktail Glass\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 170mm\n250ml\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":191100},
-      {"Mã":"HECỐ22072600","Ngày về":"22/07/2026","Sản phẩm":"Hens & Hollyhocks Tumbler\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 90mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":378044},
+      {"Mã":"BRCỐ22072600","Ngày về":"22/07/2026","Sản phẩm":"Broste Copenhagen  Konus Cocktail Glass\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 170mm\n250ml\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":413952},
+      {"Mã":"HECỐ22072600","Ngày về":"22/07/2026","Sản phẩm":"Hens & Hollyhocks Tumbler\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 90mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":346292},
       {"Mã":"FCỐ22072600","Ngày về":"22/07/2026","Sản phẩm":"Ferm Living Floccula Wine Glass\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 90 x 125mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":477517},
       {"Mã":"FCỐ22072601","Ngày về":"22/07/2026","Sản phẩm":"Ferm Living Floccula Wine Glass\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 91 x 125mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":477517},
       {"Mã":"DOÔ22072600","Ngày về":"22/07/2026","Sản phẩm":"Doiy Fish Umbrella\n\nChất liệu: Vải, kim loại\n\nPhân Loại: Ô\n\nTình trạng: Như ảnh\n\nKích thước: 980 x 980 x 620mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":219008},
