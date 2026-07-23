@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/07/2026 10:55",
+  "lastUpdated": "23/07/2026 14:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1551,6 +1551,7 @@
       {"Mã":"FLBÌ10072600","Ngày về":"10/07/2026","Sản phẩm":"Fluid Market  Pasta Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 160 x 50 x 260mm\n\nGiá: 950.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":316532,"Giá bán":950000},
       {"Mã":"BYGÁ10072600","Ngày về":"10/07/2026","Sản phẩm":"Byon Fruits Chopstick Holders\n\nChất liệu: Gốm\n\nPhân Loại: Gác đũa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 60 x 35 x 18mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":316872,"Giá bán":550000},
       {"Mã":"FLBÌ10072601","Ngày về":"10/07/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Dachshund Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 250 x 50 x 170mm\n\nGiá: 1.200.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":286140,"Giá bán":1200000},
+      {"Mã":"FL22072600","Ngày về":"22/07/2026","Sản phẩm":"Fluid Market x Thomas Gravereau \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":160788},
       {"Mã":"OFTH22072600","Ngày về":"22/07/2026","Sản phẩm":"Off - White Round Logo Doormat One Size Brown\n\nChất liệu:  Coconut fiber\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d660mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":897613},
       {"Mã":"TANẾ22072600","Ngày về":"22/07/2026","Sản phẩm":"Tamburins Holiday Egg Candle\n\nChất liệu: Kim loại, nến\n\nPhân Loại: Nến và chân nến\n\nTình trạng: Như ảnh\n\nKích thước: d47 x 90mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":274756},
       {"Mã":"IKĐÈ22072600","Ngày về":"22/07/2026","Sản phẩm":"Ikea Solvinden By Lina Vuorivirta\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh. Pin AAA\n\nKích thước: 110 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":204564},
