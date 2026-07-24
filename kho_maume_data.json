@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/07/2026 15:25",
+  "lastUpdated": "24/07/2026 10:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1304,8 +1304,8 @@
       {"Mã":"LEMÓ24042600","Ngày về":"24/04/2026","Sản phẩm":"Lego Wall Hanger Rack\n\nChất liệu: Nhựa\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 334 x 65 x 44mm\n\nGiá: 550.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":171756,"Giá bán":550000},
       {"Mã":"LEMÓ24042601","Ngày về":"24/04/2026","Sản phẩm":"Lego Wall Hanger Rack\n\nChất liệu: Nhựa\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 334 x 65 x 44mm\n\nGiá: 550.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":153256,"Giá bán":550000},
       {"Mã":"LEĐÈ24042600","Ngày về":"24/04/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model\n\nChất liệu: Nhựa, cao su\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh, còn hộp\nNguồn Type C 5V\n\nKích thước: d80 x 110mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":206406,"Giá bán":800000},
-      {"Mã":"IKĐÈ24042601","Ngày về":"24/04/2026","Sản phẩm":"Ikea Lampan - White\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Mới, tặng kèm bóng E14\n\nKích thước: D150 x 240mm\n\nGiá: 450.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":263214,"Giá bán":450000},
-      {"Mã":"DOBÌ24042600","Ngày về":"24/04/2026","Sản phẩm":"Doiy Namasté Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 205 x 100 x 155mm\n\nGiá: 950.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":657771,"Giá bán":950000},
+      {"Mã":"IKĐÈ24042601","Ngày về":"24/04/2026","Sản phẩm":"Ikea Lampan - White\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Mới, không kèm bóng E14\n\nKích thước: D150 x 240mm\n\nGiá: 450.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":263214,"Giá bán":450000},
+      {"Mã":"DOBÌ24042600","Ngày về":"24/04/2026","Sản phẩm":"Doiy Namasté Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng:  Như ảnh\n\nKích thước: 205 x 100 x 155mm\n\nGiá: 950.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":657771,"Giá bán":950000},
       {"Mã":"DOCỐ24042600","Ngày về":"24/04/2026","Sản phẩm":"Doiy Hestia Mug\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 130 x 90 x110mm\n\nGiá: Sale 20% 650.000 => 520.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":446792,"Giá bán":650000},
       {"Mã":"PRGI24042600","Ngày về":"24/04/2026","Sản phẩm":"Propaganda Mr. P Tape Dispenser\n\nChất liệu: Nhựa\n\nPhân Loại: Giá để băng dính\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 167 x 116 x 87mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":144612,"Giá bán":600000},
       {"Mã":"ANBÌ24042600","Ngày về":"24/04/2026","Sản phẩm":"Anthropologie Terra Pitcher\n\nChất liệu: Gốm\n\nPhân Loại: Bình nước\n\nTình trạng: Như ảnh\n\nKích thước: 130x 160 x 210\n\nGiá: 900.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":351468,"Giá bán":900000},
