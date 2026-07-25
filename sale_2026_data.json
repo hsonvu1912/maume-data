@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24/07/2026 13:13",
+  "lastUpdated": "25/07/2026 14:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -452,7 +452,8 @@
       {"Mã":"FLBÌ10072600","Ngày bán":"15/07/2026","Sản phẩm":"Fluid Market Pasta Vase","Giá nhập":316532,"Giá bán":950000,"Lãi":633468},
       {"Mã":"LEHỘ07042602","Ngày bán":"19/07/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Royal Blue","Giá nhập":720000,"Giá bán":1300000,"Lãi":580000},
       {"Mã":"OPĐÈ110201","Ngày bán":"20/07/2026","Sản phẩm":"Opple Toucan Desk Lamp - Blue","Giá nhập":247276,"Giá bán":1200000,"Lãi":952724},
-      {"Mã":"NOBÌ10072601","Ngày bán":"21/07/2026","Sản phẩm":"No brand Square Shape Green Vase","Giá nhập":411797,"Giá bán":550000,"Lãi":138203}
+      {"Mã":"NOBÌ10072601","Ngày bán":"21/07/2026","Sản phẩm":"No brand Square Shape Green Vase","Giá nhập":411797,"Giá bán":550000,"Lãi":138203},
+      {"Mã":"VIBỘ111100","Ngày bán":"25/07/2026","Sản phẩm":"Sowden Vacuum","Giá nhập":176205,"Giá bán":600000,"Lãi":423795}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
