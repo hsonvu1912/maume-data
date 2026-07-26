@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/07/2026 17:04",
+  "lastUpdated": "26/07/2026 16:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -778,7 +778,7 @@
       {"Mã":"LC-5843-100726","Ngày về":"10/07/2026","Sản phẩm":"LC-5843-100726\ngray size L bản đòi mới 2 ngăn phụ, tổng quan đẹp cứng cáp, dính 1 vài vết mực nhỏ thôi ạ, đã clean qua rồi nên sạch sẽ chứ ko bụi bẩn gì đâu nha. KT: 45 x 30 x 19\nGiá: 1.450.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1164342,"Giá bán":1450000},
       {"Mã":"LC-1007-100726","Ngày về":"10/07/2026","Sản phẩm":"LC-1007-100726\nLC navy, mức độ used nhẹ, tổng quan đẹp dày dặn kok lỗi gì đáng kể. KT: 45 x 30 x 19\nGiá: 1.550.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":973780,"Giá bán":1550000},
       {"Mã":"LC-1536-100726","Ngày về":"10/07/2026","Sản phẩm":"LC-1536-100726\nbalo đen cond đẹp mức độ used nhẹ kh có gì đề chê với 1 bé balo secondhand.KT vừa laptop 13 theo như review ạ\nGiá: 1.450.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":783044,"Giá bán":1450000},
-      {"Mã":"LC-8364-100726","Ngày về":"10/07/2026","Sản phẩm":"LC-8364-100726\nblack size L bản đời mới 2 ngăn phụ, cond quai và vải đều đẹp cứng cáp, bề mặt vải có vài lỗi nhẹ nhẹ tí hon thôi nhìn bên ngoài kh rõ chút nào. KT: 45 x 30 x 19\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":996123,"Giá bán":1900000},
+      {"Mã":"LC-8364-100726","Ngày về":"10/07/2026","Sản phẩm":"LC-8364-100726\nblack size L bản đời mới 2 ngăn phụ, cond quai và vải đều đẹp cứng cáp, bề mặt vải có vài lỗi nhẹ nhẹ tí hon thôi nhìn bên ngoài kh rõ chút nào. KT: 45 x 30 x 19\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":996123,"Giá bán":1950000},
       {"Mã":"LC-0063-100726","Ngày về":"10/07/2026","Sản phẩm":"LC-0063-100726\nbeige size L cond đẹp, mức độ qua sử dụng nhẹ, bên ngoài sạch sẽ cứng cáp ko lỗi gì lớn nha. KT: 45 x 30 x 19\nGiá: 1.450.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":787372,"Giá bán":1450000},
       {"Mã":"LC-5515-210726","Ngày về":"21/07/2026","Sản phẩm":"LC-5515-210726\nnavy size M bản limited kỷ niệm của hãng. độ mới cao, qua sử dụng nhẹ. KT: 39 x 26 x 16\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1366100,"Giá bán":1800000},
       {"Mã":"LC-7728-210726","Ngày về":"21/07/2026","Sản phẩm":"LC-7728-210726\nnot sure 100% chiếc này nên chỉ để giá yêu thương trải nghiệm. độ mới tốt qua sử dụng vừa phải. size L navy: 45 x 30 x 19\nGiá: 450.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":448480,"Giá bán":450000},
@@ -793,8 +793,8 @@
       {"Mã":"LC-2107-210726","Ngày về":"21/07/2026","Sản phẩm":"LC-2107-210726\nmini pouch dòng energy độ mới like new còn sổ, màu đen dễ sử dụng. đã kèm sẵn dây đeo chéo ạ. KT: 27 x 14 x 8\nGiá: 2.550.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1728100,"Giá bán":2550000},
       {"Mã":"LC-4887-210726","Ngày về":"21/07/2026","Sản phẩm":"LC-4887-210726\nblack size M dòng green. túi used nên phần quai da đã mềm theo thời gian sử dụng. bề mặt vải và các chi tiết khác vẫn ko lỗi lầm gì ạ. các đường hằn là do bảo quản gấp gọn chưa đúng cách, dùng 1 thời gian là sẽ hết. KT: 39 x 25 x 16\nGiá: 1.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":633100,"Giá bán":1100000},
       {"Mã":"LC-4981-071026","Ngày về":"07/10/2026","Sản phẩm":"LC-4981-071026\nvàng nhạt size L màu xinh iu xỉu luônnnnn. cond khá tốt, qua sử dụng vừa phải, có 1 vài lỗi vải nhẹ nhẹ chủ yếu ở đáy, không ảnh hưởng quá trình sử dụng. KT: 45 x 30  x 19\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1468147,"Giá bán":1700000},
-      {"Mã":"LC-7148-220726","Ngày về":"22/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":848718},
-      {"Mã":"LC-2476-220726","Ngày về":"22/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1279429}
+      {"Mã":"LC-7148-220726","Ngày về":"22/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":848718,"Giá bán":1150000},
+      {"Mã":"LC-2476-220726","Ngày về":"22/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1279429,"Giá bán":1880000}
     ]
   }
 }
