@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/07/2026 11:55",
+  "lastUpdated": "27/07/2026 12:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1556,7 +1556,7 @@
       {"Mã":"TANẾ22072600","Ngày về":"22/07/2026","Sản phẩm":"Tamburins Holiday Egg Candle\n\nChất liệu: Kim loại, nến\n\nPhân Loại: Nến và chân nến\n\nTình trạng: Như ảnh\n\nKích thước: d47 x 90mm\n\nGiá: 400.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":274756,"Giá bán":400000},
       {"Mã":"IKĐÈ22072600","Ngày về":"22/07/2026","Sản phẩm":"Ikea Solvinden By Lina Vuorivirta\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh. Pin AAA\n\nKích thước: 110 x 260mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":204564,"Giá bán":350000},
       {"Mã":"PACỐ22072600","Ngày về":"22/07/2026","Sản phẩm":"Pantone Original Mug Cloud Dance 11-4201\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 124 x 98mm\n375ml\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":421714,"Giá bán":600000},
-      {"Mã":"VICỜ22072600","Ngày về":"22/07/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":387175,"Giá bán":1500000},
+      {"Mã":"VICỜ22072600","Ngày về":"22/07/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":387175,"Giá bán":1500000},
       {"Mã":"VICỜ22072601","Ngày về":"22/07/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":387175,"Giá bán":1500000},
       {"Mã":"VICỜ22072602","Ngày về":"22/07/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":387175,"Giá bán":1500000},
       {"Mã":"VICỜ22072603","Ngày về":"22/07/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":387175,"Giá bán":1500000},
