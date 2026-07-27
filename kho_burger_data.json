@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26/07/2026 18:04",
+  "lastUpdated": "27/07/2026 11:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -795,12 +795,12 @@
       {"Mã":"LC-4981-071026","Ngày về":"07/10/2026","Sản phẩm":"LC-4981-071026\nvàng nhạt size L màu xinh iu xỉu luônnnnn. cond khá tốt, qua sử dụng vừa phải, có 1 vài lỗi vải nhẹ nhẹ chủ yếu ở đáy, không ảnh hưởng quá trình sử dụng. KT: 45 x 30  x 19\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1468147,"Giá bán":1700000},
       {"Mã":"LC-7148-220726","Ngày về":"22/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":848718,"Giá bán":1150000},
       {"Mã":"LC-2476-220726","Ngày về":"22/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1279429,"Giá bán":1880000},
-      {"Mã":"LC-7832-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":975000,"Giá bán":2200000},
-      {"Mã":"LC-2607-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":682500,"Giá bán":1900000},
-      {"Mã":"LC-8949-260726","Ngày về":"26/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1657500,"Giá bán":2700000},
-      {"Mã":"LC-5540-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1267500,"Giá bán":2300000},
-      {"Mã":"LS-2607-01-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":877500,"Giá bán":1500000},
-      {"Mã":"LS-2607-02-260726","Ngày về":"26/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":487500,"Giá bán":1600000}
+      {"Mã":"LC-7832-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":975001,"Giá bán":2200000},
+      {"Mã":"LC-2607-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":682501,"Giá bán":1900000},
+      {"Mã":"LC-8949-260726","Ngày về":"26/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1657501,"Giá bán":2700000},
+      {"Mã":"LC-5540-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1267501,"Giá bán":2300000},
+      {"Mã":"LS-2607-01-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":877501,"Giá bán":1500000},
+      {"Mã":"LS-2607-02-260726","Ngày về":"26/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":487501,"Giá bán":1600000}
     ]
   }
 }
