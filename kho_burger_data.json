@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28/07/2026 10:34",
+  "lastUpdated": "28/07/2026 11:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -755,7 +755,9 @@
       {"Mã":"LC-6002-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1228480},
       {"Mã":"LC-9224-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":704000},
       {"Mã":"LC-0749-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1205600},
+      {"Mã":"LC-0570-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1122880},
       {"Mã":"LC-9306-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1355200},
+      {"Mã":"LC-2807-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1188880},
       {"Mã":"LC-6753-070726","Ngày về":"07/07/2026","Sản phẩm":"LC-6753-070726\nnavy size M độ mới cao, đẹp cứng cáp chủ yếu qua lưu trữ, ít qua sử dụng ạ. KT 37 x 25 x 14\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":758201,"Giá bán":1850000},
       {"Mã":"LC-1379-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-1379-080726\nnavy dòng club size M, độ mới cao, qua sdung ít, tổng quan đẹp. KT 37 x 24 x 14\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1115065,"Giá bán":1800000},
       {"Mã":"LC-5560-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-5560-080726\nxám đậm dòng neo size M, condition tốt, ko có lỗi nào lớn, tổng quan đẹp. KT: 37 x 24 x 15\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1460385,"Giá bán":1800000},
@@ -808,7 +810,15 @@
       {"Mã":"LS-2607-01-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":877501,"Giá bán":1500000},
       {"Mã":"LS-2607-02-260726","Ngày về":"26/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":487501,"Giá bán":1600000},
       {"Mã":"LC-9413-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1408000},
-      {"Mã":"LC-7432-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":528440}
+      {"Mã":"LC-5361-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1724800},
+      {"Mã":"LC-2807-280726-00","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1056000},
+      {"Mã":"LC-8328-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1320000},
+      {"Mã":"LC-4279-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1175680},
+      {"Mã":"LC-3227-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2067120},
+      {"Mã":"LC-2135-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1103520},
+      {"Mã":"LC-0732-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":528000},
+      {"Mã":"LC-7432-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":528440},
+      {"Mã":"LC-8778-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":688160}
     ]
   }
 }
