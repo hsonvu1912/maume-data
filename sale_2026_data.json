@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28/07/2026 11:13",
+  "lastUpdated": "29/07/2026 16:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -465,7 +465,8 @@
       {"Mã":"IKĐÈ22072601","Ngày bán":"27/07/2026","Sản phẩm":"Ikea PS 2026 Floor Uplighter - Red","Giá nhập":1883823,"Giá bán":2600000,"Lãi":716177},
       {"Mã":"NOHỘ10072600","Ngày bán":"27/07/2026","Sản phẩm":"No brand Croissant Jar","Giá nhập":202016,"Giá bán":350000,"Lãi":147984},
       {"Mã":"VICỜ22072600","Ngày bán":"27/07/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":387175,"Giá bán":1500000,"Lãi":1112825},
-      {"Mã":"TANẾ16062600","Ngày bán":"27/07/2026","Sản phẩm":"Tamburins Holiday Egg Candle","Giá nhập":171276,"Giá bán":400000,"Lãi":228724}
+      {"Mã":"TANẾ16062600","Ngày bán":"27/07/2026","Sản phẩm":"Tamburins Holiday Egg Candle","Giá nhập":171276,"Giá bán":400000,"Lãi":228724},
+      {"Mã":"DOÔ22072600","Ngày bán":"29/07/2026","Sản phẩm":"Doiy Fish Umbrella","Giá nhập":219008,"Giá bán":600000,"Lãi":380992}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
