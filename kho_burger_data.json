@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/07/2026 10:04",
+  "lastUpdated": "29/07/2026 15:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -755,7 +755,7 @@
       {"Mã":"LC-6002-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1319230},
       {"Mã":"LC-9224-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":794750},
       {"Mã":"LC-0749-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1296350},
-      {"Mã":"LC-0570-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1213630},
+      {"Mã":"LC-0570-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-0570-280726\nblack size L condition tốt, tổng quan đẹp không có lỗi nào lớnn. KT: 45 x 30 x 19\nGiá: 2.200.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1213630,"Giá bán":2200000},
       {"Mã":"LC-9306-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1445950},
       {"Mã":"LC-2807-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1279630},
       {"Mã":"LC-6753-070726","Ngày về":"07/07/2026","Sản phẩm":"LC-6753-070726\nnavy size M độ mới cao, đẹp cứng cáp chủ yếu qua lưu trữ, ít qua sử dụng ạ. KT 37 x 25 x 14\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":758201,"Giá bán":1850000},
@@ -817,7 +817,7 @@
       {"Mã":"LC-3227-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1124310},
       {"Mã":"LC-2159-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1124310},
       {"Mã":"LC-2135-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1194270},
-      {"Mã":"LC-0732-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":618750},
+      {"Mã":"LC-0732-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-0732-280726\nmàu olive size M màu siêu hot hãng đã restock nhìu lần hiện nay lại on web ạ. condition tốt qua sử dụng vừa phảii","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":618750},
       {"Mã":"LC-2286-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1287550},
       {"Mã":"LC-7432-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":619190},
       {"Mã":"LC-2210-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":619190},
