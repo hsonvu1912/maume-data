@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/07/2026 16:25",
+  "lastUpdated": "29/07/2026 17:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -741,8 +741,8 @@
       {"Mã":"KIBỘ101200","Ngày về":"10/12/2025","Sản phẩm":"Kikkerland  Tiger Bar Tool\n\nChất liệu: Kim loại\n\nPhân Loại: Bộ dụng cụ quầy bar\n\nTình trạng: Như ảnh\n\nKích thước: 145 x 60 x 38mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":416450},
       {"Mã":"101200","Ngày về":"10/12/2025","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"ko đăng","Thành tiền":289900},
       {"Mã":"GAĐỒ101200","Ngày về":"10/12/2025","Sản phẩm":"Galison Andy Warhol Soup Cans Puzzle\n\nChất liệu: Bìa cứng\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 450 x 279mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":339880},
-      {"Mã":"UMMÓ101200","Ngày về":"10/12/2025","Sản phẩm":"Umbra Steel Wired Hello\n\nChất liệu: Kim loại\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 323 x 76 x 146mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":348017,"Giá bán":500000},
-      {"Mã":"CPO101200","Ngày về":"10/12/2025","Sản phẩm":"Comme Des Garcons Poster 19x24\n\nChất liệu: Giấy\n\nPhân Loại: Poster\n\nTình trạng: Như ảnh, không kèm khung \n\nKích thước: 190 x 240mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":134700,"Giá bán":700000},
+      {"Ngày về":"10/12/2025","Sản phẩm":"Umbra Steel Wired Hello\n\nChất liệu: Kim loại\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 323 x 76 x 146mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":348017,"Giá bán":500000},
+      {"Mã":"#REF!","Ngày về":"10/12/2025","Sản phẩm":"#REF!","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":134700,"Giá bán":700000},
       {"Mã":"IKĐÈ101200","Ngày về":"10/12/2025","Sản phẩm":"Ikea Global - 2009\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp,không kèm bóng\n\nKích thước: 400 x 100 x 700mm\n\nGiá: Sale 40% 1.900.000 => 1.140.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1204658,"Giá bán":1900000},
       {"Mã":"IKBỘ101200","Ngày về":"10/12/2025","Sản phẩm":"Ikea x Virgil Abloh Home Work Toolkit\n\nChất liệu: Nhựa, kim loại\n\nPhân Loại: Bộ dụng cụ\n\nTình trạng: Như ảnh\n\nKích thước: Hộp: 275 x 180 x 45mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":747335,"Giá bán":1300000},
       {"Mã":"VIBỘ111100","Ngày về":"10/12/2025","Sản phẩm":"Sowden  Vacuum\n\nChất liệu: Kim loại\n\nPhân Loại: Bình giữ nhiệt\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d70 x 210mm. 0,35L\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":176205,"Giá bán":600000},
