@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31/07/2026 10:25",
+  "lastUpdated": "31/07/2026 11:27",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -93,7 +93,7 @@
       {"Mã":"CLGRIK3007","Ngày về":"30/07/2025","Sản phẩm":"Ikea Dragby Wall Clock - Sample 2005\nTình trạng: Như ảnh, còn hộp, đã thay máy kim trôi\nKích thước: 265 x 240 x 31mm","Tình trạng":"Còn hàng","Thành tiền":851645,"Giá bán":3000000},
       {"Mã":"CLBLIK3007","Ngày về":"30/07/2025","Sản phẩm":"IKEA - Wall Clock - Svamla - 1990s - Etsy\nTình trạng: Như ảnh, qua sử dụng\nKích thước: D30 x 2,5 cm","Tình trạng":"Hết hàng","Thành tiền":196725},
       {"Mã":"MBCLIT3007","Ngày về":"30/07/2025","Sản phẩm":"iittala Clear Malja Bowl from the Alvar Aalto Collection\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước: 14 x 13,5 x 3,5 cm","Tình trạng":"Hết hàng","Thành tiền":661778},
-      {"Mã":"GLCLBL3007","Ngày về":"30/07/2025","Sản phẩm":"Teeglass Blomus\nTình trạng: Như ảnh, còn hộp\nKích thước: D65 x 100mm","Tình trạng":"Còn hàng","Thành tiền":866645,"Giá bán":1100000},
+      {"Mã":"GLCLBL3007","Ngày về":"30/07/2025","Sản phẩm":"Teeglass Blomus\nTình trạng: Như ảnh, còn hộp\nKích thước: D65 x 100mm","Tình trạng":"Hết hàng","Thành tiền":866645,"Giá bán":1100000},
       {"Mã":"ATCRBL3007","Ngày về":"30/07/2025","Sản phẩm":"Ashtray Blomus\nTình trạng: còn mới, còn hộp\nKích thước: D12 x 10 cm","Tình trạng":"Hết hàng","Thành tiền":706323},
       {"Mã":"MRCRIK3007","Ngày về":"30/07/2025","Sản phẩm":"IKEA Modern Magazine Racks\nTình trạng: Như ảnh\nKích thước: 78 x 33cm","Tình trạng":"Hết hàng","Thành tiền":415304},
       {"Mã":"FRCRAL3007","Ngày về":"30/07/2025","Sản phẩm":"Alessi Marli Fruit Holder\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước: 20 x 18 x 9cm","Tình trạng":"Hết hàng","Thành tiền":1254982},
@@ -1284,7 +1284,7 @@
       {"Mã":"SHCỐ16042602","Ngày về":"16/04/2026","Sản phẩm":"Showa Inc Bolt Mug - Yellow\n\nChất liệu: Nhựa\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 100 x 86 x 95mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":235005,"Giá bán":350000},
       {"Mã":"SHCỐ16042603","Ngày về":"16/04/2026","Sản phẩm":"Showa Inc Bolt Mug - Red\n\nChất liệu: Nhựa\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 100 x 86 x 95mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":235005,"Giá bán":350000},
       {"Mã":"IKĐÈ16042601","Ngày về":"16/04/2026","Sản phẩm":"Ikea Lampan\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, không kèm bóng E14\n\nKích thước: D150 x 240mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":137010,"Giá bán":300000},
-      {"Mã":"ADTH16042600","Ngày về":"16/04/2026","Sản phẩm":"Adidas Chinese New Year Carpet - Rare\n\nChất liệu: Cotton & Polyester\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d990mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":623317,"Giá bán":1500000},
+      {"Mã":"ADTH16042600","Ngày về":"16/04/2026","Sản phẩm":"Adidas Chinese New Year Carpet - Rare\n\nChất liệu: Cotton & Polyester\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d990mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":623317,"Giá bán":1500000},
       {"Mã":"ADTH16042601","Ngày về":"16/04/2026","Sản phẩm":"Adidas Chinese New Year Carpet - Rare\n\nChất liệu: Cotton & Polyester\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d990mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":623317,"Giá bán":1500000},
       {"Mã":"ADTH16042602","Ngày về":"16/04/2026","Sản phẩm":"Adidas Chinese New Year Carpet - Rare\n\nChất liệu: Cotton & Polyester\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d990mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":623317,"Giá bán":1500000},
       {"Mã":"ADTH16042603","Ngày về":"16/04/2026","Sản phẩm":"Adidas Chinese New Year Carpet - Rare\n\nChất liệu: Cotton & Polyester\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d990mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":623317,"Giá bán":1500000},
