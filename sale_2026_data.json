@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31/07/2026 14:13",
+  "lastUpdated": "31/07/2026 23:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -1141,7 +1141,11 @@
       {"Mã":"LC-8675-280726","Ngày bán":"30/07/2026","Sản phẩm":"LC-8675-280726","Giá nhập":1683110,"Giá bán":2800000,"Lãi":1116890},
       {"Mã":"LC-6002-280726","Ngày bán":"30/07/2026","Sản phẩm":"LC-6002-280726","Giá nhập":1319230,"Giá bán":1550000,"Lãi":230770},
       {"Mã":"LC-2807-280726-01","Ngày bán":"30/07/2026","Sản phẩm":"dòng limited sarah morris (đã discontinued) màu hồng pastel phối quai da trắng đẹp tuyệt vờiiiii lun. cond cực đẹp cứng cáp chủ yếu qua lưu trữ. size M nhỏ: 35 x 25 x 14","Giá nhập":759902,"Giá bán":1980000,"Lãi":1220098},
-      {"Mã":"LC-3232-100726","Ngày bán":"31/07/2026","Sản phẩm":"LC-3232-100726","Giá nhập":870644,"Giá bán":1200000,"Lãi":329356}
+      {"Mã":"LC-3232-100726","Ngày bán":"31/07/2026","Sản phẩm":"LC-3232-100726","Giá nhập":870644,"Giá bán":1200000,"Lãi":329356},
+      {"Mã":"LC-2841-290726","Ngày bán":"31/07/2026","Sản phẩm":"antique pink size L dòng club, phối viền xanh teal, cond cực đẹp cứng cáp ít qua sử dụng. KT: 45 x 30 x 19","Giá nhập":1477025,"Giá bán":2300000,"Lãi":822975},
+      {"Mã":"LC-5654-290726","Ngày bán":"31/07/2026","Sản phẩm":"dessert beige size L bản đời mới 2 ngăn phụ, cond đẹp ít qua sử dụng, bề mặt vải sạch sẽ. KT: 45 x 30 x 19","Giá nhập":1209696,"Giá bán":1900000,"Lãi":690304},
+      {"Mã":"LC-7654-290726","Ngày bán":"31/07/2026","Sản phẩm":"ivory beige size L (màu giống paper) cond đẹp cứng cáp sạch sẽ chủ yếu qua lưu trữ. KT: 45 x 30 x 19","Giá nhập":951222,"Giá bán":1900000,"Lãi":948778},
+      {"Mã":"LC-6005-280726","Ngày bán":"31/07/2026","Sản phẩm":"LC-6005-280726","Giá nhập":1683110,"Giá bán":3000000,"Lãi":1316890}
     ]
   }
 }
