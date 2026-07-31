@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31/07/2026 00:04",
+  "lastUpdated": "31/07/2026 11:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -757,6 +757,7 @@
       {"Mã":"LC-0570-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-0570-280726\nblack size L condition tốt, tổng quan đẹp không có lỗi nào lớnn. KT: 45 x 30 x 19\nGiá: 2.200.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1213630,"Giá bán":2200000},
       {"Mã":"LC-9306-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-9306-280726\nartichoke size M cond đẹp cứng cáp, ít lỗi nhẹ xíu xiu ko đáng kể ạ. Kt: 40 x 26 x 16\nGiá: 2.700.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1445950,"Giá bán":2700000},
       {"Mã":"LC-2807-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-2807-280726\nantique pink size L viền màu xanh teal đẹp lắmmm. cond đẹp cứng cáp chủ yếu qua lưu trữ, ko có lỗi nào lớn. KT: 45 x 30 x 19\nGiá: 2.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1279630,"Giá bán":2500000},
+      {"Mã":"LC-6370-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2378750},
       {"Mã":"LC-6753-070726","Ngày về":"07/07/2026","Sản phẩm":"LC-6753-070726\nnavy size M độ mới cao, đẹp cứng cáp chủ yếu qua lưu trữ, ít qua sử dụng ạ. KT 37 x 25 x 14\nGiá: 1.850.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":758201,"Giá bán":1850000},
       {"Mã":"LC-1379-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-1379-080726\nnavy dòng club size M, độ mới cao, qua sdung ít, tổng quan đẹp. KT 37 x 24 x 14\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1115065,"Giá bán":1800000},
       {"Mã":"LC-5560-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-5560-080726\nxám đậm dòng neo size M, condition tốt, ko có lỗi nào lớn, tổng quan đẹp. KT: 37 x 24 x 15\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1460385,"Giá bán":1800000},
@@ -809,6 +810,7 @@
       {"Mã":"LS-2607-01-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":877501,"Giá bán":1500000},
       {"Mã":"LS-2607-02-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":487501,"Giá bán":1600000},
       {"Mã":"LC-9413-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-9413-280726\nnâu mocha size S quai ngắn xách tay cond đẹp like new chủ yếu qua lưu trữ. Kt: 32 x 21 x 14\nGiá: 2.400.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1498750,"Giá bán":2400000},
+      {"Mã":"LC-6237-280726","Ngày về":"28/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1459502},
       {"Mã":"LC-5361-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-5361-280726\nblack dòng green size M cực đẹp và mớiiii chủ yếu qua lưu trữ. KT: 40 x 26 x 16\nGiá: 2.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1815550,"Giá bán":2750000},
       {"Mã":"LC-2807-280726-00","Ngày về":"28/07/2026","Sản phẩm":"LC-2807-280726-00\nnavy dòng neo size L cond khá tốt tổng quan vẫn dày dặn, đẹp. túi qua sử dụng có vài lỗi như ảnh, ko ảnh hưởng tới việc mình sdung đâu ạ🫰🏻 KT: 45 x 29 x 20\nGiá: 1.300.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1146750,"Giá bán":1300000},
       {"Mã":"LC-8328-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-8328-280726\nnavy size L cond đẹp ít qua sử dụng, ít lỗi. KT; 45 x 30 x 19\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1410750,"Giá bán":1950000},
