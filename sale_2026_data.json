@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31/07/2026 10:43",
+  "lastUpdated": "31/07/2026 12:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -475,7 +475,9 @@
       {"Mã":"NOCỐ09042611","Ngày bán":"31/07/2026","Sản phẩm":"No brand Cốc Tobacco","Giá nhập":38259,"Giá bán":120000,"Lãi":81741},
       {"Mã":"NOCỐ09042612","Ngày bán":"31/07/2026","Sản phẩm":"No brand Cốc Tobacco","Giá nhập":38259,"Giá bán":120000,"Lãi":81741},
       {"Mã":"NOCỐ09042613","Ngày bán":"31/07/2026","Sản phẩm":"No brand Cốc Tobacco","Giá nhập":38259,"Giá bán":120000,"Lãi":81741},
-      {"Mã":"NOCỐ09042614","Ngày bán":"31/07/2026","Sản phẩm":"No brand Cốc Tobacco","Giá nhập":38259,"Giá bán":120000,"Lãi":81741}
+      {"Mã":"NOCỐ09042614","Ngày bán":"31/07/2026","Sản phẩm":"No brand Cốc Tobacco","Giá nhập":38259,"Giá bán":120000,"Lãi":81741},
+      {"Mã":"GLCLBL3007","Ngày bán":"31/07/2026","Sản phẩm":"Teeglass Blomus","Giá nhập":866645,"Giá bán":1100000,"Lãi":233355},
+      {"Mã":"ADTH16042600","Ngày bán":"31/07/2026","Sản phẩm":"Adidas Chinese New Year Carpet - Rare","Giá nhập":623317,"Giá bán":1500000,"Lãi":876683}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
