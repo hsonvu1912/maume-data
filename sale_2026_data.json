@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31/07/2026 13:43",
+  "lastUpdated": "31/07/2026 14:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -1140,7 +1140,8 @@
       {"Mã":"LC-2286-280726","Ngày bán":"30/07/2026","Sản phẩm":"LC-2286-280726","Giá nhập":1287550,"Giá bán":2050000,"Lãi":762450},
       {"Mã":"LC-8675-280726","Ngày bán":"30/07/2026","Sản phẩm":"LC-8675-280726","Giá nhập":1683110,"Giá bán":2800000,"Lãi":1116890},
       {"Mã":"LC-6002-280726","Ngày bán":"30/07/2026","Sản phẩm":"LC-6002-280726","Giá nhập":1319230,"Giá bán":1550000,"Lãi":230770},
-      {"Mã":"LC-2807-280726-01","Ngày bán":"30/07/2026","Sản phẩm":"dòng limited sarah morris (đã discontinued) màu hồng pastel phối quai da trắng đẹp tuyệt vờiiiii lun. cond cực đẹp cứng cáp chủ yếu qua lưu trữ. size M nhỏ: 35 x 25 x 14","Giá nhập":759902,"Giá bán":1980000,"Lãi":1220098}
+      {"Mã":"LC-2807-280726-01","Ngày bán":"30/07/2026","Sản phẩm":"dòng limited sarah morris (đã discontinued) màu hồng pastel phối quai da trắng đẹp tuyệt vờiiiii lun. cond cực đẹp cứng cáp chủ yếu qua lưu trữ. size M nhỏ: 35 x 25 x 14","Giá nhập":759902,"Giá bán":1980000,"Lãi":1220098},
+      {"Mã":"LC-3232-100726","Ngày bán":"31/07/2026","Sản phẩm":"LC-3232-100726","Giá nhập":870644,"Giá bán":1200000,"Lãi":329356}
     ]
   }
 }
