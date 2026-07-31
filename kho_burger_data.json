@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31/07/2026 14:04",
+  "lastUpdated": "31/07/2026 18:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -826,7 +826,7 @@
       {"Mã":"LC-2807-280726-01","Ngày về":"28/07/2026","Sản phẩm":"dòng limited sarah morris (đã discontinued) màu hồng pastel phối quai da trắng đẹp tuyệt vờiiiii lun. cond cực đẹp cứng cáp chủ yếu qua lưu trữ. size M nhỏ: 35 x 25 x 14\nGiá: 1.980.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":759902,"Giá bán":1980000},
       {"Mã":"LC-7654-290726","Ngày về":"29/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":951222},
       {"Mã":"LC-5654-290726","Ngày về":"29/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1209696},
-      {"Mã":"LC-2421-290726","Ngày về":"29/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1131953},
+      {"Mã":"LC-2421-290726","Ngày về":"29/07/2026","Sản phẩm":"burgundy size M dòng club, cond like new chủ yếu qua lưu trữ đẹp lắmm lun. KT: 40 x 26 x 16","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1131953},
       {"Mã":"LC-3486-290726","Ngày về":"29/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":839841},
       {"Mã":"LC-2841-290726","Ngày về":"29/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1477025}
     ]
