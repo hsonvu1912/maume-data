@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31/07/2026 13:55",
+  "lastUpdated": "01/08/2026 11:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -109,7 +109,7 @@
       {"Mã":"LAPIOP3007","Ngày về":"30/07/2025","Sản phẩm":"OPPLE TOUCAN DESK LAMP BLUE-PINK\nMT- HY0T-02\nTình trạng: Như ảnh, qua sử dụng\nKích thước: 30 x 30.5 cm","Tình trạng":"Hết hàng","Thành tiền":249920},
       {"Mã":"VABEIK3007","Ngày về":"30/07/2025","Sản phẩm":"Ikea Glittrig Vase\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước: D100 x 290mm\nGiá: Sale 44% 450.000 => 250.000","Tình trạng":"Hết hàng","Thành tiền":231775,"Giá bán":450000},
       {"Mã":"LARESW3108","Ngày về":"31/07/2025","Sản phẩm":"SOWDEN PL1 lamp\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước: Ø 130 mm, height 240 mm","Tình trạng":"Hết hàng","Thành tiền":1596000},
-      {"Mã":"CLREGU3108","Ngày về":"31/07/2025","Sản phẩm":"Guzzini Time Square Red Wall Clock\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước:  360 x 50 mm\nGiá: Sale 10% 2.000.000 => 1.800.000","Tình trạng":"Còn hàng","Thành tiền":1521600,"Giá bán":2000000},
+      {"Mã":"CLREGU3108","Ngày về":"31/07/2025","Sản phẩm":"Guzzini Time Square Red Wall Clock\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước:  360 x 50 mm\nGiá: Sale 10% 2.000.000 => 1.800.000","Tình trạng":"Hết hàng","Thành tiền":1521600,"Giá bán":2000000},
       {"Mã":"CBBLZO3108","Ngày về":"31/07/2025","Sản phẩm":"Zojirushi Cubic Bar & Water and snack plate set\nTình trạng: Như ảnh, còn hộp\nKích thước:  22.4 x 10 x 3.3 cm","Tình trạng":"Còn hàng","Thành tiền":873600,"Giá bán":5000000}
     ],
     "Tháng 8/2025": [
@@ -552,7 +552,7 @@
       {"Mã":"EGĐÈ311000","Ngày về":"31/10/2025","Sản phẩm":"Eglo Linda Table Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng (G4 )\nLắp thêm công tắc\n\nKích thước: 140 x 340mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":308910},
       {"Mã":"EGĐÈ311001","Ngày về":"31/10/2025","Sản phẩm":"Eglo Blob Table Lamp\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, tặng kèm bóng\n\nKích thước: 105 x 270mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":219900},
       {"Mã":"IKĐỒ311000","Ngày về":"31/10/2025","Sản phẩm":"Ikea x Lego Bygglek\n\nChất liệu: Nhựa\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":267750},
-      {"Mã":"IKĐỒ311001","Ngày về":"31/10/2025","Sản phẩm":"Ikea Fornyad Soft Toy\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh\n\nKích thước: 220 x 370mm\n\nGiá: Sale 50% 600.000 => 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":192750,"Giá bán":600000},
+      {"Mã":"IKĐỒ311001","Ngày về":"31/10/2025","Sản phẩm":"Ikea Fornyad Soft Toy\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh\n\nKích thước: 220 x 370mm\n\nGiá: Sale 50% 600.000 => 300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":192750,"Giá bán":600000},
       {"Mã":"IKĐÈ311000","Ngày về":"31/10/2025","Sản phẩm":"Ikea Spetsboj Table Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, tặng kèm bóng\n\nKích thước: 120 x 220mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":225090},
       {"Mã":"DOBÌ311000","Ngày về":"31/10/2025","Sản phẩm":"Doiy Daisy Vase\n\nChất liệu: Sứ\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 200 x 180 x 50mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":668648},
       {"Mã":"DOCỐ311000","Ngày về":"31/10/2025","Sản phẩm":"Doiy Saguaro Long Drink Glass\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 70 x 150mm\n70 x 375mm\n\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":984141},
