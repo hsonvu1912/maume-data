@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/08/2026 11:13",
+  "lastUpdated": "01/08/2026 19:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -478,10 +478,11 @@
       {"Mã":"NOCỐ09042614","Ngày bán":"31/07/2026","Sản phẩm":"No brand Cốc Tobacco","Giá nhập":38259,"Giá bán":120000,"Lãi":81741},
       {"Mã":"GLCLBL3007","Ngày bán":"31/07/2026","Sản phẩm":"Teeglass Blomus","Giá nhập":866645,"Giá bán":1100000,"Lãi":233355},
       {"Mã":"ADTH16042600","Ngày bán":"31/07/2026","Sản phẩm":"Adidas Chinese New Year Carpet - Rare","Giá nhập":623317,"Giá bán":1500000,"Lãi":876683},
-      {"Mã":"IKMÔ011200","Ngày bán":"31/07/2026","Sản phẩm":"Ikea Malerisk Orange Car","Giá nhập":405734,"Giá bán":490000,"Lãi":84266}
-    ],
-    "SALE_MauMe_2026-08": [
-      {"Mã":"IKĐỒ311001","Ngày bán":"01/08/2026","Sản phẩm":"Ikea Fornyad Soft Toy","Giá nhập":192750,"Giá bán":300000,"Lãi":107250}
+      {"Mã":"IKMÔ011200","Ngày bán":"31/07/2026","Sản phẩm":"Ikea Malerisk Orange Car","Giá nhập":405734,"Giá bán":490000,"Lãi":84266},
+      {"Mã":"IKĐỒ311001","Ngày bán":"31/07/2026","Sản phẩm":"Ikea Fornyad Soft Toy","Giá nhập":192750,"Giá bán":300000,"Lãi":107250},
+      {"Mã":"CLREGU3108","Ngày bán":"31/07/2026","Sản phẩm":"Guzzini Time Square Red Wall Clock","Giá nhập":1521600,"Giá bán":1800000,"Lãi":278400},
+      {"Mã":"NOBÌ27062600","Ngày bán":"31/07/2026","Sản phẩm":"Normann Copenhagen Swing Vase","Giá nhập":370804,"Giá bán":800000,"Lãi":429196},
+      {"Mã":"IKCH031201","Ngày bán":"31/07/2026","Sản phẩm":"Ikea Stockholm Candelabra","Giá nhập":846215,"Giá bán":1050000,"Lãi":203785}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -1151,10 +1152,8 @@
       {"Mã":"LC-6005-280726","Ngày bán":"31/07/2026","Sản phẩm":"LC-6005-280726","Giá nhập":1683110,"Giá bán":3000000,"Lãi":1316890},
       {"Mã":"LC-2421-290726","Ngày bán":"31/07/2026","Sản phẩm":"burgundy size M dòng club, cond like new chủ yếu qua lưu trữ đẹp lắmm lun. KT: 40 x 26 x 16","Giá nhập":1131953,"Giá bán":1900000,"Lãi":768047},
       {"Mã":"LC-9413-280726","Ngày bán":"31/07/2026","Sản phẩm":"LC-9413-280726","Giá nhập":1498750,"Giá bán":2400000,"Lãi":901250},
-      {"Mã":"LC-3486-290726","Ngày bán":"31/07/2026","Sản phẩm":"dusty pink dòng club size L cond khá tốt quai cứng cáp, phần đáy có một vài vết phai màu, cá nhân e thấy k đáng kể vì dù sao ở đáy cũng ko ai thấy ạaaa. KT: 45 x 30 x 19","Giá nhập":839841,"Giá bán":1080000,"Lãi":240159}
-    ],
-    "SALE_Burger_2026-08": [
-      {"Mã":"LC-2135-280726","Ngày bán":"01/08/2026","Sản phẩm":"LC-2135-280726","Giá nhập":1194270,"Giá bán":1550000,"Lãi":355730}
+      {"Mã":"LC-3486-290726","Ngày bán":"31/07/2026","Sản phẩm":"dusty pink dòng club size L cond khá tốt quai cứng cáp, phần đáy có một vài vết phai màu, cá nhân e thấy k đáng kể vì dù sao ở đáy cũng ko ai thấy ạaaa. KT: 45 x 30 x 19","Giá nhập":839841,"Giá bán":1080000,"Lãi":240159},
+      {"Mã":"LC-2135-280726","Ngày bán":"31/07/2026","Sản phẩm":"LC-2135-280726","Giá nhập":1194270,"Giá bán":1550000,"Lãi":355730}
     ]
   }
 }
