@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/08/2026 19:43",
+  "lastUpdated": "03/08/2026 10:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -483,6 +483,12 @@
       {"Mã":"CLREGU3108","Ngày bán":"31/07/2026","Sản phẩm":"Guzzini Time Square Red Wall Clock","Giá nhập":1521600,"Giá bán":1800000,"Lãi":278400},
       {"Mã":"NOBÌ27062600","Ngày bán":"31/07/2026","Sản phẩm":"Normann Copenhagen Swing Vase","Giá nhập":370804,"Giá bán":800000,"Lãi":429196},
       {"Mã":"IKCH031201","Ngày bán":"31/07/2026","Sản phẩm":"Ikea Stockholm Candelabra","Giá nhập":846215,"Giá bán":1050000,"Lãi":203785}
+    ],
+    "SALE_MauMe_2026-08": [
+      {"Mã":"COMÓ29072600","Ngày bán":"03/08/2026","Sản phẩm":"Cocacola Watch Keychain","Giá nhập":254856,"Giá bán":400000,"Lãi":145144},
+      {"Mã":"HAKH09042600","Ngày bán":"03/08/2026","Sản phẩm":"Hay Kaleido Jade M","Giá nhập":436350,"Giá bán":720000,"Lãi":283650},
+      {"Mã":"DOHỘ29072600","Ngày bán":"03/08/2026","Sản phẩm":"Doiy Good Morning Storage Box","Giá nhập":290676,"Giá bán":500000,"Lãi":209324},
+      {"Mã":"KUĐĨ29072600","Ngày bán":"03/08/2026","Sản phẩm":"Kuchenland Duck Deep","Giá nhập":473680,"Giá bán":790000,"Lãi":316320}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
