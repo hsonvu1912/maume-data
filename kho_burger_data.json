@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/08/2026 16:04",
+  "lastUpdated": "03/08/2026 16:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -831,7 +831,20 @@
       {"Mã":"LC-2841-290726","Ngày về":"29/07/2026","Sản phẩm":"antique pink size L dòng club, phối viền xanh teal, cond cực đẹp cứng cáp ít qua sử dụng. KT: 45 x 30 x 19\nGiá: 2.300.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1477025,"Giá bán":2300000}
     ],
     "Tháng 8": [
-      {"Mã":"LC-9647-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"VN","Thành tiền":1045000}
+      {"Mã":"LC-9647-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"VN","Thành tiền":1045000},
+      {"Mã":"LC-1975-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":684608},
+      {"Mã":"LC-7206-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1316408},
+      {"Mã":"LC-1418-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":295583},
+      {"Mã":"LC-4315-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":295583},
+      {"Mã":"LC-4538-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":295583},
+      {"Mã":"LC-8818-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":295583},
+      {"Mã":"LC-7148-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1281308},
+      {"Mã":"LC-7148-1-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1057058},
+      {"Mã":"LC-7167-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1008308},
+      {"Mã":"LS-0308-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1125308},
+      {"Mã":"LC-0945-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1807808},
+      {"Mã":"LC-7745-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1222808},
+      {"Mã":"LC-4441-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1495808}
     ]
   }
 }
