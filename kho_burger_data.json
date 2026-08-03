@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/08/2026 15:34",
+  "lastUpdated": "03/08/2026 16:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -831,7 +831,7 @@
       {"Mã":"LC-2841-290726","Ngày về":"29/07/2026","Sản phẩm":"antique pink size L dòng club, phối viền xanh teal, cond cực đẹp cứng cáp ít qua sử dụng. KT: 45 x 30 x 19\nGiá: 2.300.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1477025,"Giá bán":2300000}
     ],
     "Tháng 8": [
-      {"Mã":"LC-9647-070100","Ngày về":"8","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"VN"}
+      {"Mã":"LC-9647-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"VN","Thành tiền":1045000}
     ]
   }
 }
