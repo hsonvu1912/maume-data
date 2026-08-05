@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/08/2026 16:34",
+  "lastUpdated": "05/08/2026 12:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -810,7 +810,7 @@
       {"Mã":"LS-2607-01-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":877501,"Giá bán":1500000},
       {"Mã":"LS-2607-02-260726","Ngày về":"26/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":487501,"Giá bán":1600000},
       {"Mã":"LC-9413-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-9413-280726\nnâu mocha size S quai ngắn xách tay cond đẹp like new chủ yếu qua lưu trữ. Kt: 32 x 21 x 14\nGiá: 2.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1498750,"Giá bán":2400000},
-      {"Mã":"LC-6237-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-6237-280726\ntúi cói le panier đời mới size XS màu hồng pastel đẹp xỉu đùng phom cứng cáp ít qua sử dụng ẻm đẹp tuyệt đốiii luôn. dây da auth đi kèm với túi. KT: 19 x 12 x 8\nGiá: 2.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1459502,"Giá bán":2500000},
+      {"Mã":"LC-6237-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-6237-280726\ntúi cói le panier đời mới size XS màu hồng pastel đẹp xỉu đùng phom cứng cáp ít qua sử dụng ẻm đẹp tuyệt đốiii luôn. dây da auth đi kèm với túi. KT: 19 x 12 x 8\nGiá: 2.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1459502,"Giá bán":2500000},
       {"Mã":"LC-5361-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-5361-280726\nblack dòng green size M cực đẹp và mớiiii chủ yếu qua lưu trữ. KT: 40 x 26 x 16\nGiá: 2.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1815550,"Giá bán":2750000},
       {"Mã":"LC-2807-280726-00","Ngày về":"28/07/2026","Sản phẩm":"LC-2807-280726-00\nnavy dòng neo size L cond khá tốt tổng quan vẫn dày dặn, đẹp. túi qua sử dụng có vài lỗi như ảnh, ko ảnh hưởng tới việc mình sdung đâu ạ🫰🏻 KT: 45 x 29 x 20\nGiá: 1.300.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1146750,"Giá bán":1300000},
       {"Mã":"LC-8328-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-8328-280726\nnavy size L cond đẹp ít qua sử dụng, ít lỗi. KT; 45 x 30 x 19\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1410750,"Giá bán":1950000},
