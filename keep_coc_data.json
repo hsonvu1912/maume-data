@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/07/2026 10:16",
+  "lastUpdated": "05/08/2026 13:37",
   "source": "hàng khách keep/cọc",
   "description": "Danh sach khach keep/da coc. 4 sections: maume_keep, maume_coc, burger_keep, burger_coc.",
   "sections": {
@@ -13,9 +13,7 @@
       {"stt":7,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""},
       {"stt":8,"ma":"","sanPham":"","thoiGian":"","igKhach":"","ghiChu":""}
     ],
-    "maume_coc": [
-      {"stt":1,"ma":"","sanPham":"Ikea PS 2026 Floor Uplighter - Red","thoiGian":"07/01/2026","igKhach":"https://www.instagram.com/trieu_render?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==","ghiChu":"Đã cọc 50%"}
-    ],
+    "maume_coc": [],
     "burger_keep": [],
     "burger_coc": []
   }
