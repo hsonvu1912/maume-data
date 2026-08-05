@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/08/2026 13:43",
+  "lastUpdated": "05/08/2026 14:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -495,7 +495,9 @@
       {"Mã":"LEĐÈ101200","Ngày bán":"05/08/2026","Sản phẩm":"Lego Led Brick Light - 2010","Giá nhập":228088,"Giá bán":800000,"Lãi":571912},
       {"Mã":"LEĐÈ101201","Ngày bán":"05/08/2026","Sản phẩm":"Lego Led Brick Light - 2010","Giá nhập":228088,"Giá bán":800000,"Lãi":571912},
       {"Mã":"LEĐÈ101202","Ngày bán":"05/08/2026","Sản phẩm":"Lego Led Brick Light - 2010","Giá nhập":228088,"Giá bán":800000,"Lãi":571912},
-      {"Mã":"IKMÓ110202","Ngày bán":"05/08/2026","Sản phẩm":"Ikea Ommjänge","Giá nhập":111964,"Giá bán":250000,"Lãi":138036}
+      {"Mã":"IKMÓ110202","Ngày bán":"05/08/2026","Sản phẩm":"Ikea Ommjänge","Giá nhập":111964,"Giá bán":250000,"Lãi":138036},
+      {"Mã":"HAGƯ311200","Ngày bán":"05/08/2026","Sản phẩm":"Hay Ruban Mirror","Giá nhập":402862,"Giá bán":700000,"Lãi":297138},
+      {"Mã":"IKBỘ101200","Ngày bán":"05/08/2026","Sản phẩm":"Ikea x Virgil Abloh Home Work Toolkit","Giá nhập":747335,"Giá bán":1300000,"Lãi":552665}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
