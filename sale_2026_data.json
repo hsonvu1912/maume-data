@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/08/2026 12:43",
+  "lastUpdated": "05/08/2026 13:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -488,7 +488,14 @@
       {"Mã":"COMÓ29072600","Ngày bán":"03/08/2026","Sản phẩm":"Cocacola Watch Keychain","Giá nhập":254856,"Giá bán":400000,"Lãi":145144},
       {"Mã":"HAKH09042600","Ngày bán":"03/08/2026","Sản phẩm":"Hay Kaleido Jade M","Giá nhập":436350,"Giá bán":720000,"Lãi":283650},
       {"Mã":"DOHỘ29072600","Ngày bán":"03/08/2026","Sản phẩm":"Doiy Good Morning Storage Box","Giá nhập":290676,"Giá bán":500000,"Lãi":209324},
-      {"Mã":"KUĐĨ29072600","Ngày bán":"03/08/2026","Sản phẩm":"Kuchenland Duck Deep","Giá nhập":473680,"Giá bán":790000,"Lãi":316320}
+      {"Mã":"KUĐĨ29072600","Ngày bán":"03/08/2026","Sản phẩm":"Kuchenland Duck Deep","Giá nhập":473680,"Giá bán":790000,"Lãi":316320},
+      {"Mã":"LAWHIK0809","Ngày bán":"05/08/2026","Sản phẩm":"IKEA PS 2014 Pendant lamp","Giá nhập":562170,"Giá bán":2500000,"Lãi":1937830},
+      {"Mã":"OPĐÈ150100","Ngày bán":"05/08/2026","Sản phẩm":"Opple Toucan Desk Lamp","Giá nhập":359680,"Giá bán":1200000,"Lãi":840320},
+      {"Mã":"SMGẠ290100","Ngày bán":"05/08/2026","Sản phẩm":"Smoking Paper Surfer Ashtray","Giá nhập":286680,"Giá bán":500000,"Lãi":213320},
+      {"Mã":"LEĐÈ101200","Ngày bán":"05/08/2026","Sản phẩm":"Lego Led Brick Light - 2010","Giá nhập":228088,"Giá bán":800000,"Lãi":571912},
+      {"Mã":"LEĐÈ101201","Ngày bán":"05/08/2026","Sản phẩm":"Lego Led Brick Light - 2010","Giá nhập":228088,"Giá bán":800000,"Lãi":571912},
+      {"Mã":"LEĐÈ101202","Ngày bán":"05/08/2026","Sản phẩm":"Lego Led Brick Light - 2010","Giá nhập":228088,"Giá bán":800000,"Lãi":571912},
+      {"Mã":"IKMÓ110202","Ngày bán":"05/08/2026","Sản phẩm":"Ikea Ommjänge","Giá nhập":111964,"Giá bán":250000,"Lãi":138036}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
