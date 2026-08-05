@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/08/2026 10:13",
+  "lastUpdated": "05/08/2026 12:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -1160,6 +1160,9 @@
       {"Mã":"LC-9413-280726","Ngày bán":"31/07/2026","Sản phẩm":"LC-9413-280726","Giá nhập":1498750,"Giá bán":2400000,"Lãi":901250},
       {"Mã":"LC-3486-290726","Ngày bán":"31/07/2026","Sản phẩm":"dusty pink dòng club size L cond khá tốt quai cứng cáp, phần đáy có một vài vết phai màu, cá nhân e thấy k đáng kể vì dù sao ở đáy cũng ko ai thấy ạaaa. KT: 45 x 30 x 19","Giá nhập":839841,"Giá bán":1080000,"Lãi":240159},
       {"Mã":"LC-2135-280726","Ngày bán":"31/07/2026","Sản phẩm":"LC-2135-280726","Giá nhập":1194270,"Giá bán":1550000,"Lãi":355730}
+    ],
+    "SALE_Burger_2026-08": [
+      {"Mã":"LC-6237-280726","Ngày bán":"05/08/2026","Sản phẩm":"LC-6237-280726","Giá nhập":1459502,"Giá bán":2500000,"Lãi":1040498}
     ]
   }
 }
