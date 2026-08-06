@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/08/2026 14:25",
+  "lastUpdated": "06/08/2026 09:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1590,6 +1590,8 @@
       {"Mã":"FLBÌ29072600","Ngày về":"29/07/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Dachshund Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 250 x 50 x 170mm\n\nGiá: 1.200.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":209864,"Giá bán":1200000},
       {"Mã":"FLBÌ29072601","Ngày về":"29/07/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Dachshund Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 251 x 50 x 170mm\n\nGiá: 1.200.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":209864,"Giá bán":1200000},
       {"Mã":"FLBÌ29072602","Ngày về":"29/07/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Dachshund Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 252 x 50 x 170mm\n\nGiá: 1.200.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":209864,"Giá bán":1200000},
+      {"Mã":"FLBÌ05082600","Ngày về":"05/08/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Dachshund Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 253 x 50 x 170mm\n\nGiá: 1.200.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":174584,"Giá bán":1200000},
+      {"Mã":"FLBÌ05082601","Ngày về":"05/08/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Dachshund Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 254 x 50 x 170mm\n\nGiá: 1.200.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":174584,"Giá bán":1200000},
       {"Mã":"HEBẬ30072600","Ngày về":"30/07/2026","Sản phẩm":"Heineken Conga Drum Lighter\n\nChất liệu: Kim loại\n\nPhân Loại: Bật lửa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 80 x 35mm\nĐế: 85 x 55 x 20mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":261652},
       {"Mã":"HEBẬ21012600","Ngày về":"21/01/2026","Sản phẩm":"Heineken Rock Drum Lighter\n\nChất liệu: Kim loại\n\nPhân Loại: Bật lửa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 60 x 30mm\nĐế: 85 x 55 x 20mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":261652},
       {"Mã":"HEBẬ21012601","Ngày về":"21/01/2026","Sản phẩm":"Heineken Saxophone Lighter\n\nChất liệu: Kim loại\n\nPhân Loại: Bật lửa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 150 x 60 x 30mm\nĐế: 85 x 55 x 20mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":261652},
