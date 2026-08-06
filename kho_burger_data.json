@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/08/2026 09:36",
+  "lastUpdated": "06/08/2026 16:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -823,6 +823,9 @@
       {"Mã":"LC-7432-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-7432-280726\ntúi du lịch canvas monogram cond khá tốt. chủ yếu qua lưu trữ, có vài dấu vết qua sử dụng, em bán tặng cho cả nhà đựng laptop hoặc làm túi bỉm sữa túi du lịch nhen. KT: 45 x 27 x 19\nGiá: 590.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":266750,"Giá bán":590000},
       {"Mã":"LC-2210-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-2210-280726\nnavy size L còn sổ, độ mới cực cao đẹp tuyêtttt chủ yếu qua lưu trữ. KT: 45 x 30 x 19\nGiá: 2.050.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":971630,"Giá bán":2050000},
       {"Mã":"LC-8778-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-8778-280726\npaper size L mới đẹp tuyệt trầnnn k lỗi gì lớn. KT: 45 x 30 x 19\nGiá: 2.350.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":778910,"Giá bán":2350000},
+      {"Mã":"LC-0359-060826","Ngày về":"06/08/2026","Tình trạng":"Chưa về","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":676192},
+      {"Mã":"LC-1440-060826","Ngày về":"06/08/2026","Tình trạng":"Chưa về","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1496000},
+      {"Mã":"LC-4144-060826","Ngày về":"06/08/2026","Tình trạng":"Chưa về","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":542445},
       {"Mã":"LC-2807-280726-01","Ngày về":"28/07/2026","Sản phẩm":"dòng limited sarah morris (đã discontinued) màu hồng pastel phối quai da trắng đẹp tuyệt vờiiiii lun. cond cực đẹp cứng cáp chủ yếu qua lưu trữ. size M nhỏ: 35 x 25 x 14\nGiá: 1.980.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":759902,"Giá bán":1980000},
       {"Mã":"LC-7654-290726","Ngày về":"29/07/2026","Sản phẩm":"ivory beige size L (màu giống paper) cond đẹp cứng cáp sạch sẽ chủ yếu qua lưu trữ. KT: 45 x 30 x 19\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":951222,"Giá bán":1900000},
       {"Mã":"LC-5654-290726","Ngày về":"29/07/2026","Sản phẩm":"dessert beige size L bản đời mới 2 ngăn phụ, cond đẹp ít qua sử dụng, bề mặt vải sạch sẽ. KT: 45 x 30 x 19\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1209696,"Giá bán":1900000},
