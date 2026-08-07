@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/08/2026 13:13",
+  "lastUpdated": "07/08/2026 15:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -499,7 +499,8 @@
       {"Mã":"HAGƯ311200","Ngày bán":"05/08/2026","Sản phẩm":"Hay Ruban Mirror","Giá nhập":402862,"Giá bán":700000,"Lãi":297138},
       {"Mã":"IKBỘ101200","Ngày bán":"05/08/2026","Sản phẩm":"Ikea x Virgil Abloh Home Work Toolkit","Giá nhập":747335,"Giá bán":1300000,"Lãi":552665},
       {"Mã":"IKCH290100","Ngày bán":"06/08/2026","Sản phẩm":"Ikea Omsesidig","Giá nhập":133800,"Giá bán":150000,"Lãi":16200},
-      {"Mã":"EDĐÈ29042600","Ngày bán":"06/08/2026","Sản phẩm":"Edi Light Floor Lamp - Orange","Giá nhập":213338,"Giá bán":810000,"Lãi":596662}
+      {"Mã":"EDĐÈ29042600","Ngày bán":"06/08/2026","Sản phẩm":"Edi Light Floor Lamp - Orange","Giá nhập":213338,"Giá bán":810000,"Lãi":596662},
+      {"Mã":"IKTH221100","Ngày bán":"07/08/2026","Sản phẩm":"Ikea Walter Van Beirendonck & Ikea Glödande - Limited edition tiger rug 2016","Giá nhập":4458360,"Giá bán":15000000,"Lãi":10541640}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
