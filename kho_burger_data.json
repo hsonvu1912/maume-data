@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/08/2026 13:04",
+  "lastUpdated": "07/08/2026 13:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -856,7 +856,8 @@
       {"Mã":"LC-5654-290726","Ngày về":"29/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1209696,"Giá bán":1900000},
       {"Mã":"LC-2421-290726","Ngày về":"29/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1131953,"Giá bán":1900000},
       {"Mã":"LC-3486-290726","Ngày về":"29/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":839841,"Giá bán":1080000},
-      {"Mã":"LC-2841-290726","Ngày về":"29/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1477025,"Giá bán":2300000}
+      {"Mã":"LC-2841-290726","Ngày về":"29/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1477025,"Giá bán":2300000},
+      {"Mã":"LC-5147-060826","Ngày về":"06/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1218000}
     ],
     "Tháng 8": [
       {"Mã":"LC-9647-030826","Ngày về":"03/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"VN","Thành tiền":1045000},
