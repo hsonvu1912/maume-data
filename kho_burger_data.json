@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/08/2026 10:34",
+  "lastUpdated": "07/08/2026 11:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -138,7 +138,7 @@
       {"Mã":"CH-2701-23","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":450000},
       {"Mã":"CH-2701-24","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526335,"Giá bán":450000},
       {"Mã":"CH-2701-25","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":500000},
-      {"Mã":"CH-2701-26","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526336,"Giá bán":700000},
+      {"Mã":"CH-2701-26","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526336,"Giá bán":450000},
       {"Mã":"CH-2701-27","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":650000},
       {"Mã":"LC-9291","Ngày về":"16/01/2026","Sản phẩm":"xám size M \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, túi có một vết rách siu nhỏ ở gần đáy ko ảnh hg gì khi sd ạ \n36 x 24 x 13","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1138823,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"CH-2701-01","Ngày về":"16/01/2026","Sản phẩm":"C signature mini handbag siu xinh\ncond tốt, vải dạ họa tiết monogram tone hồng tím, form dày dặn cứng cáp, lót sạch sẽ, ko lỗi gì đáng kể ạa\n15 x 15 x 4\nGiá: 1.600.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1169241,"Giá bán":1600000},
@@ -204,7 +204,8 @@
       {"Mã":"LC-7456","Ngày về":"31/01/2026","Sản phẩm":"kem size M bản đời mới có 2 ngăn phụ\ncondition tốt, form dày dặn, quai cứng cáp, túi đã qua sd nên có một số vết bẩn, khách mua về vs sdung bình thg, dưới đáy có một vết rách nhỏ xíu xiu ko ảnh hg gì khi sd ạa\n39 x 26 x 15","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1220000,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-0115","Ngày về":"31/01/2026","Sản phẩm":"xanh navy size L dòng neo \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, ko lỗi nào lớn ạa\n46 x 28 x 18","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":920000,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-3101-01","Ngày về":"31/01/2026","Sản phẩm":"đen size M bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, túi tương đối sạch sẽ có một vài vết bẩn nhỏ, khách mua về vs sdung bình thg ạ \n40 x 26 x 16","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":790000,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
-      {"Mã":"LC-3101-02","Ngày về":"31/01/2026","Sản phẩm":"đen size L dòng neo \nconition tốt, form dày dặn cứng cáp, lót sạch sẽ chỉ bị tróc một chút phần gần miệng túi ko ảnh hg gi khi sd đâu ạ \n43 x 30 x 19","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1210000,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"}
+      {"Mã":"LC-3101-02","Ngày về":"31/01/2026","Sản phẩm":"đen size L dòng neo \nconition tốt, form dày dặn cứng cáp, lót sạch sẽ chỉ bị tróc một chút phần gần miệng túi ko ảnh hg gi khi sd đâu ạ \n43 x 30 x 19","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1210000,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
+      {"Mã":"LC-1512","Ngày về":"15/12","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":462500,"Giá bán":350000}
     ],
     "Tháng 2": [
       {"Mã":"LC-0202-01","Ngày về":"02/02/2026","Sản phẩm":"green forest size M \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko lỗi nào đáng kể ạa\n40 x 26 x 16","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1399800,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
