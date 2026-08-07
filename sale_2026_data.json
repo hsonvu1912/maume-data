@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/08/2026 17:13",
+  "lastUpdated": "07/08/2026 23:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -1184,7 +1184,8 @@
       {"Mã":"CH-0603-060326-01","Ngày bán":"07/08/2026","Sản phẩm":"CH-0603-060326-01","Giá nhập":778000,"Giá bán":980000,"Lãi":202000},
       {"Mã":"CH-2701-09","Ngày bán":"07/08/2026","Giá nhập":526327,"Giá bán":450000,"Lãi":-76327},
       {"Mã":"CH-2503-250326-01","Ngày bán":"07/08/2026","Sản phẩm":"x","Giá nhập":1030000,"Giá bán":1350000,"Lãi":320000},
-      {"Mã":"CH-2402-01","Ngày bán":"07/08/2026","Sản phẩm":"C signature gray wristlet/ví pouch nhỏ cầm tay","Giá nhập":529053,"Giá bán":900000,"Lãi":370947}
+      {"Mã":"CH-2402-01","Ngày bán":"07/08/2026","Sản phẩm":"C signature gray wristlet/ví pouch nhỏ cầm tay","Giá nhập":529053,"Giá bán":900000,"Lãi":370947},
+      {"Mã":"CH-2701-24","Ngày bán":"07/08/2026","Giá nhập":526335,"Giá bán":450000,"Lãi":-76335}
     ]
   }
 }
