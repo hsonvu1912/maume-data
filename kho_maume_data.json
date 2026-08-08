@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08/08/2026 13:26",
+  "lastUpdated": "08/08/2026 13:56",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1629,11 +1629,11 @@
       {"Mã":"ALVẮ05082600","Ngày về":"05/08/2026","Sản phẩm":"Alessi Juicy Salif\n\nChất liệu: Nhôm\n\nPhân Loại: Vắt cam\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 290 x 140mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1729147},
       {"Mã":"THCỜ05082600","Ngày về":"05/08/2026","Sản phẩm":"The Op Games x Adult Swim Rick and Morty Collector's Chess Set\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 420 x 350mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1593578},
       {"Mã":"DOBÌ05082600","Ngày về":"05/08/2026","Sản phẩm":"Doiy Girl Power Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 260 x 95 x 80mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":318522},
-      {"Mã":"*NLY05082600","Ngày về":"05/08/2026","Sản phẩm":"*No brand* Bryce Amber Swirl\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 155 x 150 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195557},
-      {"Mã":"*NLY05082601","Ngày về":"05/08/2026","Sản phẩm":"*No brand* Bryce Amber Swirl\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 156 x 150 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195557},
-      {"Mã":"*NLY05082602","Ngày về":"05/08/2026","Sản phẩm":"*No brand* Bryce Amber Swirl\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 157 x 150 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195557},
-      {"Mã":"*NLY05082603","Ngày về":"05/08/2026","Sản phẩm":"*No brand* Bryce Amber Swirl\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 158 x 150 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195557},
-      {"Mã":"*NLY05082604","Ngày về":"05/08/2026","Sản phẩm":"*No brand* Bryce Amber Swirl\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 159 x 150 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195557}
+      {"Mã":"NOLY05082600","Ngày về":"05/08/2026","Sản phẩm":"No brand Bryce Amber Swirl\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 155 x 150 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195557},
+      {"Mã":"NOLY05082601","Ngày về":"05/08/2026","Sản phẩm":"No brand Bryce Amber Swirl\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 156 x 150 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195557},
+      {"Mã":"NOLY05082602","Ngày về":"05/08/2026","Sản phẩm":"No brand Bryce Amber Swirl\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 157 x 150 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195557},
+      {"Mã":"NOLY05082603","Ngày về":"05/08/2026","Sản phẩm":"No brand Bryce Amber Swirl\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 158 x 150 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195557},
+      {"Mã":"NOLY05082604","Ngày về":"05/08/2026","Sản phẩm":"No brand Bryce Amber Swirl\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 159 x 150 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195557}
     ]
   }
 }
