@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/08/2026 23:34",
+  "lastUpdated": "08/08/2026 13:37",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -531,7 +531,7 @@
       {"Mã":"LC-6751-200426","Ngày về":"20/04/2026","Sản phẩm":"LC-6751-200426\nnavy size M độ mới cao, ko lỗi gì lớn, qua sử dụng nhẹ. tổng quan đẹp, cứng cáp. KT: 38 x 24 x 15\nGiá: 1.850.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":789275,"Giá bán":1850000},
       {"Mã":"LC-3660-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-3660-040526\nxám xanh size L dòng neo bản đời mới 2 ngăn phụ. màu này cực kỳ đẹp. độ mới khá, phom túi dày dặn cứng cáp. mặt dưới quai sậm màu, bề mặt vải có 1 vài dấu vết qua sử dụng như ảnh. nhìn bên ngoài ko đáng kể. KT: 45 x 30 x 19\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1138750,"Giá bán":1650000},
       {"Mã":"LC-2937-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-2937-040526\nđỏ đậm size M (màu bên ngoài đậm hơn, ko bị choé) bản đời mới 2 ngăn phụ. condiiton tốt, cứng cáp, ko lỗi gì lớn. KT: 39 x 26 x 16\nGiá: 1.790.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":562570,"Giá bán":1790000},
-      {"Mã":"CH-0405-040526","Ngày về":"04/05/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":500250,"Giá bán":700000},
+      {"Mã":"CH-0405-040526","Ngày về":"04/05/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":500250,"Giá bán":700000},
       {"Mã":"LC-1097-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-1097-040526\nxám nhạt size L condition rất tốt. sạch sẽ ko lỗi gì lớn. lâu rồi em mới về màu này, siêu đẹp ạ. KT: 45 x 30 x 19\nGiá: 1.850.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1228750,"Giá bán":1850000},
       {"Mã":"LC-6287-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-6287-040526\npapier size L bản đời mới có 2 ngăn phụ. tổng quan condition đẹp cứng cáp, bề mặt có 1 vài vết bẩn nhỏ thôi ạ. KT: 45 x 30 x 19\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1282750,"Giá bán":1800000},
       {"Mã":"LC-4642-040526","Ngày về":"04/05/2026","Sản phẩm":"LC-4642-040526\nxám gunmetal size L độ mới khá tốt, dày dặn cứng cáp. quai trầy lớp sơn ở mặt dưới (lỗi cơ bản của LC, đeo lên vai sẽ ko thấy) KT: 45 x 30 x 19\nGiá: 1.350.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":454750,"Giá bán":1350000},
