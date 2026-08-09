@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09/08/2026 17:04",
+  "lastUpdated": "09/08/2026 17:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -205,7 +205,7 @@
       {"Mã":"LC-0115","Ngày về":"31/01/2026","Sản phẩm":"xanh navy size L dòng neo \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, ko lỗi nào lớn ạa\n46 x 28 x 18","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":920000,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-3101-01","Ngày về":"31/01/2026","Sản phẩm":"đen size M bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, túi tương đối sạch sẽ có một vài vết bẩn nhỏ, khách mua về vs sdung bình thg ạ \n40 x 26 x 16","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":790000,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-3101-02","Ngày về":"31/01/2026","Sản phẩm":"đen size L dòng neo \nconition tốt, form dày dặn cứng cáp, lót sạch sẽ chỉ bị tróc một chút phần gần miệng túi ko ảnh hg gi khi sd đâu ạ \n43 x 30 x 19","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1210000,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
-      {"Mã":"LC-1512","Ngày về":"15/12","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":462500,"Giá bán":350000}
+      {"Mã":"LC-1512","Ngày về":"15/12","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":462500,"Giá bán":450000}
     ],
     "Tháng 2": [
       {"Mã":"LC-0202-01","Ngày về":"02/02/2026","Sản phẩm":"green forest size M \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko lỗi nào đáng kể ạa\n40 x 26 x 16","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1399800,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
