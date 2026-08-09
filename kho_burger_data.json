@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09/08/2026 11:34",
+  "lastUpdated": "09/08/2026 17:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -122,7 +122,7 @@
       {"Mã":"LC-3446","Ngày về":"16/01/2026","Sản phẩm":"mini pouch màu hồng full da \ncondition form dày dặn, lót sạch sẽ, lớp da bên ngoài bị phai màu một số chỗ (như ảnh) ạ. Túi có kèm dây đeo chéo \n24 x 15 x 9\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":809240,"Giá bán":1500000},
       {"Mã":"CH-2701-08","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":450000},
       {"Mã":"CH-2701-09","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":450000},
-      {"Mã":"CH-2701-10","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526328,"Giá bán":350000},
+      {"Mã":"CH-2701-10","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526328,"Giá bán":1},
       {"Mã":"CH-2701-11","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":850000},
       {"Mã":"CH-2701-12","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526329,"Giá bán":550000},
       {"Mã":"CH-2701-13","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":380000},
@@ -139,7 +139,7 @@
       {"Mã":"CH-2701-24","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526335,"Giá bán":450000},
       {"Mã":"CH-2701-25","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":500000},
       {"Mã":"CH-2701-26","Ngày về":"27/01/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526336,"Giá bán":450000},
-      {"Mã":"CH-2701-27","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":650000},
+      {"Mã":"CH-2701-27","Ngày về":"27/01/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":526327,"Giá bán":1},
       {"Mã":"LC-9291","Ngày về":"16/01/2026","Sản phẩm":"xám size M \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, túi có một vết rách siu nhỏ ở gần đáy ko ảnh hg gì khi sd ạ \n36 x 24 x 13","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1138823,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"CH-2701-01","Ngày về":"16/01/2026","Sản phẩm":"C signature mini handbag siu xinh\ncond tốt, vải dạ họa tiết monogram tone hồng tím, form dày dặn cứng cáp, lót sạch sẽ, ko lỗi gì đáng kể ạa\n15 x 15 x 4\nGiá: 1.600.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1169241,"Giá bán":1600000},
       {"Mã":"LC-8436","Sản phẩm":"mini pouch màu kem \ncondition tốt, form dày dặn cứng cáp, có kèm dây đeo chéo, ko lỗi gì đáng kể, túi còn sổ còn túi zip ạ \n19 x 10 x 6","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1715423,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
