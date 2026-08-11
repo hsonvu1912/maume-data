@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/08/2026 15:34",
+  "lastUpdated": "11/08/2026 16:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -393,7 +393,7 @@
       {"Mã":"LC-0785-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-0785-270326\nđen dòng neo size M \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, lót một bên gần quai tróc nhẹ (như ảnh), vải bị nhăn gần miệng khóa (như ảnh) nhg ko ảnh hg gì khi sd ạa\n36 x 24 x 14\nGiá: 1.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":788425,"Giá bán":1400000},
       {"Mã":"CH-2703-270326","Ngày về":"27/03/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1112605,"Giá bán":1700000},
       {"Mã":"LC-2703-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-2703-270326\nnâu ebony size L\ncondition: form dày dặn, túi khá sạch sẽ, lót gần quai bị tróc (như ảnh), vải túi bị nhăn nhẹ gần miệng khóa, túi đã qua sd nên quai túi khá mềm và bị trầy (như ảnh)\n44 x 30 x 18\nGiá: 950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":698605,"Giá bán":950000},
-      {"Mã":"CH-2703-270326-00","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2289805},
+      {"Mã":"CH-2703-270326-00","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2289805,"Giá bán":2800000},
       {"Mã":"CH-2703-270326-01","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":428605},
       {"Mã":"LC-2703-270326-00","Ngày về":"27/03/2026","Sản phẩm":"LC-2703-270326-00\nđen size M \ncondition tốt, form dày dặn cứng cáp, túi khá sạch sẽ, quai trầy như ảnh, đeo lên vai sẽ ko thấy rõ\n37 x 24 x 14\nGiá: 1.350.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":392605,"Giá bán":1350000},
       {"Mã":"LC-6347-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-6347-270326\nLC Le Pliage Mariniere travel bag size M \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, bên ngoài túi có một vài vết bẩn nhỏ ko đáng kể ạa\n39 x 26 x 16 (vừa laptop 13inch)\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":698605,"Giá bán":1500000},
@@ -432,7 +432,7 @@
       {"Mã":"CH-2503-250326-01","Ngày về":"25/03/2026","Sản phẩm":"x","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1030000,"Giá bán":1350000},
       {"Mã":"CH-2503-250326-02","Ngày về":"25/03/2026","Sản phẩm":"x","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1870000,"Giá bán":2300000},
       {"Mã":"CH-2503-250326-03","Ngày về":"25/03/2026","Sản phẩm":"x","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":2270000,"Giá bán":3500000},
-      {"Mã":"CH-2503-250326-04","Ngày về":"25/03/2026","Sản phẩm":"x","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":2280000},
+      {"Mã":"CH-2503-250326-04","Ngày về":"25/03/2026","Sản phẩm":"x","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":2280000,"Giá bán":3000000},
       {"Mã":"LC-7045-250326","Ngày về":"25/03/2026","Sản phẩm":"LC-7045-250326\nmini pouch màu ebony\ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi nào lớn ạ. Túi có kèm dây đeo chéo\n18 x 10 x 6\nGiá: 2.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1470000,"Giá bán":2900000},
       {"Mã":"LC-7226-250326","Ngày về":"25/03/2026","Sản phẩm":"LC-7226-250326\nmini pouch màu paper\ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, bên ngoài túi có một vài vết bẩn xíu xiu ko đáng kể ạ. Túi ko kèm dây đeo chéo, khách mua thêm trên sọp pi giúp em nha \n18 x 10 x 5\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1140000,"Giá bán":1900000},
       {"Mã":"CH-2503-250326-05","Ngày về":"25/03/2026","Sản phẩm":"x","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1660000,"Giá bán":1700000},
