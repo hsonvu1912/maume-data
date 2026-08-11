@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/08/2026 22:04",
+  "lastUpdated": "11/08/2026 22:36",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -208,7 +208,6 @@
       {"Mã":"LC-1512","Ngày về":"15/12","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":462500,"Giá bán":450000}
     ],
     "Kho Coach": [
-      {"Ngày về":"01/11/2026","Sản phẩm":"C signature họa tiết xe ngựa \nCond 8,8/10, form dày dặn, quai cứng cáp, túi đã qua sd nên lót bẩn nhẹ, khách iu mua về đem spa sd bình thg ạ\n48 x 22 x 14 (khi mở cúc bấm 2 bên) \nGiá: 850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":779781,"Giá bán":850000},
       {"Ngày về":"23/01/2026","Sản phẩm":"C hobo full da thật màu đen size nhỏ\ncond 9/10, form dày dặn, túi sạch sẽ, ko lỗi nào đáng kể ạa\n26 x 16\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1385315,"Giá bán":2100000},
       {"Ngày về":"23/01/2026","Sản phẩm":"C y2k vải canvas hồng phối da \ncond tốt, form dày dặn cứng cáp, màu siu iu tràn ngập phong cách y2k ạa\n24 x 18\nGiá: 950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":857000,"Giá bán":950000},
       {"Ngày về":"10/01/2026","Sản phẩm":"C carly quai trắng totebag \ncond 9/10, form dày dặn cứng cáp, lót sạch sẽ, ko lỗi nào đáng kể, túi to đựng đc nhiều đồ lắm ạ \n33 x 30 (vừa laptop 13,14 inch) \nGiá: 2.000.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1444000,"Giá bán":2000000},
