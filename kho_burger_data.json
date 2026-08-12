@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12/08/2026 01:04",
+  "lastUpdated": "12/08/2026 13:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -339,7 +339,7 @@
       {"Mã":"LC-7580-060326","Ngày về":"06/03/2026","Sản phẩm":"LC-7580-060326\nmini pouch màu cognac dòng green siêu đẹp \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ. Túi có kèm dây đeo chéo và lót túi \n18 x 10 x 6\nGiá: 2.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1760000,"Giá bán":2100000},
       {"Mã":"LC-7725-060326","Ngày về":"06/03/2026","Sản phẩm":"LC-7725-060326\nđen size M dòng green\ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi gì đáng kể ạ \n37 x 22 x 16 (vừa laptop 13inch)\nGiá: 2.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1220000,"Giá bán":2500000},
       {"Mã":"LC-0418-060326","Ngày về":"06/03/2026","Sản phẩm":"LC-0418-060326\nxanh navy size M \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi gì đáng kể ạ \n37 x 22 x 16\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1100000,"Giá bán":1900000},
-      {"Mã":"CH-0603-060326","Ngày về":"06/03/2026","Sản phẩm":"CH-0603-060326\nC soho full da màu đen \ncond tốt 8.8/10, form dày dặn, da mềm, góc đáy của 2 túi nhỏ mặt trước bị sờn nhẹ xíu xiu thôi ạ \n29 x 20 x 15\nGiá: 2.350.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1320000,"Giá bán":2350000},
+      {"Mã":"CH-0603-060326","Ngày về":"06/03/2026","Sản phẩm":"CH-0603-060326\nC soho full da màu đen \ncond tốt 8.8/10, form dày dặn, da mềm, góc đáy của 2 túi nhỏ mặt trước bị sờn nhẹ xíu xiu thôi ạ \n29 x 20 x 15\nGiá: 1.600.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1320000,"Giá bán":1600000},
       {"Mã":"CH-0603-060326-00","Ngày về":"06/03/2026","Sản phẩm":"CH-0603-060326-00\nC legacy signature brown wristlet\ncondition tốt, form dày dặn, túi sạch sẽ, ko có lỗi nào lớn ạ \n15 x 10\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":780000,"Giá bán":1500000},
       {"Mã":"CH-0603-060326-01","Ngày về":"06/03/2026","Sản phẩm":"CH-0603-060326-01\nC soho signature wristlet\ncondition tốt, form dày dặn, túi sạch sẽ, ko có lỗi nào lớn ạ \n16 x 11\nGiá: 980.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":778000,"Giá bán":980000},
       {"Mã":"LC-9990-060326","Ngày về":"06/03/2026","Sản phẩm":"LC-9990-060326\nLC roseau màu trắng\ncondition tốt, form dày dặn, lót sạch sẽ, ko có lỗi nào lớn ạa\n34 x 26 x 12 (khi đóng cúc bấm 2 bên, vừa laptop 13inch)\nGiá: 3.200.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":2000000,"Giá bán":3200000},
