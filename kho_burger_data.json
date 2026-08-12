@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12/08/2026 22:34",
+  "lastUpdated": "12/08/2026 23:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -457,7 +457,7 @@
       {"Mã":"CH-2503-250326-01","Ngày về":"25/03/2026","Sản phẩm":"x","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1030000,"Giá bán":1350000},
       {"Mã":"CH-2503-250326-02","Ngày về":"25/03/2026","Sản phẩm":"x","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1870000,"Giá bán":2300000},
       {"Mã":"CH-2503-250326-03","Ngày về":"25/03/2026","Sản phẩm":"x","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":2270000,"Giá bán":3500000},
-      {"Mã":"CH-2503-250326-04","Ngày về":"25/03/2026","Sản phẩm":"x","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":2280000,"Giá bán":3000000},
+      {"Mã":"CH-2503-250326-04","Ngày về":"25/03/2026","Sản phẩm":"x","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":2280000,"Giá bán":3000000},
       {"Mã":"LC-7045-250326","Ngày về":"25/03/2026","Sản phẩm":"LC-7045-250326\nmini pouch màu ebony\ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi nào lớn ạ. Túi có kèm dây đeo chéo\n18 x 10 x 6\nGiá: 2.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1470000,"Giá bán":2900000},
       {"Mã":"LC-7226-250326","Ngày về":"25/03/2026","Sản phẩm":"LC-7226-250326\nmini pouch màu paper\ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, bên ngoài túi có một vài vết bẩn xíu xiu ko đáng kể ạ. Túi ko kèm dây đeo chéo, khách mua thêm trên sọp pi giúp em nha \n18 x 10 x 5\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1140000,"Giá bán":1900000},
       {"Mã":"CH-2503-250326-05","Ngày về":"25/03/2026","Sản phẩm":"x","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1660000,"Giá bán":1700000},
