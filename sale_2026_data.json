@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12/08/2026 00:13",
+  "lastUpdated": "12/08/2026 13:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -1214,7 +1214,8 @@
       {"Mã":"CH-2701-06","Ngày bán":"11/08/2026","Sản phẩm":"C signature mini handbag","Giá nhập":977423,"Giá bán":1350000,"Lãi":372577},
       {"Mã":"CH-1603-160326-03","Ngày bán":"11/08/2026","Sản phẩm":"C vintage đeo vai full da","Giá nhập":895500,"Giá bán":1350000,"Lãi":454500},
       {"Mã":"CH-2003-200326-01","Ngày bán":"11/08/2026","Sản phẩm":"CH-2003-200326-01","Giá nhập":1108517,"Giá bán":1350000,"Lãi":241483},
-      {"Mã":"CH-1101-03","Ngày bán":"11/08/2026","Sản phẩm":"C signature họa tiết xe ngựa","Giá nhập":779781,"Giá bán":850000,"Lãi":70219}
+      {"Mã":"CH-1101-03","Ngày bán":"11/08/2026","Sản phẩm":"C signature họa tiết xe ngựa","Giá nhập":779781,"Giá bán":850000,"Lãi":70219},
+      {"Mã":"CH-0603-060326","Ngày bán":"12/08/2026","Sản phẩm":"CH-0603-060326","Giá nhập":1320000,"Giá bán":1600000,"Lãi":280000}
     ]
   }
 }
