@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/08/2026 11:13",
+  "lastUpdated": "13/08/2026 11:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -502,7 +502,13 @@
       {"Mã":"EDĐÈ29042600","Ngày bán":"06/08/2026","Sản phẩm":"Edi Light Floor Lamp - Orange","Giá nhập":213338,"Giá bán":810000,"Lãi":596662},
       {"Mã":"IKTH221100","Ngày bán":"07/08/2026","Sản phẩm":"Ikea Walter Van Beirendonck & Ikea Glödande - Limited edition tiger rug 2016","Giá nhập":4458360,"Giá bán":15000000,"Lãi":10541640},
       {"Mã":"PIBẬ22072600","Ngày bán":"13/08/2026","Sản phẩm":"Piezo Derringer","Giá nhập":181788,"Giá bán":350000,"Lãi":168212},
-      {"Mã":"LEHỘ16062600","Ngày bán":"13/08/2026","Sản phẩm":"Lego Mini Box (set)","Giá nhập":269856,"Giá bán":390000,"Lãi":120144}
+      {"Mã":"LEHỘ16062600","Ngày bán":"13/08/2026","Sản phẩm":"Lego Mini Box (set)","Giá nhập":269856,"Giá bán":390000,"Lãi":120144},
+      {"Mã":"HACỜ05082600","Ngày bán":"13/08/2026","Sản phẩm":"Hay Play Chess Set","Giá nhập":832685,"Giá bán":1500000,"Lãi":667315},
+      {"Mã":"ALVẮ05082600","Ngày bán":"13/08/2026","Sản phẩm":"Alessi Juicy Salif","Giá nhập":1729147,"Giá bán":2400000,"Lãi":670853},
+      {"Mã":"IMKH05082601","Ngày bán":"13/08/2026","Sản phẩm":"IMM Living Melting Popsicle Ring Holder","Giá nhập":307787,"Giá bán":490000,"Lãi":182213},
+      {"Mã":"ANKH05082600","Ngày bán":"13/08/2026","Sản phẩm":"Anthropologie Hand trinket Jewelry Tray","Giá nhập":507563,"Giá bán":1490000,"Lãi":982437},
+      {"Mã":"FLBÌ05082600","Ngày bán":"13/08/2026","Sản phẩm":"*No brand* Flamingo Watering Can","Giá nhập":249383,"Giá bán":350000,"Lãi":100617},
+      {"Mã":"HARỔ10072600","Ngày bán":"13/08/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":250000,"Lãi":133767}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
