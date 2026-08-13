@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/08/2026 11:25",
+  "lastUpdated": "13/08/2026 12:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1619,7 +1619,7 @@
       {"Mã":"OKKH05082601","Ngày về":"05/08/2026","Sản phẩm":"Okuna Outpost White Note Jewelry Dish - Quaver\n\nChất liệu: Gốm sứ\n\nPhân Loại: Khay trang sức\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Đĩa: 140mm\nNốt nhạc: 70 x 30mm\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":200678,"Giá bán":350000},
       {"Mã":"SIBÌ05082600","Ngày về":"05/08/2026","Sản phẩm":"Sicart x Spagnolo Geometric Pitcher\n\nChất liệu: Gốm sứ\n\nPhân Loại: Bình nước\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 150 x 80mm\n\nGiá: 1.800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":642261,"Giá bán":1800000},
       {"Mã":"IMKH05082600","Ngày về":"05/08/2026","Sản phẩm":"IMM Living Duello Series Jewerly Holder\n\nChất liệu: Sứ\n\nPhân Loại: Khay trang sức\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 50 x 45mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":885515,"Giá bán":1500000},
-      {"Mã":"BECH05082600","Ngày về":"05/08/2026","Sản phẩm":"Better Homes & Gardens Pear\n\nChất liệu: Gốm\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 130 x 90mm\n\nGiá: 400.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":278720,"Giá bán":400000},
+      {"Mã":"BECH05082600","Ngày về":"05/08/2026","Sản phẩm":"Better Homes & Gardens Pear\n\nChất liệu: Gốm\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 130 x 90mm\n\nGiá: 400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":278721,"Giá bán":400000},
       {"Mã":"IMKH05082601","Ngày về":"05/08/2026","Sản phẩm":"IMM Living Melting Popsicle Ring Holder\n\nChất liệu: Sứ\n\nPhân Loại: Khay trang sức\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 89 x 76 x 76mm\n\nGiá: 490.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":307787,"Giá bán":490000},
       {"Mã":"IMKH05082602","Ngày về":"05/08/2026","Sản phẩm":"IMM Living Melting Frozen Yogurt Ring Holder\n\nChất liệu: Sứ\n\nPhân Loại: Khay trang sức\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 76 x 76 x70mm\n\nGiá: 490.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":307787,"Giá bán":490000},
       {"Mã":"SEBÌ05082601","Ngày về":"05/08/2026","Sản phẩm":"Serax x Roos Van De Velde Flower Vase Wthite Perfect Imperfection\n\nChất liệu: Sứ\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 115 x 100 x 40mm\n\nGiá: 380.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":184678,"Giá bán":380000},
