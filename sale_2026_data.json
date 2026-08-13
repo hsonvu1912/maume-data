@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/08/2026 12:43",
+  "lastUpdated": "13/08/2026 15:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -509,7 +509,9 @@
       {"Mã":"ANKH05082600","Ngày bán":"13/08/2026","Sản phẩm":"Anthropologie Hand trinket Jewelry Tray","Giá nhập":507563,"Giá bán":1490000,"Lãi":982437},
       {"Mã":"FLBÌ05082600","Ngày bán":"13/08/2026","Sản phẩm":"*No brand* Flamingo Watering Can","Giá nhập":249383,"Giá bán":350000,"Lãi":100617},
       {"Mã":"HARỔ10072600","Ngày bán":"13/08/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":250000,"Lãi":133767},
-      {"Mã":"BECH05082600","Ngày bán":"13/08/2026","Sản phẩm":"Better Homes & Gardens Pear","Giá nhập":278721,"Giá bán":400000,"Lãi":121279}
+      {"Mã":"BECH05082600","Ngày bán":"13/08/2026","Sản phẩm":"Better Homes & Gardens Pear","Giá nhập":278721,"Giá bán":400000,"Lãi":121279},
+      {"Mã":"FLBÌ05082601","Ngày bán":"13/08/2026","Sản phẩm":"*No brand* Flamingo Watering Can","Giá nhập":249383,"Giá bán":350000,"Lãi":100617},
+      {"Mã":"CLBLEP2008","Ngày bán":"13/08/2026","Sản phẩm":"Santeru Takashi/Kato design EPIFA EPC-1500 BL Wall Clock","Giá nhập":1837988,"Giá bán":1680000,"Lãi":-157988}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
