@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/08/2026 12:55",
+  "lastUpdated": "13/08/2026 15:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -198,7 +198,7 @@
       {"Mã":"CLBLHI2008","Ngày về":"20/08/2025","Sản phẩm":"HIBINO SPECIAL wall clock by Katsuhiko Hibino\nTình trạng: Như ảnh\nKích thước: 24,5 x 4,5 cm","Tình trạng":"Hết hàng","Thành tiền":1185188},
       {"Mã":"CLWHBR2008","Ngày về":"20/08/2025","Sản phẩm":"Braun BC01W Wecker\nTình trạng; như ảnh\nKích thước: 6,5 x 4 x 7cm","Tình trạng":"Còn hàng","Thành tiền":1108388,"Giá bán":1400000},
       {"Mã":"CLBESE2008","Ngày về":"20/08/2025","Sản phẩm":"Takata Lemnos Postmodern wall clock By SESSA \nTình trạng: Như ảnh\nKích thước: 25.6 x 4cm","Tình trạng":"Hết hàng","Thành tiền":1588388},
-      {"Mã":"CLBLEP2008","Ngày về":"20/08/2025","Sản phẩm":"Santeru Takashi/Kato design EPIFA EPC-1500 BL Wall Clock\n\nTình trạng: Như ảnh\n\nKích thước: 22.10 x 2.54 cm\n\nGiá: Sale 20% 2.100.000 => 1.680.000","Tình trạng":"Còn hàng","Thành tiền":1837988,"Giá bán":2100000},
+      {"Mã":"CLBLEP2008","Ngày về":"20/08/2025","Sản phẩm":"Santeru Takashi/Kato design EPIFA EPC-1500 BL Wall Clock\n\nTình trạng: Như ảnh\n\nKích thước: 22.10 x 2.54 cm\n\nGiá: Sale 20% 2.100.000 => 1.680.000","Tình trạng":"Hết hàng","Thành tiền":1837988,"Giá bán":2100000},
       {"Mã":"CLGEBR2008","Ngày về":"20/08/2025","Sản phẩm":"BRUNO Blister Clock\nTình trạng: Như ảnh\nKích thước: 12 x 13 x 4cm","Tình trạng":"Hết hàng","Thành tiền":556388},
       {"Mã":"CLWHGA2008","Ngày về":"20/08/2025","Sản phẩm":"Gralara Modern Abstract Wall Clock\nTÌnh trạng: Như ảnh\nKích thước: ‎11.8 x 18.1 x 13.2 cm","Tình trạng":"Hết hàng","Thành tiền":475748},
       {"Mã":"LAYLWE2508","Ngày về":"25/08/2025","Sản phẩm":"West Elm Industrial Task Table Lamp\nTình trạng: Như ảnh\nKích thước: 7 x 7 x 33cm","Tình trạng":"Hết hàng","Thành tiền":209200},
@@ -1604,7 +1604,7 @@
       {"Mã":"HACỜ05082600","Ngày về":"05/08/2026","Sản phẩm":"Hay Play Chess Set\n\nChất liệu: Gỗ, nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 310 x 310 x 2mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":832685,"Giá bán":1500000},
       {"Mã":"ANKH05082600","Ngày về":"05/08/2026","Sản phẩm":"Anthropologie Hand trinket Jewelry Tray\n\nChất liệu: Gốm sứ\n\nPhân Loại: Khay trang sức\n\nTình trạng: Như ảnh\n\nKích thước: 215 x 215 x 100mm\n\nGiá: 1.490.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":507563,"Giá bán":1490000},
       {"Mã":"FLBÌ05082600","Ngày về":"05/08/2026","Sản phẩm":"*No brand* Flamingo Watering Can\n\nChất liệu: Nhựa HDPE\n\nPhân Loại: Bình tưới cây\n\nTình trạng: Như ảnh\n\nKích thước: 286 x 144 x 301mm\n( 1,5l nước )\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":249383,"Giá bán":350000},
-      {"Mã":"FLBÌ05082601","Ngày về":"05/08/2026","Sản phẩm":"*No brand* Flamingo Watering Can\n\nChất liệu: Nhựa HDPE\n\nPhân Loại: Bình tưới cây\n\nTình trạng: Như ảnh\n\nKích thước: 286 x 144 x 301mm\n( 1,5l nước )\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":249383,"Giá bán":350000},
+      {"Mã":"FLBÌ05082601","Ngày về":"05/08/2026","Sản phẩm":"*No brand* Flamingo Watering Can\n\nChất liệu: Nhựa HDPE\n\nPhân Loại: Bình tưới cây\n\nTình trạng: Như ảnh\n\nKích thước: 286 x 144 x 301mm\n( 1,5l nước )\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":249383,"Giá bán":350000},
       {"Mã":"GICỐ05082600","Ngày về":"05/08/2026","Sản phẩm":"Gispen Dombo Mug\n\nChất liệu: Nhựa Polypropylene\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 260 x 90 x 80mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":367728,"Giá bán":550000},
       {"Mã":"NOCỐ05082600","Ngày về":"05/08/2026","Sản phẩm":"No brand Amber Rim Glass Cup - Set of 2\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 90 x 76,2mm\n\nGiá: 190.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":94319,"Giá bán":190000},
       {"Mã":"NOCỐ05082601","Ngày về":"05/08/2026","Sản phẩm":"No brand Amber Rim Glass Cup - Set of 2\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 91 x 76,2mm\n\nGiá: 190.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":94319,"Giá bán":190000},
