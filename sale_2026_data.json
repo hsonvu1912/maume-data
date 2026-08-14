@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/08/2026 22:13",
+  "lastUpdated": "14/08/2026 16:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -1231,7 +1231,8 @@
       {"Mã":"CH-2003-200326-00","Ngày bán":"12/08/2026","Sản phẩm":"CH-2003-200326-00","Giá nhập":2694857,"Giá bán":2700000,"Lãi":5143},
       {"Mã":"CH-3103-02-310326","Ngày bán":"12/08/2026","Giá nhập":1737100,"Giá bán":2000000,"Lãi":262900},
       {"Mã":"CH-1912-02","Ngày bán":"12/08/2026","Sản phẩm":"C hobo full da đen độ mới rất cao da mềm thơm phức 9/10 ko lỗi gì đáng kể KT 25 x 15","Giá nhập":1268188,"Giá bán":1950000,"Lãi":681812},
-      {"Mã":"CH-2503-250326-04","Ngày bán":"12/08/2026","Sản phẩm":"x","Giá nhập":2280000,"Giá bán":3000000,"Lãi":720000}
+      {"Mã":"CH-2503-250326-04","Ngày bán":"12/08/2026","Sản phẩm":"x","Giá nhập":2280000,"Giá bán":3000000,"Lãi":720000},
+      {"Mã":"CH-1603-160326","Ngày bán":"14/08/2026","Sản phẩm":"C hampton bag full da","Giá nhập":895500,"Giá bán":1100000,"Lãi":204500}
     ]
   }
 }
