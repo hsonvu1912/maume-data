@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/08/2026 16:34",
+  "lastUpdated": "16/08/2026 23:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -874,7 +874,7 @@
       {"Mã":"LC-1382-060826","Ngày về":"06/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":619691},
       {"Mã":"LC-0608-060826","Ngày về":"06/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":77507},
       {"Mã":"LC-0608-00-060826","Ngày về":"06/08/2026","Sản phẩm":"LC-0608-00-060826\nnavy size M nhỏ ko vừa laptop, cond đẹp quai trầy chút xíu (quai sau nhiều hơn). Kt: 36 x 25 x 14\nGiá: 1.550.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1237913,"Giá bán":1550000},
-      {"Mã":"LC-0547-060826","Ngày về":"06/08/2026","Sản phẩm":"LC-0547-060826\nxám gunmetal size L đẹp cứng cáp lun bên ngoài kh rõ lỗi gì hết. Kt: 45 x 30 x 19\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1295333,"Giá bán":1800000},
+      {"Mã":"LC-0547-060826","Ngày về":"06/08/2026","Sản phẩm":"LC-0547-060826\nxám gunmetal size L đẹp cứng cáp lun bên ngoài kh rõ lỗi gì hết. Kt: 45 x 30 x 19\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1295333,"Giá bán":1800000},
       {"Mã":"LC-2807-280726-01","Ngày về":"28/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":759902,"Giá bán":1980000},
       {"Mã":"LC-7654-290726","Ngày về":"29/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":951222,"Giá bán":1900000},
       {"Mã":"LC-5654-290726","Ngày về":"29/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1209696,"Giá bán":1900000},
