@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19/08/2026 13:55",
+  "lastUpdated": "19/08/2026 14:27",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1635,7 +1635,7 @@
       {"Mã":"NLY05082603","Ngày về":"05/08/2026","Sản phẩm":"No brand Bryce Amber Swirl\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 158 x 150 x 100mm\n\nGiá: 250.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195557,"Giá bán":250000},
       {"Mã":"NLY05082604","Ngày về":"05/08/2026","Sản phẩm":"No brand Bryce Amber Swirl\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 159 x 150 x 100mm\n\nGiá: 250.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":195557,"Giá bán":250000},
       {"Mã":"IMKH05082603","Ngày về":"05/08/2026","Sản phẩm":"IMM Living Swallow Head Ring Holder\n\nChất liệu: Sứ\n\nPhân Loại: Khay trang sức\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 89 x 76 x 76mm\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1,"Giá bán":350000},
-      {"Mã":"SETH12082600","Ngày về":"12/08/2026","Sản phẩm":"Seletti x Toiletpaper Milky Boots Rug\n\nChất liệu: \n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":296104},
+      {"Mã":"SETH12082600","Ngày về":"12/08/2026","Sản phẩm":"Seletti x Toiletpaper Milky Boots\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 900 x 600mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":296104},
       {"Mã":"12082600","Ngày về":"12/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":296104},
       {"Mã":"#REF!","Ngày về":"12/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
       {"Mã":"12082600","Ngày về":"12/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":336317},
