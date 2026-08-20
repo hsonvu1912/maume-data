@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19/08/2026 10:43",
+  "lastUpdated": "20/08/2026 10:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -515,7 +515,8 @@
       {"Mã":"VICỜ22072601","Ngày bán":"13/08/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":387175,"Giá bán":1500000,"Lãi":1112825},
       {"Mã":"HEBẬ21012601","Ngày bán":"14/08/2026","Sản phẩm":"Heineken Saxophone Lighter","Giá nhập":261652,"Giá bán":460000,"Lãi":198348},
       {"Mã":"HEBẬ30072600","Ngày bán":"14/08/2026","Sản phẩm":"Heineken Conga Drum Lighter","Giá nhập":261652,"Giá bán":460000,"Lãi":198348},
-      {"Mã":"HEBẬ21012600","Ngày bán":"16/08/2026","Sản phẩm":"Heineken Rock Drum Lighter","Giá nhập":261652,"Giá bán":460000,"Lãi":198348}
+      {"Mã":"HEBẬ21012600","Ngày bán":"16/08/2026","Sản phẩm":"Heineken Rock Drum Lighter","Giá nhập":261652,"Giá bán":460000,"Lãi":198348},
+      {"Mã":"SMTÚ05082600","Ngày bán":"20/08/2026","Sản phẩm":"Smiley Banana Shoulder Bag","Giá nhập":234956,"Giá bán":450000,"Lãi":215044}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
