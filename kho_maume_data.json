@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19/08/2026 21:55",
+  "lastUpdated": "20/08/2026 10:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1600,7 +1600,7 @@
     "Tháng 8/2026": [
       {"Mã":"SMTH05082600","Ngày về":"05/08/2026","Sản phẩm":"Smiley Tennis Bath Mat\n\nChất liệu: Vải Polyester giả lông cừu (Cashmere)\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 600mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":286516,"Giá bán":700000},
       {"Mã":"SMTH05082601","Ngày về":"05/08/2026","Sản phẩm":"Smiley Round Mat\n\nChất liệu: Sợi Acrylic giả lông cừu (Cashmere)\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 600mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":264264,"Giá bán":700000},
-      {"Mã":"SMTÚ05082600","Ngày về":"05/08/2026","Sản phẩm":"Smiley Banana Shoulder Bag\n\nChất liệu: Vải \n\nPhân Loại: Túi xách\n\nTình trạng: Như ảnh\n\nKích thước: 350 x 120 x 50mm\n\nGiá: 450.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":234956,"Giá bán":450000},
+      {"Mã":"SMTÚ05082600","Ngày về":"05/08/2026","Sản phẩm":"Smiley Banana Shoulder Bag\n\nChất liệu: Vải \n\nPhân Loại: Túi xách\n\nTình trạng: Như ảnh\n\nKích thước: 350 x 120 x 50mm\n\nGiá: 450.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":234956,"Giá bán":450000},
       {"Mã":"HACỜ05082600","Ngày về":"05/08/2026","Sản phẩm":"Hay Play Chess Set\n\nChất liệu: Gỗ, nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 310 x 310 x 2mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":832685,"Giá bán":1500000},
       {"Mã":"ANKH05082600","Ngày về":"05/08/2026","Sản phẩm":"Anthropologie Hand trinket Jewelry Tray\n\nChất liệu: Gốm sứ\n\nPhân Loại: Khay trang sức\n\nTình trạng: Như ảnh\n\nKích thước: 215 x 215 x 100mm\n\nGiá: 1.490.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":507563,"Giá bán":1490000},
       {"Mã":"FLBÌ05082600","Ngày về":"05/08/2026","Sản phẩm":"*No brand* Flamingo Watering Can\n\nChất liệu: Nhựa HDPE\n\nPhân Loại: Bình tưới cây\n\nTình trạng: Như ảnh\n\nKích thước: 286 x 144 x 301mm\n( 1,5l nước )\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":249383,"Giá bán":350000},
