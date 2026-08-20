@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/08/2026 10:13",
+  "lastUpdated": "20/08/2026 11:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -516,7 +516,11 @@
       {"Mã":"HEBẬ21012601","Ngày bán":"14/08/2026","Sản phẩm":"Heineken Saxophone Lighter","Giá nhập":261652,"Giá bán":460000,"Lãi":198348},
       {"Mã":"HEBẬ30072600","Ngày bán":"14/08/2026","Sản phẩm":"Heineken Conga Drum Lighter","Giá nhập":261652,"Giá bán":460000,"Lãi":198348},
       {"Mã":"HEBẬ21012600","Ngày bán":"16/08/2026","Sản phẩm":"Heineken Rock Drum Lighter","Giá nhập":261652,"Giá bán":460000,"Lãi":198348},
-      {"Mã":"SMTÚ05082600","Ngày bán":"20/08/2026","Sản phẩm":"Smiley Banana Shoulder Bag","Giá nhập":234956,"Giá bán":450000,"Lãi":215044}
+      {"Mã":"SMTÚ05082600","Ngày bán":"20/08/2026","Sản phẩm":"Smiley Banana Shoulder Bag","Giá nhập":234956,"Giá bán":450000,"Lãi":215044},
+      {"Mã":"THCỜ05082600","Ngày bán":"20/08/2026","Sản phẩm":"The Op Games x Adult Swim Rick and Morty Collector's Chess Set","Giá nhập":1593578,"Giá bán":3500000,"Lãi":1906422},
+      {"Mã":"OKKH05082600","Ngày bán":"20/08/2026","Sản phẩm":"Okuna Outpost White Note Jewelry Dish - Beam Notes","Giá nhập":200679,"Giá bán":350000,"Lãi":149321},
+      {"Mã":"OKKH05082601","Ngày bán":"20/08/2026","Sản phẩm":"Okuna Outpost White Note Jewelry Dish - Quaver","Giá nhập":200679,"Giá bán":350000,"Lãi":149321},
+      {"Mã":"NOCỐ05082600","Ngày bán":"20/08/2026","Sản phẩm":"No brand Amber Rim Glass Cup - Set of 2","Giá nhập":94320,"Giá bán":190000,"Lãi":95680}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -1253,7 +1257,8 @@
       {"Mã":"LC-5733-060826","Ngày bán":"16/08/2026","Sản phẩm":"LC-5733-060826","Giá nhập":753525,"Giá bán":950000,"Lãi":196475},
       {"Mã":"LC-6386N-060826","Ngày bán":"17/08/2026","Sản phẩm":"LC-6386N-060826","Giá nhập":1696533,"Giá bán":650000,"Lãi":-1046533},
       {"Mã":"LC-8301N-060826","Ngày bán":"19/08/2026","Sản phẩm":"LC-8301N-060826","Giá nhập":764613,"Giá bán":500000,"Lãi":-264613},
-      {"Mã":"LC-6370-280726","Ngày bán":"19/08/2026","Sản phẩm":"LC-6370-280726","Giá nhập":2378750,"Giá bán":3300000,"Lãi":921250}
+      {"Mã":"LC-6370-280726","Ngày bán":"19/08/2026","Sản phẩm":"LC-6370-280726","Giá nhập":2378750,"Giá bán":3300000,"Lãi":921250},
+      {"Mã":"TH2706-270626-01","Ngày bán":"20/08/2026","Giá nhập":185991,"Giá bán":950000,"Lãi":764009}
     ]
   }
 }
