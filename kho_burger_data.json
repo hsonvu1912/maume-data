@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21/08/2026 14:04",
+  "lastUpdated": "21/08/2026 14:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -918,7 +918,18 @@
       {"Mã":"LC-0999-140826","Ngày về":"14/08/2026","Sản phẩm":"LC-0999-140826\nblack size L dòng neo đẹp cứng cáp ít qua sử dụng. Kt 45 x 30 x 20\nGiá: 2.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1257145,"Giá bán":2100000},
       {"Mã":"LC-2884-140826","Ngày về":"14/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1261318},
       {"Mã":"LC-6212-140826","Ngày về":"14/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1261318},
-      {"Mã":"LC-5075-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":97920}
+      {"Mã":"LC-5075-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":899012},
+      {"Mã":"LC-6753-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":966745},
+      {"Mã":"LC-8860-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1568714},
+      {"Mã":"LC-8882-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1761816},
+      {"Mã":"LC-8211-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1182852},
+      {"Mã":"LC-2239-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":607237},
+      {"Mã":"LC-8103-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1174081},
+      {"Mã":"LC-6179-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1183654},
+      {"Mã":"LC-2520-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1183747},
+      {"Mã":"LC-6736-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1174081},
+      {"Mã":"LC-2484-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1361093},
+      {"Mã":"LC-6345-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1359275}
     ]
   }
 }
