@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24/08/2026 13:43",
+  "lastUpdated": "24/08/2026 14:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -520,7 +520,9 @@
       {"Mã":"THCỜ05082600","Ngày bán":"20/08/2026","Sản phẩm":"The Op Games x Adult Swim Rick and Morty Collector's Chess Set","Giá nhập":1593578,"Giá bán":3500000,"Lãi":1906422},
       {"Mã":"OKKH05082600","Ngày bán":"20/08/2026","Sản phẩm":"Okuna Outpost White Note Jewelry Dish - Beam Notes","Giá nhập":200679,"Giá bán":350000,"Lãi":149321},
       {"Mã":"OKKH05082601","Ngày bán":"20/08/2026","Sản phẩm":"Okuna Outpost White Note Jewelry Dish - Quaver","Giá nhập":200679,"Giá bán":350000,"Lãi":149321},
-      {"Mã":"NOCỐ05082600","Ngày bán":"20/08/2026","Sản phẩm":"No brand Amber Rim Glass Cup - Set of 2","Giá nhập":94320,"Giá bán":190000,"Lãi":95680}
+      {"Mã":"NOCỐ05082600","Ngày bán":"20/08/2026","Sản phẩm":"No brand Amber Rim Glass Cup - Set of 2","Giá nhập":94320,"Giá bán":190000,"Lãi":95680},
+      {"Mã":"IKĐÈ24042601","Ngày bán":"24/08/2026","Sản phẩm":"Ikea Lampan - White","Giá nhập":263214,"Giá bán":315000,"Lãi":51786},
+      {"Mã":"NOBÌ10072600","Ngày bán":"24/08/2026","Sản phẩm":"No brand Square Shape Purple Vase","Giá nhập":411797,"Giá bán":550000,"Lãi":138203}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -1287,8 +1289,8 @@
       {"Mã":"LC-8391-210826","Ngày bán":"24/08/2026","Sản phẩm":"LC-8391-210826","Giá nhập":1168406,"Giá bán":1900000,"Lãi":731594},
       {"Mã":"LC-1868-210826","Ngày bán":"24/08/2026","Sản phẩm":"LC-1868-210826","Giá nhập":1174081,"Giá bán":1550000,"Lãi":375919},
       {"Mã":"LC-5233-210826","Ngày bán":"24/08/2026","Sản phẩm":"LC-5233-210826","Giá nhập":683985,"Giá bán":1500000,"Lãi":816015},
-      {"Mã":"LC-1624-210826","Ngày bán":"24/08/2026","Sản phẩm":"LC-1624-210826","Giá nhập":1370277,"Giá bán":1950000,"Lãi":579723},
-      {"Mã":"LC-1868-210826","Ngày bán":"24/08/2026","Sản phẩm":"LC-1868-210826","Giá nhập":1174081,"Giá bán":1550000,"Lãi":375919}
+      {"Mã":"LC-6263-210826","Ngày bán":"24/08/2026","Sản phẩm":"LC-6263-210826","Giá nhập":1168487,"Giá bán":2050000,"Lãi":881513},
+      {"Mã":"LC-1624-210826","Ngày bán":"24/08/2026","Sản phẩm":"LC-1624-210826","Giá nhập":1370277,"Giá bán":1950000,"Lãi":579723}
     ]
   }
 }
