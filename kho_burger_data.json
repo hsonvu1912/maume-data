@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24/08/2026 10:04",
+  "lastUpdated": "24/08/2026 11:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -935,7 +935,7 @@
       {"Mã":"LC-0058-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":982739},
       {"Mã":"LC-8391-210826","Ngày về":"21/08/2026","Sản phẩm":"LC-8391-210826\nxám size L, cond đẹp ít qua sử dụng. Kt: 45 x 30 x 19\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1168406,"Giá bán":1900000},
       {"Mã":"LC-6263-210826","Ngày về":"21/08/2026","Sản phẩm":"LC-6263-210826\nđen size L bản đời mới 2 ngăn phụ cond tổng quan rất đẹp, 1-2 lỗi used chấm phẩy bé xíuuu k thành vấn đề. Kt: 45 x 30 x 19\nGiá: 2.050.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1168487,"Giá bán":2050000},
-      {"Mã":"LC-1624-210826","Ngày về":"21/08/2026","Sản phẩm":"LC-1624-210826\nđen size M cond tốt, dày dặn cứng cáp, có vài vết trầy nhỏ xíu ở quai ạ. KT:\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1370277,"Giá bán":1950000},
+      {"Mã":"LC-1624-210826","Ngày về":"21/08/2026","Sản phẩm":"LC-1624-210826\nđen size M cond tốt, dày dặn cứng cáp, có vài vết trầy nhỏ xíu ở quai ạ. KT:\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1370277,"Giá bán":1950000},
       {"Mã":"LC-9592-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1370277},
       {"Mã":"LC-2108-210826-00","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"},
       {"Mã":"LC-7191-210826","Ngày về":"21/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1373092},
