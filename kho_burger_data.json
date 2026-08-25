@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/08/2026 01:34",
+  "lastUpdated": "25/08/2026 11:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -840,7 +840,7 @@
       {"Mã":"LC-2135-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-2135-280726\nnavy size L condition tổng quan tốt, 1 vài lỗi qua sử dụng nhỏ nhỏ nhìn kỹ mứi thấyy ạ. Kt: 45 x 29  x 20\nGiá: 1.550.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1194270,"Giá bán":1550000},
       {"Mã":"LC-0732-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-0732-280726\nmàu olive size M màu siêu hot hãng đã restock nhìu lần hiện nay lại on web ạ. condition tốt qua sử dụng vừa phảii ko có lỗi nào lớn. KT: 37 x 24 x 14\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":618750,"Giá bán":1800000},
       {"Mã":"LC-2286-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-2286-280726\nantique pink size M phối viền xanh teal đẹp lứmm. túi sdung 1tgian ngắn rùi lưu trữ nên k có lỗi gì lớn. viền hơi hơi nứt nhẹ khi đeo lên vai ko thấy rõ nên khách iu yên tâm sdung ạ. KT: 39 x 26 x 16\nGiá: 2.050.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1287550,"Giá bán":2050000},
-      {"Mã":"LC-6493-060826","Ngày về":"06/08/2026","Sản phẩm":"LC-6493-060826\npaper size M bản đời mới 2 ngăn phụ. cond rất đẹp mức độ qua sử dụng nhẹ. Kt: 40 x 27 x 16\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":429333,"Giá bán":1950000},
+      {"Mã":"LC-6493-060826","Ngày về":"06/08/2026","Sản phẩm":"LC-6493-060826\npaper size M bản đời mới 2 ngăn phụ. cond rất đẹp mức độ qua sử dụng nhẹ. Kt: 40 x 27 x 16\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":429333,"Giá bán":1950000},
       {"Mã":"LC-7432-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-7432-280726\ntúi du lịch canvas monogram cond khá tốt. chủ yếu qua lưu trữ, có vài dấu vết qua sử dụng, em bán tặng cho cả nhà đựng laptop hoặc làm túi bỉm sữa túi du lịch nhen. KT: 45 x 27 x 19\nGiá: 590.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":266750,"Giá bán":590000},
       {"Mã":"LC-2210-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-2210-280726\nnavy size L còn sổ, độ mới cực cao đẹp tuyêtttt chủ yếu qua lưu trữ. KT: 45 x 30 x 19\nGiá: 2.050.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":971630,"Giá bán":2050000},
       {"Mã":"LC-8778-280726","Ngày về":"28/07/2026","Sản phẩm":"LC-8778-280726\npaper size L mới đẹp tuyệt trầnnn k lỗi gì lớn. KT: 45 x 30 x 19\nGiá: 2.350.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":778910,"Giá bán":2350000},
