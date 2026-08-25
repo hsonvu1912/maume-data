@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24/08/2026 17:55",
+  "lastUpdated": "25/08/2026 12:56",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1662,17 +1662,16 @@
       {"Mã":"PYDA14082600","Ngày về":"14/08/2026","Sản phẩm":"Pylones Cheese Knife\n\nChất liệu: Kim loại\n\nPhân Loại: Dao\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 190 x 30mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":282716},
       {"Mã":"THGẤ14082600","Ngày về":"14/08/2026","Sản phẩm":"The Simpsons Donut Plush Pillow\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh\n\nKích thước: 200mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":67000},
       {"Mã":"HOĐỒ14082600","Ngày về":"14/08/2026","Sản phẩm":"Hoptimist French Bulldog\n\nChất liệu: Nhựa\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 44 x 37 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":250876},
-      {"Mã":"UNCỐ14082600","Ngày về":"14/08/2026","Sản phẩm":"UNIQLO x JW Anderson \n\nChất liệu: Sứ\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 95mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":109210},
-      {"Mã":"UNCỐ14082601","Ngày về":"14/08/2026","Sản phẩm":"UNIQLO x JW Anderson \n\nChất liệu: Sứ\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 95mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":109210},
-      {"Mã":"UNCỐ14082602","Ngày về":"14/08/2026","Sản phẩm":"UNIQLO x JW Anderson \n\nChất liệu: Sứ\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 95mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":109210},
-      {"Mã":"UNCỐ14082603","Ngày về":"14/08/2026","Sản phẩm":"UNIQLO x JW Anderson \n\nChất liệu: Sứ\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 95mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":109210},
-      {"Mã":"IK14082600","Ngày về":"14/08/2026","Sản phẩm":"Ikea \n\nChất liệu: Nhựa\n\nPhân Loại: \n\nTình trạng: \n\nKích thước: 310 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":221916},
-      {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":155341},
+      {"Mã":"UNCỐ14082600","Ngày về":"14/08/2026","Sản phẩm":"UNIQLO x JW Anderson Green Mug\n\nChất liệu: Sứ\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 95mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":109210},
+      {"Mã":"UNCỐ14082601","Ngày về":"14/08/2026","Sản phẩm":"UNIQLO x JW Anderson Green Mug\n\nChất liệu: Sứ\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 95mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":109210},
+      {"Mã":"UNCỐ14082602","Ngày về":"14/08/2026","Sản phẩm":"UNIQLO x JW Anderson Red Mug\n\nChất liệu: Sứ\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 95mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":109210},
+      {"Mã":"UNCỐ14082603","Ngày về":"14/08/2026","Sản phẩm":"UNIQLO x JW Anderson Red Mug\n\nChất liệu: Sứ\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 95mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":109210},
+      {"Mã":"IKĐÈ14082600","Ngày về":"14/08/2026","Sản phẩm":"Ikea Smila Mane\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn tường\n\nTình trạng: Như ảnh\n\nKích thước: 310 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":221916},
+      {"Mã":"BACỐ14082600","Ngày về":"14/08/2026","Sản phẩm":"Bandai Spirits One Piece Gear 5 mug\n\nChất liệu: Sứ\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":155341},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hỏng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":161252},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hỏng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":161252},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":233314},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":356512},
-      {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":369110},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":451386},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":757103},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":373156},
@@ -1680,7 +1679,7 @@
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":318521},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":501343},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":422643},
-      {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":418750},
+      {"Mã":"DITH14082600","Ngày về":"14/08/2026","Sản phẩm":"Disney Toy Story Woody Spoon\n\nChất liệu: Sứ\n\nPhân Loại: Thìa\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":418750},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":379759},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":379759},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":379759},
@@ -1688,7 +1687,7 @@
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":379759},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":132499},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":132499},
-      {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":132499},
+      {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hỏng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":132499},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hỏng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":132499}
     ]
   }
