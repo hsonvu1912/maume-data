@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26/08/2026 14:26",
+  "lastUpdated": "26/08/2026 14:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -786,7 +786,7 @@
       {"Mã":"ĐỒ301200","Ngày về":"17/11/2025","Sản phẩm":"Opple Toucan Desk Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh\n\nKích thước: 300 x 305mm\n\nGiá:","Tình trạng":"Sửa chữa","Thành tiền":174350},
       {"Mã":"ĐỒ171100","Ngày về":"17/11/2025","Sản phẩm":"Opple Toucan Desk Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh\n\nKích thước: 300 x 305mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":300900},
       {"Mã":"HACH171100","Ngày về":"17/11/2025","Sản phẩm":"Hay Arcs Candle Holder\n\nChất liệu: Kim loại\n\nPhân Loại: Chân nến\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d55 x 90mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":660560},
-      {"Mã":"FLĐÈ171100","Ngày về":"17/11/2025","Sản phẩm":"Flos Lampadina Table Lamp\n\nChất liệu: Nhựa, kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh\n\nKích thước: d120 x 240mm\n\nGiá: 2.200.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1793225,"Giá bán":2200000},
+      {"Mã":"FLĐÈ171100","Ngày về":"17/11/2025","Sản phẩm":"Flos Lampadina Table Lamp\n\nChất liệu: Nhựa, kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh\n\nKích thước: d120 x 240mm\n\nGiá: 2.200.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1793225,"Giá bán":2200000},
       {"Mã":"CH111100","Ngày về":"17/11/2025","Sản phẩm":"*No brand* Boot Base\n\nChất liệu: Thủy tinh\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 130 x 80 x 100mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":219350},
       {"Mã":"HELỌ171100","Ngày về":"17/11/2025","Sản phẩm":"Heiwa Kogyo Petit  Caster Set\n\nChất liệu: Nhựa\n\nPhân Loại: Lọ gia vị\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d90 x 90mm\nd80 x 100mm\nKhay: 205 x 105 x 15mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":225000},
       {"Mã":"WMGẠ171100","Ngày về":"17/11/2025","Sản phẩm":"Wmf Aschenbecher\n\nChất liệu: Kim loại\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d100 x 30mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":252805},
