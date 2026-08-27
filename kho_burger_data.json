@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/08/2026 17:04",
+  "lastUpdated": "27/08/2026 17:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -896,6 +896,7 @@
       {"Mã":"LC-7029-120826","Ngày về":"12/08/2026","Sản phẩm":"LC-7029-120826\nđen size M túi used qua tgian bị trầy quai chủ yếu ở mặt dưới khi đeo lên vai ko quá rõ. tổng quan vẫn oki dày dặn cứng cáp. Kt 37 x 24 x 14\nGiá: 1.350.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":795919,"Giá bán":1350000},
       {"Mã":"LC-1208-01-120826","Ngày về":"12/08/2026","Sản phẩm":"LC-1208-01-120826\nbalo bản mới cond đẹp ít qua sdung chủ yếu qua lưu trữ. KT: 32 x 37 x 13\nGiá: 3.200.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":2280100,"Giá bán":3200000},
       {"Mã":"LC-1208-02-120826","Ngày về":"12/08/2026","Sản phẩm":"LC-1208-02-120826\ntote màu rêu kaki dòng vin size M nhỏ ko vừa laptop. quai da dày dặn cầm rất chắc tay. có vài dấu vết trầy quai chủ yêu ở quai sau nhưng vẫn rất cứng cáp ạ. \nGiá: 1.280.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":977100,"Giá bán":1280000},
+      {"Mã":"LC-8191-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1819170},
       {"Mã":"LC-3704-120826","Ngày về":"12/08/2026","Sản phẩm":"LC-3704-120826\nivory size L đẹp cứng cáp lun ít qua sử dụng. Kt 45 x 30 x 19\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1163600,"Giá bán":1800000},
       {"Mã":"LC-2177-120826","Ngày về":"12/08/2026","Sản phẩm":"LC-2177-120826\ntúi limited size M màu trắng be hồng như ảnh cond khá tốt, có kèm luôn mini pouch cùng bst siêu dthg. Kt: 36 x 25 x 14 ko vừa laptop. pouch 22 x 13,5\nGiá: 1.150.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":899200,"Giá bán":1150000},
       {"Mã":"LC-4433-120826","Ngày về":"12/08/2026","Sản phẩm":"LC-4433-120826\npaper size S quai ngắn xách tay bản đời mới 2 ngăn phụ. cond like new cực đẹp. KT 33 x 21 x 14\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1145424,"Giá bán":1650000},
@@ -941,7 +942,12 @@
       {"Mã":"LC-6347-210826","Ngày về":"21/08/2026","Sản phẩm":"LC-6347-210826\nđen sz L bản đời mới 2 ngăn phụ, cond tổng quan tốt, phần đáy xây xát nhẹ do qua sdung, nhìn ngoài cx k  rõ lắm. KT:45x20x20\nGiá: 1.580.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":607237,"Giá bán":1580000},
       {"Mã":"LC-1723-210826","Ngày về":"21/08/2026","Sản phẩm":"LC-1723-210826\nxám gunmetal size L cond tốt qua sdung vừa phảii. KT:45x29x20\nGiá: 1.550.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1063846,"Giá bán":1550000},
       {"Mã":"LC-2021-210826","Ngày về":"21/08/2026","Sản phẩm":"LC-2021-210826\nxám size L cond tốt, mặt dưới quai trầy nhẹ, khi đeo lên vai sẽ không thấy ạaa. KT:45x29x20\nGiá: 1.480.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1118492,"Giá bán":1480000},
-      {"Mã":"LC-6045-210826","Ngày về":"21/08/2026","Sản phẩm":"LC-6045-210826\nđen size L cond tổng quan tốt, phần đáy có chút xây xát nhẹ ko đáng kể. KT: 45 x 29 x 20\nGiá: 1.580.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1227858,"Giá bán":1580000}
+      {"Mã":"LC-6045-210826","Ngày về":"21/08/2026","Sản phẩm":"LC-6045-210826\nđen size L cond tổng quan tốt, phần đáy có chút xây xát nhẹ ko đáng kể. KT: 45 x 29 x 20\nGiá: 1.580.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1227858,"Giá bán":1580000},
+      {"Mã":"LC-0557-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1293440},
+      {"Mã":"LC-0279-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1386000},
+      {"Mã":"LC-9559-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":962940},
+      {"Mã":"LC-7845-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":886000},
+      {"Mã":"LC-6815-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":512000}
     ]
   }
 }
