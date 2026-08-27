@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/08/2026 17:13",
+  "lastUpdated": "27/08/2026 23:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -525,7 +525,8 @@
       {"Mã":"NOBÌ10072600","Ngày bán":"24/08/2026","Sản phẩm":"No brand Square Shape Purple Vase","Giá nhập":411797,"Giá bán":550000,"Lãi":138203},
       {"Mã":"NLY05082600","Ngày bán":"24/08/2026","Sản phẩm":"No brand Bryce Amber Swirl","Giá nhập":195557,"Giá bán":250000,"Lãi":54443},
       {"Mã":"SEBÌ05082601","Ngày bán":"24/08/2026","Sản phẩm":"Serax x Roos Van De Velde Flower Vase Wthite Perfect Imperfection","Giá nhập":184678,"Giá bán":380000,"Lãi":195322},
-      {"Mã":"SIBÌ05082600","Ngày bán":"27/08/2026","Sản phẩm":"Sicart x Spagnolo Geometric Pitcher","Giá nhập":642261,"Giá bán":1800000,"Lãi":1157739}
+      {"Mã":"SIBÌ05082600","Ngày bán":"27/08/2026","Sản phẩm":"Sicart x Spagnolo Geometric Pitcher","Giá nhập":642261,"Giá bán":1800000,"Lãi":1157739},
+      {"Mã":"IKGI24042601","Ngày bán":"27/08/2026","Sản phẩm":"Ikea Akea - 2007","Giá nhập":208309,"Giá bán":175000,"Lãi":-33309}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
