@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/08/2026 17:34",
+  "lastUpdated": "27/08/2026 18:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -943,6 +943,7 @@
       {"Mã":"LC-1723-210826","Ngày về":"21/08/2026","Sản phẩm":"LC-1723-210826\nxám gunmetal size L cond tốt qua sdung vừa phảii. KT:45x29x20\nGiá: 1.550.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1063846,"Giá bán":1550000},
       {"Mã":"LC-2021-210826","Ngày về":"21/08/2026","Sản phẩm":"LC-2021-210826\nxám size L cond tốt, mặt dưới quai trầy nhẹ, khi đeo lên vai sẽ không thấy ạaa. KT:45x29x20\nGiá: 1.480.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1118492,"Giá bán":1480000},
       {"Mã":"LC-6045-210826","Ngày về":"21/08/2026","Sản phẩm":"LC-6045-210826\nđen size L cond tổng quan tốt, phần đáy có chút xây xát nhẹ ko đáng kể. KT: 45 x 29 x 20\nGiá: 1.580.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1227858,"Giá bán":1580000},
+      {"Mã":"LC-2608-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":541480},
       {"Mã":"LC-0557-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1293440},
       {"Mã":"LC-0279-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1386000},
       {"Mã":"LC-9559-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":962940},
