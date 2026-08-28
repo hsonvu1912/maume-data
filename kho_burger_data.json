@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28/08/2026 14:04",
+  "lastUpdated": "28/08/2026 14:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -900,7 +900,7 @@
       {"Mã":"LC-4825-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1131000},
       {"Mã":"LC-8191-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1819170},
       {"Mã":"LC-1688-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1737390},
-      {"Mã":"LC-2691-260826--02","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":957000},
+      {"Mã":"LC-2691-260826","Ngày về":"26/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":957000},
       {"Mã":"LC-3704-120826","Ngày về":"12/08/2026","Sản phẩm":"LC-3704-120826\nivory size L đẹp cứng cáp lun ít qua sử dụng. Kt 45 x 30 x 19\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1163600,"Giá bán":1800000},
       {"Mã":"LC-2177-120826","Ngày về":"12/08/2026","Sản phẩm":"LC-2177-120826\ntúi limited size M màu trắng be hồng như ảnh cond khá tốt, có kèm luôn mini pouch cùng bst siêu dthg. Kt: 36 x 25 x 14 ko vừa laptop. pouch 22 x 13,5\nGiá: 1.150.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":899200,"Giá bán":1150000},
       {"Mã":"LC-4433-120826","Ngày về":"12/08/2026","Sản phẩm":"LC-4433-120826\npaper size S quai ngắn xách tay bản đời mới 2 ngăn phụ. cond like new cực đẹp. KT 33 x 21 x 14\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1145424,"Giá bán":1650000},
