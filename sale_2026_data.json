@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/08/2026 15:13",
+  "lastUpdated": "29/08/2026 15:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -526,7 +526,15 @@
       {"Mã":"NLY05082600","Ngày bán":"24/08/2026","Sản phẩm":"No brand Bryce Amber Swirl","Giá nhập":195557,"Giá bán":250000,"Lãi":54443},
       {"Mã":"SEBÌ05082601","Ngày bán":"24/08/2026","Sản phẩm":"Serax x Roos Van De Velde Flower Vase Wthite Perfect Imperfection","Giá nhập":184678,"Giá bán":380000,"Lãi":195322},
       {"Mã":"SIBÌ05082600","Ngày bán":"27/08/2026","Sản phẩm":"Sicart x Spagnolo Geometric Pitcher","Giá nhập":642261,"Giá bán":1800000,"Lãi":1157739},
-      {"Mã":"IKGI24042601","Ngày bán":"27/08/2026","Sản phẩm":"Ikea Akea - 2007","Giá nhập":208309,"Giá bán":175000,"Lãi":-33309}
+      {"Mã":"IKGI24042601","Ngày bán":"27/08/2026","Sản phẩm":"Ikea Akea - 2007","Giá nhập":208309,"Giá bán":175000,"Lãi":-33309},
+      {"Mã":"ROBÌ14082600","Ngày bán":"29/08/2026","Sản phẩm":"Rosenthal Tütenvase","Giá nhập":379759,"Giá bán":900000,"Lãi":520241},
+      {"Mã":"NOBÌ12082600","Ngày bán":"29/08/2026","Sản phẩm":"Normann Copenhagen Geo Thermos Vacuum Flask (red)","Giá nhập":517828,"Giá bán":1100000,"Lãi":582172},
+      {"Mã":"SETH12082600","Ngày bán":"29/08/2026","Sản phẩm":"Seletti x Toiletpaper Milky Boots","Giá nhập":296104,"Giá bán":700000,"Lãi":403896},
+      {"Mã":"NOĐĨ12082607","Ngày bán":"29/08/2026","Sản phẩm":"No brand Starfish Dish (dark blue)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
+      {"Mã":"NOĐĨ12082604","Ngày bán":"29/08/2026","Sản phẩm":"No brand Starfish Dish (clear)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
+      {"Mã":"SEBÌ05082600","Ngày bán":"29/08/2026","Sản phẩm":"Seletti Estetico Quotidiano Milk Jug","Giá nhập":161884,"Giá bán":320000,"Lãi":158116},
+      {"Mã":"NOĐĨ12082608","Ngày bán":"29/08/2026","Sản phẩm":"No brand Starfish Dish (dark blue)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
+      {"Mã":"THGẤ14082600","Ngày bán":"29/08/2026","Sản phẩm":"The Simpsons Donut Plush Pillow","Giá nhập":67000,"Giá bán":150000,"Lãi":83000}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -1341,7 +1349,8 @@
       {"Mã":"LC-2306-260826","Ngày bán":"29/08/2026","Sản phẩm":"LC-2306-260826","Giá nhập":1148227,"Giá bán":1280000,"Lãi":131773},
       {"Mã":"LC-2691-260826","Ngày bán":"29/08/2026","Sản phẩm":"LC-2691-260826","Giá nhập":957001,"Giá bán":1050000,"Lãi":92999},
       {"Mã":"LC-1666-260826","Ngày bán":"29/08/2026","Sản phẩm":"LC-1666-260826","Giá nhập":916801,"Giá bán":1850000,"Lãi":933199},
-      {"Mã":"LC-1405-260826","Ngày bán":"29/08/2026","Sản phẩm":"LC-1405-260826","Giá nhập":668801,"Giá bán":1150000,"Lãi":481199}
+      {"Mã":"LC-1405-260826","Ngày bán":"29/08/2026","Sản phẩm":"LC-1405-260826","Giá nhập":668801,"Giá bán":1150000,"Lãi":481199},
+      {"Mã":"LC-9374-260826","Ngày bán":"29/08/2026","Sản phẩm":"LC-9374-260826","Giá nhập":626401,"Giá bán":1800000,"Lãi":1173599}
     ]
   }
 }
