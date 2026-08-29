@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/08/2026 15:55",
+  "lastUpdated": "29/08/2026 16:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1670,7 +1670,7 @@
       {"Mã":"BACỐ14082600","Ngày về":"14/08/2026","Sản phẩm":"Bandai Spirits One Piece Gear 5 mug\n\nChất liệu: Sứ\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 100mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155341,"Giá bán":300000},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hỏng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":161252},
       {"Mã":"14082600","Ngày về":"14/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hỏng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":161252},
-      {"Mã":"FLĐÈ14082600","Ngày về":"14/08/2026","Sản phẩm":"Fluid Market Lamp Fleur\n\nChất liệu: Ceramic\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, bao gồm đèn E14\n\nKích thước: 210 x 140mm\n\nGiá: 650.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":233314,"Giá bán":650000},
+      {"Mã":"FLĐÈ14082600","Ngày về":"14/08/2026","Sản phẩm":"Fluid Market Lamp Fleur\n\nChất liệu: Ceramic\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, bao gồm đèn E14\n\nKích thước: 210 x 140mm\n\nGiá: 650.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":233314,"Giá bán":650000},
       {"Mã":"KUĐĨ14082600","Ngày về":"14/08/2026","Sản phẩm":"Kuchenland Candy Dish\n\nChất liệu: Thủy tinh\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 130 x 80mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":356512,"Giá bán":550000},
       {"Mã":"SETH14082600","Ngày về":"14/08/2026","Sản phẩm":"Seletti x Toiletpaper Two Of Spades\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 900 x 600mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":451386,"Giá bán":700000},
       {"Mã":"NOBÌ14082600","Ngày về":"14/08/2026","Sản phẩm":"No brand Black Seafoam Vase\n\nChất liệu: Ceramic\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 60 x 400 x 150mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":757103},
