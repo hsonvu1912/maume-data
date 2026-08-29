@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/08/2026 15:43",
+  "lastUpdated": "29/08/2026 16:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -534,7 +534,13 @@
       {"Mã":"NOĐĨ12082604","Ngày bán":"29/08/2026","Sản phẩm":"No brand Starfish Dish (clear)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
       {"Mã":"SEBÌ05082600","Ngày bán":"29/08/2026","Sản phẩm":"Seletti Estetico Quotidiano Milk Jug","Giá nhập":161884,"Giá bán":320000,"Lãi":158116},
       {"Mã":"NOĐĨ12082608","Ngày bán":"29/08/2026","Sản phẩm":"No brand Starfish Dish (dark blue)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
-      {"Mã":"THGẤ14082600","Ngày bán":"29/08/2026","Sản phẩm":"The Simpsons Donut Plush Pillow","Giá nhập":67000,"Giá bán":150000,"Lãi":83000}
+      {"Mã":"THGẤ14082600","Ngày bán":"29/08/2026","Sản phẩm":"The Simpsons Donut Plush Pillow","Giá nhập":67000,"Giá bán":150000,"Lãi":83000},
+      {"Mã":"SEGƯ12082601","Ngày bán":"29/08/2026","Sản phẩm":"Seletti x Toiletpaper Spades Mirror","Giá nhập":301698,"Giá bán":600000,"Lãi":298302},
+      {"Mã":"NOĐĨ12082600","Ngày bán":"29/08/2026","Sản phẩm":"No brand Starfish Dish (hologram)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
+      {"Mã":"UMMÓ12082601","Ngày bán":"29/08/2026","Sản phẩm":"Umbra Buddy Wall Hooks (red,blue,yellow)","Giá nhập":336317,"Giá bán":500000,"Lãi":163683},
+      {"Mã":"VIKH12082600","Ngày bán":"29/08/2026","Sản phẩm":"Vitra Tool Box","Giá nhập":1175000,"Giá bán":1100000,"Lãi":-75000},
+      {"Mã":"THCỜ12082600","Ngày bán":"29/08/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style","Giá nhập":699224,"Giá bán":2000000,"Lãi":1300776},
+      {"Mã":"WIBỘ12082600","Ngày bán":"29/08/2026","Sản phẩm":"Wiggle Wiggle Reusable Party Cup Set","Giá nhập":346020,"Giá bán":550000,"Lãi":203980}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
