@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30/08/2026 14:05",
+  "lastUpdated": "30/08/2026 15:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -961,7 +961,8 @@
       {"Mã":"LC-6815-260826","Ngày về":"26/08/2026","Sản phẩm":"LC-6815-260826\npapier size L bản đời mới 2 ngăn phụ, cond used vừa phải, đáy dính bẩn nhẹ, mặt dưới quai sau trầy chút xíu. KT: 45 x 29 x 20\nGiá: 1.550.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":512001,"Giá bán":1550000},
       {"Mã":"LC-1666-260826","Ngày về":"26/08/2026","Sản phẩm":"LC-1666-260826\nnavy size L cond cứng cáp đẹp, quai sau trầy nhẹ xíu k đáng kể. KT: 45 x 30 x 19\nGiá: 1.850.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":916801,"Giá bán":1850000},
       {"Mã":"LC-9374-260826","Ngày về":"26/08/2026","Sản phẩm":"LC-9374-260826\nnavy size M cond tốt cứng cáp, mức độ used nhẹ vừa phải. KT: 37 x 24 x 15\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":626401,"Giá bán":1800000},
-      {"Mã":"LC-8470-260826","Ngày về":"26/08/2026","Sản phẩm":"LC-8470-260826\nmàu đen dòng energy size M phom unisex nam nữ đều mang được. cond rất tốt mức độ used nhẹ. KT: 44 x 27 x 20 vừa laptop\nGiá: 2.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":978001,"Giá bán":2000000}
+      {"Mã":"LC-8470-260826","Ngày về":"26/08/2026","Sản phẩm":"LC-8470-260826\nmàu đen dòng energy size M phom unisex nam nữ đều mang được. cond rất tốt mức độ used nhẹ. KT: 44 x 27 x 20 vừa laptop\nGiá: 2.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":978001,"Giá bán":2000000},
+      {"Mã":"LC-0250-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK"}
     ]
   }
 }
