@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30/08/2026 22:34",
+  "lastUpdated": "30/08/2026 23:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -982,6 +982,7 @@
       {"Mã":"LC-5760-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1724297},
       {"Mã":"LC-1117-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1165766},
       {"Mã":"LC-3963-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1728440},
+      {"Mã":"LC-8451-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":970778},
       {"Mã":"LC-6339-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":580302},
       {"Mã":"LC-0194-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1307993},
       {"Mã":"LC-0337-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":761836},
@@ -994,7 +995,8 @@
       {"Mã":"LC-7535-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1164347},
       {"Mã":"LC-8558-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":595956},
       {"Mã":"LC-3510-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1351614},
-      {"Mã":"LC-0023-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":969075}
+      {"Mã":"LC-0023-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":969075},
+      {"Mã":"LC-8157-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":777001}
     ]
   }
 }
