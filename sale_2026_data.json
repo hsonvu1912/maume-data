@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30/08/2026 10:43",
+  "lastUpdated": "30/08/2026 12:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -542,7 +542,8 @@
       {"Mã":"THCỜ12082600","Ngày bán":"29/08/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style","Giá nhập":699224,"Giá bán":2000000,"Lãi":1300776},
       {"Mã":"WIBỘ12082600","Ngày bán":"29/08/2026","Sản phẩm":"Wiggle Wiggle Reusable Party Cup Set","Giá nhập":346020,"Giá bán":550000,"Lãi":203980},
       {"Mã":"FLĐÈ14082600","Ngày bán":"29/08/2026","Sản phẩm":"Fluid Market Lamp Fleur","Giá nhập":233314,"Giá bán":650000,"Lãi":416686},
-      {"Mã":"BACỐ14082600","Ngày bán":"29/08/2026","Sản phẩm":"Bandai Spirits One Piece Gear 5 mug","Giá nhập":155341,"Giá bán":300000,"Lãi":144659}
+      {"Mã":"BACỐ14082600","Ngày bán":"29/08/2026","Sản phẩm":"Bandai Spirits One Piece Gear 5 mug","Giá nhập":155341,"Giá bán":300000,"Lãi":144659},
+      {"Mã":"NOĐĨ12082609","Ngày bán":"30/08/2026","Sản phẩm":"No brand Starfish Dish (teal)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
