@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30/08/2026 16:26",
+  "lastUpdated": "30/08/2026 17:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1690,9 +1690,9 @@
       {"Mã":"FLCỐ14082602","Ngày về":"14/08/2026","Sản phẩm":"Fluid Market Croisant Mug\n\nChất liệu: Ceramic\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 97 x 80 x 130mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":132499},
       {"Mã":"FLCỐ14082603","Ngày về":"14/08/2026","Sản phẩm":"Fluid Market Croisant Mug\n\nChất liệu: Ceramic\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 98 x 80 x 130mm\n\nGiá: 0","Tình trạng":"Hỏng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":132499},
       {"Mã":"NOBÌ14082605","Ngày về":"14/08/2026","Sản phẩm":"No brand Sunlit Sky Vase\n\nChất liệu: Thủy tinh\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 190 x 145mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":534316},
-      {"Mã":"26082600","Ngày về":"26/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1156200},
-      {"Mã":"26082600","Ngày về":"26/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1026000},
-      {"Mã":"26082600","Ngày về":"26/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":992000}
+      {"Mã":"26082600","Ngày về":"26/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1234413},
+      {"Mã":"26082600","Ngày về":"26/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1104213},
+      {"Mã":"26082600","Ngày về":"26/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1070213}
     ]
   }
 }
