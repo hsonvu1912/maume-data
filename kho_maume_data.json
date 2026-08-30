@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/08/2026 22:26",
+  "lastUpdated": "30/08/2026 12:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1657,7 +1657,7 @@
       {"Mã":"NOĐĨ12082606","Ngày về":"12/08/2026","Sản phẩm":"No brand Starfish Dish (clear)\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 170 x 80 x 30mm\n\nGiá: 90.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":51076,"Giá bán":90000},
       {"Mã":"NOĐĨ12082607","Ngày về":"12/08/2026","Sản phẩm":"No brand Starfish Dish (dark blue)\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 170 x 80 x 30mm\n\nGiá: 90.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":51076,"Giá bán":90000},
       {"Mã":"NOĐĨ12082608","Ngày về":"12/08/2026","Sản phẩm":"No brand Starfish Dish (dark blue)\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 170 x 80 x 30mm\n\nGiá: 90.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":51076,"Giá bán":90000},
-      {"Mã":"NOĐĨ12082609","Ngày về":"12/08/2026","Sản phẩm":"No brand Starfish Dish (teal)\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 170 x 80 x 30mm\n\nGiá: 90.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":51076,"Giá bán":90000},
+      {"Mã":"NOĐĨ12082609","Ngày về":"12/08/2026","Sản phẩm":"No brand Starfish Dish (teal)\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 170 x 80 x 30mm\n\nGiá: 90.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":51076,"Giá bán":90000},
       {"Mã":"NOĐĨ12082610","Ngày về":"12/08/2026","Sản phẩm":"No brand Starfish Dish (teal)\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 170 x 80 x 30mm\n\nGiá: 90.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":51076,"Giá bán":90000},
       {"Mã":"PYDA14082600","Ngày về":"14/08/2026","Sản phẩm":"Pylones Cheese Knife\n\nChất liệu: Kim loại\n\nPhân Loại: Dao\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 190 x 30mm\n\nGiá: 400.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":282716,"Giá bán":400000},
       {"Mã":"THGẤ14082600","Ngày về":"14/08/2026","Sản phẩm":"The Simpsons Donut Plush Pillow\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh\n\nKích thước: 200mm\n\nGiá: 150.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":67000,"Giá bán":150000},
