@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/09/2026 18:04",
+  "lastUpdated": "01/09/2026 20:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -984,7 +984,7 @@
       {"Mã":"LC-3963-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1728440},
       {"Mã":"LC-8451-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-8451-280826\npapier size M bản đời mới 2 ngăn phụ cond tốt, qua sdung vừa phải, tổng quan ko có lỗi nào lớn. 1 bên tai của miệng túi hơi xúc nhỉ nhẹ, vẫn dùng bt ko ảnh hưởng gì ạ KT 40 x 26 x 16\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":970778,"Giá bán":1500000},
       {"Mã":"LC-6339-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":580302},
-      {"Mã":"LC-0194-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-0194-280826\nmini pouch original màu đen, cond rất mới chủ yếu qua lưu trữ. còn sổ. mua nguyên bản từ store ko đi kèm phụ kiện ạ, khách mua bên ngoài nha ở IG e có gắn linkkk\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1307993,"Giá bán":1900000},
+      {"Mã":"LC-0194-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-0194-280826\nmini pouch original màu đen, cond rất mới chủ yếu qua lưu trữ. còn sổ. mua nguyên bản từ store ko đi kèm phụ kiện ạ, khách mua bên ngoài nha ở IG e có gắn linkkk\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1307993,"Giá bán":1900000},
       {"Mã":"LC-0337-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":761836},
       {"Mã":"LC-2924-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":982291},
       {"Mã":"LC-6432-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-6432-280826\ngunmetal size L cond tốt cứng cáp, mặt trước vải hơi xù xì nhưng nhìn khó thấy lắm. đáy bẩn nhẹ giặt là hết, bề măt vải còn lại sạch sẽ ạ. túi used vừa phải KT 45 x 29 x20\nGiá: 1.400.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":982291,"Giá bán":1400000},
