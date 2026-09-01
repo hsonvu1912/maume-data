@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31/08/2026 15:55",
+  "lastUpdated": "02/09/2026 00:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1575,7 +1575,7 @@
       {"Mã":"FCỐ22072603","Ngày về":"22/07/2026","Sản phẩm":"Ferm Living Floccula Wine Glass\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 91 x 125mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":238759,"Giá bán":600000},
       {"Mã":"DOÔ22072600","Ngày về":"22/07/2026","Sản phẩm":"Doiy Fish Umbrella\n\nChất liệu: Vải, kim loại\n\nPhân Loại: Ô\n\nTình trạng: Như ảnh\n\nKích thước: 980 x 980 x 620mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":219008,"Giá bán":600000},
       {"Mã":"SEBÌ22072600","Ngày về":"22/07/2026","Sản phẩm":"Serax Pique-Fleurs Vase by Antoine Vandewoude - L\n\nChất liệu: Gốm men đá (Stoneware)\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 130 x 130 x 140mm\n\nGiá: 900.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":579540,"Giá bán":900000},
-      {"Mã":"SEBÌ22072601","Ngày về":"22/07/2026","Sản phẩm":"Serax Pique-Fleurs Vase by Antoine Vandewoude - XL\n\nChất liệu: Gốm men đá (Stoneware)\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 140 x 130 x 210mm\n\nGiá: 1.900.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":579540,"Giá bán":1900000},
+      {"Mã":"SEBÌ22072601","Ngày về":"22/07/2026","Sản phẩm":"Serax Pique-Fleurs Vase by Antoine Vandewoude - XL\n\nChất liệu: Gốm men đá (Stoneware)\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 140 x 130 x 210mm\n\nGiá: 1.600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":579540,"Giá bán":1600000},
       {"Mã":"LACỜ29072600","Ngày về":"29/07/2026","Sản phẩm":"La Prairie Chess Set\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 440 x 100 x 75mm\n\nGiá: 2.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1037353,"Giá bán":2500000},
       {"Mã":"COMÓ29072600","Ngày về":"29/07/2026","Sản phẩm":"Cocacola Watch Keychain\n\nChất liệu: Kim loại\n\nPhân Loại: Móc Khóa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 20 x 10 x 70mm\n\nGiá: 400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":254856,"Giá bán":400000},
       {"Mã":"FRĐỒ29072600","Ngày về":"29/07/2026","Sản phẩm":"Friends The Television Series Moulded Clock\n\nChất liệu: Gỗ\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\nKim nhảy\n\nKích thước: 250 x 200 x 40mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":344826,"Giá bán":1500000},
