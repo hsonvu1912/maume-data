@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/09/2026 22:04",
+  "lastUpdated": "02/09/2026 21:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -751,8 +751,8 @@
       {"Mã":"LC-0418-210726","Ngày về":"21/07/2026","Sản phẩm":"LC-0418-210726\nolive size L màu siêu hot của hãng được restock hết lần này tới lần khác. độ mới like new khỏi bàn cãi, đẹp cứng cáp còn sổ. KT: 45 x 30 x 19\nGiá: 2.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1339000,"Giá bán":2000000},
       {"Mã":"LC-8248-210726","Ngày về":"21/07/2026","Sản phẩm":"LC-8248-210726\nmini pouch màu paper cond tốt chủ yếu qua lưu trữ, ít qua sử dụng. phần viền đen ở 2 bên tai túi là chủ cũ có dặm lại ạ. đã có sẵn dây đeo chéo\nGiá: 2.150.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":2045100,"Giá bán":2150000},
       {"Mã":"LC-7296-210726","Ngày về":"21/07/2026","Sản phẩm":"LC-7296-210726\nmini pouch màu acier rất đc săn đón ở thị trường secondhand. cond tốt chủ yếu qua lưu trữ. không kèm phụ kiện (nguyên bản hãng cũng chỉ bán pouch thế này thôi ạ)\nGiá: 2.300.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":2045100,"Giá bán":2300000},
-      {"Mã":"TH-0307-030726","Ngày về":"03/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":395932},
-      {"Mã":"TH-0307-030726-00","Ngày về":"03/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":377325},
+      {"Mã":"TH-0307-030726","Ngày về":"03/07/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":395932,"Giá bán":950000},
+      {"Mã":"TH-0307-030726-00","Ngày về":"03/07/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":377325,"Giá bán":950000},
       {"Mã":"LC-9736-070826","Ngày về":"07/08/2026","Sản phẩm":"LC-9736-070826\nmini pouch màu papier, cond rất tốt chủ yếu qua lưu trữ, có sẵn kit dây chéo\nGiá: 2.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":971565,"Giá bán":2100000},
       {"Mã":"LC-0807-01-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-0807-01-080726\nmarine/navy size L bản đời mới 2 ngăn phụ, độ mới like new chủ yếu qua lưu trữ. KT 46 x 30 x 19\nGiá: 2.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1481965,"Giá bán":2400000},
       {"Mã":"LC-6237-080726","Ngày về":"08/07/2026","Sản phẩm":"LC-6237-080726\ntúi cói đời mới của hãng, màu hồng pastel xinh xiuruuu, độ mới cao chủ yếu qua lưu trữ. note dùm em dây chéo kia là design nguyên bản của hãng chứ kh phải em tự phối màu nha:)) KT 19 x 13  x8 size mini cưng lắm.\nGiá: 2.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1987085,"Giá bán":2500000},
