@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/09/2026 14:13",
+  "lastUpdated": "03/09/2026 18:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -551,7 +551,10 @@
     "SALE_MauMe_2026-09": [
       {"Mã":"NOĐĨ12082610","Ngày bán":"03/09/2026","Sản phẩm":"No brand Starfish Dish (teal)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
       {"Mã":"NOĐĨ12082603","Ngày bán":"03/09/2026","Sản phẩm":"No brand Starfish Dish (blue)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
-      {"Mã":"NOĐĨ12082601","Ngày bán":"03/09/2026","Sản phẩm":"No brand Starfish Dish (hologram)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924}
+      {"Mã":"NOĐĨ12082601","Ngày bán":"03/09/2026","Sản phẩm":"No brand Starfish Dish (hologram)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
+      {"Mã":"DOBÁ06032600","Ngày bán":"03/09/2026","Sản phẩm":"Doiy Eclipse","Giá nhập":386440,"Giá bán":468000,"Lãi":81560},
+      {"Mã":"SEBÌ22072600","Ngày bán":"03/09/2026","Sản phẩm":"Serax Pique-Fleurs Vase by Antoine Vandewoude - L","Giá nhập":579540,"Giá bán":900000,"Lãi":320460},
+      {"Mã":"NOBÌ14082604","Ngày bán":"03/09/2026","Sản phẩm":"No brand Sofia Glass Vase","Giá nhập":422643,"Giá bán":800000,"Lãi":377357}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
