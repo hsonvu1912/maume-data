@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/09/2026 16:13",
+  "lastUpdated": "04/09/2026 23:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -544,7 +544,6 @@
       {"Mã":"FLĐÈ14082600","Ngày bán":"29/08/2026","Sản phẩm":"Fluid Market Lamp Fleur","Giá nhập":233314,"Giá bán":650000,"Lãi":416686},
       {"Mã":"BACỐ14082600","Ngày bán":"29/08/2026","Sản phẩm":"Bandai Spirits One Piece Gear 5 mug","Giá nhập":155341,"Giá bán":300000,"Lãi":144659},
       {"Mã":"NOĐĨ12082609","Ngày bán":"30/08/2026","Sản phẩm":"No brand Starfish Dish (teal)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
-      {"Mã":"NOĐĨ12082605","Ngày bán":"30/08/2026","Sản phẩm":"No brand Starfish Dish (clear)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
       {"Mã":"ROBÌ14082601","Ngày bán":"31/08/2026","Sản phẩm":"Rosenthal Tütenvase","Giá nhập":379759,"Giá bán":900000,"Lãi":520241},
       {"Mã":"ROBÌ14082602","Ngày bán":"31/08/2026","Sản phẩm":"Rosenthal Tütenvase","Giá nhập":379759,"Giá bán":900000,"Lãi":520241}
     ],
@@ -555,7 +554,9 @@
       {"Mã":"DOBÁ06032600","Ngày bán":"03/09/2026","Sản phẩm":"Doiy Eclipse","Giá nhập":386440,"Giá bán":468000,"Lãi":81560},
       {"Mã":"SEBÌ22072600","Ngày bán":"03/09/2026","Sản phẩm":"Serax Pique-Fleurs Vase by Antoine Vandewoude - L","Giá nhập":579540,"Giá bán":900000,"Lãi":320460},
       {"Mã":"NOBÌ14082604","Ngày bán":"03/09/2026","Sản phẩm":"No brand Sofia Glass Vase","Giá nhập":422643,"Giá bán":800000,"Lãi":377357},
-      {"Mã":"LENA27052601","Ngày bán":"04/09/2026","Sản phẩm":"Lego Magnet Set - Yellow","Giá nhập":150422,"Giá bán":250000,"Lãi":99578}
+      {"Mã":"LENA27052601","Ngày bán":"04/09/2026","Sản phẩm":"Lego Magnet Set - Yellow","Giá nhập":150422,"Giá bán":250000,"Lãi":99578},
+      {"Mã":"IMKH05082603","Ngày bán":"04/09/2026","Sản phẩm":"IMM Living Swallow Head Ring Holder","Giá nhập":1,"Giá bán":350000,"Lãi":349999},
+      {"Mã":"NOĐĨ12082605","Ngày bán":"04/09/2026","Sản phẩm":"No brand Starfish Dish (clear)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
