@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/09/2026 14:25",
+  "lastUpdated": "04/09/2026 14:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1700,10 +1700,10 @@
       {"Mã":"PAĐĨ27082600","Ngày về":"27/08/2026","Sản phẩm":"Passe vasee Flower Plate (green)\n\nChất liệu: Stoneware\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 190 x 120mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":226465},
       {"Mã":"PAĐĨ27082601","Ngày về":"27/08/2026","Sản phẩm":"Passe vasee Croissant Plate (orange)\n\nChất liệu: Stoneware\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 190 x 120mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":226465},
       {"Mã":"IKCH27082600","Ngày về":"27/08/2026","Sản phẩm":"Ikea Candle Holder\n\nChất liệu: Nhôm\n\nPhân Loại: Chân nến\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 140 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":432863},
-      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":667047},
+      {"Mã":"BYBÌ27082600","Ngày về":"27/08/2026","Sản phẩm":"Byon Vase Crumble blue\n\nChất liệu: Sứ\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 235 x 170 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":667047},
       {"Mã":"ALVẮ27082600","Ngày về":"27/08/2026","Sản phẩm":"Alessi Juicy Salif\n\nChất liệu: Nhôm\n\nPhân Loại: Vắt cam\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 290 x 140mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1652095},
-      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":612476},
-      {"Mã":"THLÓ27082600","Ngày về":"27/08/2026","Sản phẩm":"The Simpsons \n\nChất liệu: \n\nPhân Loại: Lót cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 140 x 140 x 66mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":101564},
+      {"Mã":"IKBẢ27082600","Ngày về":"27/08/2026","Sản phẩm":"Ikea SORHASSEL\n\nChất liệu: Kim loại, kính\n\nPhân Loại: Bảng ghi nhớ kèm gương và nam châm\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 300 x 730 x 10mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":612476},
+      {"Mã":"THLÓ27082600","Ngày về":"27/08/2026","Sản phẩm":"The Simpsons Donut Coasters by Matt Groening\n\nChất liệu: Gỗ\n\nPhân Loại: Lót cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 140 x 140 x 66mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":101564},
       {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":230056},
       {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":475857},
       {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":578438},
