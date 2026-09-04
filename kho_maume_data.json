@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/09/2026 12:26",
+  "lastUpdated": "04/09/2026 12:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1693,7 +1693,28 @@
       {"Mã":"26082600","Ngày về":"26/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1234413},
       {"Mã":"26082600","Ngày về":"26/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1104213},
       {"Mã":"26082600","Ngày về":"26/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1070213},
-      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":2986861}
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":2986861},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":89556},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":89556},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":366100},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":226465},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":226465},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":226465},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":226465},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":432863},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":667047},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1652095},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":612476},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":101564},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":230056},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":475857},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":578438},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"27082600","Ngày về":"27/08/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hỏng","Trạng thái đăng bài":"Chưa đăng"}
     ]
   }
 }
