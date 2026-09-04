@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/09/2026 14:34",
+  "lastUpdated": "04/09/2026 14:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1003,6 +1003,9 @@
       {"Mã":"LC-8384-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-8384-280826\nđen size L bản đời mới 2 ngưn phụ, túi cond tốt qua sdung nhẹ ko có lỗi nào lớn. KT 45 x 30 x 19\nGiá: 2.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1245838,"Giá bán":2100000},
       {"Mã":"LC-8157-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-8157-280826\ngunmetal size M túi used cond có các lỗi như ảnh, tổng quan bên ngoài vẫn tốt cứng cáp ajaaa. KT: 36 x 23 x 16\nGiá: 1.200.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":777001,"Giá bán":1200000},
       {"Mã":"LC-6178-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-6178-280826\nđen size L bản đời mới 2 ngăn phụ. túi qua sử dụng có các lỗi như ảnh, chủ yếu ở đáy như sần, trầy vải nhẹ, thủng lỗ nhỏ xíu xiu, khách iu xem ảnh e đã chụp đầy đủ nha. KT: 45 x 29 x 20\nGiá: 1.370.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":970043,"Giá bán":1370000}
+    ],
+    "Tháng 9": [
+      {"Mã":"LCC-4368-050926","Ngày về":"05/09/2026","Tình trạng":"Chưa về","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1762800}
     ]
   }
 }
