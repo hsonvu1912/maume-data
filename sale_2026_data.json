@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/09/2026 09:13",
+  "lastUpdated": "05/09/2026 10:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -558,7 +558,8 @@
       {"Mã":"IMKH05082603","Ngày bán":"04/09/2026","Sản phẩm":"IMM Living Swallow Head Ring Holder","Giá nhập":1,"Giá bán":350000,"Lãi":349999},
       {"Mã":"NOĐĨ12082605","Ngày bán":"04/09/2026","Sản phẩm":"No brand Starfish Dish (clear)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
       {"Mã":"SMTH05082601","Ngày bán":"05/09/2026","Sản phẩm":"Smiley Round Mat","Giá nhập":264264,"Giá bán":700000,"Lãi":435736},
-      {"Mã":"UMMÓ12082600","Ngày bán":"05/09/2026","Sản phẩm":"Umbra Buddy Wall Hooks (white)","Giá nhập":336317,"Giá bán":600000,"Lãi":263683}
+      {"Mã":"UMMÓ12082600","Ngày bán":"05/09/2026","Sản phẩm":"Umbra Buddy Wall Hooks (white)","Giá nhập":336317,"Giá bán":600000,"Lãi":263683},
+      {"Mã":"SETH12082601","Ngày bán":"05/09/2026","Sản phẩm":"Seletti x Toiletpaper Mat Lipstick Black","Giá nhập":296104,"Giá bán":700000,"Lãi":403896}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
