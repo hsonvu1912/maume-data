@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/09/2026 11:43",
+  "lastUpdated": "05/09/2026 23:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -559,7 +559,13 @@
       {"Mã":"NOĐĨ12082605","Ngày bán":"04/09/2026","Sản phẩm":"No brand Starfish Dish (clear)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
       {"Mã":"SMTH05082601","Ngày bán":"05/09/2026","Sản phẩm":"Smiley Round Mat","Giá nhập":264264,"Giá bán":700000,"Lãi":435736},
       {"Mã":"UMMÓ12082600","Ngày bán":"05/09/2026","Sản phẩm":"Umbra Buddy Wall Hooks (white)","Giá nhập":336317,"Giá bán":600000,"Lãi":263683},
-      {"Mã":"SETH12082601","Ngày bán":"05/09/2026","Sản phẩm":"Seletti x Toiletpaper Mat Lipstick Black","Giá nhập":296104,"Giá bán":700000,"Lãi":403896}
+      {"Mã":"SETH12082601","Ngày bán":"05/09/2026","Sản phẩm":"Seletti x Toiletpaper Mat Lipstick Black","Giá nhập":296104,"Giá bán":700000,"Lãi":403896},
+      {"Mã":"PAĐĨ27082601","Ngày bán":"05/09/2026","Sản phẩm":"Passé-Vaseé Croissant Plate (orange)","Giá nhập":198704,"Giá bán":250000,"Lãi":51296},
+      {"Mã":"PAĐĨ27082600","Ngày bán":"05/09/2026","Sản phẩm":"Passé-Vaseé Flower Plate (green)","Giá nhập":198704,"Giá bán":250000,"Lãi":51296},
+      {"Mã":"DOLỌ27082600","Ngày bán":"05/09/2026","Sản phẩm":"Donkey Salt & pepper shakers - Banana Romance","Giá nhập":89556,"Giá bán":190000,"Lãi":100444},
+      {"Mã":"SEHỘ05082600","Ngày bán":"05/09/2026","Sản phẩm":"Seletti Estetico Quotidiano The Can","Giá nhập":161884,"Giá bán":320000,"Lãi":158116},
+      {"Mã":"DOLỌ27082601","Ngày bán":"05/09/2026","Sản phẩm":"Donkey Salt & pepper shakers - Banana Romance","Giá nhập":89556,"Giá bán":190000,"Lãi":100444},
+      {"Mã":"IKĐÈ27082600","Ngày bán":"05/09/2026","Sản phẩm":"Ikea MORKER Blue Desk Lamp","Giá nhập":435522,"Giá bán":800000,"Lãi":364478}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
