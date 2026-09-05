@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/09/2026 01:04",
+  "lastUpdated": "05/09/2026 11:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -991,7 +991,7 @@
       {"Mã":"LC-3447-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":828486},
       {"Mã":"LC-7821-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-7821-280826\nebony size L banr đời mới 2 ngăn phụ. cond rất tốt, qua sử dụng và lưu trữ thì dính vài vết bẩn chủ yếu ở mặt sau. KT: 46 x 30 x19\nGiá: 2.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1749120,"Giá bán":2700000},
       {"Mã":"LC-2992-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-2992-280826\nbalo màu ivory cond đẹp ít qua sử dụng ạ trắng trẻo sạch sẽ. KT 20 x 30 x 10 vừa laptop 13\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":980093,"Giá bán":1500000},
-      {"Mã":"LC-2808-280826-00","Ngày về":"28/08/2026","Sản phẩm":"LC-2808-280826-00\nbalo đen cond tốt, qua sdung nhẹ>vừa phải. có 1 vết sờn vải nhỏ nhìn bên ngoài ko thấy, để ý kỹ mới thấy. 20x30x10 vừa laptop 13\nGiá: 1.400.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":982291,"Giá bán":1400000},
+      {"Mã":"LC-2808-280826-00","Ngày về":"28/08/2026","Sản phẩm":"LC-2808-280826-00\nbalo đen cond tốt, qua sdung nhẹ>vừa phải. có 1 vết sờn vải nhỏ nhìn bên ngoài ko thấy, để ý kỹ mới thấy. 20x30x10 vừa laptop 13\nGiá: 1.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":982291,"Giá bán":1400000},
       {"Mã":"LC-7190-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-7190-280826\nđen size M bản đời mới 2 ngăn phụ. cond tốt, qua sử dụng nhẹ, 1 vài lỗi nhỏ nhỏ qua sử dụng ko đáng kể (chấm bẩn,...) KT: 39 x 26 x 16\nGiá: 2.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1364607,"Giá bán":2500000},
       {"Mã":"LC-7535-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-7535-280826\nebony size S quai ngắn túi cond tốt chủ yếu qua lưu trữ, 1 vài lỗi qua sử dụng nhỏ ko đáng kể. KT 30 x 20 x 14\nGiá: 1.450.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1164347,"Giá bán":1450000},
       {"Mã":"LC-8558-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":595956},
