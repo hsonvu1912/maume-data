@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/09/2026 23:43",
+  "lastUpdated": "06/09/2026 00:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -565,7 +565,11 @@
       {"Mã":"DOLỌ27082600","Ngày bán":"05/09/2026","Sản phẩm":"Donkey Salt & pepper shakers - Banana Romance","Giá nhập":89556,"Giá bán":190000,"Lãi":100444},
       {"Mã":"SEHỘ05082600","Ngày bán":"05/09/2026","Sản phẩm":"Seletti Estetico Quotidiano The Can","Giá nhập":161884,"Giá bán":320000,"Lãi":158116},
       {"Mã":"DOLỌ27082601","Ngày bán":"05/09/2026","Sản phẩm":"Donkey Salt & pepper shakers - Banana Romance","Giá nhập":89556,"Giá bán":190000,"Lãi":100444},
-      {"Mã":"IKĐÈ27082600","Ngày bán":"05/09/2026","Sản phẩm":"Ikea MORKER Blue Desk Lamp","Giá nhập":435522,"Giá bán":800000,"Lãi":364478}
+      {"Mã":"IKĐÈ27082600","Ngày bán":"05/09/2026","Sản phẩm":"Ikea MORKER Blue Desk Lamp","Giá nhập":435522,"Giá bán":800000,"Lãi":364478},
+      {"Mã":"IKBẢ27082600","Ngày bán":"05/09/2026","Sản phẩm":"Ikea SORHASSEL","Giá nhập":612476,"Giá bán":950000,"Lãi":337524},
+      {"Mã":"IKĐÈ27082603","Ngày bán":"05/09/2026","Sản phẩm":"Ikea STRANDAD","Giá nhập":374796,"Giá bán":600000,"Lãi":225204},
+      {"Mã":"PEHỘ27082600","Ngày bán":"05/09/2026","Sản phẩm":"Penco Brown Bag Stand (có thể làm bình hoa)","Giá nhập":366100,"Giá bán":690000,"Lãi":323900},
+      {"Mã":"FLCỐ14082600","Ngày bán":"05/09/2026","Sản phẩm":"Fluid Market Croisant Mug","Giá nhập":132499,"Giá bán":450000,"Lãi":317501}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
