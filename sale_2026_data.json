@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/09/2026 01:13",
+  "lastUpdated": "05/09/2026 09:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -556,7 +556,9 @@
       {"Mã":"NOBÌ14082604","Ngày bán":"03/09/2026","Sản phẩm":"No brand Sofia Glass Vase","Giá nhập":422643,"Giá bán":800000,"Lãi":377357},
       {"Mã":"LENA27052601","Ngày bán":"04/09/2026","Sản phẩm":"Lego Magnet Set - Yellow","Giá nhập":150422,"Giá bán":250000,"Lãi":99578},
       {"Mã":"IMKH05082603","Ngày bán":"04/09/2026","Sản phẩm":"IMM Living Swallow Head Ring Holder","Giá nhập":1,"Giá bán":350000,"Lãi":349999},
-      {"Mã":"NOĐĨ12082605","Ngày bán":"04/09/2026","Sản phẩm":"No brand Starfish Dish (clear)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924}
+      {"Mã":"NOĐĨ12082605","Ngày bán":"04/09/2026","Sản phẩm":"No brand Starfish Dish (clear)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
+      {"Mã":"SMTH05082601","Ngày bán":"05/09/2026","Sản phẩm":"Smiley Round Mat","Giá nhập":264264,"Giá bán":700000,"Lãi":435736},
+      {"Mã":"UMMÓ12082600","Ngày bán":"05/09/2026","Sản phẩm":"Umbra Buddy Wall Hooks (white)","Giá nhập":336317,"Giá bán":600000,"Lãi":263683}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
