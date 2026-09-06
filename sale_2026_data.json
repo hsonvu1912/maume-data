@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/09/2026 16:43",
+  "lastUpdated": "06/09/2026 17:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -570,7 +570,6 @@
       {"Mã":"IKĐÈ27082603","Ngày bán":"05/09/2026","Sản phẩm":"Ikea STRANDAD","Giá nhập":374796,"Giá bán":600000,"Lãi":225204},
       {"Mã":"PEHỘ27082600","Ngày bán":"05/09/2026","Sản phẩm":"Penco Brown Bag Stand (có thể làm bình hoa)","Giá nhập":366100,"Giá bán":690000,"Lãi":323900},
       {"Mã":"FLCỐ14082600","Ngày bán":"05/09/2026","Sản phẩm":"Fluid Market Croisant Mug","Giá nhập":132499,"Giá bán":450000,"Lãi":317501},
-      {"Mã":"AL27082600","Ngày bán":"06/09/2026","Sản phẩm":"Alessi Juicy Salif","Giá nhập":1652095,"Giá bán":2500000,"Lãi":847905},
       {"Mã":"THCỜ27082600","Ngày bán":"06/09/2026","Sản phẩm":"The Op Games x Adult Swim Rick and Morty Collector's Chess Set","Giá nhập":1590806,"Giá bán":3500000,"Lãi":1909194},
       {"Mã":"THCỜ27082601","Ngày bán":"06/09/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style","Giá nhập":1410735,"Giá bán":2100000,"Lãi":689265}
     ],
