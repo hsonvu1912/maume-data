@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/09/2026 11:34",
+  "lastUpdated": "06/09/2026 15:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -988,7 +988,7 @@
       {"Mã":"LC-0337-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-0337-280826\nđen size L dòng neo, túi used nên tổng quan phần vải và ở đáy là sẽ có các vết trầy sờn nnha, vì là màu đen nên lên ảnh ko rõ, nhưng cũng đồng nghĩa bên ngoài khó thấy nên các bà cứ chốt vô tư. 45x28x20\nGiá: 1.380.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":761836,"Giá bán":1380000},
       {"Mã":"LC-2924-280826","Ngày về":"28/08/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":982291},
       {"Mã":"LC-6432-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-6432-280826\ngunmetal size L cond tốt cứng cáp, mặt trước vải hơi xù xì nhưng nhìn khó thấy lắm. đáy bẩn nhẹ giặt là hết, bề măt vải còn lại sạch sẽ ạ. túi used vừa phải KT 45 x 29 x20\nGiá: 1.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":982291,"Giá bán":1400000},
-      {"Mã":"LC-3447-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-3447-280826\nbalo màu xanh cond tốt, mức độ used nhẹ tổng quan rất cứng cáp. vừa laptop13\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":828486,"Giá bán":1500000},
+      {"Mã":"LC-3447-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-3447-280826\nbalo màu xanh cond tốt, mức độ used nhẹ tổng quan rất cứng cáp. vừa laptop13\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":828486,"Giá bán":1500000},
       {"Mã":"LC-7821-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-7821-280826\nebony size L banr đời mới 2 ngăn phụ. cond rất tốt, qua sử dụng và lưu trữ thì dính vài vết bẩn chủ yếu ở mặt sau. KT: 46 x 30 x19\nGiá: 2.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1749120,"Giá bán":2700000},
       {"Mã":"LC-2992-280826","Ngày về":"28/08/2026","Sản phẩm":"LC-2992-280826\nbalo màu ivory cond đẹp ít qua sử dụng ạ trắng trẻo sạch sẽ. KT 20 x 30 x 10 vừa laptop 13\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":980093,"Giá bán":1500000},
       {"Mã":"LC-2808-280826-00","Ngày về":"28/08/2026","Sản phẩm":"LC-2808-280826-00\nbalo đen cond tốt, qua sdung nhẹ>vừa phải. có 1 vết sờn vải nhỏ nhìn bên ngoài ko thấy, để ý kỹ mới thấy. 20x30x10 vừa laptop 13\nGiá: 1.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":982291,"Giá bán":1400000},
