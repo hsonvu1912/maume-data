@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/09/2026 13:13",
+  "lastUpdated": "07/09/2026 13:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -573,7 +573,9 @@
       {"Mã":"THCỜ27082600","Ngày bán":"06/09/2026","Sản phẩm":"The Op Games x Adult Swim Rick and Morty Collector's Chess Set","Giá nhập":1590806,"Giá bán":3500000,"Lãi":1909194},
       {"Mã":"THCỜ27082601","Ngày bán":"06/09/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style","Giá nhập":1410735,"Giá bán":2100000,"Lãi":689265},
       {"Mã":"LEĐÈ16062600","Ngày bán":"07/09/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model","Giá nhập":173150,"Giá bán":800000,"Lãi":626850},
-      {"Mã":"VICỐ230200","Ngày bán":"07/09/2026","Sản phẩm":"Vivienne Westwood Orb Knuckle Duster Mug","Giá nhập":726141,"Giá bán":2000000,"Lãi":1273859}
+      {"Mã":"VICỐ230200","Ngày bán":"07/09/2026","Sản phẩm":"Vivienne Westwood Orb Knuckle Duster Mug","Giá nhập":726141,"Giá bán":2000000,"Lãi":1273859},
+      {"Mã":"HOĐỒ14082600","Ngày bán":"07/09/2026","Sản phẩm":"Hoptimist French Bulldog","Giá nhập":250876,"Giá bán":390000,"Lãi":139124},
+      {"Mã":"BYBÌ27082600","Ngày bán":"07/09/2026","Sản phẩm":"Byon Vase Crumble blue","Giá nhập":667047,"Giá bán":1500000,"Lãi":832953}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
