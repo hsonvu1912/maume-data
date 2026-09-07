@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/09/2026 15:25",
+  "lastUpdated": "07/09/2026 15:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1735,10 +1735,11 @@
       {"Mã":"THCỜ04092600","Ngày về":"04/09/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 370 x 280mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1226900},
       {"Mã":"THCỜ04092601","Ngày về":"04/09/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 370 x 280mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1358226},
       {"Mã":"MEĐỒ04092600","Ngày về":"04/09/2026","Sản phẩm":"Melissa & Doug Fill & Top Donut Play Set\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh\n\nKích thước: 120 x 110 x 30mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":133430},
-      {"Mã":"PYDA05092600","Ngày về":"05/09/2026","Sản phẩm":"Pylones Roulette à pizza Match'O\n\nChất liệu: Nhựa ABS, kim loại\n\nPhân Loại: Dao\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Người: 190 x 50mm\nDao: 70 x 70mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"PY05092600","Ngày về":"05/09/2026","Sản phẩm":"Pylones \n\nChất liệu: Nhựa ABS, kim loại\n\nPhân Loại: \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"IK05092600","Ngày về":"05/09/2026","Sản phẩm":"Ikea \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"IK05092600","Ngày về":"05/09/2026","Sản phẩm":"Ikea \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"}
+      {"Mã":"PYDA05092600","Ngày về":"05/09/2026","Sản phẩm":"Pylones Roulette à pizza Match'O\n\nChất liệu: Nhựa ABS, kim loại\n\nPhân Loại: Dao\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Người: 190 x 50mm\nDao: 70 x 70mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":501961},
+      {"Mã":"PYBỘ05092600","Ngày về":"05/09/2026","Sản phẩm":"Pylones Quelle Salade\n\nChất liệu: Nhựa ABS, kim loại\n\nPhân Loại: Bộ dụng cụ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 330 x 55mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":501961},
+      {"Mã":"IKMÓ05092600","Ngày về":"05/09/2026","Sản phẩm":"Ikea Sigge Snagg\n\nChất liệu: Gỗ\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 95 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":343272},
+      {"Mã":"IKMÓ05092601","Ngày về":"05/09/2026","Sản phẩm":"Ikea Sigge Snagg\n\nChất liệu: Gỗ\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 151 x 95 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":343272},
+      {"Mã":"IKĐÈ05092600","Ngày về":"05/09/2026","Sản phẩm":"Ikea OBELY\n\nChất liệu: Thép, mạ Niken, phủ Acrylic\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, bao gồm bóng GU10\n\nKích thước: 580 x \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":727051}
     ]
   }
 }
