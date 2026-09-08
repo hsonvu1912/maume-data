@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08/09/2026 13:07",
+  "lastUpdated": "08/09/2026 20:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1010,7 +1010,7 @@
       {"Mã":"LC-2774-050926","Ngày về":"05/09/2026","Sản phẩm":"LC-2774-050926\nđen size L bản đời cũ nên tag còn ít thông tin ạ. condition chưa qua sử dụng chỉ qua lưu trữ\nGiá: 2.700.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":2113600,"Giá bán":2700000},
       {"Mã":"LC-4503-050926","Ngày về":"05/09/2026","Sản phẩm":"LC-4503-050926\nmàu hồng da dòng le roseau size M, dòng này da thật - 1 trong những dòng đắt tiền nhất của hãng. giá new cỡ 1x. chiếc này màu vừa đẹp hiếm mà cond lại tốt. dấu vết qua sử dụng cực kỳ ít. KT 44 x 25 x 12 (khi chưa đóng 2 bên nút bấm)\nGiá: 3.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":2522400,"Giá bán":3500000},
       {"Mã":"LC-7296-050926","Ngày về":"05/09/2026","Sản phẩm":"LC-7296-050926\nchiếc này em not sure lg tại hình như là mấy dòng sx đờii đầu của dòng này. với lại cũng có độ used rồi nên coi như chỉ bán vui vui cho chị em thay đổi style. có sẵn dây đeo chéo như ảnh\nGiá: 800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1067280,"Giá bán":800000},
-      {"Mã":"LC-0671-050926","Ngày về":"05/09/2026","Sản phẩm":"LC-0671-050926\nxanh olive size M cond tốt chủ yếu qua lưu trữ ạ. mức độ qua sử dụng ít. 38 x 24 x 15\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1462400,"Giá bán":1950000},
+      {"Mã":"LC-0671-050926","Ngày về":"05/09/2026","Sản phẩm":"LC-0671-050926\nxanh olive size M cond tốt chủ yếu qua lưu trữ ạ. mức độ qua sử dụng ít. 38 x 24 x 15\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1462400,"Giá bán":1950000},
       {"Mã":"LC-6109-050926","Ngày về":"05/09/2026","Sản phẩm":"LC-6109-050926\nđen dòng green size L cond rất tốt chủ yếu qua lưu trữ ít qua sử dụng ạ. KT 46 x 30 x 20\nGiá: 2.650.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1673600,"Giá bán":2650000},
       {"Mã":"LC-2818-050926","Ngày về":"05/09/2026","Sản phẩm":"LC-2818-050926\nđen size L dòng club, cond đẹp cứng cáp ít qua sử dụng. KT 45 x 30 x 20\nGiá: 2.200.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1653888,"Giá bán":2200000},
       {"Mã":"LS-0409-040926","Ngày về":"04/09/2026","Sản phẩm":"LS-0409-040926\nlacoste dòng anna reversible đeo dc 2 mặt, túi có qua sử dụng có vài vết như ảnh, khi dùng bên ngoài cx ko nổi bật ạ KT 46 x 29 x 14\nGiá: 950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":453115,"Giá bán":950000},
