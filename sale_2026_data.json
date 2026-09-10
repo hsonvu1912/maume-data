@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/09/2026 20:43",
+  "lastUpdated": "10/09/2026 21:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -586,7 +586,9 @@
       {"Mã":"HACH04092600","Ngày bán":"10/09/2026","Sản phẩm":"Hay Arcs Candleholder S","Giá nhập":680771,"Giá bán":950000,"Lãi":269229},
       {"Mã":"IKĐÈ171200","Ngày bán":"10/09/2026","Sản phẩm":"Ikea Stranne - 2016","Giá nhập":967320,"Giá bán":1500000,"Lãi":532680},
       {"Mã":"STCỜ04092600","Ngày bán":"10/09/2026","Sản phẩm":"Stragum Jeux de Dames","Giá nhập":608790,"Giá bán":650000,"Lãi":41210},
-      {"Mã":"NOĐĨ12082602","Ngày bán":"10/09/2026","Sản phẩm":"No brand Starfish Dish (hologram)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924}
+      {"Mã":"NOĐĨ12082602","Ngày bán":"10/09/2026","Sản phẩm":"No brand Starfish Dish (hologram)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
+      {"Mã":"IKĐÈ24042600","Ngày bán":"10/09/2026","Sản phẩm":"Ikea Sjöpenna","Giá nhập":210972,"Giá bán":455000,"Lãi":244028},
+      {"Mã":"SMCỐ27082600","Ngày bán":"10/09/2026","Sản phẩm":"Smiley x Kaco Buddy Stainless Steel Mug","Giá nhập":230056,"Giá bán":350000,"Lãi":119944}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
