@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/09/2026 13:55",
+  "lastUpdated": "10/09/2026 14:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1741,7 +1741,7 @@
       {"Mã":"IKMÓ05092601","Ngày về":"05/09/2026","Sản phẩm":"Ikea Sigge Snagg - 1990s\n\nChất liệu: Gỗ\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 151 x 95 x 60mm\n\nGiá: 950.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":402035,"Giá bán":950000},
       {"Mã":"IKĐÈ05092600","Ngày về":"05/09/2026","Sản phẩm":"Ikea OBELY\n\nChất liệu: \n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, dùng bóng GU10\n\nKích thước: 580 x 150mm\n\nGiá: 1.800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1446817,"Giá bán":1800000},
       {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":909397},
-      {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"}
+      {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":540580}
     ]
   }
 }
