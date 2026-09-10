@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/09/2026 14:34",
+  "lastUpdated": "10/09/2026 16:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1003,6 +1003,7 @@
     ],
     "Tháng 9": [
       {"Mã":"LC-4368-050926","Ngày về":"05/09/2026","Sản phẩm":"LC-4368-050926\nmàu hồng dòng neo size xs bản đời mới. màu đẹp lắm cond đẹp ít qua sử dụng. quai chéo còn đầy đủ tổng quan đẹp cứng cáp. KT 24 x 15 x 11\nGiá: 2.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1762800,"Giá bán":2500000},
+      {"Mã":"LC-2064-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2188500},
       {"Mã":"LC-8232-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1410000},
       {"Mã":"LC-0447-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":902105},
       {"Mã":"LC-0513-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":902105},
