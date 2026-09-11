@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/09/2026 12:55",
+  "lastUpdated": "11/09/2026 13:26",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1744,8 +1744,8 @@
       {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":540580},
       {"Mã":"SETH10092600","Ngày về":"10/09/2026","Sản phẩm":"Seletti x Toiletpaper Mat Pills\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 2000 x 600mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":970934},
       {"Mã":"URGƯ10092600","Ngày về":"10/09/2026","Sản phẩm":"URFF DECO Gems Party Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 220 x 220 x 30mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":436368},
-      {"Mã":"HAGI10092600","Ngày về":"10/09/2026","Sản phẩm":"Hay Anything Tape Dispenser\n\nChất liệu: Nhựa\n\nPhân Loại: Giá để băng dính\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":304064},
-      {"Mã":"CỐ10092600","Ngày về":"10/09/2026","Sản phẩm":"Set of 2\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":133210},
+      {"Mã":"HAGI10092600","Ngày về":"10/09/2026","Sản phẩm":"Hay Anything Tape Dispenser\n\nChất liệu: Nhựa\n\nPhân Loại: Giá để băng dính\n\nTình trạng: Như ảnh\n\nKích thước: 75 x 65 x 150mm\n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":304064},
+      {"Mã":"NOCỐ10092600","Ngày về":"10/09/2026","Sản phẩm":"No brand Set of 2 Hexagon Stained Glass Tumbler\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 40 x 145mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":266420},
       {"Mã":"TANẾ10092600","Ngày về":"10/09/2026","Sản phẩm":"Tamburins Holiday Egg Candle\n\nChất liệu: Kim loại\n\nPhân Loại: Nến và chân nến\n\nTình trạng: Như ảnh\n\nKích thước: d47 x 90mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":290676},
       {"Mã":"TANẾ10092601","Ngày về":"10/09/2026","Sản phẩm":"Tamburins Holiday Egg Candle\n\nChất liệu: Kim loại\n\nPhân Loại: Nến và chân nến\n\nTình trạng: Như ảnh\n\nKích thước: d47 x 90mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":294656},
       {"Mã":"HUMÓ10092600","Ngày về":"10/09/2026","Sản phẩm":"HUGKIS x Adult swim Rick & Morty keychains Pickle Rick\n\nChất liệu: Vải\n\nPhân Loại: Móc khóa\n\nTình trạng: Như ảnh\n\nKích thước: 170 x 50 mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":155356},
@@ -1755,16 +1755,17 @@
       {"Mã":"SEGƯ10092603","Ngày về":"10/09/2026","Sản phẩm":"Seletti x Toiletpaper Spades Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 175 × 228 mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":202205},
       {"Mã":"SEGƯ10092604","Ngày về":"10/09/2026","Sản phẩm":"Seletti x Toiletpaper Spades Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 176 × 228 mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":202205},
       {"Mã":"SEGƯ10092605","Ngày về":"10/09/2026","Sản phẩm":"Seletti x Toiletpaper Spades Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 177 × 228 mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":202205},
-      {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":160060},
+      {"Mã":"S.KH10092600","Ngày về":"10/09/2026","Sản phẩm":"S. Sunflower Designs Photo Frame\n\nChất liệu: Kim loại\n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 150mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":160060},
       {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":451926},
       {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":349663},
       {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":349663},
       {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":429811},
-      {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":435480},
+      {"Mã":"USCỜ10092600","Ngày về":"10/09/2026","Sản phẩm":"USAOPOLY Super Mario Chess Collector's Edition\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 270 x 80 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":435480},
       {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":556910},
       {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":129848},
       {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":299164},
-      {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":518848}
+      {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":518848},
+      {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":328836}
     ]
   }
 }
