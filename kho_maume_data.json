@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/09/2026 13:55",
+  "lastUpdated": "11/09/2026 14:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1739,9 +1739,9 @@
       {"Mã":"PYDỤ05092600","Ngày về":"05/09/2026","Sản phẩm":"Pylones Quelle Salade\n\nChất liệu: Nhựa ABS, kim loại\n\nPhân Loại: Dụng cụ salade\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 330 x 55mm\n\nGiá: 850.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":613673,"Giá bán":850000},
       {"Mã":"IKMÓ05092600","Ngày về":"05/09/2026","Sản phẩm":"Ikea Sigge Snagg - 1990s\n\nChất liệu: Gỗ\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 95 x 60mm\n\nGiá: 950.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":402035,"Giá bán":950000},
       {"Mã":"IKMÓ05092601","Ngày về":"05/09/2026","Sản phẩm":"Ikea Sigge Snagg - 1990s\n\nChất liệu: Gỗ\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 151 x 95 x 60mm\n\nGiá: 950.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":402035,"Giá bán":950000},
-      {"Mã":"IKĐÈ05092600","Ngày về":"05/09/2026","Sản phẩm":"Ikea OBELY\n\nChất liệu: \n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, dùng bóng GU10\n\nKích thước: 580 x 150mm\n\nGiá: 1.800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1446817,"Giá bán":1800000},
-      {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":909397},
-      {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":540580},
+      {"Mã":"IKĐÈ05092600","Ngày về":"05/09/2026","Sản phẩm":"Ikea OBELY (black)\n\nChất liệu: \n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, dùng bóng GU10\n\nKích thước: 580 x 150mm\n\nGiá: 1.800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1446817,"Giá bán":1800000},
+      {"Mã":"IKĐÈ10092600","Ngày về":"10/09/2026","Sản phẩm":"Ikea OBELY (white)\n\nChất liệu: \n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, dùng bóng GU11\n\nKích thước: 58 x 150mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":909397},
+      {"Mã":"SLVỢ10092600","Ngày về":"10/09/2026","Sản phẩm":"Slazenger Junior\n\nChất liệu: Gỗ\n\nPhân Loại: Vợt\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":540580},
       {"Mã":"SETH10092600","Ngày về":"10/09/2026","Sản phẩm":"Seletti x Toiletpaper Mat Pills\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 2000 x 600mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":970934},
       {"Mã":"URGƯ10092600","Ngày về":"10/09/2026","Sản phẩm":"URFF DECO Gems Party Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 220 x 220 x 30mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":436368},
       {"Mã":"HAGI10092600","Ngày về":"10/09/2026","Sản phẩm":"Hay Anything Tape Dispenser\n\nChất liệu: Nhựa\n\nPhân Loại: Giá để băng dính\n\nTình trạng: Như ảnh\n\nKích thước: 75 x 65 x 150mm\n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":304064},
@@ -1761,10 +1761,10 @@
       {"Mã":"NOTH10092601","Ngày về":"10/09/2026","Sản phẩm":"No brand Windows XP Bliss Rug\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 510 x 800mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":349663},
       {"Mã":"NOTH10092602","Ngày về":"10/09/2026","Sản phẩm":"No brand 3D Sky Round Carpet\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 810 x 810mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":429811},
       {"Mã":"USCỜ10092600","Ngày về":"10/09/2026","Sản phẩm":"USAOPOLY Super Mario Chess Collector's Edition\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 270 x 80 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":435480},
-      {"Mã":"BÁ10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Bát\n\nTình trạng: Như ảnh\n\nKích thước: 310 x 140 x 190mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":556910},
-      {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":129848},
-      {"Mã":"10092600","Ngày về":"10/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":299164},
-      {"Mã":"DR10092600","Ngày về":"10/09/2026","Sản phẩm":"DramaDeco \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":518848},
+      {"Mã":"NOBÁ10092600","Ngày về":"10/09/2026","Sản phẩm":"No brand Beige Whale Centerpiece\n\nChất liệu: Resin và bột đá\n\nPhân Loại: Bát\n\nTình trạng: Như ảnh\n\nKích thước: 310 x 140 x 190mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":556910},
+      {"Mã":"THĐĨ10092600","Ngày về":"10/09/2026","Sản phẩm":"The Paper Store Legacy & Main Collection\n\nChất liệu: Ceramic\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 120 x 130 x 30mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":129848},
+      {"Mã":"NOĐĨ10092600","Ngày về":"10/09/2026","Sản phẩm":"No brand Hologram Trinket Dish\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 160 x 35mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":299164},
+      {"Mã":"DRẤM10092600","Ngày về":"10/09/2026","Sản phẩm":"DramaDeco Teapot Pitcher\n\nChất liệu: Ceramic\n\nPhân Loại: Ấm trà\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 190 x 255mm \n1000ml\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":518848},
       {"Mã":"EGĐÈ10092601","Ngày về":"10/09/2026","Sản phẩm":"Eglo Empori\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, dùng bóng E14\n\nKích thước: 130 x 290mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":328836}
     ]
   }
