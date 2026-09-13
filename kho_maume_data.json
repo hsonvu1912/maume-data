@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/09/2026 09:55",
+  "lastUpdated": "13/09/2026 12:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1765,7 +1765,7 @@
       {"Mã":"THĐĨ10092600","Ngày về":"10/09/2026","Sản phẩm":"The Paper Store Legacy & Main Collection\n\nChất liệu: Ceramic\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 120 x 130 x 30mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":129848},
       {"Mã":"NOĐĨ10092600","Ngày về":"10/09/2026","Sản phẩm":"No brand Hologram Trinket Dish\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 160 x 35mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":299164},
       {"Mã":"DRẤM10092600","Ngày về":"10/09/2026","Sản phẩm":"DramaDeco Teapot Pitcher\n\nChất liệu: Ceramic\n\nPhân Loại: Ấm trà\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 190 x 255mm \n1000ml\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":518848},
-      {"Mã":"EGĐÈ10092601","Ngày về":"10/09/2026","Sản phẩm":"Eglo Empori\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, dùng bóng E14\n\nKích thước: 130 x 290mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":328836}
+      {"Mã":"EGĐÈ10092601","Ngày về":"10/09/2026","Sản phẩm":"Eglo Empori\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, bao gồm bóng E14\n\nKích thước: 130 x 290mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":328836}
     ]
   }
 }
