@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/09/2026 16:34",
+  "lastUpdated": "13/09/2026 17:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1042,18 +1042,18 @@
       {"Mã":"LC-9187-040926","Ngày về":"04/09/2026","Sản phẩm":"LC-9187-040926\nmini pouch màu beige đã kèm sẵn dây chéo cond như ảnh ạ có 1 vết lỗ bé xíu ở đáy k ảnh hưởng việc sdung nha dùng kèm lót phom là hết. \nGiá: 1.600.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1325781,"Giá bán":1600000},
       {"Mã":"LC-7354-040926","Ngày về":"04/09/2026","Sản phẩm":"LC-7354-040926\npapier size M bản đời mới 2 ngăn phụ cond tốt qua sdung nhẹ. bề mặt vải dính vài vết mờ mờ chắc dính son hay mỹ phẩm j ạ ko ảnh hưởng việc sdung. tổng quan siu đẹp nét. KT 40 x 26 x 16\nGiá: 1.600.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":816640,"Giá bán":1600000},
       {"Mã":"LC-6232-040926","Ngày về":"04/09/2026","Sản phẩm":"LC-6232-040926\nmini pouch hồng để đựng mỹ phẩm hoặc xách tay nhỏ nhỏ, làm charm gắn túi tote,.. đa năng lun. cond đẹp cứng cáp sạch sẽ lắm. KT 19 x 10 x 6 vừa đt prm\nGiá: 900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":366693,"Giá bán":900000},
-      {"Mã":"LC-8325-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1297521},
-      {"Mã":"LC-8771-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":972843},
-      {"Mã":"LC-5320-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1330402},
-      {"Mã":"LC-3055-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1097306},
-      {"Mã":"LC-7572-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1101600},
-      {"Mã":"LC-5758-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2064236},
-      {"Mã":"LC-2924-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1220062},
-      {"Mã":"LC-2476-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":707923},
-      {"Mã":"LC-8749-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2069354},
-      {"Mã":"LC-5318-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":719002},
-      {"Mã":"LC-2667-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1487933},
-      {"Mã":"LC-5433-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1287491}
+      {"Mã":"LC-8325-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1404740},
+      {"Mã":"LC-8771-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1080062},
+      {"Mã":"LC-5320-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1437621},
+      {"Mã":"LC-3055-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1204525},
+      {"Mã":"LC-7572-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1208819},
+      {"Mã":"LC-5758-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2171455},
+      {"Mã":"LC-2924-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1327281},
+      {"Mã":"LC-2476-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":815142},
+      {"Mã":"LC-8749-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2176573},
+      {"Mã":"LC-5318-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":826221},
+      {"Mã":"LC-2667-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1595152},
+      {"Mã":"LC-5433-100926","Ngày về":"10/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1394710}
     ]
   }
 }
