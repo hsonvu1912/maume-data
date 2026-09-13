@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/09/2026 17:25",
+  "lastUpdated": "13/09/2026 17:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1760,10 +1760,10 @@
       {"Mã":"NOTH10092600","Ngày về":"10/09/2026","Sản phẩm":"No brand Windows XP Mat\n\nChất liệu: Vải, polyester\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 790 x 510mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":349663,"Giá bán":800000},
       {"Mã":"NOTH10092601","Ngày về":"10/09/2026","Sản phẩm":"No brand Windows XP Mat\n\nChất liệu: Vải, polyester\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 791 x 510mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":349663,"Giá bán":800000},
       {"Mã":"NOTH10092602","Ngày về":"10/09/2026","Sản phẩm":"No brand 3D Sky Round Carpet\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 810 x 810mm\n\nGiá: 950.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":429811,"Giá bán":950000},
-      {"Mã":"USCỜ10092600","Ngày về":"10/09/2026","Sản phẩm":"USAOPOLY Super Mario Chess Collector's Edition\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 270 x 80 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":435480},
-      {"Mã":"NOBÁ10092600","Ngày về":"10/09/2026","Sản phẩm":"No brand Beige Whale Centerpiece\n\nChất liệu: Resin và bột đá\n\nPhân Loại: Bát\n\nTình trạng: Như ảnh\n\nKích thước: 310 x 140 x 190mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":556910},
-      {"Mã":"THĐĨ10092600","Ngày về":"10/09/2026","Sản phẩm":"The Paper Store Legacy & Main Collection (có thể làm khay trang sức)\n\nChất liệu: Ceramic\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 120 x 130 x 30mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":129848},
-      {"Mã":"NOĐĨ10092600","Ngày về":"10/09/2026","Sản phẩm":"No brand Hologram Trinket Dish (có thể làm khay trang sức)\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 160 x 35mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":299164},
+      {"Mã":"USCỜ10092600","Ngày về":"10/09/2026","Sản phẩm":"USAOPOLY Super Mario Chess Collector's Edition\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 270 x 80 x 260mm\n\nGiá: 950.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":435480,"Giá bán":950000},
+      {"Mã":"NOBÁ10092600","Ngày về":"10/09/2026","Sản phẩm":"No brand Beige Whale Centerpiece\n\nChất liệu: Resin và bột đá\n\nPhân Loại: Bát\n\nTình trạng: Như ảnh\n\nKích thước: 310 x 140 x 190mm\n\nGiá: 740.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":556910,"Giá bán":740000},
+      {"Mã":"THĐĨ10092600","Ngày về":"10/09/2026","Sản phẩm":"Legacy & Main Sea shell Trinket Dish\n\nChất liệu: Ceramic\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 120 x 130 x 30mm\n\nGiá: 190.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":129848,"Giá bán":190000},
+      {"Mã":"NOĐĨ10092600","Ngày về":"10/09/2026","Sản phẩm":"No brand Hologram Trinket Dish\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 160 x 35mm\n\nGiá: 450.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":299164,"Giá bán":450000},
       {"Mã":"DRẤM10092600","Ngày về":"10/09/2026","Sản phẩm":"DramaDeco Teapot Pitcher\n\nChất liệu: Ceramic\n\nPhân Loại: Ấm trà\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 190 x 255mm \n1000ml\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":518848},
       {"Mã":"EGĐÈ10092601","Ngày về":"10/09/2026","Sản phẩm":"Eglo Empori\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, bao gồm bóng E14\n\nKích thước: 130 x 290mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":328836}
     ]
