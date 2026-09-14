@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/09/2026 17:13",
+  "lastUpdated": "14/09/2026 13:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -593,7 +593,11 @@
       {"Mã":"UKĐÈ27082600","Ngày bán":"11/09/2026","Sản phẩm":"Ukonic Marvel Classic Spider-Man 3D Motion Lamp","Giá nhập":750857,"Giá bán":1150000,"Lãi":399143},
       {"Mã":"KIMỞ050201","Ngày bán":"13/09/2026","Sản phẩm":"Kikkerland Day of the Dead Corkscrew","Giá nhập":558714,"Giá bán":1190000,"Lãi":631286},
       {"Mã":"BABLAL2508","Ngày bán":"13/09/2026","Sản phẩm":"Alessi Nuvem","Giá nhập":666807,"Giá bán":1200000,"Lãi":533193},
-      {"Mã":"IKĐÈ031200","Ngày bán":"13/09/2026","Sản phẩm":"Ikea Onsjö","Giá nhập":834832,"Giá bán":1600000,"Lãi":765168}
+      {"Mã":"IKĐÈ031200","Ngày bán":"13/09/2026","Sản phẩm":"Ikea Onsjö","Giá nhập":834832,"Giá bán":1600000,"Lãi":765168},
+      {"Mã":"DOCỐ14052600","Ngày bán":"14/09/2026","Sản phẩm":"Doiy Kitty Ginger","Giá nhập":1077521,"Giá bán":1620000,"Lãi":542479},
+      {"Mã":"BOORBU2508","Ngày bán":"14/09/2026","Sản phẩm":"Kikkerland Tiger Bottle Opener","Giá nhập":297075,"Giá bán":450000,"Lãi":152925},
+      {"Mã":"KIĐỒ290100","Ngày bán":"14/09/2026","Sản phẩm":"Kikkerland Stack the Carrots Game","Giá nhập":454386,"Giá bán":550000,"Lãi":95614},
+      {"Mã":"DOBÌ27082600","Ngày bán":"14/09/2026","Sản phẩm":"Doiy Forest Vase Bunny","Giá nhập":185131,"Giá bán":850000,"Lãi":664869}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
