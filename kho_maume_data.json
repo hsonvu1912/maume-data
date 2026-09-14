@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/09/2026 00:55",
+  "lastUpdated": "14/09/2026 13:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1386,7 +1386,7 @@
       {"Mã":"THTÚ14052600","Ngày về":"14/05/2026","Sản phẩm":"The North Face Foldable Tote Bag 2.0\n\nChất liệu: Vải\n\nPhân Loại: Túi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Khi gấp: 75 x 90mm\nKhi mở: 550 x 420 x 150mm\n\nGiá: 1.000.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":409031,"Giá bán":1000000},
       {"Mã":"IKĐỒ14052600","Ngày về":"14/05/2026","Sản phẩm":"Ikea Duktig 24-Piece Pizza Set\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 350 x 250mm\n\nGiá: 300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":195156,"Giá bán":300000},
       {"Mã":"IKĐỒ14052601","Ngày về":"14/05/2026","Sản phẩm":"Ikea Duktig  14-Piece Vegetables Set\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh\n\nKích thước: 170 x 140 x 100mm\n\nGiá: 300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":155356,"Giá bán":300000},
-      {"Mã":"DOCỐ14052600","Ngày về":"14/05/2026","Sản phẩm":"Doiy Kitty Ginger\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước:  70 x 80 x 290mm\n\nGiá: 1.800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1077521,"Giá bán":1800000},
+      {"Mã":"DOCỐ14052600","Ngày về":"14/05/2026","Sản phẩm":"Doiy Kitty Ginger\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước:  70 x 80 x 290mm\n\nGiá: Sale 10% 1.800.000 => 1.620.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1077521,"Giá bán":1800000},
       {"Mã":"THDÂ14052600","Ngày về":"14/05/2026","Sản phẩm":"The North Face Pet Leash & Tnf Pet Chest Harness Back Pack\n\nChất liệu: Nhựa, vải\n\nPhân Loại: Dây xích, đai thú cưng\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Kích thước dây: 9 x 1800mm\nKích thước đai: Vòng cổ 440-540mm\nVòng ngực 460-630mm\nCân nặng: 7,5~14kg\n\nGiá: 1.800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":970845,"Giá bán":1800000},
       {"Mã":"THCỜ14052600","Ngày về":"14/05/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 370 x 280mm\n\nGiá: 2.000.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1064876,"Giá bán":2000000},
       {"Mã":"KIMỞ20052600","Ngày về":"20/05/2026","Sản phẩm":"Kikkerland  Shark Keyring Bottle Opener & Corkscrew\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia & rượu vang\n\nTình trạng: Như ảnh\n\nKích thước: 90 x 38\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":196000,"Giá bán":350000},
