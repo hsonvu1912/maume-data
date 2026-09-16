@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/09/2026 10:13",
+  "lastUpdated": "16/09/2026 10:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -600,7 +600,8 @@
       {"Mã":"DOBÌ27082600","Ngày bán":"14/09/2026","Sản phẩm":"Doiy Forest Vase Bunny","Giá nhập":185131,"Giá bán":850000,"Lãi":664869},
       {"Mã":"DRẤM10092600","Ngày bán":"16/09/2026","Sản phẩm":"DramaDeco Teapot","Giá nhập":518848,"Giá bán":850000,"Lãi":331152},
       {"Mã":"EGĐÈ10092600","Ngày bán":"16/09/2026","Sản phẩm":"Eglo Nairobi","Giá nhập":451926,"Giá bán":900000,"Lãi":448074},
-      {"Mã":"USCỜ10092600","Ngày bán":"16/09/2026","Sản phẩm":"USAOPOLY Super Mario Chess Collector's Edition","Giá nhập":435480,"Giá bán":950000,"Lãi":514520}
+      {"Mã":"USCỜ10092600","Ngày bán":"16/09/2026","Sản phẩm":"USAOPOLY Super Mario Chess Collector's Edition","Giá nhập":435480,"Giá bán":950000,"Lãi":514520},
+      {"Mã":"ARẤM150102","Ngày bán":"16/09/2026","Sản phẩm":"Ariete 2877 Vintage Electric Kettle","Giá nhập":507442,"Giá bán":1200000,"Lãi":692558}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
