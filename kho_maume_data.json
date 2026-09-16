@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/09/2026 15:55",
+  "lastUpdated": "16/09/2026 16:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1765,7 +1765,16 @@
       {"Mã":"THĐĨ10092600","Ngày về":"10/09/2026","Sản phẩm":"Legacy & Main Sea shell Trinket Dish\n\nChất liệu: Ceramic\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 120 x 130 x 30mm\n\nGiá: 190.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":129848,"Giá bán":190000},
       {"Mã":"NOĐĨ10092600","Ngày về":"10/09/2026","Sản phẩm":"No brand Hologram Trinket Dish\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: 150 x 160 x 35mm\n\nGiá: 450.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":299164,"Giá bán":450000},
       {"Mã":"DRẤM10092600","Ngày về":"10/09/2026","Sản phẩm":"DramaDeco Teapot\n\nChất liệu: Ceramic\n\nPhân Loại: Ấm trà\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 190 x 255mm \n1000ml\n\nGiá: 850.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":518848,"Giá bán":850000},
-      {"Mã":"EGĐÈ10092601","Ngày về":"10/09/2026","Sản phẩm":"Eglo Empori\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, bao gồm bóng E14\n\nKích thước: 130 x 290mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":328836}
+      {"Mã":"EGĐÈ10092601","Ngày về":"10/09/2026","Sản phẩm":"Eglo Empori\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, bao gồm bóng E14\n\nKích thước: 130 x 290mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":328836},
+      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1652095},
+      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":268968},
+      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":685547},
+      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":245632},
+      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":377106},
+      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":377106},
+      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":262800},
+      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"}
     ]
   }
 }
