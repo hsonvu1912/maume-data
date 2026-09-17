@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/09/2026 17:26",
+  "lastUpdated": "17/09/2026 11:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1767,14 +1767,14 @@
       {"Mã":"DRẤM10092600","Ngày về":"10/09/2026","Sản phẩm":"DramaDeco Teapot\n\nChất liệu: Ceramic\n\nPhân Loại: Ấm trà\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 190 x 255mm \n1000ml\n\nGiá: 850.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":518848,"Giá bán":850000},
       {"Mã":"EGĐÈ10092601","Ngày về":"10/09/2026","Sản phẩm":"Eglo Empori\n\nChất liệu: Thủy tinh\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, bao gồm bóng E14\n\nKích thước: 130 x 290mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":328836},
       {"Mã":"ALVẮ16092600","Ngày về":"16/09/2026","Sản phẩm":"Alessi Juicy Salif\n\nChất liệu: Nhôm\n\nPhân Loại: Vắt cam\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 290 x 140mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1652095},
-      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":268968},
-      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":685547},
-      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":245632},
-      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":377106},
-      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":377106},
-      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":262801},
-      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":340608},
-      {"Mã":"16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":276748}
+      {"Mã":"KH16092600","Ngày về":"16/09/2026","Sản phẩm":"Chất liệu: Kim loại\n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":268968},
+      {"Mã":"SIHỘ16092600","Ngày về":"16/09/2026","Sản phẩm":"Silver Buffalo x Adult swim Rick & Morty Space Cruiser\n\nChất liệu: Ceramic\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh\n\nKích thước: 240 x 240 x 150mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":685547},
+      {"Mã":"DOCH16092600","Ngày về":"16/09/2026","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: Chân nến\n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":245632},
+      {"Mã":"DOHỘ16092600","Ngày về":"16/09/2026","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: Hộp \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":377106},
+      {"Mã":"DOHỘ16092601","Ngày về":"16/09/2026","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: Hộp \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":377106},
+      {"Mã":"DOCỐ16092600","Ngày về":"16/09/2026","Sản phẩm":"Doiy \n\nChất liệu: \n\nPhân Loại: Cốc\n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":262801},
+      {"Mã":"IKCH16092600","Ngày về":"16/09/2026","Sản phẩm":"Ikea \n\nChất liệu: \n\nPhân Loại: Chân nến\n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":340608},
+      {"Mã":"THSO16092600","Ngày về":"16/09/2026","Sản phẩm":"The North Face Inflatable Sofa\n\nChất liệu: Polyester & ABS\n\nPhân Loại: Sofa khí\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Gấp gọn: 370 x 220 x 100mm\nMở: 1600 x 680 x 480mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":276748}
     ]
   }
 }
