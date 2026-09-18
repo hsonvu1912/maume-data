@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18/09/2026 17:34",
+  "lastUpdated": "18/09/2026 18:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -66,7 +66,6 @@
       {"Mã":"CH-1101-02","Ngày về":"01/11/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa \ncond 8/10, form dày dặn, túi đã qua sd nên có một vài vết bẩn nhỏ, khách iu mua về đem đi spa sd bthg ạ \n37 x 29 x 11","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":779781,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"CH-1101-03","Ngày về":"01/11/2026","Sản phẩm":"C signature họa tiết xe ngựa \nCond 8,8/10, form dày dặn, quai cứng cáp, túi đã qua sd nên lót bẩn nhẹ, khách iu mua về đem spa sd bình thg ạ\n48 x 22 x 14 (khi mở cúc bấm 2 bên) \nGiá: 850.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":779781,"Giá bán":850000},
       {"Mã":"LC-8049","Sản phẩm":"bilberry size M \ncondition tốt, form dày dặn, quai siu cứng cáp, túi sạch sẽ, ko lỗi nào đáng kể ạ \n35 x 24,5 x 14","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":675816,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
-      {"Mã":"LC-6218","Sản phẩm":"petal pink size M dòng green \ncondition: tốt, form dày dặn cứng cáp, túi đã qua sd nên dính 1 vài vết bẩn nhỏ, lót dính mực (như ảnh) ko ảnh hg nhìu khi sd đâu ạa \n38 x 25,5 x 17 \nGiá: 3.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":758500,"Giá bán":3500000},
       {"Mã":"LC-0050","Ngày về":"01/11/2026","Sản phẩm":"xanh navy size M \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi nào lớn ạ \n35 x 24 x 14","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":675816,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"LC-1101-02","Ngày về":"01/11/2026","Sản phẩm":"nâu vàng nhạt size L \ncondition tốt, form dày dặn, quai cứng cáp, lót sach sẽ, dưới đáy có một vài vết bẩn nhỏ ko ảnh hg nhìu khi sd ạ. Tổng quan đẹp, ko có lỗi gì lớn ạ\n45 x 29 x 19","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1508316,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
       {"Mã":"CH-1101-08","Ngày về":"01/11/2026","Sản phẩm":"C leather shoulder bag ivory\ncond 8/10, túi dày dặn, lót sạch sẽ, màu xinh iu, da mềm chỉ bị dính 2 vết mực nhỏ ở mặt trc của túi (như ảnh) thui ạ \n26 x 18 đựng vừa dth promax ạ \nGiá: 2.350.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1785816,"Giá bán":2350000},
@@ -1073,12 +1072,12 @@
       {"Mã":"LC-6860-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2153214},
       {"Mã":"LC-8841-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1034157},
       {"Mã":"LC-7725-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1187668},
-      {"Mã":"LC-5761-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1851614},
-      {"Mã":"LC-8364-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1862569},
-      {"Mã":"LC-3037-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":518232},
-      {"Mã":"LC-9884-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1857353},
-      {"Mã":"LC-3014-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1464667},
-      {"Mã":"LC-0848-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2049441}
+      {"Mã":"LC-5761-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1943654},
+      {"Mã":"LC-8364-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1977619},
+      {"Mã":"LC-3037-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":633282},
+      {"Mã":"LC-9884-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1972403},
+      {"Mã":"LC-3014-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1556707},
+      {"Mã":"LC-0848-180926","Ngày về":"18/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2164491}
     ]
   }
 }
