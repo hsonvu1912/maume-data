@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/09/2026 11:13",
+  "lastUpdated": "20/09/2026 11:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -607,7 +607,11 @@
       {"Mã":"THSO16092600","Ngày bán":"20/09/2026","Sản phẩm":"The North Face Inflatable Sofa","Giá nhập":276748,"Giá bán":850000,"Lãi":573252},
       {"Mã":"ALVẮ16092600","Ngày bán":"20/09/2026","Sản phẩm":"Alessi Juicy Salif","Giá nhập":1652095,"Giá bán":2500000,"Lãi":847905},
       {"Mã":"OFTH22072600","Ngày bán":"20/09/2026","Sản phẩm":"Off - White Round Logo Doormat One Size Brown","Giá nhập":897613,"Giá bán":1900000,"Lãi":1002387},
-      {"Mã":"HUMÓ10092600","Ngày bán":"20/09/2026","Sản phẩm":"HUGKIS x Adult swim Rick & Morty keychains Pickle Rick","Giá nhập":155356,"Giá bán":240000,"Lãi":84644}
+      {"Mã":"HUMÓ10092600","Ngày bán":"20/09/2026","Sản phẩm":"HUGKIS x Adult swim Rick & Morty keychains Pickle Rick","Giá nhập":155356,"Giá bán":240000,"Lãi":84644},
+      {"Mã":"SUKH16092600","Ngày bán":"20/09/2026","Sản phẩm":"Sunflower Designs Photo Frame","Giá nhập":268968,"Giá bán":350000,"Lãi":81032},
+      {"Mã":"SLVỢ10092600","Ngày bán":"20/09/2026","Sản phẩm":"Slazenger Junior","Giá nhập":733978,"Giá bán":990000,"Lãi":256022},
+      {"Mã":"NOBÁ10092600","Ngày bán":"20/09/2026","Sản phẩm":"No brand Beige Whale Centerpiece","Giá nhập":556910,"Giá bán":740000,"Lãi":183090},
+      {"Mã":"THĐĨ10092600","Ngày bán":"20/09/2026","Sản phẩm":"Legacy & Main Sea shell Trinket Dish","Giá nhập":129848,"Giá bán":190000,"Lãi":60152}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -1517,7 +1521,15 @@
       {"Mã":"LC-9914-100926","Ngày bán":"17/09/2026","Sản phẩm":"LC-9914-100926","Giá nhập":1042067,"Giá bán":1400000,"Lãi":357933},
       {"Mã":"LC-1509-150926","Ngày bán":"17/09/2026","Sản phẩm":"LC-1509-150926","Giá nhập":800001,"Giá bán":1900000,"Lãi":1099999},
       {"Mã":"LC-6232-040926","Ngày bán":"17/09/2026","Sản phẩm":"LC-6232-040926","Giá nhập":366693,"Giá bán":900000,"Lãi":533307},
-      {"Mã":"LC-5758-100926","Ngày bán":"19/09/2026","Sản phẩm":"LC-5758-100926","Giá nhập":2171455,"Giá bán":2800000,"Lãi":628545}
+      {"Mã":"LC-5758-100926","Ngày bán":"19/09/2026","Sản phẩm":"LC-5758-100926","Giá nhập":2171455,"Giá bán":2800000,"Lãi":628545},
+      {"Mã":"LC-1961-100926","Ngày bán":"20/09/2026","Sản phẩm":"LC-1961-100926","Giá nhập":1158000,"Giá bán":2100000,"Lãi":942000},
+      {"Mã":"LC-2667-100926","Ngày bán":"20/09/2026","Sản phẩm":"LC-2667-100926","Giá nhập":1595152,"Giá bán":1950000,"Lãi":354848},
+      {"Mã":"LC-8325-100926","Ngày bán":"20/09/2026","Sản phẩm":"LC-8325-100926","Giá nhập":1404740,"Giá bán":1750000,"Lãi":345260},
+      {"Mã":"LC-5318-100926","Ngày bán":"20/09/2026","Sản phẩm":"LC-5318-100926","Giá nhập":826221,"Giá bán":1650000,"Lãi":823779},
+      {"Mã":"LC-0447-100926","Ngày bán":"20/09/2026","Sản phẩm":"LC-0447-100926","Giá nhập":1042067,"Giá bán":1780000,"Lãi":737933},
+      {"Mã":"LC-8967-100926","Ngày bán":"20/09/2026","Sản phẩm":"LC-8967-100926","Giá nhập":1632000,"Giá bán":1680000,"Lãi":48000},
+      {"Mã":"LC-2924-100926","Ngày bán":"20/09/2026","Sản phẩm":"LC-2924-100926","Giá nhập":1327281,"Giá bán":1850000,"Lãi":522719},
+      {"Mã":"LC-8232-100926","Ngày bán":"20/09/2026","Sản phẩm":"LC-8232-100926","Giá nhập":1410000,"Giá bán":750000,"Lãi":-660000}
     ]
   }
 }
