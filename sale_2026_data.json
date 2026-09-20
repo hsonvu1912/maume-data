@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19/09/2026 18:43",
+  "lastUpdated": "20/09/2026 11:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -602,7 +602,12 @@
       {"Mã":"EGĐÈ10092600","Ngày bán":"16/09/2026","Sản phẩm":"Eglo Nairobi","Giá nhập":451926,"Giá bán":900000,"Lãi":448074},
       {"Mã":"USCỜ10092600","Ngày bán":"16/09/2026","Sản phẩm":"USAOPOLY Super Mario Chess Collector's Edition","Giá nhập":435480,"Giá bán":950000,"Lãi":514520},
       {"Mã":"ARẤM150102","Ngày bán":"16/09/2026","Sản phẩm":"Ariete 2877 Vintage Electric Kettle","Giá nhập":507442,"Giá bán":1200000,"Lãi":692558},
-      {"Mã":"LEHỘ04092600","Ngày bán":"19/09/2026","Sản phẩm":"Lego Salt & Pepper 2006","Giá nhập":395932,"Giá bán":550000,"Lãi":154068}
+      {"Mã":"LEHỘ04092600","Ngày bán":"19/09/2026","Sản phẩm":"Lego Salt & Pepper 2006","Giá nhập":395932,"Giá bán":550000,"Lãi":154068},
+      {"Mã":"SETH10092600","Ngày bán":"20/09/2026","Sản phẩm":"Seletti x Toiletpaper Mat Pills","Giá nhập":970934,"Giá bán":1400000,"Lãi":429066},
+      {"Mã":"THSO16092600","Ngày bán":"20/09/2026","Sản phẩm":"The North Face Inflatable Sofa","Giá nhập":276748,"Giá bán":850000,"Lãi":573252},
+      {"Mã":"ALVẮ16092600","Ngày bán":"20/09/2026","Sản phẩm":"Alessi Juicy Salif","Giá nhập":1652095,"Giá bán":2500000,"Lãi":847905},
+      {"Mã":"OFTH22072600","Ngày bán":"20/09/2026","Sản phẩm":"Off - White Round Logo Doormat One Size Brown","Giá nhập":897613,"Giá bán":1900000,"Lãi":1002387},
+      {"Mã":"HUMÓ10092600","Ngày bán":"20/09/2026","Sản phẩm":"HUGKIS x Adult swim Rick & Morty keychains Pickle Rick","Giá nhập":155356,"Giá bán":240000,"Lãi":84644}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
