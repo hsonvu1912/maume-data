@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21/09/2026 13:25",
+  "lastUpdated": "21/09/2026 13:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1785,13 +1785,13 @@
       {"Mã":"SLVỢ18092600","Ngày về":"18/09/2026","Sản phẩm":"Slazenger Royal Crown\n\nChất liệu: Gỗ\n\nPhân Loại: Vợt Tennis\n\nTình trạng: Như ảnh\n\nKích thước: 690 x 230mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":829331},
       {"Mã":"THCỜ18092600","Ngày về":"18/09/2026","Sản phẩm":"The Simpsons Chess Set in Tin\n\nChất liệu: Hộp thiếc, quân cờ nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 380 x 380mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1277875},
       {"Mã":"LOCỜ18092600","Ngày về":"18/09/2026","Sản phẩm":"Looney Tunes Chess Set Warner Brothers\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh\n\nKích thước: 465 x 465mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1363058},
-      {"Mã":"CỜ18092600","Ngày về":"18/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":887109},
-      {"Mã":"18092600","Ngày về":"18/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1372234},
-      {"Mã":"TH18092600","Ngày về":"18/09/2026","Sản phẩm":"The Simpsons \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193146},
-      {"Mã":"TH18092601","Ngày về":"18/09/2026","Sản phẩm":"The Simpsons \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193146},
-      {"Mã":"TH18092602","Ngày về":"18/09/2026","Sản phẩm":"The Simpsons \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193146},
-      {"Mã":"TH18092603","Ngày về":"18/09/2026","Sản phẩm":"The Simpsons \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193146},
-      {"Mã":"CỜ18092601","Ngày về":"18/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":752008},
+      {"Mã":"PRCỜ18092600","Ngày về":"18/09/2026","Sản phẩm":"Printworks Play Chess\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 250 x 250mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":887109},
+      {"Mã":"IKMÓ18092600","Ngày về":"18/09/2026","Sản phẩm":"Ikea Red Dog Coat Rack\n\nChất liệu: Kim loại\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 510 x 270mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1372234},
+      {"Mã":"THLỊ18092600","Ngày về":"18/09/2026","Sản phẩm":"The Simpsons 2008 Calendar\n\nChất liệu: Giấy\n\nPhân Loại: Lịch\n\nTình trạng: Như ảnh\n\nKích thước: 420 x 150mm\n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193146},
+      {"Mã":"THLỊ18092601","Ngày về":"18/09/2026","Sản phẩm":"The Simpsons 2001 Fun Calendar\n\nChất liệu: Giấy\n\nPhân Loại: Lịch\n\nTình trạng: Như ảnh\n\nKích thước: 300 x 300mm\n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193146},
+      {"Mã":"THLỊ18092602","Ngày về":"18/09/2026","Sản phẩm":"The Simpsons 2005 Fun Calendar\n\nChất liệu: Giấy\n\nPhân Loại: Lịch\n\nTình trạng: Như ảnh\n\nKích thước: 300 x 300mm\n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193146},
+      {"Mã":"THLỊ18092603","Ngày về":"18/09/2026","Sản phẩm":"The Simpsons 2007 Fun Calendar\n\nChất liệu: Giấy\n\nPhân Loại: Lịch\n\nTình trạng: Như ảnh\n\nKích thước: 300 x 300mm\n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193146},
+      {"Mã":"THCỜ18092601","Ngày về":"18/09/2026","Sản phẩm":"The Noble Collection Jurassic Park Chess Set\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 470 x 470mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":752008},
       {"Mã":"18092600","Ngày về":"18/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
       {"Mã":"18092600","Ngày về":"18/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"}
     ]
