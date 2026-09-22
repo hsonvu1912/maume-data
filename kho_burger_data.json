@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22/09/2026 14:05",
+  "lastUpdated": "22/09/2026 16:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1036,6 +1036,7 @@
       {"Mã":"LC-8588-210926","Ngày về":"21/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1239600},
       {"Mã":"LC-9459-210926","Ngày về":"21/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1621200},
       {"Mã":"LC-1604-210926","Ngày về":"21/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1565840},
+      {"Mã":"LC-2109-02-210926","Ngày về":"21/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1691600},
       {"Mã":"LS-0409-040926","Ngày về":"04/09/2026","Sản phẩm":"LS-0409-040926\nlacoste dòng anna reversible đeo dc 2 mặt, túi có qua sử dụng có vài vết như ảnh, khi dùng bên ngoài cx ko nổi bật ạ KT 46 x 29 x 14\nGiá: 950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":453115,"Giá bán":950000},
       {"Mã":"LS-0409-01-040926","Ngày về":"04/09/2026","Sản phẩm":"LS-0409-01-040926\nlacoste dòng anna reversible đeo dc 2 mặt, phiên bản kẻ sọc phối màu xanh vàng này quá đẹp lunnn. cond tốt ít qua sử dụng. KT 45 x 29 x 14\nGiá: 1.850.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1521530,"Giá bán":1850000},
       {"Mã":"LC-5833-040926","Ngày về":"04/09/2026","Sản phẩm":"LC-5833-040926\nbeige size M nhỏ (ko vừa laptop, phù hợp người tầm 1m6) cond qua sử dụng như ảnh, quai sau có các vết trầy nhỏ, quai trước đẹp, còn lại cond đẹp ko lỗi gì lớn. KT 35 x 24 x 16\nGiá: 1.200.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":837490,"Giá bán":1200000},
