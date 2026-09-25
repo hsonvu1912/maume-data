@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/09/2026 15:55",
+  "lastUpdated": "25/09/2026 17:26",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1793,8 +1793,8 @@
       {"Mã":"THLỊ18092603","Ngày về":"18/09/2026","Sản phẩm":"The Simpsons 2007 Fun Calendar\n\nChất liệu: Giấy\n\nPhân Loại: Lịch\n\nTình trạng: Như ảnh\n\nKích thước: 300 x 300mm\n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":193146},
       {"Mã":"THCỜ18092601","Ngày về":"18/09/2026","Sản phẩm":"The Noble Collection Jurassic Park Chess Set\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 470 x 470mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":752008},
       {"Mã":"IKĐÈ24092600","Ngày về":"24/09/2026","Sản phẩm":"Ikea Stranne - 2016\n\nChất liệu: Kim loại, nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 183 x 183 x 730mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1210012},
-      {"Mã":"BÌ24092600","Ngày về":"24/09/2026","Sản phẩm":"#VALUE!","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":662343},
-      {"Mã":"BYBÌ24092600","Ngày về":"24/09/2026","Sản phẩm":"Byon Vase Crumble white\n\nChất liệu: Sứ\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 235 x 170 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":803261},
+      {"Mã":"BYBÌ24092600","Ngày về":"24/09/2026","Sản phẩm":"Byon Vase Crumble blue\n\nChất liệu: Sứ\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 235 x 170 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":662343},
+      {"Mã":"BYBÌ24092601","Ngày về":"24/09/2026","Sản phẩm":"Byon Vase Crumble white\n\nChất liệu: Sứ\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 235 x 170 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":803261},
       {"Mã":"NOCỐ24092600","Ngày về":"24/09/2026","Sản phẩm":"No brand \n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 90 x 60 x 75mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":163301},
       {"Mã":"NOCỐ24092601","Ngày về":"24/09/2026","Sản phẩm":"No brand \n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":122900},
       {"Mã":"NOCỐ24092602","Ngày về":"24/09/2026","Sản phẩm":"No brand \n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":122900},
@@ -1812,7 +1812,9 @@
       {"Mã":"LY24092604","Ngày về":"24/09/2026","Sản phẩm":"Chất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":254180},
       {"Mã":"CỐ24092604","Ngày về":"24/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":285778},
       {"Mã":"ĐĨ24092600","Ngày về":"24/09/2026","Sản phẩm":"Chất liệu: Thủy tinh\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":356516},
-      {"Mã":"LY24092605","Ngày về":"24/09/2026","Sản phẩm":"Chất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":228573}
+      {"Mã":"LY24092605","Ngày về":"24/09/2026","Sản phẩm":"Chất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":228573},
+      {"Mã":"24092600","Ngày về":"24/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168901},
+      {"Mã":"24092600","Ngày về":"24/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1608001}
     ]
   }
 }
