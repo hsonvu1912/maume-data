@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24/09/2026 17:13",
+  "lastUpdated": "26/09/2026 13:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -612,7 +612,8 @@
       {"Mã":"SLVỢ10092600","Ngày bán":"20/09/2026","Sản phẩm":"Slazenger Junior","Giá nhập":733978,"Giá bán":990000,"Lãi":256022},
       {"Mã":"NOBÁ10092600","Ngày bán":"20/09/2026","Sản phẩm":"No brand Beige Whale Centerpiece","Giá nhập":556910,"Giá bán":740000,"Lãi":183090},
       {"Mã":"THĐĨ10092600","Ngày bán":"20/09/2026","Sản phẩm":"Legacy & Main Sea shell Trinket Dish","Giá nhập":129848,"Giá bán":190000,"Lãi":60152},
-      {"Mã":"QUHỘ04092600","Ngày bán":"22/09/2026","Sản phẩm":"Qualy Pear Pod","Giá nhập":360492,"Giá bán":450000,"Lãi":89508}
+      {"Mã":"QUHỘ04092600","Ngày bán":"22/09/2026","Sản phẩm":"Qualy Pear Pod","Giá nhập":360492,"Giá bán":450000,"Lãi":89508},
+      {"Mã":"PRCỜ18092600","Ngày bán":"26/09/2026","Sản phẩm":"Printworks Play Chess","Giá nhập":887109,"Giá bán":1450000,"Lãi":562891}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
