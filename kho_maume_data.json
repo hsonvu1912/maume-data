@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/09/2026 13:25",
+  "lastUpdated": "27/09/2026 13:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1818,7 +1818,7 @@
       {"Mã":"EGĐÈ24092600","Ngày về":"24/09/2026","Sản phẩm":"Eglo Girasole\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 310mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":168901},
       {"Mã":"ALVẮ24092600","Ngày về":"24/09/2026","Sản phẩm":"Alessi Juicy Salif\n\nChất liệu: Nhôm\n\nPhân Loại: Vắt cam\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 290 x 140mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1608001},
       {"Mã":"NOLY24092611","Ngày về":"24/09/2026","Sản phẩm":"No brand Set of 2 Crystal Rhinestone Stemmed Glasses\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 45 x 165mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":183201},
-      {"Mã":"CỐ24092600","Ngày về":"24/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1}
+      {"Mã":"NOCỐ24092607","Ngày về":"24/09/2026","Sản phẩm":"No brand Buttercup Blossom Mug\n\nChất liệu: Ceramic\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 130 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1}
     ]
   }
 }
