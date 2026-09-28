@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28/09/2026 17:58",
+  "lastUpdated": "28/09/2026 23:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -180,7 +180,7 @@
       {"Mã":"CLREIK1808","Ngày về":"18/08/2025","Sản phẩm":"IKEA Stakig clock\nTình trạng: Như ảnh\nKích thước: 4 x 1,8 x 16,5","Tình trạng":"Hết hàng","Thành tiền":211995},
       {"Mã":"LAWHIK1808","Ngày về":"18/08/2025","Sản phẩm":"Ikea SOLVINDEN\nTình trạng: Như ảnh, còn hộp, còn mới\nKích thước: 11 x 18 cm","Tình trạng":"Hết hàng","Thành tiền":244355},
       {"Mã":"KESDPI1808","Ngày về":"18/08/2025","Sản phẩm":"Sowden Kettile\nTình trạng: Như ảnh, còn hộp\nKích thước: 22 x 16,5 x 25 cm\nDung tích: 1,5L","Tình trạng":"Hết hàng"},
-      {"Mã":"LAGRIK1808","Ngày về":"18/08/2025","Sản phẩm":"Ikea Haraliden\n\nChất liệu: Nhựa\n\nPhân loại: Đèn bàn\n\nTÌnh trạng: Như ảnh\n\nKích thước: 210 x 80 x 460mm\n\nGiá: 650.000","Tình trạng":"Còn hàng","Thành tiền":251792,"Giá bán":650000},
+      {"Mã":"LAGRIK1808","Ngày về":"18/08/2025","Sản phẩm":"Ikea Haraliden\n\nChất liệu: Nhựa\n\nPhân loại: Đèn bàn\n\nTÌnh trạng: Như ảnh\n\nKích thước: 210 x 80 x 460mm\n\nGiá: 650.000","Tình trạng":"Hết hàng","Thành tiền":251792,"Giá bán":650000},
       {"Mã":"LABLIK1808","Ngày về":"18/08/2025","Sản phẩm":"Ikea Haraliden\nTÌnh trạng: Như ảnh\nKích thước: 210 x 80 x 460 cm","Tình trạng":"Còn hàng","Thành tiền":401302,"Giá bán":650000},
       {"Mã":"SBBRJN1808","Ngày về":"18/08/2025","Sản phẩm":"JNBYHOME STORAGE BOX\nTình trạng: Như ảnh, còn hộp\nKích thước: 18,3 x 18,3 x 2 cm","Tình trạng":"Hết hàng","Thành tiền":334235},
       {"Mã":"TRGOBL1808","Ngày về":"18/08/2025","Sản phẩm":"Trays Bathroom Decor - Bloomingdale's\nTình trạng: Như ảnh, \nKích thước: 30 x 15 x 4 cm","Tình trạng":"Hết hàng","Thành tiền":854347},
@@ -1732,7 +1732,7 @@
       {"Mã":"ANCỐ04092600","Ngày về":"04/09/2026","Sản phẩm":"Antibiotico Green Flash Cactus Tea Cup\n\nChất liệu: Ceramic\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 66 x 80mm\n\nGiá: 1.300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":649612,"Giá bán":1300000},
       {"Mã":"QUHỘ04092600","Ngày về":"04/09/2026","Sản phẩm":"Qualy Pear Pod\n\nChất liệu: Nhựa ABS\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 160 x 160 x 225mm\n\nGiá: 450.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":360492,"Giá bán":450000},
       {"Mã":"NOẤM04092600","Ngày về":"04/09/2026","Sản phẩm":"No brand Kettle\n\nChất liệu: Inox\n\nPhân Loại: Ấm trà\n\nTình trạng: Như ảnh\n\nKích thước: 320 x 220 x 120mm\n\nGiá: 1.400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":991333,"Giá bán":1400000},
-      {"Mã":"THCỜ04092600","Ngày về":"04/09/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp (có 1 quân cờ bị rụng tay nhưng vẫn lắp lại được và không bị ảnh hưởng khi chơi)\n\nKích thước: 370 x 280mm\n\nGiá: 1.700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1226900,"Giá bán":1700000},
+      {"Mã":"THCỜ04092600","Ngày về":"04/09/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp (có 1 quân cờ bị rụng tay nhưng vẫn lắp lại được và không bị ảnh hưởng khi chơi)\n\nKích thước: 370 x 280mm\n\nGiá: 1.700.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1226900,"Giá bán":1700000},
       {"Mã":"THCỜ04092601","Ngày về":"04/09/2026","Sản phẩm":"The Simpsons Chess Set Antiqued Metal Style\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 370 x 280mm\n\nGiá: 1.800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1358226,"Giá bán":1800000},
       {"Mã":"MEĐỒ04092600","Ngày về":"04/09/2026","Sản phẩm":"Melissa & Doug Fill & Top Donut Play Set\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh\n\nKích thước: 120 x 110 x 30mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":133430,"Giá bán":300000},
       {"Mã":"PYDA05092600","Ngày về":"05/09/2026","Sản phẩm":"Pylones Roulette à pizza Match'O - Brazil, Euro 2016\n\nChất liệu: Nhựa ABS, kim loại\n\nPhân Loại: Dao\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Người: 190 x 50mm\nDao: 70 x 70mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":628892,"Giá bán":800000},
