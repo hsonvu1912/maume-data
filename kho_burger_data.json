@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30/09/2026 14:04",
+  "lastUpdated": "30/09/2026 14:35",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1100,7 +1100,13 @@
       {"Mã":"LC-8102-210926","Ngày về":"21/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1650000},
       {"Mã":"LC-7453-290926","Ngày về":"29/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1583667},
       {"Mã":"LC-2954-290926","Ngày về":"29/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2622403},
-      {"Mã":"LC-8776-290926","Ngày về":"29/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2541895}
+      {"Mã":"LC-8776-290926","Ngày về":"29/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2541895},
+      {"Mã":"LC-9006-290926","Ngày về":"29/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":986024},
+      {"Mã":"LC-7487-290926","Ngày về":"29/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":853274},
+      {"Mã":"LC-7841-290926","Ngày về":"29/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":957115},
+      {"Mã":"LC-0924-290926","Ngày về":"29/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2656177},
+      {"Mã":"LC-7627-290926","Ngày về":"29/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":820364},
+      {"Mã":"LC-7082-290926","Ngày về":"29/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1341688}
     ]
   }
 }
