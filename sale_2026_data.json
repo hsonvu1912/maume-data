@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30/09/2026 13:43",
+  "lastUpdated": "30/09/2026 20:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -624,7 +624,9 @@
       {"Mã":"NOCỐ24092602","Ngày bán":"30/09/2026","Sản phẩm":"No brand Set of 2 Ribbed Green Tumblers","Giá nhập":122900,"Giá bán":280000,"Lãi":157100},
       {"Mã":"ALVẮ24092600","Ngày bán":"30/09/2026","Sản phẩm":"Alessi Juicy Salif","Giá nhập":1608001,"Giá bán":2500000,"Lãi":891999},
       {"Mã":"NOCỐ24092607","Ngày bán":"30/09/2026","Sản phẩm":"No brand Buttercup Blossom Mug","Giá nhập":2,"Giá bán":90000,"Lãi":89998},
-      {"Mã":"NOCỐ24092601","Ngày bán":"30/09/2026","Sản phẩm":"No brand Set of 2 Ribbed Green Tumblers","Giá nhập":122900,"Giá bán":280000,"Lãi":157100}
+      {"Mã":"NOCỐ24092601","Ngày bán":"30/09/2026","Sản phẩm":"No brand Set of 2 Ribbed Green Tumblers","Giá nhập":122900,"Giá bán":280000,"Lãi":157100},
+      {"Mã":"NOLY24092601","Ngày bán":"30/09/2026","Sản phẩm":"No brand Set of 2 Green Cocktail Glasses","Giá nhập":221122,"Giá bán":360000,"Lãi":138878},
+      {"Mã":"DOCH16092600","Ngày bán":"30/09/2026","Sản phẩm":"Doiy Cottage Candle Holder","Giá nhập":245632,"Giá bán":290000,"Lãi":44368}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
