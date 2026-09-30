@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30/09/2026 13:25",
+  "lastUpdated": "30/09/2026 14:26",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1819,7 +1819,12 @@
       {"Mã":"EGĐÈ24092600","Ngày về":"24/09/2026","Sản phẩm":"Eglo Girasole\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn tường\n\nTình trạng: Như ảnh, còn hộp, bao gồm 2 bóng E14\n\nKích thước: 310mm\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":168901,"Giá bán":350000},
       {"Mã":"ALVẮ24092600","Ngày về":"24/09/2026","Sản phẩm":"Alessi Juicy Salif\n\nChất liệu: Nhôm\n\nPhân Loại: Vắt cam\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 290 x 140mm\n\nGiá: 2.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1608001,"Giá bán":2500000},
       {"Mã":"NOLY24092612","Ngày về":"24/09/2026","Sản phẩm":"No brand Set of 2 Rhinestones Glasses\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 45 x 165mm\n\nGiá: 290.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":183201,"Giá bán":290000},
-      {"Mã":"NOCỐ24092607","Ngày về":"24/09/2026","Sản phẩm":"No brand Buttercup Blossom Mug\n\nChất liệu: Ceramic\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 130 x 100mm\n\nGiá: 90.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":2,"Giá bán":90000}
+      {"Mã":"NOCỐ24092607","Ngày về":"24/09/2026","Sản phẩm":"No brand Buttercup Blossom Mug\n\nChất liệu: Ceramic\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 130 x 100mm\n\nGiá: 90.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":2,"Giá bán":90000},
+      {"Mã":"29092600","Ngày về":"29/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":535693},
+      {"Mã":"29092600","Ngày về":"29/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":432689},
+      {"Mã":"29092600","Ngày về":"29/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1113368},
+      {"Mã":"29092600","Ngày về":"29/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":267736},
+      {"Mã":"29092600","Ngày về":"29/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1556282}
     ]
   }
 }
