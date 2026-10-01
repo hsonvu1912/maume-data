@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/10/2026 10:57",
+  "lastUpdated": "01/10/2026 11:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1824,10 +1824,10 @@
       {"Mã":"FR29092600","Ngày về":"29/09/2026","Sản phẩm":"Friends \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":432689},
       {"Mã":"IK29092600","Ngày về":"29/09/2026","Sản phẩm":"Ikea \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1113368},
       {"Mã":"29092600","Ngày về":"29/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":267736},
-      {"Mã":"29092600","Ngày về":"29/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1556282},
-      {"Mã":"HA30092600","Ngày về":"30/09/2026","Sản phẩm":"Hay \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":442200},
-      {"Mã":"30092600","Ngày về":"30/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh\n\nKích thước: 80 x 50mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":239900},
-      {"Mã":"30092600","Ngày về":"30/09/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh\n\nKích thước: 80 x 50mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":239900},
+      {"Mã":"KEĐỒ29092600","Ngày về":"29/09/2026","Sản phẩm":"Kellogg's \n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 100 x 90 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1556282},
+      {"Mã":"HAMÓ30092600","Ngày về":"30/09/2026","Sản phẩm":"Hay Iso Hooks by Lex Pott\n\nChất liệu: Gỗ\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 30 x 30 x 20mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":442200},
+      {"Mã":"KH30092600","Ngày về":"30/09/2026","Sản phẩm":"Chất liệu: Kim loại\n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 50mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":239900},
+      {"Mã":"KH30092601","Ngày về":"30/09/2026","Sản phẩm":"Chất liệu: Kim loại\n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 50mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":239900},
       {"Mã":"USCỜ30092600","Ngày về":"30/09/2026","Sản phẩm":"USAOPOLY Super Mario Chess Collector's Edition\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 270 x 80 x 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":543800},
       {"Mã":"LABỘ30092600","Ngày về":"30/09/2026","Sản phẩm":"La Prairie Chess Set\n\nChất liệu: Gỗ\n\nPhân Loại: Bộ cờ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 440 x 100 x 75\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":679700}
     ]
