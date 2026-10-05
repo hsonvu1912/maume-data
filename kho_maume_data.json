@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/10/2026 13:55",
+  "lastUpdated": "05/10/2026 14:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1832,8 +1832,13 @@
       {"Mã":"LABỘ30092600","Ngày về":"30/09/2026","Sản phẩm":"La Prairie Chess Set\n\nChất liệu: Gỗ\n\nPhân Loại: Bộ cờ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 440 x 100 x 75\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":679700}
     ],
     "Tháng 10/2026": [
-      {"Mã":"01102600","Ngày về":"01/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":708366},
-      {"Mã":"01102600","Ngày về":"01/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1435400}
+      {"Mã":"RO01102600","Ngày về":"01/10/2026","Sản phẩm":"Roart \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":708366},
+      {"Mã":"01102600","Ngày về":"01/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1435400},
+      {"Mã":"05102600","Ngày về":"05/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":16000},
+      {"Mã":"05102600","Ngày về":"05/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":19200},
+      {"Mã":"05102600","Ngày về":"05/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":127033},
+      {"Mã":"05102600","Ngày về":"05/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":127033},
+      {"Mã":"05102600","Ngày về":"05/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":127033}
     ]
   }
 }
