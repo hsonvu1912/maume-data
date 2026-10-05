@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/10/2026 15:43",
+  "lastUpdated": "06/10/2026 06:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -629,7 +629,11 @@
       {"Mã":"DOCH16092600","Ngày bán":"30/09/2026","Sản phẩm":"Doiy Cottage Candle Holder","Giá nhập":245632,"Giá bán":290000,"Lãi":44368}
     ],
     "SALE_MauMe_2026-10": [
-      {"Mã":"ALMỞ18092600","Ngày bán":"04/10/2026","Sản phẩm":"Alessi Anna G","Giá nhập":1035990,"Giá bán":1500000,"Lãi":464010}
+      {"Mã":"ALMỞ18092600","Ngày bán":"04/10/2026","Sản phẩm":"Alessi Anna G","Giá nhập":1035990,"Giá bán":1500000,"Lãi":464010},
+      {"Mã":"NOCỐ24092603","Ngày bán":"06/10/2026","Sản phẩm":"No brand Frosted Ombre Tumbler","Giá nhập":53962,"Giá bán":110000,"Lãi":56038},
+      {"Mã":"PACỐ04092600","Ngày bán":"06/10/2026","Sản phẩm":"Pantone Mug - 289","Giá nhập":300792,"Giá bán":550000,"Lãi":249208},
+      {"Mã":"SEBÌ05082602","Ngày bán":"06/10/2026","Sản phẩm":"Serax x Roos Van De Velde Flower Vase Wthite Perfect Imperfection","Giá nhập":184678,"Giá bán":380000,"Lãi":195322},
+      {"Mã":"SLVỢ18092600","Ngày bán":"06/10/2026","Sản phẩm":"Slazenger Royal Crown","Giá nhập":829331,"Giá bán":830000,"Lãi":669}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
