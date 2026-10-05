@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/10/2026 15:34",
+  "lastUpdated": "05/10/2026 14:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1116,6 +1116,19 @@
       {"Mã":"LC-8477-290926","Ngày về":"29/09/2026","Sản phẩm":"LC-8477-290926\nblack size M bản đời mới 2 ngăn phụ cond siêu đẹp cứng cáp ít qua sdung ạ bề mặt vài vết bẩn nhỏ xíu xiu k đáng kể. KT 41 x 26 x 16\nGiá: 2.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1558195,"Giá bán":2100000},
       {"Mã":"LC-1885-290926","Ngày về":"29/09/2026","Sản phẩm":"LC-1885-290926\nblack size L tổng quan cond tốt, phần đáy nhăn nhẹ do qua bảo quản lưu trữ.KT 46 x 29 x 20\nGiá: 1.550.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":866366,"Giá bán":1550000},
       {"Mã":"CH-3009-01-300926","Ngày về":"30/09/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2347479}
+    ],
+    "Tháng 10": [
+      {"Mã":"LC-7654-011026","Ngày về":"01/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1195000},
+      {"Mã":"LC-5338-011026","Ngày về":"01/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1581000},
+      {"Mã":"LC-1440-011026","Ngày về":"01/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1176800},
+      {"Mã":"LC-0279-011026","Ngày về":"01/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1124000},
+      {"Mã":"LC-2910-011026","Ngày về":"01/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1316824},
+      {"Mã":"LC-4099-011026","Ngày về":"01/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1290148},
+      {"Mã":"LC-5316-011026","Ngày về":"01/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":648800},
+      {"Mã":"LC-7596-011026","Ngày về":"01/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1316824},
+      {"Mã":"LC-4983-011026","Ngày về":"01/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1476000},
+      {"Mã":"LC-8194-011026","Ngày về":"01/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1281800},
+      {"Mã":"CH-0210-01-021026","Ngày về":"02/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"}
     ]
   }
 }
