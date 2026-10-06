@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/10/2026 14:55",
+  "lastUpdated": "06/10/2026 16:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -370,7 +370,7 @@
       {"Mã":"CLWHMO0310","Ngày về":"03/10/2025","Sản phẩm":"MoMA Clock Kit\nTình trạng: Như ảnh, còn hộp\nKích thước: 20.32 x 10.16 x 10.16 cm","Tình trạng":"Hết hàng","Thành tiền":1141200},
       {"Mã":"CLYLYA0310","Ngày về":"03/10/2025","Sản phẩm":"Yamato Kogei Wall Clock\nTình trạng: Như ảnh\nKích thước: 29 x 26 x 4,5cm","Tình trạng":"Hết hàng","Thành tiền":855600},
       {"Mã":"CLCRXX0310","Ngày về":"03/10/2025","Sản phẩm":"Flying Tiger Clip Clock Wall Clock\nTình trạng: Như ảnh\nKích thước: D 25cm","Tình trạng":"Hết hàng","Thành tiền":424200},
-      {"Mã":"CLBLQA0310","Ngày về":"03/10/2025","Sản phẩm":"Pyramid Quartz Triangular Table Clock\n\nChất liệu: Nhựa\n\nPhân loại: Đồng hồ\n\nTình trạng: Như ảnh\n\nKích thước: 207 x 178 x 35mm\n\nGiá: 1.550.000","Tình trạng":"Còn hàng","Thành tiền":1201200,"Giá bán":1550000},
+      {"Mã":"CLCRXX0311","Ngày về":"03/10/2025","Sản phẩm":"Pyramid Quartz Triangular Table Clock\n\nChất liệu: Nhựa\n\nPhân loại: Đồng hồ\n\nTình trạng: Như ảnh\n\nKích thước: 207 x 178 x 35mm\n\nGiá: 1.550.000","Tình trạng":"Còn hàng","Thành tiền":1201200,"Giá bán":1550000},
       {"Mã":"PIWHGU0310","Ngày về":"03/10/2025","Sản phẩm":"Guzzini pitcher Tiffany Collection\nTình trạng: Như ảnh, còn hộp\nKích thước: 18,5 x 11,5 x 25,5cm","Tình trạng":"Hết hàng","Thành tiền":808200},
       {"Mã":"LAPIIK0310","Ngày về":"03/10/2025","Sản phẩm":"IKEA x Gustaf Westman STRÅLA LED Decorative Table Lamp\nTình trạng: Như ảnh, còn hộp\nKích thước: d23x 5 cm","Tình trạng":"Hết hàng","Thành tiền":697000},
       {"Mã":"LAPIIK0310A","Ngày về":"03/10/2025","Sản phẩm":"IKEA x Gustaf Westman STRÅLA LED Decorative Table Lamp\nTình trạng: Như ảnh, còn hộp\nKích thước: d23x 5 cm","Tình trạng":"Hết hàng","Thành tiền":697000},
