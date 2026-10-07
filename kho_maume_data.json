@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/10/2026 14:55",
+  "lastUpdated": "07/10/2026 15:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -360,7 +360,7 @@
       {"Mã":"LAREIK2909","Ngày về":"29/08/2025","Sản phẩm":"IKEA Fillsta table lamp\nTình trạng: Như ảnh, còn hộp\nKích thước: d27 x 31cm","Tình trạng":"Hết hàng","Thành tiền":438084}
     ],
     "Tháng 10/2025": [
-      {"Mã":"PLPIIK0310","Ngày về":"03/10/2025","Sản phẩm":"IKEA VINTERFINT\nPlate\nTình trạng: Như ảnh, còn hộp\nKích thước: 27 x 27 x 3cm","Tình trạng":"Hết hàng","Thành tiền":1050000},
+      {"Mã":"PLPIIK0310","Ngày về":"03/10/2025","Sản phẩm":"IKEA VINTERFINT\nPlate\nTình trạng: Như ảnh, còn hộp\nKích thước: 27 x 27 x 3cm","Tình trạng":"Còn hàng","Thành tiền":1050000},
       {"Mã":"PLPIIK0310A","Ngày về":"03/10/2025","Sản phẩm":"IKEA VINTERFINT\nPlate\nTình trạng: Như ảnh, còn hộp\nKích thước: 27 x 27cm","Tình trạng":"Hết hàng"},
       {"Mã":"VAPIIK0310","Ngày về":"03/10/2025","Sản phẩm":"IKEA VINTERFINT Vase\nTình trạng: Như ảnh, còn hộp\nKích thước: d32 x 31cm","Tình trạng":"Hết hàng","Thành tiền":1358000},
       {"Mã":"VAPIIK0310A","Ngày về":"03/10/2025","Sản phẩm":"IKEA VINTERFINT Vase\nTình trạng: Như ảnh, còn hộp\nKích thước: d32 x 31cm","Tình trạng":"Hết hàng","Thành tiền":1358000},
