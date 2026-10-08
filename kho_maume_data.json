@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08/10/2026 11:25",
+  "lastUpdated": "08/10/2026 12:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1840,7 +1840,12 @@
       {"Mã":"NOÔ05102601","Ngày về":"05/10/2026","Sản phẩm":"No brand Carrot Umbrella\n\nChất liệu: Nhựa, vài, kim loại\n\nPhân Loại: Ô\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 80 x 270mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":127033},
       {"Mã":"NOÔ05102602","Ngày về":"05/10/2026","Sản phẩm":"No brand Eggplant Umbella\n\nChất liệu: Nhựa, vài, kim loại\n\nPhân Loại: Ô\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 80 x 300mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":127033},
       {"Mã":"07102600","Ngày về":"07/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":487800},
-      {"Mã":"07102600","Ngày về":"07/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1139500}
+      {"Mã":"07102600","Ngày về":"07/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1139500},
+      {"Mã":"07102600","Ngày về":"07/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1209206},
+      {"Mã":"07102600","Ngày về":"07/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":311233},
+      {"Mã":"07102600","Ngày về":"07/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":639954},
+      {"Mã":"07102600","Ngày về":"07/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":572665},
+      {"Mã":"07102600","Ngày về":"07/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":346666}
     ]
   }
 }
