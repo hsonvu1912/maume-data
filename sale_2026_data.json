@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08/10/2026 14:13",
+  "lastUpdated": "08/10/2026 16:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -635,7 +635,8 @@
       {"Mã":"SEBÌ05082602","Ngày bán":"06/10/2026","Sản phẩm":"Serax x Roos Van De Velde Flower Vase Wthite Perfect Imperfection","Giá nhập":184678,"Giá bán":380000,"Lãi":195322},
       {"Mã":"SLVỢ18092600","Ngày bán":"06/10/2026","Sản phẩm":"Slazenger Royal Crown","Giá nhập":829331,"Giá bán":830000,"Lãi":669},
       {"Mã":"IKĐÈ18092601","Ngày bán":"07/10/2026","Sản phẩm":"Ikea Svirvel","Giá nhập":1275252,"Giá bán":1800000,"Lãi":524748},
-      {"Mã":"NOLY24092602","Ngày bán":"08/10/2026","Sản phẩm":"No brand Black Martini Glass","Giá nhập":141522,"Giá bán":210000,"Lãi":68478}
+      {"Mã":"NOLY24092602","Ngày bán":"08/10/2026","Sản phẩm":"No brand Black Martini Glass","Giá nhập":141522,"Giá bán":210000,"Lãi":68478},
+      {"Mã":"WIVỢ18092601","Ngày bán":"08/10/2026","Sản phẩm":"Wilson Jimmy Conners Champ","Giá nhập":1155963,"Giá bán":1600000,"Lãi":444037}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
