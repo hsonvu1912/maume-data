@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09/10/2026 15:26",
+  "lastUpdated": "09/10/2026 15:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1821,9 +1821,9 @@
       {"Mã":"NOLY24092612","Ngày về":"24/09/2026","Sản phẩm":"No brand Set of 2 Rhinestones Glasses\n\nChất liệu: Thủy tinh\n\nPhân Loại: Ly\n\nTình trạng: Như ảnh\n\nKích thước: 45 x 165mm\n\nGiá: 290.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":183201,"Giá bán":290000},
       {"Mã":"NOCỐ24092607","Ngày về":"24/09/2026","Sản phẩm":"No brand Buttercup Blossom Mug\n\nChất liệu: Ceramic\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 130 x 100mm\n\nGiá: 90.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":2,"Giá bán":90000},
       {"Mã":"NOMÓ29092600","Ngày về":"29/09/2026","Sản phẩm":"Normann Copenhagen  Sticks Hooks\n\nChất liệu: Gỗ\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 155 x 125 x 145mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":535693,"Giá bán":800000},
-      {"Mã":"FRGƯ29092600","Ngày về":"29/09/2026","Sản phẩm":"Friends Light Up Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 220 x 190 x 250mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":432689},
+      {"Mã":"FRGƯ29092600","Ngày về":"29/09/2026","Sản phẩm":"Friends Light Up Mirror\n\nChất liệu: Nhựa\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 220 x 190 x 250mm\n\nGiá: 1.100.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":432689,"Giá bán":1100000},
       {"Mã":"IKĐÈ29092600","Ngày về":"29/09/2026","Sản phẩm":"Ikea HOJ\n\nChất liệu: Kim loại, nhựa\n\nPhân Loại: Đèn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1113368},
-      {"Mã":"IKMÓ29092600","Ngày về":"29/09/2026","Sản phẩm":"Ikea BASTIS Hook\n\nChất liệu: Nhựa, cao su\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 90 x 50 x 110mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":267736},
+      {"Mã":"IKMÓ29092600","Ngày về":"29/09/2026","Sản phẩm":"Ikea BASTIS Hook\n\nChất liệu: Nhựa, cao su\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh\n\nKích thước: 90 x 50 x 110mm\n\nGiá: 300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":267736,"Giá bán":300000},
       {"Mã":"KEĐỒ29092600","Ngày về":"29/09/2026","Sản phẩm":"Kellogg's Corn Flakes Rooster Alarm Clock\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh\n\nKích thước: 100 x 90 x 220mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1556282},
       {"Mã":"HAMÓ30092600","Ngày về":"30/09/2026","Sản phẩm":"Hay Iso Hooks by Lex Pott\n\nChất liệu: Gỗ\n\nPhân Loại: Móc treo gắn tường\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 30 x 30 x 20mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":442200},
       {"Mã":"SIKH30092600","Ngày về":"30/09/2026","Sản phẩm":"Simply Products Photo Frame\n\nChất liệu: Kim loại\n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: 80 x 50mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":239900},
