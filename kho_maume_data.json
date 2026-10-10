@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/10/2026 10:25",
+  "lastUpdated": "10/10/2026 13:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1832,7 +1832,7 @@
       {"Mã":"LABỘ30092600","Ngày về":"30/09/2026","Sản phẩm":"La Prairie Chess Set\n\nChất liệu: Gỗ\n\nPhân Loại: Bộ cờ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 440 x 100 x 75\n\nGiá: 2.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":679700,"Giá bán":2500000}
     ],
     "Tháng 10/2026": [
-      {"Mã":"ROBỘ01102600","Ngày về":"01/10/2026","Sản phẩm":"Roart Dancing On Someone's Death Glasses\n\nChất liệu: Thủy tinh\n\nPhân Loại: Bộ cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: cốc to: 145 x 60mm\ncốc nhỏ: 90 x 80mm\n\nGiá: 990.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":708366,"Giá bán":990000},
+      {"Mã":"ROBỘ01102600","Ngày về":"01/10/2026","Sản phẩm":"Roart Dancing On Someone's Death Glasses\n\nChất liệu: Thủy tinh\n\nPhân Loại: Bộ cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: cốc to: 145 x 60mm\ncốc nhỏ: 90 x 80mm\n\nGiá: 990.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":708366,"Giá bán":990000},
       {"Mã":"THCỜ01102600","Ngày về":"01/10/2026","Sản phẩm":"The Simpsons 3-D Chess Set\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 395 x 295mm\n\nGiá: 2.100.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1435400,"Giá bán":2100000},
       {"Mã":"ZAGẤ05102600","Ngày về":"05/10/2026","Sản phẩm":"Zara Home Kids' Seersucker Heart Cushion\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh\n\nKích thước: 350 x 350mm\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":272750,"Giá bán":350000},
       {"Mã":"HUGẤ05102600","Ngày về":"05/10/2026","Sản phẩm":"HUGKIS x Adult swim Rick & Morty Plush Toy Pickle Rick\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh\n\nKích thước: 500 x 160mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":297863,"Giá bán":550000},
@@ -1843,9 +1843,9 @@
       {"Mã":"STQU07102600","Ngày về":"07/10/2026","Sản phẩm":"Stadler Form Tim Fan\n\nChất liệu: Nhựa, kim loại\n\nPhân Loại: Quạt\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 355 x 130 x 360mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1139500,"Giá bán":1500000},
       {"Mã":"THCỜ07102600","Ngày về":"07/10/2026","Sản phẩm":"The Simpsons Chess Set in Tin\n\nChất liệu: Hộp thiếc, quân cờ nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 380 x 380mm\n\nGiá: 2.000.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1209206,"Giá bán":2000000},
       {"Mã":"IKKH07102600","Ngày về":"07/10/2026","Sản phẩm":"Ikea Karleken - 2015\n\nChất liệu: Nhựa\n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: 180 x 200mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":311233,"Giá bán":600000},
-      {"Mã":"NOGẠ07102600","Ngày về":"07/10/2026","Sản phẩm":"No brand Vintage Brass Horse Head Ashtray\n\nChất liệu: Đồng\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 165 x 160 x 35mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":639954,"Giá bán":1500000},
+      {"Mã":"NOGẠ07102600","Ngày về":"07/10/2026","Sản phẩm":"No brand Vintage Brass Horse Head Ashtray\n\nChất liệu: Đồng\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 165 x 160 x 35mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":639954,"Giá bán":1500000},
       {"Mã":"ALBÓ07102600","Ngày về":"07/10/2026","Sản phẩm":"Alessi Apostrophe Orange Peeler - GCH02\n\nChất liệu: Thép không gỉ 18/10\n\nPhân Loại: Bóc vỏ cam\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 25 x 60mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":572665,"Giá bán":800000},
-      {"Mã":"NOGẠ07102601","Ngày về":"07/10/2026","Sản phẩm":"No brand Vintage Wood Inlay Brass Ashtray\n\nChất liệu: Gỗ\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 75 x 75 x 30mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":346666,"Giá bán":700000}
+      {"Mã":"NOGẠ07102601","Ngày về":"07/10/2026","Sản phẩm":"No brand Vintage Wood Inlay Brass Ashtray\n\nChất liệu: Gỗ\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 75 x 75 x 30mm\n\nGiá: 700.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":346666,"Giá bán":700000}
     ]
   }
 }
