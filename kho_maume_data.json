@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/10/2026 13:25",
+  "lastUpdated": "10/10/2026 20:26",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1482,7 +1482,7 @@
       {"Mã":"IKĐÈ27062601","Ngày về":"27/06/2026","Sản phẩm":"Ikea PS 2026 Floor Uplighter - Red\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh, còn hộp, không kèm bóng GU10\n\nKích thước: 279 x 1828mm\nDài dây điện: 3810mm\n\nGiá: 2.600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1785636,"Giá bán":2600000},
       {"Mã":"HAKÉ27062600","Ngày về":"27/06/2026","Sản phẩm":"Hay Scissors - Black\n\nChất liệu: Kim loại\n\nPhân Loại: Kéo\n\nTình trạng: Như ảnh\n\nKích thước: 200 x 60mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":161996,"Giá bán":350000},
       {"Mã":"HAKÉ27062601","Ngày về":"27/06/2026","Sản phẩm":"Hay Scissors - Black\n\nChất liệu: Kim loại\n\nPhân Loại: Kéo\n\nTình trạng: Như ảnh\n\nKích thước: 200 x 60mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":161996,"Giá bán":350000},
-      {"Mã":"HAKÉ27062602","Ngày về":"27/06/2026","Sản phẩm":"Hay Scissors - Black\n\nChất liệu: Kim loại\n\nPhân Loại: Kéo\n\nTình trạng: Như ảnh\n\nKích thước: 200 x 60mm\n\nGiá: 350.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":161996,"Giá bán":350000},
+      {"Mã":"HAKÉ27062602","Ngày về":"27/06/2026","Sản phẩm":"Hay Scissors - Black\n\nChất liệu: Kim loại\n\nPhân Loại: Kéo\n\nTình trạng: Như ảnh\n\nKích thước: 200 x 60mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":161996,"Giá bán":350000},
       {"Mã":"NOBÌ27062600","Ngày về":"27/06/2026","Sản phẩm":"Normann Copenhagen  Swing Vase\n\nChất liệu: Thủy tinh\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d100 x 305mm\n\nGiá: 800.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":370804,"Giá bán":800000},
       {"Mã":"HABỘ27062600","Ngày về":"27/06/2026","Sản phẩm":"Hay MVS Cutlery - Yellow\n\nChất liệu: Kim loại\n\nPhân Loại: Bộ dụng cụ ăn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Nĩa: 193 × 24 cm\nDao: 235 x18 cm\nThìa: 190 × 40mm\nThìa cà phê: 140 × 33mm\n\nGiá: 700.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":419927,"Giá bán":700000},
       {"Mã":"HABỘ27062601","Ngày về":"27/06/2026","Sản phẩm":"Hay MVS Cutlery - Blue\n\nChất liệu: Kim loại\n\nPhân Loại: Bộ dụng cụ ăn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Nĩa: 193 × 24 cm\nDao: 235 x18 cm\nThìa: 190 × 40mm\nThìa cà phê: 140 × 33mm\n\nGiá: 700.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":419927,"Giá bán":700000},
