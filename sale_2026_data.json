@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/10/2026 22:43",
+  "lastUpdated": "11/10/2026 14:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -643,7 +643,12 @@
       {"Mã":"ROBÌ14082603","Ngày bán":"10/10/2026","Sản phẩm":"Rosenthal Tütenvase","Giá nhập":379759,"Giá bán":900000,"Lãi":520241},
       {"Mã":"NOGẠ07102600","Ngày bán":"10/10/2026","Sản phẩm":"No brand Vintage Brass Horse Head Ashtray","Giá nhập":639954,"Giá bán":1500000,"Lãi":860046},
       {"Mã":"NOGẠ07102601","Ngày bán":"10/10/2026","Sản phẩm":"No brand Vintage Wood Inlay Brass Ashtray","Giá nhập":346666,"Giá bán":700000,"Lãi":353334},
-      {"Mã":"ROBỘ01102600","Ngày bán":"10/10/2026","Sản phẩm":"Roart Dancing On Someone's Death Glasses","Giá nhập":708366,"Giá bán":990000,"Lãi":281634}
+      {"Mã":"ROBỘ01102600","Ngày bán":"10/10/2026","Sản phẩm":"Roart Dancing On Someone's Death Glasses","Giá nhập":708366,"Giá bán":990000,"Lãi":281634},
+      {"Mã":"SIKH30092600","Ngày bán":"11/10/2026","Sản phẩm":"Simply Products Photo Frame","Giá nhập":239900,"Giá bán":450000,"Lãi":210100},
+      {"Mã":"NLY05082601","Ngày bán":"11/10/2026","Sản phẩm":"No brand Bryce Amber Swirl","Giá nhập":195557,"Giá bán":250000,"Lãi":54443},
+      {"Mã":"NOLY24092605","Ngày bán":"11/10/2026","Sản phẩm":"No brand Set of 2 Smoley Grey Champagne Flutes","Giá nhập":181322,"Giá bán":390000,"Lãi":208678},
+      {"Mã":"NOLY24092612","Ngày bán":"11/10/2026","Sản phẩm":"No brand Set of 2 Rhinestones Glasses","Giá nhập":183201,"Giá bán":290000,"Lãi":106799},
+      {"Mã":"TANẾ04092600","Ngày bán":"11/10/2026","Sản phẩm":"Tamburins Holiday Egg Candle","Giá nhập":291074,"Giá bán":400000,"Lãi":108926}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
