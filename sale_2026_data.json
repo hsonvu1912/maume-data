@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11/10/2026 14:13",
+  "lastUpdated": "11/10/2026 15:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -648,7 +648,13 @@
       {"Mã":"NLY05082601","Ngày bán":"11/10/2026","Sản phẩm":"No brand Bryce Amber Swirl","Giá nhập":195557,"Giá bán":250000,"Lãi":54443},
       {"Mã":"NOLY24092605","Ngày bán":"11/10/2026","Sản phẩm":"No brand Set of 2 Smoley Grey Champagne Flutes","Giá nhập":181322,"Giá bán":390000,"Lãi":208678},
       {"Mã":"NOLY24092612","Ngày bán":"11/10/2026","Sản phẩm":"No brand Set of 2 Rhinestones Glasses","Giá nhập":183201,"Giá bán":290000,"Lãi":106799},
-      {"Mã":"TANẾ04092600","Ngày bán":"11/10/2026","Sản phẩm":"Tamburins Holiday Egg Candle","Giá nhập":291074,"Giá bán":400000,"Lãi":108926}
+      {"Mã":"TANẾ04092600","Ngày bán":"11/10/2026","Sản phẩm":"Tamburins Holiday Egg Candle","Giá nhập":291074,"Giá bán":400000,"Lãi":108926},
+      {"Mã":"STQU07102600","Ngày bán":"11/10/2026","Sản phẩm":"Stadler Form Tim Fan","Giá nhập":1139500,"Giá bán":1500000,"Lãi":360500},
+      {"Mã":"DOCỐ06062600","Ngày bán":"11/10/2026","Sản phẩm":"Doiy Kitty Black","Giá nhập":1207380,"Giá bán":1600000,"Lãi":392620},
+      {"Mã":"KIMỞ07102600","Ngày bán":"11/10/2026","Sản phẩm":"Kikkerland Day of the Dead Corkscrew","Giá nhập":487800,"Giá bán":1400000,"Lãi":912200},
+      {"Mã":"STCỐ24042600","Ngày bán":"11/10/2026","Sản phẩm":"Starbucks 2022 Sugar Skull","Giá nhập":362064,"Giá bán":210000,"Lãi":-152064},
+      {"Mã":"NOLY24092603","Ngày bán":"11/10/2026","Sản phẩm":"No brand Set of 2 Champagne Flutes With Knotted Sterms","Giá nhập":181322,"Giá bán":390000,"Lãi":208678},
+      {"Mã":"IKMÓ18092600","Ngày bán":"11/10/2026","Sản phẩm":"Ikea Frän designed by Ehlén Johansson - 1990s","Giá nhập":1372234,"Giá bán":1900000,"Lãi":527766}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
