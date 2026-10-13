@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/10/2026 12:55",
+  "lastUpdated": "13/10/2026 13:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1846,12 +1846,12 @@
       {"Mã":"NOGẠ07102600","Ngày về":"07/10/2026","Sản phẩm":"No brand Vintage Brass Horse Head Ashtray\n\nChất liệu: Đồng\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 165 x 160 x 35mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":639954,"Giá bán":1500000},
       {"Mã":"ALBÓ07102600","Ngày về":"07/10/2026","Sản phẩm":"Alessi Apostrophe Orange Peeler - GCH02\n\nChất liệu: Thép không gỉ 18/10\n\nPhân Loại: Bóc vỏ cam\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 25 x 60mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":572665,"Giá bán":800000},
       {"Mã":"NOGẠ07102601","Ngày về":"07/10/2026","Sản phẩm":"No brand Vintage Wood Inlay Brass Ashtray\n\nChất liệu: Gỗ\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 75 x 75 x 30mm\n\nGiá: 700.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":346666,"Giá bán":700000},
-      {"Mã":"BỘ11102600","Ngày về":"11/10/2026","Sản phẩm":"Chất liệu: Giấy\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp, thiếu một quân số 6\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":249466},
-      {"Mã":"BỘ11102601","Ngày về":"11/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":498369},
-      {"Mã":"BỘ11102602","Ngày về":"11/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":628768},
-      {"Mã":"11102600","Ngày về":"11/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1025241},
-      {"Mã":"SÁ11102600","Ngày về":"11/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Sách\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":420278},
-      {"Mã":"11102600","Ngày về":"11/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":413566}
+      {"Mã":"WABỘ11102600","Ngày về":"11/10/2026","Sản phẩm":"Waddingtons x Adult swim Rick & Morty Playing Cards\n\nChất liệu: Giấy\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp, thiếu một quân số 6\n\nKích thước: 90 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":249466},
+      {"Mã":"THBỘ11102600","Ngày về":"11/10/2026","Sản phẩm":"The Simpsons Playing Cards\n\nChất liệu: Giấy\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":498369},
+      {"Mã":"THBỘ11102601","Ngày về":"11/10/2026","Sản phẩm":"The Simpsons Deluxe Poker Set\n\nChất liệu: Hộp thiếc, bài giấy, chips nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Hộp: 200 x 170 x 65mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":628768},
+      {"Mã":"GUXÔ11102600","Ngày về":"11/10/2026","Sản phẩm":"Guzzini Amanda\n\nChất liệu: Nhựa\n\nPhân Loại: Xô Đá\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 170 x 170 x 170mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1025241},
+      {"Mã":"MASÁ11102600","Ngày về":"11/10/2026","Sản phẩm":"Matisse Cut-outs by Gilles Néret\n\nChất liệu: Giấy\n\nPhân Loại: Sách\n\nTình trạng: Như ảnh\n\nKích thước: 230 x 190mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":420278},
+      {"Mã":"WHCỜ11102600","Ngày về":"11/10/2026","Sản phẩm":"WHSmith Travel Chess Set In A Durable Case\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 230 x 160 x 40mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":413566}
     ]
   }
 }
