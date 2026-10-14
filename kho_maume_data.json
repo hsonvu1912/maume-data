@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/10/2026 17:25",
+  "lastUpdated": "14/10/2026 18:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1856,8 +1856,8 @@
       {"Mã":"EGĐÈ13102601","Ngày về":"13/10/2026","Sản phẩm":"Eglo IDA 13285\n\nChất liệu: Giấy, kim loại\n\nPhân Loại: Đèn sàn\n\nTình trạng: Như ảnh, còn hộp, kèm một bóng E28\n\nKích thước: 230 x 710mm\n\nGiá: 650.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":223100,"Giá bán":650000},
       {"Mã":"EGĐÈ13102602","Ngày về":"13/10/2026","Sản phẩm":"Eglo Girasole Nuovo\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, kèm hai bóng G9, 1 bóng led và 1 bóng dây tóc \n\nKích thước: 130 x 450mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":241500,"Giá bán":800000},
       {"Mã":"EGĐÈ13102603","Ngày về":"13/10/2026","Sản phẩm":"Eglo Girasole Nuovo\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, kèm hai bóng G9, 1 bóng led và 1 bóng dây tóc \n\nKích thước: 130 x 450mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":241500,"Giá bán":800000},
-      {"Mã":"13102600","Ngày về":"13/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":596600},
-      {"Mã":"13102600","Ngày về":"13/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":471000},
+      {"Mã":"NOKH13102600","Ngày về":"13/10/2026","Sản phẩm":"Nousaku KAGO\n\nChất liệu: Thiếc\n\nPhân Loại: Khay\n\nTình trạng: Mới\n\nKích thước: 200 x 200mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":596600},
+      {"Mã":"SHGƯ13102600","Ngày về":"13/10/2026","Sản phẩm":"Shiseido Camélia Supérieur '97\n\nChất liệu: Kim loại\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 220 x 130mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":471000},
       {"Mã":"13102600","Ngày về":"13/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"}
     ]
   }
