@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/10/2026 18:25",
+  "lastUpdated": "15/10/2026 13:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1846,8 +1846,8 @@
       {"Mã":"NOGẠ07102600","Ngày về":"07/10/2026","Sản phẩm":"No brand Vintage Brass Horse Head Ashtray\n\nChất liệu: Đồng\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 165 x 160 x 35mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":654869,"Giá bán":1500000},
       {"Mã":"ALBÓ07102600","Ngày về":"07/10/2026","Sản phẩm":"Alessi Apostrophe Orange Peeler - GCH02\n\nChất liệu: Thép không gỉ 18/10\n\nPhân Loại: Bóc vỏ cam\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 25 x 60mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":588417,"Giá bán":800000},
       {"Mã":"NOGẠ07102601","Ngày về":"07/10/2026","Sản phẩm":"No brand Vintage Wood Inlay Brass Ashtray\n\nChất liệu: Gỗ\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 75 x 75 x 30mm\n\nGiá: 700.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":354924,"Giá bán":700000},
-      {"Mã":"WABỘ11102600","Ngày về":"11/10/2026","Sản phẩm":"Waddingtons x Adult swim Rick & Morty Playing Cards\n\nChất liệu: Giấy\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp, thiếu một quân số 6\n\nKích thước: 90 x 60mm\n\nGiá: 550.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":255526,"Giá bán":550000},
-      {"Mã":"THBỘ11102600","Ngày về":"11/10/2026","Sản phẩm":"The Simpsons Playing Cards\n\nChất liệu: Giấy\n\nPhân Loại: Bộ bài\n\nTình trạng: Mới\n\nKích thước: 90 x 60mm\n\nGiá: 750.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":511184,"Giá bán":750000},
+      {"Mã":"WABỘ11102600","Ngày về":"11/10/2026","Sản phẩm":"Waddingtons x Adult swim Rick & Morty Playing Cards\n\nChất liệu: Giấy\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp, thiếu một quân số 6\n\nKích thước: 90 x 60mm\n\nGiá: 450.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":255526,"Giá bán":450000},
+      {"Mã":"THBỘ11102600","Ngày về":"11/10/2026","Sản phẩm":"The Simpsons Playing Cards\n\nChất liệu: Giấy\n\nPhân Loại: Bộ bài\n\nTình trạng: Mới\n\nKích thước: 90 x 60mm\n\nGiá: 650.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":511184,"Giá bán":650000},
       {"Mã":"THBỘ11102601","Ngày về":"11/10/2026","Sản phẩm":"The Simpsons Deluxe Poker Set\n\nChất liệu: Hộp thiếc, bài giấy, chips nhựa\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Hộp: 200 x 170 x 65mm\n\nGiá: 990.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":628768,"Giá bán":990000},
       {"Mã":"GUXÔ11102600","Ngày về":"11/10/2026","Sản phẩm":"Guzzini Amanda\n\nChất liệu: Nhựa\n\nPhân Loại: Xô Đá\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 170 x 170 x 170mm\n\nGiá: 1.300.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1045319,"Giá bán":1300000},
       {"Mã":"MASÁ11102600","Ngày về":"11/10/2026","Sản phẩm":"Taschen Matisse Cut-outs by Gilles Néret\n\nChất liệu: Giấy\n\nPhân Loại: Sách\n\nTình trạng: Như ảnh\n\nKích thước: 230 x 190mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":429326,"Giá bán":600000},
