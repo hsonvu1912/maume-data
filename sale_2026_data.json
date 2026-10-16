@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/10/2026 23:43",
+  "lastUpdated": "17/10/2026 00:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -659,7 +659,8 @@
       {"Mã":"USCỜ30092600","Ngày bán":"16/10/2026","Sản phẩm":"USAOPOLY Super Mario Chess Collector's Edition","Giá nhập":543800,"Giá bán":950000,"Lãi":406200},
       {"Mã":"NOÔ05102601","Ngày bán":"16/10/2026","Sản phẩm":"No brand Carrot Umbrella","Giá nhập":127033,"Giá bán":170000,"Lãi":42967},
       {"Mã":"HUGẤ05102600","Ngày bán":"16/10/2026","Sản phẩm":"HUGKIS x Adult swim Rick & Morty Plush Toy Pickle Rick","Giá nhập":297863,"Giá bán":550000,"Lãi":252137},
-      {"Mã":"NOÔ05102600","Ngày bán":"16/10/2026","Sản phẩm":"No brand Corn Umbrella","Giá nhập":127033,"Giá bán":170000,"Lãi":42967}
+      {"Mã":"NOÔ05102600","Ngày bán":"16/10/2026","Sản phẩm":"No brand Corn Umbrella","Giá nhập":127033,"Giá bán":170000,"Lãi":42967},
+      {"Mã":"IKMÓ29092600","Ngày bán":"17/10/2026","Sản phẩm":"Ikea BASTIS Hook","Giá nhập":273626,"Giá bán":300000,"Lãi":26374}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
