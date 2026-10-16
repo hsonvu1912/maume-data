@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/10/2026 18:13",
+  "lastUpdated": "16/10/2026 21:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -654,7 +654,10 @@
       {"Mã":"KIMỞ07102600","Ngày bán":"11/10/2026","Sản phẩm":"Kikkerland Day of the Dead Corkscrew","Giá nhập":487800,"Giá bán":1400000,"Lãi":912200},
       {"Mã":"STCỐ24042600","Ngày bán":"11/10/2026","Sản phẩm":"Starbucks 2022 Sugar Skull","Giá nhập":362064,"Giá bán":210000,"Lãi":-152064},
       {"Mã":"NOLY24092603","Ngày bán":"11/10/2026","Sản phẩm":"No brand Set of 2 Champagne Flutes With Knotted Sterms","Giá nhập":181322,"Giá bán":390000,"Lãi":208678},
-      {"Mã":"IKMÓ18092600","Ngày bán":"11/10/2026","Sản phẩm":"Ikea Frän designed by Ehlén Johansson - 1990s","Giá nhập":1372234,"Giá bán":1900000,"Lãi":527766}
+      {"Mã":"IKMÓ18092600","Ngày bán":"11/10/2026","Sản phẩm":"Ikea Frän designed by Ehlén Johansson - 1990s","Giá nhập":1372234,"Giá bán":1900000,"Lãi":527766},
+      {"Mã":"NOÔ05102602","Ngày bán":"16/10/2026","Sản phẩm":"No brand Eggplant Umbella","Giá nhập":127033,"Giá bán":170000,"Lãi":42967},
+      {"Mã":"USCỜ30092600","Ngày bán":"16/10/2026","Sản phẩm":"USAOPOLY Super Mario Chess Collector's Edition","Giá nhập":543800,"Giá bán":950000,"Lãi":406200},
+      {"Mã":"NOÔ05102601","Ngày bán":"16/10/2026","Sản phẩm":"No brand Carrot Umbrella","Giá nhập":127033,"Giá bán":170000,"Lãi":42967}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
