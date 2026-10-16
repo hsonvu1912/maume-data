@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16/10/2026 15:34",
+  "lastUpdated": "16/10/2026 18:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1125,7 +1125,7 @@
       {"Mã":"LC-7596-011026","Ngày về":"01/10/2026","Sản phẩm":"LC-7596-011026\nxanh sage size M bản đời mới 2 ngăn phụ cond đẹp ít qua sử dụng, mặt sau bị sọc sọc vải gì đó idkk chắc là bẩn ạ nma k để ý lắm đâuuu siêu đẹp!! KT 39 x 26 x 16\nGiá: 2.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1316824,"Giá bán":2000000},
       {"Mã":"LC-4983-011026","Ngày về":"01/10/2026","Sản phẩm":"LC-4983-011026\nolive size L cond đẹp cứng cáp chủ yếu qua lưu trữ màu siêu đẹp hãng mới restock lại năm nay nè. KT 45 x 30 x 19\nGiá: 2.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1476000,"Giá bán":2100000},
       {"Mã":"LC-8194-011026","Ngày về":"01/10/2026","Sản phẩm":"LC-8194-011026\nnavy size L cond rất đẹp cứng cáp ít qua sdung. KT 45 x 30 x 19\nGiá: 2.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1281800,"Giá bán":2000000},
-      {"Mã":"T-0210-01-011026","Ngày về":"01/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1280000,"Giá bán":1800000},
+      {"Mã":"T-0210-01-011026","Ngày về":"01/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1280000,"Giá bán":1800000},
       {"Mã":"T-0210-02-011026","Ngày về":"01/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1226000,"Giá bán":2200000},
       {"Mã":"CH-0210-01-021026","Ngày về":"02/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1780000,"Giá bán":2300000},
       {"Mã":"SP-01-151026","Ngày về":"15/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":989600},
