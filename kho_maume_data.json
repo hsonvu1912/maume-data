@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/10/2026 11:25",
+  "lastUpdated": "20/10/2026 15:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -601,7 +601,7 @@
       {"Mã":"LECỐ111100","Ngày về":"11/11/2025","Sản phẩm":"Lego Mug\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 130 x 95 x 85mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":135270},
       {"Mã":"LECỐ111101","Ngày về":"11/11/2025","Sản phẩm":"Lego 2 x 2 Brick Mug\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 130 x 95 x 85mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":135270},
       {"Mã":"NOĐÈ111100","Ngày về":"11/11/2025","Sản phẩm":"Normann Copenhagen  Momento Table Lamp\n\nChất liệu: Kim loại sơn tĩnh điện\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 510 x 440mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1246410},
-      {"Mã":"IKGẤ111100","Ngày về":"11/11/2025","Sản phẩm":"Ikea Fornyad Soft Toy\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh\n\nKích thước: 220 x 370mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"\"Đã đăng, mới về lại\"","Thành tiền":283440,"Giá bán":600000},
+      {"Mã":"IKGẤ111100","Ngày về":"11/11/2025","Sản phẩm":"Ikea Fornyad Soft Toy\n\nChất liệu: Vải\n\nPhân Loại: Gấu bông\n\nTình trạng: Như ảnh\n\nKích thước: 220 x 370mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"\"Đã đăng, mới về lại\"","Thành tiền":283440,"Giá bán":600000},
       {"Mã":"PHĐÈ111100","Ngày về":"11/11/2025","Sản phẩm":"Philips Energy Saving\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 340 x 150 x 350mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":347250},
       {"Mã":"MOCỐ111100","Ngày về":"11/11/2025","Sản phẩm":"Moma Ombré Juice Glasses\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 70 x 140mm\n\nGiá: Sale 28% 900.000 => 650.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":508670,"Giá bán":900000},
       {"Mã":"MOCỐ111101","Ngày về":"11/11/2025","Sản phẩm":"Moma Ombré Juice Glasses\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 71 x 140mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":508670},
