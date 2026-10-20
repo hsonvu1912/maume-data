@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/10/2026 17:07",
+  "lastUpdated": "20/10/2026 17:35",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1176,7 +1176,7 @@
       {"Mã":"LC-0842-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-0842-141026\nđỏ dòng neo size M, cond cực đẹp chủ yếu qua lưu trữ, mức độ used rất nhẹ 9.8/10\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1159800,"Giá bán":1850000},
       {"Mã":"LC-1377-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-1377-141026\nnavy dòng neo size L, cond used bình thường 8.9/10, tổng quan đẹp. KT 45 x 29 x 20\nGiá: 1.380.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":612824,"Giá bán":1380000},
       {"Mã":"LC-5511-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-5511-141026\nnavy size L bản đời mới 2 ngăn phụ cond used nhẹ, 9.3/10 đẹp ko lỗi gì lớn. KT 45 x 30 x 19\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1124000,"Giá bán":1950000},
-      {"Mã":"LC-0557-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-0557-141026\nbeige size M cond đẹp ít qua sử dụng 9.7/10. size M cũ này chỉ vừa ipad nha, laptop 13 để cũng vừa nhưng sẽ ko còn nh chỗ đựng. KT 36 x 25 x 14\nGiá: 1.700.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1188520,"Giá bán":1700000},
+      {"Mã":"LC-0557-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-0557-141026\nbeige size M cond đẹp ít qua sử dụng 9.7/10. size M cũ này chỉ vừa ipad nha, laptop 13 để cũng vừa nhưng sẽ ko còn nh chỗ đựng. KT 36 x 25 x 14\nGiá: 1.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1188520,"Giá bán":1700000},
       {"Mã":"LC-3670-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-3670-141026\nbeige size L cond used nhẹ, đáy dính vài vết mực thui ksaoo hết. 9.4/10 KT 45 x 29 x 20\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":531800,"Giá bán":1500000},
       {"Mã":"LC-9952-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-9952-141026\nđen size L bản đời mới 2 ngăn phụ đẹp ít qua sử dụng 9.8/10. KT 45 x 30 x 19\nGiá: 2.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1738000,"Giá bán":2500000},
       {"Mã":"LC-6370-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-6370-141026\ncity tote hồng pastel đẹp đin, cond 9.2/10 đẹp ít lỗi. size này vừa laptop\nGiá: 2.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2097500,"Giá bán":2900000},
