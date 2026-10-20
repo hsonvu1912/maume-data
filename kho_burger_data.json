@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/10/2026 18:04",
+  "lastUpdated": "20/10/2026 19:05",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1142,7 +1142,7 @@
       {"Mã":"LC-0119-071026","Ngày về":"07/10/2026","Sản phẩm":"LC-0119-071026\n(not sure lg) hồng pastel pink tea size L cond chưa qua sử dụng, màu sắc đẹp khớp auth. bán dá hữu nghịi kkk. KT 46 x 30 x 19\nGiá: 799.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1850207,"Giá bán":799000},
       {"Mã":"LC-5082-071026","Ngày về":"07/10/2026","Sản phẩm":"LC-5082-071026\nbalo màu hồng fleur đẹp mĩ miều. cond gần như ko qua sử dụng, chỉ qua lưu trữ, làm quà tặng được nha. KT 30 x 20 x10 vừa laptop 13\nGiá: 2.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":2178298,"Giá bán":2400000},
       {"Mã":"LC-9975-071026","Ngày về":"07/10/2026","Sản phẩm":"LC-9975-071026\nmini pouch màu paper cond đẹp cứng cáp, 1 vài dấu vết used nhỏ ko đáng kể. phụ kiện như dây chéo, lót,..khách chủ động mua ngoài nha vì nguyên bản hãng chỉ bán pouch thế này thôii. KT 19 x 10 x 6\nGiá: 1.790.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1123491,"Giá bán":1790000},
-      {"Mã":"LC-3865-071026","Ngày về":"07/10/2026","Sản phẩm":"LC-3865-071026\nnavy size L túi cond used nhẹ vừa phải 8.9/10, bề mặt vải có 1-2 lỗi vết nhẹ nhẹ tổng quan vẫn đẹpp chắc chắn. KT 45 x 29 x 20\nGiá: 1.350.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":980908,"Giá bán":1350000},
+      {"Mã":"LC-3865-071026","Ngày về":"07/10/2026","Sản phẩm":"LC-3865-071026\nnavy size L túi cond used nhẹ vừa phải 8.9/10, bề mặt vải có 1-2 lỗi vết nhẹ nhẹ tổng quan vẫn đẹpp chắc chắn. KT 45 x 29 x 20\nGiá: 1.250.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":980908,"Giá bán":1250000},
       {"Mã":"LC-9157-071026","Ngày về":"07/10/2026","Sản phẩm":"LC-9157-071026\nnâu mocha size M dòng green, cond siu đẹpp ít qua sdung. còn zip bag. Kt 40 x 26 x 16\nGiá: 2.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":2156671,"Giá bán":2700000},
       {"Mã":"LC-5181-071026","Ngày về":"07/10/2026","Sản phẩm":"LC-5181-071026\nxanh pastel dòng green size M cond đẹp ít qua sử dunhj ạaa màu hiếm. KT 40 x 26 x 16\nGiá: 2.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1194681,"Giá bán":2100000},
       {"Mã":"LC-5124-071026","Ngày về":"07/10/2026","Sản phẩm":"LC-5124-071026\nbalo xanh pastel dòng green, màu quá tr đẹp. cond siêu đẹp cứng cáp ít qua sdung. KT 30 x 20 x 10\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1179920,"Giá bán":1900000},
@@ -1183,7 +1183,7 @@
       {"Mã":"GI-01-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1369800},
       {"Mã":"CH-1410-01-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1595000},
       {"Mã":"CH-1410-02-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":423380},
-      {"Mã":"LC-2129-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-2129-141026\nle roseau bản túi đeo vai màu cam thiên tone cam đất như ảnh 1-2 chứ k choé, màu vừa đẹp vừa hiếm ạ,, da thật nguyên miếng dày cui. cond used ít chỉ dính vết mực ở đáy thôi. size này vừa laptop 13,14 nghen, ngang cỡ sz M dòng tote\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1702141,"Giá bán":1950000},
+      {"Mã":"LC-2129-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-2129-141026\nle roseau bản túi đeo vai màu cam thiên tone cam đất như ảnh 1-2 chứ k choé, màu vừa đẹp vừa hiếm ạ,, da thật nguyên miếng dày cui. cond used ít chỉ dính vết mực ở đáy thôi. size này vừa laptop 13,14 nghen, ngang cỡ sz M dòng tote\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1702141,"Giá bán":1950000},
       {"Mã":"LC-8148-151026","Ngày về":"15/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1514425},
       {"Mã":"LC-5730-151026","Ngày về":"15/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":729601},
       {"Mã":"LC-6859-151026","Ngày về":"15/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":918527},
