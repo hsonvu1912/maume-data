@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/10/2026 20:43",
+  "lastUpdated": "22/10/2026 14:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -661,7 +661,11 @@
       {"Mã":"HUGẤ05102600","Ngày bán":"16/10/2026","Sản phẩm":"HUGKIS x Adult swim Rick & Morty Plush Toy Pickle Rick","Giá nhập":297863,"Giá bán":550000,"Lãi":252137},
       {"Mã":"NOÔ05102600","Ngày bán":"16/10/2026","Sản phẩm":"No brand Corn Umbrella","Giá nhập":127033,"Giá bán":170000,"Lãi":42967},
       {"Mã":"IKMÓ29092600","Ngày bán":"17/10/2026","Sản phẩm":"Ikea BASTIS Hook","Giá nhập":273626,"Giá bán":300000,"Lãi":26374},
-      {"Mã":"IKGẤ111100","Ngày bán":"20/10/2026","Sản phẩm":"Ikea Fornyad Soft Toy","Giá nhập":283440,"Giá bán":600000,"Lãi":316560}
+      {"Mã":"IKGẤ111100","Ngày bán":"20/10/2026","Sản phẩm":"Ikea Fornyad Soft Toy","Giá nhập":283440,"Giá bán":600000,"Lãi":316560},
+      {"Mã":"NOKH15102600","Ngày bán":"22/10/2026","Sản phẩm":"Vintage Brass Duck Trinket Dish","Giá nhập":411474,"Giá bán":490000,"Lãi":78526},
+      {"Mã":"EGĐÈ13102600","Ngày bán":"22/10/2026","Sản phẩm":"Eglo IDA 13285","Giá nhập":223100,"Giá bán":650000,"Lãi":426900},
+      {"Mã":"ALRỔ15102600","Ngày bán":"22/10/2026","Sản phẩm":"Alessi Nuvem","Giá nhập":746709,"Giá bán":990000,"Lãi":243291},
+      {"Mã":"SHGƯ13102600","Ngày bán":"22/10/2026","Sản phẩm":"Shiseido Camélia Supérieur hand mirror 1997 - Angela Cummings","Giá nhập":471000,"Giá bán":950000,"Lãi":479000}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -1718,7 +1722,8 @@
       {"Mã":"LC-0557-141026","Ngày bán":"20/10/2026","Sản phẩm":"LC-0557-141026","Giá nhập":1188520,"Giá bán":1700000,"Lãi":511480},
       {"Mã":"LC-3865-071026","Ngày bán":"20/10/2026","Sản phẩm":"LC-3865-071026","Giá nhập":980908,"Giá bán":1250000,"Lãi":269092},
       {"Mã":"LC-2129-141026","Ngày bán":"20/10/2026","Sản phẩm":"LC-2129-141026","Giá nhập":1702141,"Giá bán":1950000,"Lãi":247859},
-      {"Mã":"LC-5563-151026","Ngày bán":"20/10/2026","Sản phẩm":"LC-5563-151026","Giá nhập":1515800,"Giá bán":1950000,"Lãi":434200}
+      {"Mã":"LC-5563-151026","Ngày bán":"20/10/2026","Sản phẩm":"LC-5563-151026","Giá nhập":1515800,"Giá bán":1950000,"Lãi":434200},
+      {"Mã":"LC-0842-141026","Ngày bán":"22/10/2026","Sản phẩm":"LC-0842-141026","Giá nhập":1159800,"Giá bán":1850000,"Lãi":690200}
     ]
   }
 }
