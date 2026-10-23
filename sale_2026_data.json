@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/10/2026 03:43",
+  "lastUpdated": "23/10/2026 13:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -665,7 +665,8 @@
       {"Mã":"NOKH15102600","Ngày bán":"22/10/2026","Sản phẩm":"Vintage Brass Duck Trinket Dish","Giá nhập":411474,"Giá bán":490000,"Lãi":78526},
       {"Mã":"EGĐÈ13102600","Ngày bán":"22/10/2026","Sản phẩm":"Eglo IDA 13285","Giá nhập":223100,"Giá bán":650000,"Lãi":426900},
       {"Mã":"ALRỔ15102600","Ngày bán":"22/10/2026","Sản phẩm":"Alessi Nuvem","Giá nhập":746709,"Giá bán":990000,"Lãi":243291},
-      {"Mã":"SHGƯ13102600","Ngày bán":"22/10/2026","Sản phẩm":"Shiseido Camélia Supérieur hand mirror 1997 - Angela Cummings","Giá nhập":471000,"Giá bán":950000,"Lãi":479000}
+      {"Mã":"SHGƯ13102600","Ngày bán":"22/10/2026","Sản phẩm":"Shiseido Camélia Supérieur hand mirror 1997 - Angela Cummings","Giá nhập":471000,"Giá bán":950000,"Lãi":479000},
+      {"Mã":"EGĐÈ10092601","Ngày bán":"23/10/2026","Sản phẩm":"Eglo Empori","Giá nhập":328836,"Giá bán":1200000,"Lãi":871164}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
