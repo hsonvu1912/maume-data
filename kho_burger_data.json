@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/10/2026 03:34",
+  "lastUpdated": "23/10/2026 13:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1207,9 +1207,9 @@
       {"Mã":"LC-3561-201026","Ngày về":"20/10/2026","Sản phẩm":"LC-3561-201026\nxanh dòng neo size M bản đời mới 2 ngăn phụ, màu quá xuất sắc, túi used có vài lỗi nhẹ, tổng quan cond 9/10 rất dày dặn. KT 40 x 26 x 16 vừa laptop 13,14\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1393000,"Giá bán":1800000},
       {"Mã":"CH-01-201026","Ngày về":"20/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1349660},
       {"Mã":"LC-5326-201026","Ngày về":"20/10/2026","Sản phẩm":"LC-5326-201026\nlc cói size XS, cond 9.5/10 lót bẩn nhẹ ko đáng kể, đã được tặng 1 lót phom che đi khỏi thấy gì lun. quai xách, quai chéo đều cứng cáp. KT 25 x 15 x 11 vừa đt thoải mái\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1976551,"Giá bán":2100000},
-      {"Mã":"LC-3876-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1580000},
-      {"Mã":"LC-2937-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":742600},
-      {"Mã":"CH-01-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1975000}
+      {"Mã":"LC-3876-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1593857},
+      {"Mã":"LC-2937-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":752993},
+      {"Mã":"CH-01-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1995786}
     ]
   }
 }
