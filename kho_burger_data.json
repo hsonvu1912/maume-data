@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/10/2026 13:34",
+  "lastUpdated": "23/10/2026 14:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -360,7 +360,7 @@
       {"Mã":"LC-1640-200326","Ngày về":"20/03/2026","Sản phẩm":"LC-1640-200326\nđen size M \ncondition tốt, form dày dặn, túi khá sạch sẽ, quai trầy chủ yếu mặt dưới, lót gần quai tróc nhẹ xíu xíu ko ảnh hg gì ạ, vải gần khóa có vết nhăn nhẹ xíu xiu ko đáng kể ạ\n35 x 24 x 14\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":475457,"Giá bán":1500000},
       {"Mã":"LC-8085-200326","Ngày về":"20/03/2026","Sản phẩm":"LC-8085-200326\nhồng size M \ncondition: form dày dặn, quai bị trầy như ảnh; tình trạng lót mọi người xem kỹ ảnh giúp em, tổng quan dùng thay đổi style vẫn được ko có vấn đề gì nhen\n35 x 25 x 15\nGiá: 600.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":475457,"Giá bán":600000},
       {"Mã":"LC-2314-200326","Ngày về":"20/03/2026","Sản phẩm":"LC-2314-200326\nblue size L dòng club phối đỏ \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, túi có một vài vết bẩn nhỏ, khách mua về vsinh sdung bình thg ạa\n45 x 30 x 19\nGiá: 1.350.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":984857,"Giá bán":1350000},
-      {"Mã":"CH-2703-01-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":968425},
+      {"Mã":"CH-2703-01-270326","Ngày về":"27/03/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":968425,"Giá bán":1650000},
       {"Mã":"LC-9439-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-9439-270326\nđen size L bản đời mới có 2 ngăn phụ \ncondition rất tốt, độ mới cao, form dày dặn, quai siêu cứng cáp, túi sạch sẽ, chỉ có duy nhất 1 vết sờn vải nhỏ xíu xiu mặt trước (ảnh cuối) ạa\n46 x 30 x 19\nGiá: 2.300.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1490965,"Giá bán":2300000},
       {"Mã":"LC-5280-200326","Ngày về":"20/03/2026","Sản phẩm":"LC-5280-200326\nxanh navy size L \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, quai trầy nhẹ ở mặt dưới khi đeo lên vai sẽ ko thấy đâu\n46 x 29 x 20\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1065857,"Giá bán":1750000},
       {"Mã":"LC-6193-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-6193-270326\nđen size L \ncondition tốt, form dày dặn cứng cáp, quai có một vài vết trầy nhỏ ở mặt dưới khi đeo lên vai sẽ ko thấy đâu ạa, túi tg đối sạch sẽ, dưới đáy có một vài vết sờn vải nhỏ nhg túi màu tối nên khó thấy ạ\n45 x 30 x 19\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1382605,"Giá bán":1950000},
@@ -1181,7 +1181,7 @@
       {"Mã":"LC-9952-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-9952-141026\nđen size L bản đời mới 2 ngăn phụ đẹp ít qua sử dụng 9.8/10. KT 45 x 30 x 19\nGiá: 2.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1738000,"Giá bán":2500000},
       {"Mã":"LC-6370-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-6370-141026\ncity tote hồng pastel đẹp đin, cond 9.2/10 đẹp ít lỗi. size này vừa laptop\nGiá: 2.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2097500,"Giá bán":2900000},
       {"Mã":"GI-01-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1369800,"Giá bán":1400000},
-      {"Mã":"CH-1410-01-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1595000,"Giá bán":2100000},
+      {"Mã":"CH-1410-01-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1595000,"Giá bán":2000000},
       {"Mã":"CH-1410-02-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":423380,"Giá bán":700000},
       {"Mã":"LC-2129-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-2129-141026\nle roseau bản túi đeo vai màu cam thiên tone cam đất như ảnh 1-2 chứ k choé, màu vừa đẹp vừa hiếm ạ,, da thật nguyên miếng dày cui. cond used ít chỉ dính vết mực ở đáy thôi. size này vừa laptop 13,14 nghen, ngang cỡ sz M dòng tote\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1702141,"Giá bán":1950000},
       {"Mã":"LC-8148-151026","Ngày về":"15/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1514425,"Giá bán":1900000},
@@ -1209,7 +1209,7 @@
       {"Mã":"LC-5326-201026","Ngày về":"20/10/2026","Sản phẩm":"LC-5326-201026\nlc cói size XS, cond 9.5/10 lót bẩn nhẹ ko đáng kể, đã được tặng 1 lót phom che đi khỏi thấy gì lun. quai xách, quai chéo đều cứng cáp. KT 25 x 15 x 11 vừa đt thoải mái\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1976551,"Giá bán":2100000},
       {"Mã":"LC-3876-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1593857},
       {"Mã":"LC-2937-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":752993},
-      {"Mã":"CH-01-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1995786}
+      {"Mã":"CH-01-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1995786,"Giá bán":3700000}
     ]
   }
 }
