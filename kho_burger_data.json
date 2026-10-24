@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24/10/2026 11:34",
+  "lastUpdated": "24/10/2026 13:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1180,7 +1180,7 @@
       {"Mã":"LC-3670-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-3670-141026\nbeige size L cond used nhẹ, đáy dính vài vết mực thui ksaoo hết. 9.4/10 KT 45 x 29 x 20\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":531800,"Giá bán":1500000},
       {"Mã":"LC-9952-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-9952-141026\nđen size L bản đời mới 2 ngăn phụ đẹp ít qua sử dụng 9.8/10. KT 45 x 30 x 19\nGiá: 2.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1738000,"Giá bán":2500000},
       {"Mã":"LC-6370-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-6370-141026\ncity tote hồng pastel đẹp đin, cond 9.2/10 đẹp ít lỗi. size này vừa laptop\nGiá: 2.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2097500,"Giá bán":2900000},
-      {"Mã":"GI-01-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1369800,"Giá bán":1500000},
+      {"Mã":"GI-01-141026","Ngày về":"14/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1369800,"Giá bán":1500000},
       {"Mã":"CH-1410-01-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1595000,"Giá bán":2000000},
       {"Mã":"CH-1410-02-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":423380,"Giá bán":700000},
       {"Mã":"LC-2129-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-2129-141026\nle roseau bản túi đeo vai màu cam thiên tone cam đất như ảnh 1-2 chứ k choé, màu vừa đẹp vừa hiếm ạ,, da thật nguyên miếng dày cui. cond used ít chỉ dính vết mực ở đáy thôi. size này vừa laptop 13,14 nghen, ngang cỡ sz M dòng tote\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1702141,"Giá bán":1950000},
@@ -1209,7 +1209,10 @@
       {"Mã":"LC-5326-201026","Ngày về":"20/10/2026","Sản phẩm":"LC-5326-201026\nlc cói size XS, cond 9.5/10 lót bẩn nhẹ ko đáng kể, đã được tặng 1 lót phom che đi khỏi thấy gì lun. quai xách, quai chéo đều cứng cáp. KT 25 x 15 x 11 vừa đt thoải mái\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1976551,"Giá bán":2100000},
       {"Mã":"LC-3876-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1593857},
       {"Mã":"LC-2937-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":752993},
-      {"Mã":"CH-01-221026","Ngày về":"22/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1995786,"Giá bán":3700000}
+      {"Mã":"CH-01-221026","Ngày về":"22/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1995786,"Giá bán":3700000},
+      {"Mã":"CH-01-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ"},
+      {"Mã":"LC-9187-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ"},
+      {"Mã":"CH-02-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ"}
     ]
   }
 }
