@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24/10/2026 13:13",
+  "lastUpdated": "24/10/2026 14:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -666,7 +666,10 @@
       {"Mã":"EGĐÈ13102600","Ngày bán":"22/10/2026","Sản phẩm":"Eglo IDA 13285","Giá nhập":223100,"Giá bán":650000,"Lãi":426900},
       {"Mã":"ALRỔ15102600","Ngày bán":"22/10/2026","Sản phẩm":"Alessi Nuvem","Giá nhập":746709,"Giá bán":990000,"Lãi":243291},
       {"Mã":"SHGƯ13102600","Ngày bán":"22/10/2026","Sản phẩm":"Shiseido Camélia Supérieur hand mirror 1997 - Angela Cummings","Giá nhập":471000,"Giá bán":950000,"Lãi":479000},
-      {"Mã":"EGĐÈ10092601","Ngày bán":"23/10/2026","Sản phẩm":"Eglo Empori","Giá nhập":328836,"Giá bán":1200000,"Lãi":871164}
+      {"Mã":"EGĐÈ10092601","Ngày bán":"23/10/2026","Sản phẩm":"Eglo Empori","Giá nhập":328836,"Giá bán":1200000,"Lãi":871164},
+      {"Mã":"DOCỐ06052600","Ngày bán":"24/10/2026","Sản phẩm":"Doiy Kitty Ginger","Giá nhập":859823,"Giá bán":1620000,"Lãi":760177},
+      {"Mã":"SEBÌ22072601","Ngày bán":"24/10/2026","Sản phẩm":"Serax Pique-Fleurs Vase by Antoine Vandewoude - XL","Giá nhập":579540,"Giá bán":1600000,"Lãi":1020460},
+      {"Mã":"LAKH22102600","Ngày bán":"24/10/2026","Sản phẩm":"Labology Wooden Tray","Giá nhập":554521,"Giá bán":700000,"Lãi":145479}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
