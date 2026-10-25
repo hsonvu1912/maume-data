@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/10/2026 16:34",
+  "lastUpdated": "25/10/2026 22:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -429,7 +429,7 @@
       {"Mã":"LC-2688-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-2688-270326\nxám size L bản đời mới có 2 ngăn phụ còn sổ\ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi nào đáng kể ạa\n46 x 30 x 19\nGiá: 2.200.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":986605,"Giá bán":2200000},
       {"Mã":"CH-2703-270326-03","Ngày về":"27/03/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1058605,"Giá bán":1600000},
       {"Mã":"LC-3298-270326","Ngày về":"27/03/2026","Sản phẩm":"LC-3298-270326\nđen size L bản đời mới có 2 ngăn phụ \ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko có lỗi nào đáng kể ạa\n46 x 30 x 19\nGiá: 2.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1868605,"Giá bán":2700000},
-      {"Mã":"CH-2003-200326-02","Ngày về":"20/03/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":536605,"Giá bán":900000},
+      {"Mã":"CH-2003-200326-02","Ngày về":"20/03/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":536605,"Giá bán":700000},
       {"Mã":"LC-6552-250326","Ngày về":"25/03/2026","Sản phẩm":"LC-6552-250326\nsky blue size M lần đầu tiên và có lẽ là duy nhất về được ẻm. độ mới tốt không có gì đáng chê với 1 chiếc hàng used. ai lấy chiếc này em cũng miễn phí vệ sinh trước cho khách (đảm bảo sạch từ 90% trở lên) KT: 39 x 26 x 16\nGiá: 2.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":870000,"Giá bán":2700000},
       {"Mã":"LC-3671-250326","Ngày về":"25/03/2026","Sản phẩm":"LC-3671-250326\nbeige size L\ncondition tốt, form dày dặn cứng cáp, túi tg đối sạch sẽ, quai có vết trầy xíu xiu ko đáng kể ạ, lót trắng có một vài vết phai mực nhỏ ko ảnh hg gì khi sd ạa\n45 x 30 x 19\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1144000,"Giá bán":1800000},
       {"Mã":"LC-1451-250326","Ngày về":"25/03/2026","Sản phẩm":"LC-1451-250326\nxanh navy size L\ncondition tốt, form dày dặn cứng cáp, túi sạch sẽ, ko lỗi gì lớn ạa\n45 x 30 x 20\nGiá: 2.050.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1560000,"Giá bán":2050000},
@@ -1182,7 +1182,7 @@
       {"Mã":"LC-6370-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-6370-141026\ncity tote hồng pastel đẹp đin, cond 9.2/10 đẹp ít lỗi. size này vừa laptop\nGiá: 2.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2097500,"Giá bán":2900000},
       {"Mã":"GI-01-141026","Ngày về":"14/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1369800,"Giá bán":1500000},
       {"Mã":"CH-1410-01-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1595000,"Giá bán":2000000},
-      {"Mã":"CH-1410-02-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":423380,"Giá bán":700000},
+      {"Mã":"CH-1410-02-141026","Ngày về":"14/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":423380,"Giá bán":700000},
       {"Mã":"LC-2129-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-2129-141026\nle roseau bản túi đeo vai màu cam thiên tone cam đất như ảnh 1-2 chứ k choé, màu vừa đẹp vừa hiếm ạ,, da thật nguyên miếng dày cui. cond used ít chỉ dính vết mực ở đáy thôi. size này vừa laptop 13,14 nghen, ngang cỡ sz M dòng tote\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1702141,"Giá bán":1950000},
       {"Mã":"LC-8148-151026","Ngày về":"15/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1514425,"Giá bán":1900000},
       {"Mã":"LC-5730-151026","Ngày về":"15/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1014361,"Giá bán":1900000},
