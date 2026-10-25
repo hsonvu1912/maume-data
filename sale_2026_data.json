@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24/10/2026 14:13",
+  "lastUpdated": "25/10/2026 15:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -669,7 +669,15 @@
       {"Mã":"EGĐÈ10092601","Ngày bán":"23/10/2026","Sản phẩm":"Eglo Empori","Giá nhập":328836,"Giá bán":1200000,"Lãi":871164},
       {"Mã":"DOCỐ06052600","Ngày bán":"24/10/2026","Sản phẩm":"Doiy Kitty Ginger","Giá nhập":859823,"Giá bán":1620000,"Lãi":760177},
       {"Mã":"SEBÌ22072601","Ngày bán":"24/10/2026","Sản phẩm":"Serax Pique-Fleurs Vase by Antoine Vandewoude - XL","Giá nhập":579540,"Giá bán":1600000,"Lãi":1020460},
-      {"Mã":"LAKH22102600","Ngày bán":"24/10/2026","Sản phẩm":"Labology Wooden Tray","Giá nhập":554521,"Giá bán":700000,"Lãi":145479}
+      {"Mã":"LAKH22102600","Ngày bán":"24/10/2026","Sản phẩm":"Labology Wooden Tray","Giá nhập":554521,"Giá bán":700000,"Lãi":145479},
+      {"Mã":"IKMÓ22102600","Ngày bán":"25/10/2026","Sản phẩm":"Ikea Fjantig - 2018","Giá nhập":70393,"Giá bán":250000,"Lãi":179607},
+      {"Mã":"IKĐÈ20102601","Ngày bán":"25/10/2026","Sản phẩm":"Ikea FORSA Work Lamp","Giá nhập":457800,"Giá bán":750000,"Lãi":292200},
+      {"Mã":"IKĐÈ20102600","Ngày bán":"25/10/2026","Sản phẩm":"Ikea STRÅLA","Giá nhập":683100,"Giá bán":1200000,"Lãi":516900},
+      {"Mã":"UMĐỒ22102600","Ngày bán":"25/10/2026","Sản phẩm":"Umbra Numero Wall Clock (red)","Giá nhập":569350,"Giá bán":800000,"Lãi":230650},
+      {"Mã":"TOGẤ20102600","Ngày bán":"25/10/2026","Sản phẩm":"Toy Factory x Adult swim Rick & Morty Pickle Rick Exo Suit","Giá nhập":138900,"Giá bán":190000,"Lãi":51100},
+      {"Mã":"ALNA20102601","Ngày bán":"25/10/2026","Sản phẩm":"Alessi Anna G Kitchen Magnet (pink)","Giá nhập":118900,"Giá bán":190000,"Lãi":71100},
+      {"Mã":"ALMỞ15102600","Ngày bán":"25/10/2026","Sản phẩm":"Alessi Anna G","Giá nhập":769573,"Giá bán":1050000,"Lãi":280427},
+      {"Mã":"IKĐÈ22102600","Ngày bán":"25/10/2026","Sản phẩm":"Ikea Fryebo - 2014","Giá nhập":379750,"Giá bán":700000,"Lãi":320250}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
