@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/10/2026 16:04",
+  "lastUpdated": "27/10/2026 16:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1210,9 +1210,9 @@
       {"Mã":"LC-3876-221026","Ngày về":"22/10/2026","Sản phẩm":"LC-3876-221026\nxanh rêu kaki dòng neo size L bản đời mới 2 ngăn phụ, cond 9.5/10 đẹp và ít qua sử dụng. KT 45 x 30 x 19\nGiá: 2.000.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1593857,"Giá bán":2000000},
       {"Mã":"LC-2937-221026","Ngày về":"22/10/2026","Sản phẩm":"LC-2937-221026\nđỏ đậm dòng neo size M bản đời mới 2 ngăn phụ, siêu đẹp cứng cáp, bề mặt dính bẩn xíu thôi ko sao hết. quai trầy 1 vài chấm nhỏ KT 40 x 26 x 17\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":752993,"Giá bán":1500000},
       {"Mã":"CH-01-221026","Ngày về":"22/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1995786,"Giá bán":3700000},
-      {"Mã":"CH-01-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":3637200},
-      {"Mã":"LC-9187-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-9187-231026\nxanh artichoke size M dòng green túi tổng quan cond 9/10 đẹp cứng cáp, bề mặt vải có 1 vài vết trầy màu bé xíu (ko phải xước), nhìn ngoài cx kiểu thoắt ẩn thoắt hiện thuii ạ k phải vde gì lớn đâu. KT 40 x 26 x 16 vừa laptop 13,14","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1396245},
-      {"Mã":"CH-02-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1136110},
+      {"Mã":"CH-01-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":3636900},
+      {"Mã":"LC-9187-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-9187-231026\nxanh artichoke size M dòng green túi tổng quan cond 9/10 đẹp cứng cáp, bề mặt vải có 1 vài vết trầy màu bé xíu (ko phải xước), nhìn ngoài cx kiểu thoắt ẩn thoắt hiện thuii ạ k phải vde gì lớn đâu. KT 40 x 26 x 16 vừa laptop 13,14","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1395930},
+      {"Mã":"CH-02-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1135810},
       {"Mã":"LC-8298-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2069244},
       {"Mã":"LC-0119-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-0119-231026\nnot sure lg (l//egitt) mini pouch kèm full phụ kiện chưa qua sử dụng, để dá iu cho mng đeo trải nghiệm thay đối style, chất liệu vẫn chống nước bt nhen\nGiá: 790.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1170190,"Giá bán":790000},
       {"Mã":"LC-2548-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-2548-231026\nđỏ rượu burgundy dòng club size L lâu lắm rồi mới về lại được, màu đẹp sang quá tr. túi tổng quan cond tốt nha 9/10 chỉ là qua sử dụng thì bẩn nhẹ thôi, tự giặt tại nhà là ok ko cần phải mang đi spa. KT 45 x 29 x 20\nGiá: 1.450.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":612290,"Giá bán":1450000},
