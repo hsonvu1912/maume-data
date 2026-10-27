@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26/10/2026 16:34",
+  "lastUpdated": "27/10/2026 13:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1208,13 +1208,13 @@
       {"Mã":"CH-01-201026","Ngày về":"20/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1349660},
       {"Mã":"LC-5326-201026","Ngày về":"20/10/2026","Sản phẩm":"LC-5326-201026\nlc cói size XS, cond 9.5/10 lót bẩn nhẹ ko đáng kể, đã được tặng 1 lót phom che đi khỏi thấy gì lun. quai xách, quai chéo đều cứng cáp. KT 25 x 15 x 11 vừa đt thoải mái\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1976551,"Giá bán":2100000},
       {"Mã":"LC-3876-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1593857},
-      {"Mã":"LC-2937-221026","Ngày về":"22/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":752993},
+      {"Mã":"LC-2937-221026","Ngày về":"22/10/2026","Sản phẩm":"LC-2937-221026\nđỏ đậm dòng neo size M bản đời mới 2 ngăn phụ, siêu đẹp cứng cáp, bề mặt dính bẩn xíu thôi ko sao hết. quai trầy 1 vài chấm nhỏ KT 40 x 26 x 17\nGiá: 1.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":752993,"Giá bán":1500000},
       {"Mã":"CH-01-221026","Ngày về":"22/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1995786,"Giá bán":3700000},
       {"Mã":"CH-01-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1},
       {"Mã":"LC-9187-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1},
       {"Mã":"CH-02-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1},
       {"Mã":"LC-8298-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2069244},
-      {"Mã":"LC-0119-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1170190},
+      {"Mã":"LC-0119-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-0119-231026\nnot sure lg (l//egitt) mini pouch kèm full phụ kiện chưa qua sử dụng, để dá iu cho mng đeo trải nghiệm thay đối style, chất liệu vẫn chống nước bt nhen\nGiá: 790.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1170190,"Giá bán":790000},
       {"Mã":"LC-2548-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":612290},
       {"Mã":"LC-2857-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1357439},
       {"Mã":"LC-7372-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1097526},
@@ -1226,13 +1226,13 @@
       {"Mã":"LC-8595-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":967930},
       {"Mã":"LC-9017-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1355867},
       {"Mã":"LC-5859-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":967930},
-      {"Mã":"LC-4718-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1401627},
+      {"Mã":"LC-4718-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-4718-231026\nđen size M dòng neo bản đời mới 2 ngăn phụ, cond đẹp chắc chắn ít qua sử dụng, ko có lỗi nào lớn. KT 40x. 26 x 16 vừa latop 13,14\nGiá: 2.250.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1401627,"Giá bán":2250000},
       {"Mã":"LC-0487-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":964965},
-      {"Mã":"LC-5356-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1675441},
-      {"Mã":"LC-6547-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":869464},
+      {"Mã":"LC-5356-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-5356-231026\nđen size L bản đời mới 2 ngăn phụ cond đẹp ít qua sử dụng, dày dặn chắc chắn. KT 46 x 30 x 19\nGiá: 2.250.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1675441,"Giá bán":2250000},
+      {"Mã":"LC-6547-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-6547-231026\nbalo màu fawn/be vàng cond đẹp, sạch sẽ, qua sử dụng nhẹ ko có lỗi nào lớn hết. KT 20 x 30 x 10 vừa laptop 13\nGiá: 1.350.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":869464,"Giá bán":1350000},
       {"Mã":"LC-7663-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":964472},
       {"Mã":"LC-4127-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1781403},
-      {"Mã":"LC-5732-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1870913}
+      {"Mã":"LC-5732-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-5732-231026\nđen size L bản đời mới 2 ngăn phụ cond đẹp ít qua sử dụng dày dặn chắc chắn. KT 46 x 30 x 19\nGiá: 2.250.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1870913,"Giá bán":2250000}
     ]
   }
 }
