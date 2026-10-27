@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/10/2026 15:55",
+  "lastUpdated": "27/10/2026 12:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1888,7 +1888,7 @@
       {"Mã":"23102600","Ngày về":"23/10/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Hỏng","Trạng thái đăng bài":"Chưa đăng"},
       {"Mã":"YICỐ23102600","Ngày về":"23/10/2026","Sản phẩm":"Yifan Renxu Studio Pillow Cup 03\n\nChất liệu: Ceramic\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 110mm\n320ml\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
       {"Mã":"PIGƯ23102600","Ngày về":"23/10/2026","Sản phẩm":"Pier 1 Imports Mirror Moss Leaf\n\nChất liệu: Kim loại\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh\n\nKích thước: 400 x 400mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
-      {"Mã":"PH23102600","Ngày về":"23/10/2026","Sản phẩm":"Philippi Cocoon Vase\n\nChất liệu: Thép không gỉ\n\nPhân Loại: \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 200 x 200 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"PHBÌ23102600","Ngày về":"23/10/2026","Sản phẩm":"Philippi Cocoon Vase\n\nChất liệu: Thép không gỉ\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 200 x 200 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
       {"Mã":"EXCỜ23102600","Ngày về":"23/10/2026","Sản phẩm":"Exochess \n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 450 x 450mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"}
     ]
   }
