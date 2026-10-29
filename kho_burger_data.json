@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/10/2026 12:34",
+  "lastUpdated": "29/10/2026 13:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1233,7 +1233,12 @@
       {"Mã":"LC-7663-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-7663-231026\nxanh acier size L bản đời mới 2 ngăn phụ, cond tổng quan 9/10, sát đáy có 1 vài vết trầy màu bé xíu xiu k ảnh hưởng vc sử dụng. KT 45 x 29 x 20\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":964472,"Giá bán":1850000},
       {"Mã":"LC-4127-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-4127-231026\nxanh rêu kaki dòng neo size M bản đời mới 2 ngăn phụ, cond 9.3/10 đẹp cứng cáp, bề mặt có 1 vài lỗi bé xíu xiu khó thấy, k ảnh hưởng việc sử dụng. KT 39 x 26 x 16 vừa laptop 13,14\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1781403,"Giá bán":1950000},
       {"Mã":"LC-5732-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-5732-231026\nđen size L bản đời mới 2 ngăn phụ cond đẹp 9.8/10 ít qua sử dụng dày dặn chắc chắn. KT 46 x 30 x 19\nGiá: 2.250.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1870913,"Giá bán":2250000},
-      {"Mã":"LC-1992-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"KG"}
+      {"Mã":"LC-1992-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"KG"},
+      {"Mã":"CH-01-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ"},
+      {"Mã":"CH-02-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ"},
+      {"Mã":"LC-5117-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ"},
+      {"Mã":"CH-03-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ"},
+      {"Mã":"LC-2966-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ"}
     ]
   }
 }
