@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/10/2026 15:43",
+  "lastUpdated": "29/10/2026 18:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -677,7 +677,8 @@
       {"Mã":"TOGẤ20102600","Ngày bán":"25/10/2026","Sản phẩm":"Toy Factory x Adult swim Rick & Morty Pickle Rick Exo Suit","Giá nhập":138900,"Giá bán":190000,"Lãi":51100},
       {"Mã":"ALNA20102601","Ngày bán":"25/10/2026","Sản phẩm":"Alessi Anna G Kitchen Magnet (pink)","Giá nhập":118900,"Giá bán":190000,"Lãi":71100},
       {"Mã":"ALMỞ15102600","Ngày bán":"25/10/2026","Sản phẩm":"Alessi Anna G","Giá nhập":769573,"Giá bán":1050000,"Lãi":280427},
-      {"Mã":"IKĐÈ22102600","Ngày bán":"25/10/2026","Sản phẩm":"Ikea Fryebo - 2014","Giá nhập":379750,"Giá bán":700000,"Lãi":320250}
+      {"Mã":"IKĐÈ22102600","Ngày bán":"25/10/2026","Sản phẩm":"Ikea Fryebo - 2014","Giá nhập":379750,"Giá bán":700000,"Lãi":320250},
+      {"Mã":"SUPO14052600","Ngày bán":"29/10/2026","Sản phẩm":"Supreme Fall Winter 2025 Poster","Giá nhập":193050,"Giá bán":500000,"Lãi":306950}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
