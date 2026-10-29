@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29/10/2026 15:35",
+  "lastUpdated": "29/10/2026 16:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1227,7 +1227,7 @@
       {"Mã":"LC-9017-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-9017-231026\nđen size L bản đời mới 2 ngăn phụ, cond đẹp cứng cáp chắc chắn 9.999/10 chủ yếu qua lưu trữ. KT 46 x 30 x 19\nGiá: 2.450.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1355867,"Giá bán":2450000},
       {"Mã":"LC-5859-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-5859-231026\npaper size L bản đời mới 2 ngăn phụ, cond 9/10 dày dặn chắc chắn qua sdung nhẹ, ko có lỗi lớn nào. KT 45 x 29 x 20\nGiá: 1.750.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":967930,"Giá bán":1750000},
       {"Mã":"LC-4718-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-4718-231026\nđen size M dòng neo bản đời mới 2 ngăn phụ, cond đẹp 9.5/10 chắc chắn ít qua sử dụng, ko có lỗi nào lớn. KT 40x. 26 x 16 vừa latop 13,14\nGiá: 2.250.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1401627,"Giá bán":2250000},
-      {"Mã":"LC-0487-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-0487-231026\nhồng pastel size L cond tổng quan 8.9/10, đáy có dính vết mực nma dù sao đáy cũng ko ai thấy nhen. còn lại ko có lỗi nào đáng kể KT 45. 29 x20\nGiá: 1.450.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":964965,"Giá bán":1450000},
+      {"Mã":"LC-0487-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-0487-231026\nhồng pastel size L cond tổng quan 8.9/10, đáy có dính vết mực nma dù sao đáy cũng ko ai thấy nhen. còn lại ko có lỗi nào đáng kể KT 45. 29 x20\nGiá: 1.450.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":964965,"Giá bán":1450000},
       {"Mã":"LC-5356-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-5356-231026\nđen size L bản đời mới 2 ngăn phụ cond đẹp ít qua sử dụng, dày dặn chắc chắn 9.8/10. KT 46 x 30 x 19\nGiá: 2.250.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1675441,"Giá bán":2250000},
       {"Mã":"LC-6547-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-6547-231026\nbalo màu fawn/be vàng cond đẹp 9.2/10, sạch sẽ, qua sử dụng nhẹ ko có lỗi nào lớn hết. KT 20 x 30 x 10 vừa laptop 13\nGiá: 1.350.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":869464,"Giá bán":1350000},
       {"Mã":"LC-7663-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-7663-231026\nxanh acier size L bản đời mới 2 ngăn phụ, cond tổng quan 9/10, sát đáy có 1 vài vết trầy màu bé xíu xiu k ảnh hưởng vc sử dụng. KT 45 x 29 x 20\nGiá: 1.850.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":964472,"Giá bán":1850000},
@@ -1248,7 +1248,11 @@
       {"Mã":"LC-2810-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":808861},
       {"Mã":"LC-6424-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1164876},
       {"Mã":"LC-5569-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1390380},
-      {"Mã":"LC-6350-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1271380}
+      {"Mã":"LC-6350-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1390380},
+      {"Mã":"LC-2212-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1304562},
+      {"Mã":"LC-5761-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1080171},
+      {"Mã":"LC-3785-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1000825},
+      {"Mã":"LC-8555-281026","Ngày về":"28/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1381327}
     ]
   }
 }
