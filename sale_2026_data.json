@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31/10/2026 16:43",
+  "lastUpdated": "31/10/2026 22:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -679,8 +679,6 @@
       {"Mã":"ALMỞ15102600","Ngày bán":"25/10/2026","Sản phẩm":"Alessi Anna G","Giá nhập":769573,"Giá bán":1050000,"Lãi":280427},
       {"Mã":"IKĐÈ22102600","Ngày bán":"25/10/2026","Sản phẩm":"Ikea Fryebo - 2014","Giá nhập":379750,"Giá bán":700000,"Lãi":320250},
       {"Mã":"SUPO14052600","Ngày bán":"29/10/2026","Sản phẩm":"Supreme Fall Winter 2025 Poster","Giá nhập":193050,"Giá bán":500000,"Lãi":306950},
-      {"Mã":"PIGƯ23102600","Ngày bán":"31/10/2026","Sản phẩm":"Pier 1 Imports Mirror Moss Leaf","Giá nhập":256990,"Giá bán":800000,"Lãi":543010},
-      {"Mã":"EXCỜ23102600","Ngày bán":"31/10/2026","Sản phẩm":"Exochess 3D Terrain Chess Board","Giá nhập":351220,"Giá bán":950000,"Lãi":598780},
       {"Mã":"YICỐ23102600","Ngày bán":"31/10/2026","Sản phẩm":"Yifan Renxu Studio Pillow Cup 03","Giá nhập":368950,"Giá bán":550000,"Lãi":181050},
       {"Mã":"HOEGEG2010","Ngày bán":"31/10/2026","Sản phẩm":"Egizia Glass Holder","Giá nhập":1459502,"Giá bán":1500000,"Lãi":40498},
       {"Mã":"NOĐĨ12082606","Ngày bán":"31/10/2026","Sản phẩm":"No brand Starfish Dish (clear)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
