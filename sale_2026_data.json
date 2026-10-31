@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31/10/2026 22:13",
+  "lastUpdated": "31/10/2026 22:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -684,7 +684,9 @@
       {"Mã":"NOĐĨ12082606","Ngày bán":"31/10/2026","Sản phẩm":"No brand Starfish Dish (clear)","Giá nhập":51076,"Giá bán":90000,"Lãi":38924},
       {"Mã":"DOBÌ29072600","Ngày bán":"31/10/2026","Sản phẩm":"Doiy Seashell Vase","Giá nhập":215042,"Giá bán":700000,"Lãi":484958},
       {"Mã":"JNCỐ251200","Ngày bán":"31/10/2026","Sản phẩm":"Jnbyhome Cone Elegance Glass Stem Cup","Giá nhập":304550,"Giá bán":450000,"Lãi":145450},
-      {"Mã":"PHBÌ23102600","Ngày bán":"31/10/2026","Sản phẩm":"Philippi Cocoon Vase","Giá nhập":347160,"Giá bán":600000,"Lãi":252840}
+      {"Mã":"PHBÌ23102600","Ngày bán":"31/10/2026","Sản phẩm":"Philippi Cocoon Vase","Giá nhập":347160,"Giá bán":600000,"Lãi":252840},
+      {"Mã":"PIGƯ23102600","Ngày bán":"31/10/2026","Sản phẩm":"Pier 1 Imports Mirror Moss Leaf","Giá nhập":256990,"Giá bán":720000,"Lãi":463010},
+      {"Mã":"EXCỜ23102600","Ngày bán":"31/10/2026","Sản phẩm":"Exochess 3D Terrain Chess Board","Giá nhập":351220,"Giá bán":950000,"Lãi":598780}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
