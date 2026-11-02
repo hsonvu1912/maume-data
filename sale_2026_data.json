@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01/11/2026 00:13",
+  "lastUpdated": "02/11/2026 13:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -688,6 +688,10 @@
       {"Mã":"PIGƯ23102600","Ngày bán":"31/10/2026","Sản phẩm":"Pier 1 Imports Mirror Moss Leaf","Giá nhập":256990,"Giá bán":720000,"Lãi":463010},
       {"Mã":"EXCỜ23102600","Ngày bán":"31/10/2026","Sản phẩm":"Exochess 3D Terrain Chess Board","Giá nhập":351220,"Giá bán":950000,"Lãi":598780},
       {"Mã":"KEĐỒ29092600","Ngày bán":"31/10/2026","Sản phẩm":"Kellogg's Corn Flakes Rooster Alarm Clock - 1991","Giá nhập":1598687,"Giá bán":2900000,"Lãi":1301313}
+    ],
+    "SALE_MauMe_2026-11": [
+      {"Mã":"NOKH13102600","Ngày bán":"02/11/2026","Sản phẩm":"Nousaku KAGO - S","Giá nhập":596600,"Giá bán":850000,"Lãi":253400},
+      {"Mã":"NOĐĨ10092600","Ngày bán":"02/11/2026","Sản phẩm":"No brand Hologram Trinket Dish","Giá nhập":299164,"Giá bán":450000,"Lãi":150836}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
