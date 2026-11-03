@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/11/2026 12:43",
+  "lastUpdated": "03/11/2026 18:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -691,7 +691,31 @@
     ],
     "SALE_MauMe_2026-11": [
       {"Mã":"NOKH13102600","Ngày bán":"02/11/2026","Sản phẩm":"Nousaku KAGO - S","Giá nhập":596600,"Giá bán":850000,"Lãi":253400},
-      {"Mã":"NOĐĨ10092600","Ngày bán":"02/11/2026","Sản phẩm":"No brand Hologram Trinket Dish","Giá nhập":299164,"Giá bán":450000,"Lãi":150836}
+      {"Mã":"NOĐĨ10092600","Ngày bán":"02/11/2026","Sản phẩm":"No brand Hologram Trinket Dish","Giá nhập":299164,"Giá bán":450000,"Lãi":150836},
+      {"Mã":"THCỜ18092601","Ngày bán":"03/11/2026","Sản phẩm":"The Noble Collection Jurassic Park Chess Set","Giá nhập":1152008,"Giá bán":1710000,"Lãi":557992},
+      {"Mã":"IKKH101200","Ngày bán":"03/11/2026","Sản phẩm":"Ikea x Marimekko Bastua","Giá nhập":507311,"Giá bán":600000,"Lãi":92689},
+      {"Mã":"MOBÁ06032602","Ngày bán":"03/11/2026","Sản phẩm":"Moma La Maison Inondée Bowl - XS - White","Giá nhập":448589,"Giá bán":350000,"Lãi":-98589},
+      {"Mã":"NOCỐ09042605","Ngày bán":"03/11/2026","Sản phẩm":"No brand Cốc Smokey","Giá nhập":43567,"Giá bán":130000,"Lãi":86433},
+      {"Mã":"MOREDO1510","Ngày bán":"03/11/2026","Sản phẩm":"Doiy Space Egg Silicone Egg Frying Mould","Giá nhập":266340,"Giá bán":250000,"Lãi":-16340},
+      {"Mã":"KIMÓ10042600","Ngày bán":"03/11/2026","Sản phẩm":"Kikkerland Dog Keychain","Giá nhập":325700,"Giá bán":350000,"Lãi":24300},
+      {"Mã":"LEHỘ290100","Ngày bán":"03/11/2026","Sản phẩm":"Lexon Dream Tools Liqiud Station","Giá nhập":363120,"Giá bán":350000,"Lãi":-13120},
+      {"Mã":"UKĐÈ27082601","Ngày bán":"03/11/2026","Sản phẩm":"Ukonic Star Wars Darth Vader Lava Lamp","Giá nhập":790948,"Giá bán":1185000,"Lãi":394052},
+      {"Mã":"HAKÉ27062602","Ngày bán":"03/11/2026","Sản phẩm":"Hay Scissors - Black","Giá nhập":161996,"Giá bán":330000,"Lãi":168004},
+      {"Mã":"NOLY24092604","Ngày bán":"03/11/2026","Sản phẩm":"No brand Set of 2 Wine Glasses","Giá nhập":221122,"Giá bán":340000,"Lãi":118878},
+      {"Mã":"IKCH311201","Ngày bán":"03/11/2026","Sản phẩm":"Ikea Stockholm Candle Holder - 2017","Giá nhập":293329,"Giá bán":350000,"Lãi":56671},
+      {"Mã":"ALNA20102600","Ngày bán":"03/11/2026","Sản phẩm":"Alessi Anna G Kitchen Magnet (green)","Giá nhập":118900,"Giá bán":180000,"Lãi":61100},
+      {"Mã":"EGĐÈ13102601","Ngày bán":"03/11/2026","Sản phẩm":"Eglo IDA 13285","Giá nhập":223100,"Giá bán":615000,"Lãi":391900},
+      {"Mã":"DOBỘ210100","Ngày bán":"03/11/2026","Sản phẩm":"Doiy Koifish Mint","Giá nhập":1207837,"Giá bán":1500000,"Lãi":292163},
+      {"Mã":"LEHỘ06052600","Ngày bán":"03/11/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick - White","Giá nhập":168295,"Giá bán":250000,"Lãi":81705},
+      {"Mã":"WABỘ11102600","Ngày bán":"03/11/2026","Sản phẩm":"Waddingtons x Adult swim Rick & Morty Playing Cards","Giá nhập":255526,"Giá bán":425000,"Lãi":169474},
+      {"Mã":"LENA27052600","Ngày bán":"03/11/2026","Sản phẩm":"Lego Magnet Set - Yellow","Giá nhập":150422,"Giá bán":150000,"Lãi":-422},
+      {"Mã":"TAMÓ14052600","Ngày bán":"03/11/2026","Sản phẩm":"Tamburins Perfume 2ml Puppy Case","Giá nhập":288851,"Giá bán":350000,"Lãi":61149},
+      {"Mã":"IMKH05082602","Ngày bán":"03/11/2026","Sản phẩm":"IMM Living Melting Frozen Yogurt Ring Holder","Giá nhập":307787,"Giá bán":350000,"Lãi":42213},
+      {"Mã":"FRĐỒ29072600","Ngày bán":"03/11/2026","Sản phẩm":"Friends The Television Series Moulded Clock","Giá nhập":344826,"Giá bán":1200000,"Lãi":855174},
+      {"Mã":"LECỐ16042601","Ngày bán":"03/11/2026","Sản phẩm":"Lego 2 x 2 Brick Mug","Giá nhập":220065,"Giá bán":500000,"Lãi":279935},
+      {"Mã":"SMGẤ12082600","Ngày bán":"03/11/2026","Sản phẩm":"Smiley Plush Ball","Giá nhập":349052,"Giá bán":350000,"Lãi":948},
+      {"Mã":"UNCỐ14082603","Ngày bán":"03/11/2026","Sản phẩm":"UNIQLO x JW Anderson Red Mug","Giá nhập":109210,"Giá bán":150000,"Lãi":40790},
+      {"Mã":"THBỘ11102601","Ngày bán":"03/11/2026","Sản phẩm":"The Simpsons Deluxe Poker Set","Giá nhập":628768,"Giá bán":940000,"Lãi":311232}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
