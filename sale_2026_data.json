@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/11/2026 17:13",
+  "lastUpdated": "04/11/2026 17:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -735,7 +735,10 @@
       {"Mã":"TACỐ011200","Ngày bán":"04/11/2026","Sản phẩm":"Takashi Murakami x Doraemon Exhibition Mug","Giá nhập":333150,"Giá bán":350000,"Lãi":16850},
       {"Mã":"TACỐ221101","Ngày bán":"04/11/2026","Sản phẩm":"Takashi Murakami x Doraemon Exhibition Mug","Giá nhập":216720,"Giá bán":350000,"Lãi":133280},
       {"Mã":"EGĐÈ24092600","Ngày bán":"04/11/2026","Sản phẩm":"Eglo Girasole","Giá nhập":168901,"Giá bán":330000,"Lãi":161099},
-      {"Mã":"EDĐÈ29042602","Ngày bán":"04/11/2026","Sản phẩm":"Edi Light Floor Lamp - Orange","Giá nhập":213338,"Giá bán":800000,"Lãi":586662}
+      {"Mã":"EDĐÈ29042602","Ngày bán":"04/11/2026","Sản phẩm":"Edi Light Floor Lamp - Orange","Giá nhập":213338,"Giá bán":800000,"Lãi":586662},
+      {"Mã":"TCBÌ07072600","Ngày bán":"04/11/2026","Sản phẩm":"TCS Studio Form Glass Vase Forest","Giá nhập":618922,"Giá bán":800000,"Lãi":181078},
+      {"Mã":"URGƯ10092600","Ngày bán":"04/11/2026","Sản phẩm":"URFF DECO Gems Party Mirror","Giá nhập":436368,"Giá bán":615000,"Lãi":178632},
+      {"Mã":"TANẾ10092600","Ngày bán":"04/11/2026","Sản phẩm":"Tamburins Holiday Egg Candle","Giá nhập":290676,"Giá bán":380000,"Lãi":89324}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
