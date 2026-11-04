@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/11/2026 17:43",
+  "lastUpdated": "04/11/2026 18:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -738,7 +738,16 @@
       {"Mã":"EDĐÈ29042602","Ngày bán":"04/11/2026","Sản phẩm":"Edi Light Floor Lamp - Orange","Giá nhập":213338,"Giá bán":800000,"Lãi":586662},
       {"Mã":"TCBÌ07072600","Ngày bán":"04/11/2026","Sản phẩm":"TCS Studio Form Glass Vase Forest","Giá nhập":618922,"Giá bán":800000,"Lãi":181078},
       {"Mã":"URGƯ10092600","Ngày bán":"04/11/2026","Sản phẩm":"URFF DECO Gems Party Mirror","Giá nhập":436368,"Giá bán":615000,"Lãi":178632},
-      {"Mã":"TANẾ10092600","Ngày bán":"04/11/2026","Sản phẩm":"Tamburins Holiday Egg Candle","Giá nhập":290676,"Giá bán":380000,"Lãi":89324}
+      {"Mã":"TANẾ10092600","Ngày bán":"04/11/2026","Sản phẩm":"Tamburins Holiday Egg Candle","Giá nhập":290676,"Giá bán":380000,"Lãi":89324},
+      {"Mã":"PRGI24042600","Ngày bán":"04/11/2026","Sản phẩm":"Propaganda Mr. P Tape Dispenser","Giá nhập":144612,"Giá bán":350000,"Lãi":205388},
+      {"Mã":"LEĐÈ24042600","Ngày bán":"04/11/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model","Giá nhập":206406,"Giá bán":600000,"Lãi":393594},
+      {"Mã":"LEHỘ07042601","Ngày bán":"04/11/2026","Sản phẩm":"Lego 4 Knobs Brick Drawer - Aqua","Giá nhập":720000,"Giá bán":800000,"Lãi":80000},
+      {"Mã":"DOCỐ16092600","Ngày bán":"04/11/2026","Sản phẩm":"Doiy Cottage Mug","Giá nhập":262801,"Giá bán":380000,"Lãi":117199},
+      {"Mã":"MCHỘ20052601","Ngày bán":"04/11/2026","Sản phẩm":"Mcdonald's x Francfranc Big Mac Soup Jar","Giá nhập":231900,"Giá bán":250000,"Lãi":18100},
+      {"Mã":"TCỐ221100","Ngày bán":"04/11/2026","Sản phẩm":"Takashi Murakami x Kaikai Kiki Zingaro Next Door","Giá nhập":494021,"Giá bán":550000,"Lãi":55979},
+      {"Mã":"LEMÓ19032601","Ngày bán":"04/11/2026","Sản phẩm":"Lego x Disney Winnie the Pooh Keyring","Giá nhập":201850,"Giá bán":150000,"Lãi":-51850},
+      {"Mã":"DIHỘ050100","Ngày bán":"04/11/2026","Sản phẩm":"Disney Resort Donald Duck Candy Case","Giá nhập":296250,"Giá bán":350000,"Lãi":53750},
+      {"Mã":"SGẠ050100","Ngày bán":"04/11/2026","Sản phẩm":"Suck UK No Smoking Ashtray","Giá nhập":348000,"Giá bán":350000,"Lãi":2000}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
