@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/11/2026 16:43",
+  "lastUpdated": "04/11/2026 17:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -734,7 +734,8 @@
       {"Mã":"TACỐ151200","Ngày bán":"04/11/2026","Sản phẩm":"Takashi Murakami x Doraemon Exhibition Mug","Giá nhập":558000,"Giá bán":600000,"Lãi":42000},
       {"Mã":"TACỐ011200","Ngày bán":"04/11/2026","Sản phẩm":"Takashi Murakami x Doraemon Exhibition Mug","Giá nhập":333150,"Giá bán":350000,"Lãi":16850},
       {"Mã":"TACỐ221101","Ngày bán":"04/11/2026","Sản phẩm":"Takashi Murakami x Doraemon Exhibition Mug","Giá nhập":216720,"Giá bán":350000,"Lãi":133280},
-      {"Mã":"EGĐÈ24092600","Ngày bán":"04/11/2026","Sản phẩm":"Eglo Girasole","Giá nhập":168901,"Giá bán":330000,"Lãi":161099}
+      {"Mã":"EGĐÈ24092600","Ngày bán":"04/11/2026","Sản phẩm":"Eglo Girasole","Giá nhập":168901,"Giá bán":330000,"Lãi":161099},
+      {"Mã":"EDĐÈ29042602","Ngày bán":"04/11/2026","Sản phẩm":"Edi Light Floor Lamp - Orange","Giá nhập":213338,"Giá bán":800000,"Lãi":586662}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
