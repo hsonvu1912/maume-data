@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/11/2026 20:13",
+  "lastUpdated": "04/11/2026 23:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -750,7 +750,8 @@
       {"Mã":"SGẠ050100","Ngày bán":"04/11/2026","Sản phẩm":"Suck UK No Smoking Ashtray","Giá nhập":348000,"Giá bán":350000,"Lãi":2000},
       {"Mã":"IKLỌ101200","Ngày bán":"04/11/2026","Sản phẩm":"Ikea Plats","Giá nhập":75411,"Giá bán":100000,"Lãi":24589},
       {"Mã":"IKTƯ041101","Ngày bán":"04/11/2026","Sản phẩm":"Ikea Dala Horse - 2023","Giá nhập":134700,"Giá bán":150000,"Lãi":15300},
-      {"Mã":"CAĐĨ221100","Ngày bán":"04/11/2026","Sản phẩm":"Carrie M. Weems for Dior - 2023 Brooklyn Artists Ball","Giá nhập":407890,"Giá bán":600000,"Lãi":192110}
+      {"Mã":"CAĐĨ221100","Ngày bán":"04/11/2026","Sản phẩm":"Carrie M. Weems for Dior - 2023 Brooklyn Artists Ball","Giá nhập":407890,"Giá bán":600000,"Lãi":192110},
+      {"Mã":"THCỜ01102600","Ngày bán":"04/11/2026","Sản phẩm":"The Simpsons 3-D Chess Set","Giá nhập":1435400,"Giá bán":1995000,"Lãi":559600}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
