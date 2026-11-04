@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/11/2026 16:13",
+  "lastUpdated": "04/11/2026 16:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -731,7 +731,10 @@
       {"Mã":"LEĐÈ16042600","Ngày bán":"04/11/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model","Giá nhập":172830,"Giá bán":600000,"Lãi":427170},
       {"Mã":"NOCỐ05082604","Ngày bán":"04/11/2026","Sản phẩm":"No brand Amber Rim Glass Cup - Set of 2","Giá nhập":94320,"Giá bán":150000,"Lãi":55680},
       {"Mã":"LAWHPH2810","Ngày bán":"04/11/2026","Sản phẩm":"Philips Eye Care Soft Desk Lamp","Giá nhập":486406,"Giá bán":500000,"Lãi":13594},
-      {"Mã":"TACỐ151200","Ngày bán":"04/11/2026","Sản phẩm":"Takashi Murakami x Doraemon Exhibition Mug","Giá nhập":558000,"Giá bán":600000,"Lãi":42000}
+      {"Mã":"TACỐ151200","Ngày bán":"04/11/2026","Sản phẩm":"Takashi Murakami x Doraemon Exhibition Mug","Giá nhập":558000,"Giá bán":600000,"Lãi":42000},
+      {"Mã":"TACỐ011200","Ngày bán":"04/11/2026","Sản phẩm":"Takashi Murakami x Doraemon Exhibition Mug","Giá nhập":333150,"Giá bán":350000,"Lãi":16850},
+      {"Mã":"TACỐ221101","Ngày bán":"04/11/2026","Sản phẩm":"Takashi Murakami x Doraemon Exhibition Mug","Giá nhập":216720,"Giá bán":350000,"Lãi":133280},
+      {"Mã":"EGĐÈ24092600","Ngày bán":"04/11/2026","Sản phẩm":"Eglo Girasole","Giá nhập":168901,"Giá bán":330000,"Lãi":161099}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
