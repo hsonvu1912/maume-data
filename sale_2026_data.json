@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03/11/2026 18:13",
+  "lastUpdated": "04/11/2026 12:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -715,7 +715,18 @@
       {"Mã":"LECỐ16042601","Ngày bán":"03/11/2026","Sản phẩm":"Lego 2 x 2 Brick Mug","Giá nhập":220065,"Giá bán":500000,"Lãi":279935},
       {"Mã":"SMGẤ12082600","Ngày bán":"03/11/2026","Sản phẩm":"Smiley Plush Ball","Giá nhập":349052,"Giá bán":350000,"Lãi":948},
       {"Mã":"UNCỐ14082603","Ngày bán":"03/11/2026","Sản phẩm":"UNIQLO x JW Anderson Red Mug","Giá nhập":109210,"Giá bán":150000,"Lãi":40790},
-      {"Mã":"THBỘ11102601","Ngày bán":"03/11/2026","Sản phẩm":"The Simpsons Deluxe Poker Set","Giá nhập":628768,"Giá bán":940000,"Lãi":311232}
+      {"Mã":"THBỘ11102601","Ngày bán":"03/11/2026","Sản phẩm":"The Simpsons Deluxe Poker Set","Giá nhập":628768,"Giá bán":940000,"Lãi":311232},
+      {"Mã":"JNCỐ101201","Ngày bán":"03/11/2026","Sản phẩm":"Jnbyhome Glass Cup","Giá nhập":275350,"Giá bán":350000,"Lãi":74650},
+      {"Mã":"PHĐÈ221100","Ngày bán":"03/11/2026","Sản phẩm":"Philips Roomstylers QDG304","Giá nhập":692838,"Giá bán":600000,"Lãi":-92838},
+      {"Mã":"SEKH09042601","Ngày bán":"03/11/2026","Sản phẩm":"Serax Fish and Fish Jadite Milky White Dish","Giá nhập":177335,"Giá bán":350000,"Lãi":172665},
+      {"Mã":"MCBỘ20052600","Ngày bán":"03/11/2026","Sản phẩm":"Mcdonald's x Beams Design Lucky Bag Set","Giá nhập":276500,"Giá bán":350000,"Lãi":73500},
+      {"Mã":"FBCRXX2307","Ngày bán":"03/11/2026","Sản phẩm":"Stelton Embrace Bowl","Giá nhập":642920,"Giá bán":600000,"Lãi":-42920},
+      {"Mã":"ALBÓ07102600","Ngày bán":"03/11/2026","Sản phẩm":"Alessi Apostrophe Orange Peeler - GCH02","Giá nhập":588417,"Giá bán":760000,"Lãi":171583},
+      {"Mã":"FUKH041100","Ngày bán":"03/11/2026","Sản phẩm":"Fundamental Berlin Push Solo Bowl","Giá nhập":408210,"Giá bán":600000,"Lãi":191790},
+      {"Mã":"HEBẬ21012602","Ngày bán":"03/11/2026","Sản phẩm":"Heineken Guitar Lighter","Giá nhập":261652,"Giá bán":500000,"Lãi":238348},
+      {"Mã":"TIĐỒ01042600","Ngày bán":"03/11/2026","Sản phẩm":"Timestone Cubitime Clock","Giá nhập":874700,"Giá bán":800000,"Lãi":-74700},
+      {"Mã":"NOCỐ09042600","Ngày bán":"03/11/2026","Sản phẩm":"No brand Cốc Sky Blue","Giá nhập":58293,"Giá bán":100000,"Lãi":41707},
+      {"Mã":"NOCỐ09042601","Ngày bán":"03/11/2026","Sản phẩm":"No brand Cốc Sky Blue","Giá nhập":58293,"Giá bán":100000,"Lãi":41707}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
