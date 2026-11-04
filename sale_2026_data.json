@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/11/2026 12:13",
+  "lastUpdated": "04/11/2026 13:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -726,7 +726,9 @@
       {"Mã":"HEBẬ21012602","Ngày bán":"03/11/2026","Sản phẩm":"Heineken Guitar Lighter","Giá nhập":261652,"Giá bán":500000,"Lãi":238348},
       {"Mã":"TIĐỒ01042600","Ngày bán":"03/11/2026","Sản phẩm":"Timestone Cubitime Clock","Giá nhập":874700,"Giá bán":800000,"Lãi":-74700},
       {"Mã":"NOCỐ09042600","Ngày bán":"03/11/2026","Sản phẩm":"No brand Cốc Sky Blue","Giá nhập":58293,"Giá bán":100000,"Lãi":41707},
-      {"Mã":"NOCỐ09042601","Ngày bán":"03/11/2026","Sản phẩm":"No brand Cốc Sky Blue","Giá nhập":58293,"Giá bán":100000,"Lãi":41707}
+      {"Mã":"NOCỐ09042601","Ngày bán":"03/11/2026","Sản phẩm":"No brand Cốc Sky Blue","Giá nhập":58293,"Giá bán":100000,"Lãi":41707},
+      {"Mã":"JNCỐ031200","Ngày bán":"04/11/2026","Sản phẩm":"Jnbyhome N - Shape Mug","Giá nhập":189300,"Giá bán":300000,"Lãi":110700},
+      {"Mã":"LEĐÈ16042600","Ngày bán":"04/11/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model","Giá nhập":172830,"Giá bán":600000,"Lãi":427170}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
