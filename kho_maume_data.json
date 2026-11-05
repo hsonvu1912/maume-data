@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/11/2026 23:56",
+  "lastUpdated": "06/11/2026 00:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1202,7 +1202,7 @@
       {"Mã":"NOCỐ09042604","Ngày về":"09/04/2026","Sản phẩm":"No brand Cốc Smokey\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 110 x 90mm\n\nGiá: 130.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":43567,"Giá bán":130000},
       {"Mã":"NOCỐ09042605","Ngày về":"09/04/2026","Sản phẩm":"No brand Cốc Smokey\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 110 x 90mm\n\nGiá: 130.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":43567,"Giá bán":130000},
       {"Mã":"NOCỐ09042606","Ngày về":"09/04/2026","Sản phẩm":"No brand Cốc Smokey\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 110 x 90mm\n\nGiá: 130.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":43567,"Giá bán":130000},
-      {"Mã":"NOBÌ09042600","Ngày về":"09/04/2026","Sản phẩm":"No brand Bình Swirl Green\n\nChất liệu: Thủy tinh\n\nPhân Loại: Bình nước\n\nTình trạng: Như ảnh\n\nKích thước: d125 x 245mm\n\nGiá: 450.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":217835,"Giá bán":450000},
+      {"Mã":"NOBÌ09042600","Ngày về":"09/04/2026","Sản phẩm":"No brand Bình Swirl Green\n\nChất liệu: Thủy tinh\n\nPhân Loại: Bình nước\n\nTình trạng: Như ảnh\n\nKích thước: d125 x 245mm\n\nGiá: 450.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":217835,"Giá bán":450000},
       {"Mã":"NOCỐ09042607","Ngày về":"09/04/2026","Sản phẩm":"No brand Cốc Amber\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: d80 x 145mm\n\nGiá: 290.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":149418,"Giá bán":290000},
       {"Mã":"NOCỐ09042608","Ngày về":"09/04/2026","Sản phẩm":"No brand Cốc Amber\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: d80 x 145mm\n\nGiá: 290.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":149418,"Giá bán":290000},
       {"Mã":"NOCỐ09042609","Ngày về":"09/04/2026","Sản phẩm":"No brand Cốc Emerald\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: d80 x 130mm\n\nGiá: 180.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":68418,"Giá bán":180000},
