@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/11/2026 23:43",
+  "lastUpdated": "06/11/2026 00:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -773,7 +773,8 @@
       {"Mã":"FRYLXX2909","Ngày bán":"05/11/2026","Sản phẩm":"Picture Frame","Giá nhập":99200,"Giá bán":100000,"Lãi":800},
       {"Mã":"VICỜ22072603","Ngày bán":"05/11/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":387175,"Giá bán":1200000,"Lãi":812825},
       {"Mã":"LABLTS2506","Ngày bán":"05/11/2026","Sản phẩm":"Đèn bàn Tenson","Giá nhập":962665,"Giá bán":800000,"Lãi":-162665},
-      {"Mã":"LEHỘ26032610","Ngày bán":"05/11/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick Grey","Giá nhập":164272,"Giá bán":200000,"Lãi":35728}
+      {"Mã":"LEHỘ26032610","Ngày bán":"05/11/2026","Sản phẩm":"Lego 1-Stud Round Storage Brick Grey","Giá nhập":164272,"Giá bán":200000,"Lãi":35728},
+      {"Mã":"NOBÌ09042600","Ngày bán":"05/11/2026","Sản phẩm":"No brand Bình Swirl Green","Giá nhập":217835,"Giá bán":250000,"Lãi":32165}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
