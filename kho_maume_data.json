@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/11/2026 16:26",
+  "lastUpdated": "05/11/2026 16:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -42,7 +42,7 @@
       {"Mã":"CLBEIK0207","Ngày về":"02/07/2025","Sản phẩm":"IKEA Tjinga alarm clock\nTình trạng: Like New\nKích thước: 8 x 8 x 5 cm","Tình trạng":"Hết hàng","Thành tiền":160890},
       {"Mã":"KSBGAR0207","Ngày về":"02/07/2025","Sản phẩm":"Burger Kitchenware – Aura House\nTình trạng: New With Box","Tình trạng":"Hết hàng","Thành tiền":295750},
       {"Mã":"CLBLBR0207","Ngày về":"02/07/2025","Sản phẩm":"Braun - Black Classic Light Analog Quartz Alarm Clock\nTình trạng: Qua sử dụng, xước mặt nhẹ\nKích thước: 8 x 8 x 3,7 cm","Tình trạng":"Hết hàng","Thành tiền":459980},
-      {"Mã":"GBBLTF0207","Ngày về":"02/07/2025","Sản phẩm":"Tiffany Blue Gift Box White Jewelry \nTình trạng: Như ảnh\nKích thước: 9 x 9 x 10 cm\nGiá: Sale 10% 1.350.000 => 1.215.000","Tình trạng":"Còn hàng","Thành tiền":1025774,"Giá bán":1350000},
+      {"Mã":"GBBLTF0207","Ngày về":"02/07/2025","Sản phẩm":"Tiffany Blue Gift Box White Jewelry \nTình trạng: Như ảnh\nKích thước: 9 x 9 x 10 cm\nGiá: Sale 10% 1.350.000 => 1.215.000","Tình trạng":"Hết hàng","Thành tiền":1025774,"Giá bán":1350000},
       {"Mã":"BBWHTF0207","Ngày về":"02/07/2025","Sản phẩm":"Tiffany Crystal Bow Box Yamazaki Bread Company 50th Anniversary\nTình trạng: New No Box\nKích thước: 8.8 x 8.3 x 8.7cm","Tình trạng":"Hết hàng","Thành tiền":733774},
       {"Mã":"TBWHTF0207","Ngày về":"02/07/2025","Sản phẩm":"Tiffany & Co. Elsa Peretti Crystal Heart Trinket Box and Lid\nTình trạng: New With Box\nKích thước: 10 x 10 x 5 cm","Tình trạng":"Hết hàng","Thành tiền":683774},
       {"Mã":"BABLCC0207","Ngày về":"02/07/2025","Sản phẩm":"Túi cote & ciel","Tình trạng":"Hết hàng","Thành tiền":1170390},
@@ -1499,7 +1499,7 @@
       {"Mã":"IKĐÈ03072600","Ngày về":"03/07/2026","Sản phẩm":"Ikea Solvinden Pendant Lamp\n\nChất liệu: Kim loại\n\nPhân Loại: Đèn thả\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 200 x 480mm\n\nGiá: 990.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":673375,"Giá bán":990000},
       {"Mã":"DOCỐ03072600","Ngày về":"03/07/2026","Sản phẩm":"Doiy Kitty Ginger\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước:  70 x 80 x 290mm\n\nGiá: 1.620.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":485580,"Giá bán":1620000},
       {"Mã":"DOBÌ03072600","Ngày về":"03/07/2026","Sản phẩm":"Doiy Acquedotto Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 160 x 75 x 220mm\n\nGiá: 900.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":448128,"Giá bán":900000},
-      {"Mã":"FBÌ03072600","Ngày về":"03/07/2026","Sản phẩm":"Ferm Living Ceramic Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: d150 x 220mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":501118,"Giá bán":800000},
+      {"Mã":"FBÌ03072600","Ngày về":"03/07/2026","Sản phẩm":"Ferm Living Ceramic Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: d150 x 220mm\n\nGiá: 800.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":501118,"Giá bán":800000},
       {"Mã":"VICỜ03072600","Ngày về":"03/07/2026","Sản phẩm":"Vilac Keith Haring Chess Game\n\nChất liệu: Gỗ\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 320 x 320mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":379648,"Giá bán":1500000},
       {"Mã":"LITH03072600","Ngày về":"03/07/2026","Sản phẩm":"Line Friends Sally Tiger Rug\n\nChất liệu: Vải\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước:  600 x 770mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":304064,"Giá bán":600000},
       {"Mã":"URTH07072600","Ngày về":"07/07/2026","Sản phẩm":"URFF Deco Puzzle Chopping Board\n\nChất liệu: Nhựa\n\nPhân Loại: Thớt\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 400 x 200 x 15mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":218676,"Giá bán":350000},
@@ -1904,18 +1904,18 @@
       {"Mã":"NOKH31102601","Ngày về":"31/10/2026","Sản phẩm":"No brand Calacatta Viola Marble Soap Dish\n\nChất liệu: Đá cẩm thạch tím (Calacatta Viola)\n\nPhân Loại: Khay đựng xà phòng\n\nTình trạng: Như ảnh\n\nKích thước: 120 x 90mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":22330}
     ],
     "Tháng 11/2026": [
-      {"Mã":"BA04112600","Ngày về":"04/11/2026","Sản phẩm":"Bang & Olufsen \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":269280},
+      {"Mã":"BABỘ04112600","Ngày về":"04/11/2026","Sản phẩm":"Bang & Olufsen \n\nChất liệu: Giấy\n\nPhân Loại: Bộ bài\n\nTình trạng: Mới\n\nKích thước: 95 x 65mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":269280},
       {"Mã":"DOBÌ04112600","Ngày về":"04/11/2026","Sản phẩm":"Doiy Good Morning Vase Moka\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước:  90 x 150x 130mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":285120},
-      {"Mã":"CỜ04112600","Ngày về":"04/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":475200},
+      {"Mã":"ANCỜ04112600","Ngày về":"04/11/2026","Sản phẩm":"Anti Social Social Club x Undefeated Travel Magnetic Folding Chess Set\n\nChất liệu: Nhựa\n\nPhân Loại: Cờ vua\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":475200},
       {"Mã":"04112600","Ngày về":"04/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":99000},
       {"Mã":"UM04112600","Ngày về":"04/11/2026","Sản phẩm":"Umbra \n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":312840},
       {"Mã":"UMĐỒ04112600","Ngày về":"04/11/2026","Sản phẩm":"Umbra \n\nChất liệu: \n\nPhân Loại: Đồng hồ\n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":293040},
       {"Mã":"04112600","Ngày về":"04/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":333407},
       {"Mã":"UMĐỒ04112601","Ngày về":"04/11/2026","Sản phẩm":"Umbra Ribbon Wall Clock (silver)\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, kim trôi\n\nKích thước: 300 x 45mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":514150},
-      {"Mã":"KH04112600","Ngày về":"04/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":166110},
+      {"Mã":"DAKH04112600","Ngày về":"04/11/2026","Sản phẩm":"Daniel Deco Photo Frame\n\nChất liệu: Kim loại\n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: 130 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":166110},
       {"Mã":"UMĐỒ04112602","Ngày về":"04/11/2026","Sản phẩm":"Umbra Ribbon Wall Clock (black)\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, kim trôi\n\nKích thước: 300 x 45mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":625680},
-      {"Mã":"KH04112601","Ngày về":"04/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":138425},
-      {"Mã":"04112600","Ngày về":"04/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":267300}
+      {"Mã":"NOKH04112600","Ngày về":"04/11/2026","Sản phẩm":"No brand Photo Frame\n\nChất liệu: Gỗ\n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: 50 x 70mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":138425},
+      {"Mã":"RAĐỒ04112600","Ngày về":"04/11/2026","Sản phẩm":"RayCue Maclock WB-8 Retro Pixel Alarm Clock\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 91 x 112mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":267300}
     ]
   }
 }
