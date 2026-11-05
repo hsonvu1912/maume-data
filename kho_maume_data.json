@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/11/2026 19:26",
+  "lastUpdated": "05/11/2026 23:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -30,7 +30,7 @@
       {"Mã":"VARENM2506","Ngày về":"25/06/2025","Sản phẩm":"PHÍCH NƯỚC NORMAN Copenhagen\nTÌNH TRẠNG: New With Box\nDung tích: 1L\nKích thước: ‎16.51 x 16.51 x 20.07 cm","Tình trạng":"Hết hàng","Thành tiền":609495},
       {"Mã":"BGWHMA2506","Ngày về":"25/06/2025","Sản phẩm":"Bộ cờ vua mini Marboro\nTình Trạng: Qua sử dụng, mất 1 quân hậu trắng, 1 ngựa đen\nKích thước: 8 x 8cm","Tình trạng":"Sửa chữa","Thành tiền":508028},
       {"Mã":"LAYLID2506","Ngày về":"25/06/2025","Sản phẩm":"InterDesign Targa Clip on Lamp \nTình Trạng: Như ảnh, còn hộp, tặng kèm bóng E27\nKích thước: 110 x  170mm","Tình trạng":"Còn hàng","Thành tiền":2321991,"Giá bán":2900000},
-      {"Mã":"LABLTS2506","Ngày về":"25/06/2025","Sản phẩm":"Đèn bàn Tenson\nTình trạng: Qua sử dụng, phích cắm hơi méo\nKích thước: 12.7cm x 12,7 x 30.48cm","Tình trạng":"Còn hàng","Thành tiền":962665,"Giá bán":1000000},
+      {"Mã":"LABLTS2506","Ngày về":"25/06/2025","Sản phẩm":"Đèn bàn Tenson\nTình trạng: Qua sử dụng, phích cắm hơi méo\nKích thước: 12.7cm x 12,7 x 30.48cm","Tình trạng":"Hết hàng","Thành tiền":962665,"Giá bán":1000000},
       {"Mã":"SCYKTR2506","Ngày về":"25/06/2025","Sản phẩm":"cân Terraillon\nTình trạng: Qua sử dụng, xước nhẹ\nkích thước 16.5 x 12 x 18 cm","Tình trạng":"Hết hàng","Thành tiền":839703}
     ],
     "Tháng 7/2025": [
