@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/11/2026 15:34",
+  "lastUpdated": "05/11/2026 18:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1267,14 +1267,14 @@
       {"Mã":"LC-0016-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1394280},
       {"Mã":"LC-0211-01-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1117440},
       {"Mã":"LC-9730-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK"},
-      {"Mã":"CH-01-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1900800},
-      {"Mã":"CH-02-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1141920},
-      {"Mã":"LC-0411-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":921515},
-      {"Mã":"LC-3174-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1354320},
-      {"Mã":"LC-0057-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1108800},
-      {"Mã":"LC-3563-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1069200},
-      {"Mã":"LC-1717-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1185535},
-      {"Mã":"CH-03-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1980000}
+      {"Mã":"CH-01-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1929510},
+      {"Mã":"CH-02-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1170630},
+      {"Mã":"LC-0411-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":940655},
+      {"Mã":"LC-3174-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1373460},
+      {"Mã":"LC-0057-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1127940},
+      {"Mã":"LC-3563-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1091530},
+      {"Mã":"LC-1717-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1204675},
+      {"Mã":"CH-03-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2008710}
     ]
   }
 }
