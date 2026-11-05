@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/11/2026 17:55",
+  "lastUpdated": "05/11/2026 18:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -219,7 +219,7 @@
       {"Mã":"BOORBU2508","Ngày về":"25/08/2025","Sản phẩm":"Kikkerland Tiger Bottle Opener\nChất liệu: Kim loại\n\nPhân loại: Mở rượu\n\nTình trạng: Như ảnh\n\nKích thước: 127 x 88 x 119mm\n\nGiá: 450.000","Tình trạng":"Hết hàng","Thành tiền":297075,"Giá bán":450000},
       {"Mã":"CHSIIK2508","Ngày về":"25/08/2025","Sản phẩm":"IKEA Silver Tone Metal Mesh Votive Candleholder\nTình trạng: Như ảnh\nKích thước: D7,1 x 6,2 cm","Tình trạng":"Còn hàng","Thành tiền":270860,"Giá bán":350000},
       {"Mã":"LAWHIK25081","Ngày về":"25/08/2025","Sản phẩm":"IKEA BACKNTE\nTình trạng: Như ảnh, còn hộp, không kèm bóng (e14)\nKích thước: Chiều cao: 50 cm\nĐường kính phần chụp đèn phía trên: 32 cm\nĐường kính phần đế trụ phía dưới: 10 cm","Tình trạng":"Hết hàng","Thành tiền":462053},
-      {"Mã":"BASIAL2508","Ngày về":"25/08/2025","Sản phẩm":"Nuvem AFC13 design Fratelli Campana\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước: 10 x 10 x 17cm","Tình trạng":"Còn hàng","Thành tiền":855302,"Giá bán":1500000},
+      {"Mã":"BASIAL2508","Ngày về":"25/08/2025","Sản phẩm":"Nuvem AFC13 design Fratelli Campana\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước: 10 x 10 x 17cm","Tình trạng":"Hết hàng","Thành tiền":855302,"Giá bán":1500000},
       {"Mã":"LAYLIK2508","Ngày về":"25/08/2025","Sản phẩm":"IKEA STOCKHOLM \nTình trạng: Như ảnh, tặng kèm bóng\nKích thước: 33 x 35cm","Tình trạng":"Hết hàng","Thành tiền":883160},
       {"Mã":"LAPIIK2508","Ngày về":"25/08/2025","Sản phẩm":"\"IKEA LAMPAN LED portable lamp\nTinh trạng: Như ảnh, nguyên seal, tặng kèm bóng\nKích thước: D15 x 24cm","Tình trạng":"Hết hàng","Thành tiền":219195},
       {"Mã":"BASIWM2508","Ngày về":"25/08/2025","Sản phẩm":"WMF Lounge Living Chaos 665026040 Basket\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước: 30 x 30 x 11cm","Tình trạng":"Hết hàng","Thành tiền":621803},
@@ -1911,11 +1911,11 @@
       {"Mã":"UMGƯ04112600","Ngày về":"04/11/2026","Sản phẩm":"Umbra Global Glass Mirrors (Set of 3)\n\nChất liệu: Nhựa, thủy tinh\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 280mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":405350},
       {"Mã":"UMĐỒ04112600","Ngày về":"04/11/2026","Sản phẩm":"Umbra Eclapse Wall Clock\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 450mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":385550},
       {"Mã":"SMBÓ04112600","Ngày về":"04/11/2026","Sản phẩm":"Smiley x Chinatown Market Smiley Soccer Ball\n\nChất liệu: Da, cao su\n\nPhân Loại: Bóng đá\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 215mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":352547},
-      {"Mã":"UMĐỒ04112601","Ngày về":"04/11/2026","Sản phẩm":"Umbra Ribbon Wall Clock (silver)\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, kim trôi\n\nKích thước: 300 x 45mm\n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":562000},
+      {"Mã":"UMĐỒ04112601","Ngày về":"04/11/2026","Sản phẩm":"Umbra Ribbon Wall Clock (silver)\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, kim trôi\n\nKích thước: 300 x 45mm\n\nGiá: 0","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Chưa đăng","Thành tiền":565190},
       {"Mã":"DAKH04112600","Ngày về":"04/11/2026","Sản phẩm":"Daniel Deco Photo Frame\n\nChất liệu: Kim loại\n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: 130 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":191630},
-      {"Mã":"UMĐỒ04112602","Ngày về":"04/11/2026","Sản phẩm":"Umbra Ribbon Wall Clock (black)\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, kim trôi\n\nKích thước: 300 x 45mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":625680},
-      {"Mã":"NOKH04112600","Ngày về":"04/11/2026","Sản phẩm":"No brand Photo Frame\n\nChất liệu: Gỗ\n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: 50 x 70mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":138425},
-      {"Mã":"RAĐỒ04112600","Ngày về":"04/11/2026","Sản phẩm":"RayCue Maclock WB-8 Retro Pixel Alarm Clock\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 91 x 112mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":267300}
+      {"Mã":"UMĐỒ04112602","Ngày về":"04/11/2026","Sản phẩm":"Umbra Ribbon Wall Clock (black)\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, kim trôi\n\nKích thước: 300 x 45mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":676720},
+      {"Mã":"NOKH04112600","Ngày về":"04/11/2026","Sản phẩm":"No brand Photo Frame\n\nChất liệu: Gỗ\n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: 50 x 70mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":163945},
+      {"Mã":"RAĐỒ04112600","Ngày về":"04/11/2026","Sản phẩm":"RayCue Maclock WB-8 Retro Pixel Alarm Clock\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 91 x 112mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":283250}
     ]
   }
 }
