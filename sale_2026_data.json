@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/11/2026 14:13",
+  "lastUpdated": "05/11/2026 14:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -760,7 +760,10 @@
       {"Mã":"IKĐÈ060100","Ngày bán":"05/11/2026","Sản phẩm":"Ikea x Gustaf Westman Strala - 2025","Giá nhập":2393546,"Giá bán":2400000,"Lãi":6454},
       {"Mã":"NLY05082604","Ngày bán":"05/11/2026","Sản phẩm":"No brand Bryce Amber Swirl","Giá nhập":195557,"Giá bán":150000,"Lãi":-45557},
       {"Mã":"BOREGU1110","Ngày bán":"05/11/2026","Sản phẩm":"GUZZINI Biscotto bowl","Giá nhập":322650,"Giá bán":350000,"Lãi":27350},
-      {"Mã":"NLY05082603","Ngày bán":"05/11/2026","Sản phẩm":"No brand Bryce Amber Swirl","Giá nhập":195557,"Giá bán":150000,"Lãi":-45557}
+      {"Mã":"NLY05082603","Ngày bán":"05/11/2026","Sản phẩm":"No brand Bryce Amber Swirl","Giá nhập":195557,"Giá bán":150000,"Lãi":-45557},
+      {"Mã":"KINA16062600","Ngày bán":"05/11/2026","Sản phẩm":"Kikkerland Cat Butt Magnets","Giá nhập":298450,"Giá bán":350000,"Lãi":51550},
+      {"Mã":"LUBỘ16042600","Ngày bán":"05/11/2026","Sản phẩm":"Lucky Wood Marietta 18-8 Pasta Fork Set","Giá nhập":507012,"Giá bán":550000,"Lãi":42988},
+      {"Mã":"NOCỐ24092606","Ngày bán":"05/11/2026","Sản phẩm":"No brand Set of 2 Blue and Green Wave Glasses","Giá nhập":214380,"Giá bán":320000,"Lãi":105620}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -1880,7 +1883,10 @@
       {"Mã":"LC-6424-281026","Ngày bán":"05/11/2026","Sản phẩm":"LC-6424-281026","Giá nhập":1164876,"Giá bán":1800000,"Lãi":635124},
       {"Mã":"LC-0258-281026","Ngày bán":"05/11/2026","Sản phẩm":"LC-0258-281026","Giá nhập":1143324,"Giá bán":1850000,"Lãi":706676},
       {"Mã":"LC-7627-281026","Ngày bán":"05/11/2026","Sản phẩm":"LC-7627-281026","Giá nhập":808270,"Giá bán":1750000,"Lãi":941730},
-      {"Mã":"LC-2810-281026","Ngày bán":"05/11/2026","Sản phẩm":"LC-2810-281026","Giá nhập":808861,"Giá bán":1600000,"Lãi":791139}
+      {"Mã":"LC-2810-281026","Ngày bán":"05/11/2026","Sản phẩm":"LC-2810-281026","Giá nhập":808861,"Giá bán":1600000,"Lãi":791139},
+      {"Mã":"LC-1992-281026","Ngày bán":"05/11/2026","Sản phẩm":"LC-1992-281026","Giá nhập":1530000,"Giá bán":1800000,"Lãi":270000},
+      {"Mã":"LC-4615-281026","Ngày bán":"05/11/2026","Sản phẩm":"LC-4615-281026","Giá nhập":1167681,"Giá bán":1650000,"Lãi":482319},
+      {"Mã":"LC-5859-231026","Ngày bán":"05/11/2026","Sản phẩm":"LC-5859-231026","Giá nhập":967930,"Giá bán":1650000,"Lãi":682070}
     ]
   }
 }
