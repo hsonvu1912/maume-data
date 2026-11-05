@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/11/2026 13:43",
+  "lastUpdated": "05/11/2026 14:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -756,7 +756,11 @@
       {"Mã":"CLORBR0509A","Ngày bán":"05/11/2026","Sản phẩm":"BRUNO Blister Clock BCW023","Giá nhập":263304,"Giá bán":595000,"Lãi":331696},
       {"Mã":"GLCLSE2008","Ngày bán":"05/11/2026","Sản phẩm":"Serax Dora by Ann Demeulemeester","Giá nhập":984336,"Giá bán":800000,"Lãi":-184336},
       {"Mã":"IKKH031200","Ngày bán":"05/11/2026","Sản phẩm":"Ikea Kvittera","Giá nhập":389700,"Giá bán":350000,"Lãi":-39700},
-      {"Mã":"SEĐĨ05082600","Ngày bán":"05/11/2026","Sản phẩm":"Serax Fish&Fish Serving Plate","Giá nhập":345664,"Giá bán":500000,"Lãi":154336}
+      {"Mã":"SEĐĨ05082600","Ngày bán":"05/11/2026","Sản phẩm":"Serax Fish&Fish Serving Plate","Giá nhập":345664,"Giá bán":500000,"Lãi":154336},
+      {"Mã":"IKĐÈ060100","Ngày bán":"05/11/2026","Sản phẩm":"Ikea x Gustaf Westman Strala - 2025","Giá nhập":2393546,"Giá bán":2400000,"Lãi":6454},
+      {"Mã":"NLY05082604","Ngày bán":"05/11/2026","Sản phẩm":"No brand Bryce Amber Swirl","Giá nhập":195557,"Giá bán":150000,"Lãi":-45557},
+      {"Mã":"BOREGU1110","Ngày bán":"05/11/2026","Sản phẩm":"GUZZINI Biscotto bowl","Giá nhập":322650,"Giá bán":350000,"Lãi":27350},
+      {"Mã":"NLY05082603","Ngày bán":"05/11/2026","Sản phẩm":"No brand Bryce Amber Swirl","Giá nhập":195557,"Giá bán":150000,"Lãi":-45557}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
