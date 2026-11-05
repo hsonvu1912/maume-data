@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/11/2026 18:13",
+  "lastUpdated": "05/11/2026 19:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -767,7 +767,11 @@
       {"Mã":"UNCỐ14082602","Ngày bán":"05/11/2026","Sản phẩm":"UNIQLO x JW Anderson Red Mug","Giá nhập":109210,"Giá bán":150000,"Lãi":40790},
       {"Mã":"GBBLTF0207","Ngày bán":"05/11/2026","Sản phẩm":"Tiffany Blue Gift Box White Jewelry","Giá nhập":1025774,"Giá bán":1050000,"Lãi":24226},
       {"Mã":"FBÌ03072600","Ngày bán":"05/11/2026","Sản phẩm":"Ferm Living Ceramic Vase","Giá nhập":501118,"Giá bán":600000,"Lãi":98882},
-      {"Mã":"ALVẮ20102602","Ngày bán":"05/11/2026","Sản phẩm":"Alessi Juicy Salif","Giá nhập":1651900,"Giá bán":2375000,"Lãi":723100}
+      {"Mã":"ALVẮ20102602","Ngày bán":"05/11/2026","Sản phẩm":"Alessi Juicy Salif","Giá nhập":1651900,"Giá bán":2375000,"Lãi":723100},
+      {"Mã":"KINA21012600","Ngày bán":"05/11/2026","Sản phẩm":"Kikkerland Cat Butt Magnets","Giá nhập":397800,"Giá bán":350000,"Lãi":-47800},
+      {"Mã":"BAMÓ15102600","Ngày bán":"05/11/2026","Sản phẩm":"Balvi Yale Key","Giá nhập":557322,"Giá bán":615000,"Lãi":57678},
+      {"Mã":"FRYLXX2909","Ngày bán":"05/11/2026","Sản phẩm":"Picture Frame","Giá nhập":99200,"Giá bán":100000,"Lãi":800},
+      {"Mã":"VICỜ22072603","Ngày bán":"05/11/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":387175,"Giá bán":1200000,"Lãi":812825}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
