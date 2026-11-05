@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/11/2026 14:43",
+  "lastUpdated": "05/11/2026 15:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -763,7 +763,8 @@
       {"Mã":"NLY05082603","Ngày bán":"05/11/2026","Sản phẩm":"No brand Bryce Amber Swirl","Giá nhập":195557,"Giá bán":150000,"Lãi":-45557},
       {"Mã":"KINA16062600","Ngày bán":"05/11/2026","Sản phẩm":"Kikkerland Cat Butt Magnets","Giá nhập":298450,"Giá bán":350000,"Lãi":51550},
       {"Mã":"LUBỘ16042600","Ngày bán":"05/11/2026","Sản phẩm":"Lucky Wood Marietta 18-8 Pasta Fork Set","Giá nhập":507012,"Giá bán":550000,"Lãi":42988},
-      {"Mã":"NOCỐ24092606","Ngày bán":"05/11/2026","Sản phẩm":"No brand Set of 2 Blue and Green Wave Glasses","Giá nhập":214380,"Giá bán":320000,"Lãi":105620}
+      {"Mã":"NOCỐ24092606","Ngày bán":"05/11/2026","Sản phẩm":"No brand Set of 2 Blue and Green Wave Glasses","Giá nhập":214380,"Giá bán":320000,"Lãi":105620},
+      {"Mã":"UNCỐ14082602","Ngày bán":"05/11/2026","Sản phẩm":"UNIQLO x JW Anderson Red Mug","Giá nhập":109210,"Giá bán":150000,"Lãi":40790}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
