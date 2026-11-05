@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05/11/2026 16:43",
+  "lastUpdated": "05/11/2026 18:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -766,7 +766,8 @@
       {"Mã":"NOCỐ24092606","Ngày bán":"05/11/2026","Sản phẩm":"No brand Set of 2 Blue and Green Wave Glasses","Giá nhập":214380,"Giá bán":320000,"Lãi":105620},
       {"Mã":"UNCỐ14082602","Ngày bán":"05/11/2026","Sản phẩm":"UNIQLO x JW Anderson Red Mug","Giá nhập":109210,"Giá bán":150000,"Lãi":40790},
       {"Mã":"GBBLTF0207","Ngày bán":"05/11/2026","Sản phẩm":"Tiffany Blue Gift Box White Jewelry","Giá nhập":1025774,"Giá bán":1050000,"Lãi":24226},
-      {"Mã":"FBÌ03072600","Ngày bán":"05/11/2026","Sản phẩm":"Ferm Living Ceramic Vase","Giá nhập":501118,"Giá bán":600000,"Lãi":98882}
+      {"Mã":"FBÌ03072600","Ngày bán":"05/11/2026","Sản phẩm":"Ferm Living Ceramic Vase","Giá nhập":501118,"Giá bán":600000,"Lãi":98882},
+      {"Mã":"ALVẮ20102602","Ngày bán":"05/11/2026","Sản phẩm":"Alessi Juicy Salif","Giá nhập":1651900,"Giá bán":2375000,"Lãi":723100}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
