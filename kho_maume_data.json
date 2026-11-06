@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/11/2026 15:56",
+  "lastUpdated": "06/11/2026 16:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1509,7 +1509,7 @@
       {"Mã":"COCỐ07072600","Ngày về":"07/07/2026","Sản phẩm":"Pantone Original Mug 13-1023 Peach Fuzz\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 124 x 98mm\n375ml\n\nGiá: 450.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":259364,"Giá bán":450000},
       {"Mã":"NOTH07072600","Ngày về":"07/07/2026","Sản phẩm":"No brand Windows XP Mat\n\nChất liệu: Vải, polyester\n\nPhân Loại: Thảm\n\nTình trạng: Như ảnh\n\nKích thước: 790 x 510mm\n\nGiá: 800.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":340282,"Giá bán":800000},
       {"Mã":"MOMỞ07072600","Ngày về":"07/07/2026","Sản phẩm":"MoMA Divine Proportion Bottle Opener\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 52mm\n\nGiá: 500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":246896,"Giá bán":500000},
-      {"Mã":"DOMỞ07072600","Ngày về":"07/07/2026","Sản phẩm":"Doiy Good Morning Bottle Opener\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 150 x 100 x 50mm\n\nGiá: 500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":278736,"Giá bán":500000},
+      {"Mã":"DOMỞ07072600","Ngày về":"07/07/2026","Sản phẩm":"Doiy Good Morning Bottle Opener\n\nChất liệu: Kim loại\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 150 x 100 x 50mm\n\nGiá: 500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":278736,"Giá bán":500000},
       {"Mã":"FLBÌ07072600","Ngày về":"07/07/2026","Sản phẩm":"Fluid Market Blue Puzzle Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 230 x 230 x 60mm\n\nGiá: 850.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":381388,"Giá bán":850000},
       {"Mã":"FLBÌ07072601","Ngày về":"07/07/2026","Sản phẩm":"Fluid Market x Thomas Gravereau Teckel Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh\n\nKích thước: 250 x 50 x 170mm\n\nGiá: 1.200.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":393328,"Giá bán":1200000},
       {"Mã":"FLBÌ07072602","Ngày về":"07/07/2026","Sản phẩm":"Fluid Market Milk Vase\n\nChất liệu: Gốm\n\nPhân Loại: Bình Hoa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 80 x 80 x 230mm\n\nGiá: 850.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":378222,"Giá bán":850000},
