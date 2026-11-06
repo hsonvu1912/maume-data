@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/11/2026 14:43",
+  "lastUpdated": "06/11/2026 15:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -778,7 +778,11 @@
       {"Mã":"OPĐÈ110222","Ngày bán":"06/11/2026","Sản phẩm":"Opple Toucan Desk Lamp - Green","Giá nhập":247276,"Giá bán":800000,"Lãi":552724},
       {"Mã":"OPĐÈ110203","Ngày bán":"06/11/2026","Sản phẩm":"Opple Toucan Desk Lamp - Blue","Giá nhập":247276,"Giá bán":800000,"Lãi":552724},
       {"Mã":"KAĐỒ041105","Ngày bán":"06/11/2026","Sản phẩm":"Areaware Bottle Opener","Giá nhập":44730,"Giá bán":100000,"Lãi":55270},
-      {"Mã":"HARỔ10072607","Ngày bán":"06/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767}
+      {"Mã":"HARỔ10072607","Ngày bán":"06/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
+      {"Mã":"23102600","Ngày bán":"06/11/2026","Giá nhập":272875,"Giá bán":250000,"Lãi":-22875},
+      {"Mã":"MOBÁ06032600","Ngày bán":"06/11/2026","Sản phẩm":"Moma La Maison Inondée Bowl - White","Giá nhập":550251,"Giá bán":600000,"Lãi":49749},
+      {"Mã":"NOBÁ06052600","Ngày bán":"06/11/2026","Sản phẩm":"No brand Ceramic Bathtub Dish","Giá nhập":197712,"Giá bán":350000,"Lãi":152288},
+      {"Mã":"VICỜ22072604","Ngày bán":"06/11/2026","Sản phẩm":"Vilac Keith Haring Chess Game","Giá nhập":387175,"Giá bán":1200000,"Lãi":812825}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
