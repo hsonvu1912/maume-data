@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/11/2026 13:34",
+  "lastUpdated": "06/11/2026 14:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1184,7 +1184,7 @@
       {"Mã":"CH-1410-01-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1595000,"Giá bán":2000000},
       {"Mã":"CH-1410-02-141026","Ngày về":"14/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":423380,"Giá bán":700000},
       {"Mã":"LC-2129-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-2129-141026\nle roseau bản túi đeo vai màu cam thiên tone cam đất như ảnh 1-2 chứ k choé, màu vừa đẹp vừa hiếm ạ,, da thật nguyên miếng dày cui. cond used ít chỉ dính vết mực ở đáy thôi. size này vừa laptop 13,14 nghen, ngang cỡ sz M dòng tote\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1702141,"Giá bán":1950000},
-      {"Mã":"LC-8148-151026","Ngày về":"15/10/2026","Sản phẩm":"LC-8148-151026\nmini pouch navy còn dây chéo\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1514425,"Giá bán":1950000},
+      {"Mã":"LC-8148-151026","Ngày về":"15/10/2026","Sản phẩm":"LC-8148-151026\nmini pouch navy còn dây chéo\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1514425,"Giá bán":1950000},
       {"Mã":"LC-5730-151026","Ngày về":"15/10/2026","Sản phẩm":"LC-5730-151026\nmini pouch graphite cond cực tốt cứng cáp, qua sd ít. còn dây đeo chéo cond 9.5/10 KT 18 x 11 x 5 vừa dt\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1014361,"Giá bán":1800000},
       {"Mã":"LC-6859-151026","Ngày về":"15/10/2026","Sản phẩm":"LC-6859-151026\nbalo paper độ mới cao, đẹp cứng cáp sạch sẽ, rất ít qua sử dụng. cond 9.8/10. KT 20 x 30 x 10 vừa laptop 13\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":918527,"Giá bán":1900000},
       {"Mã":"LC-7736-151026","Ngày về":"15/10/2026","Sản phẩm":"LC-7736-151026\nđen size L bản đời mới 2 ngăn phụ, cond tốt cứng cáp lắm, đáy có 1 vài vết sờn vải nhỏ, nhìn ngoài ko rõ. cond 8.9/10 KT 46 x 29 x 20\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1364265,"Giá bán":1750000},
