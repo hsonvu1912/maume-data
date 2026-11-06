@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/11/2026 13:26",
+  "lastUpdated": "06/11/2026 14:27",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -597,7 +597,7 @@
       {"Mã":"KAĐỒ041102","Ngày về":"04/11/2025","Sản phẩm":"Areaware Bottle Opener\n\nChất liệu: Gỗ\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: ‎114 x 22 x 38mm\n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":44730,"Giá bán":200000},
       {"Mã":"KAĐỒ041103","Ngày về":"04/11/2025","Sản phẩm":"Areaware Bottle Opener\n\nChất liệu: Gỗ\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: ‎114 x 22 x 38mm\n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":44730,"Giá bán":200000},
       {"Mã":"KAĐỒ041104","Ngày về":"04/11/2025","Sản phẩm":"Areaware Bottle Opener\n\nChất liệu: Gỗ\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: ‎114 x 22 x 38mm\n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":44730,"Giá bán":200000},
-      {"Mã":"KAĐỒ041105","Ngày về":"04/11/2025","Sản phẩm":"Areaware Bottle Opener\n\nChất liệu: Gỗ\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: ‎114 x 22 x 38mm\n\nGiá:","Tình trạng":"Còn hàng","Thành tiền":44730,"Giá bán":200000},
+      {"Mã":"KAĐỒ041105","Ngày về":"04/11/2025","Sản phẩm":"Areaware Bottle Opener\n\nChất liệu: Gỗ\n\nPhân Loại: Mở bia\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: ‎114 x 22 x 38mm\n\nGiá:","Tình trạng":"Hết hàng","Thành tiền":44730,"Giá bán":200000},
       {"Mã":"LECỐ111100","Ngày về":"11/11/2025","Sản phẩm":"Lego Mug\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 130 x 95 x 85mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":135270},
       {"Mã":"LECỐ111101","Ngày về":"11/11/2025","Sản phẩm":"Lego 2 x 2 Brick Mug\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 130 x 95 x 85mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":135270},
       {"Mã":"NOĐÈ111100","Ngày về":"11/11/2025","Sản phẩm":"Normann Copenhagen  Momento Table Lamp\n\nChất liệu: Kim loại sơn tĩnh điện\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 165 x 510 x 440mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1246410},
