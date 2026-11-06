@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/11/2026 19:13",
+  "lastUpdated": "06/11/2026 21:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -790,7 +790,14 @@
       {"Mã":"IKĐÈ011203","Ngày bán":"06/11/2026","Sản phẩm":"Ikea Bagaren - 2021","Giá nhập":769553,"Giá bán":800000,"Lãi":30447},
       {"Mã":"LABỘ30092600","Ngày bán":"06/11/2026","Sản phẩm":"La Prairie Chess Set","Giá nhập":679700,"Giá bán":2375000,"Lãi":1695300},
       {"Mã":"DOMỞ07072600","Ngày bán":"06/11/2026","Sản phẩm":"Doiy Good Morning Bottle Opener","Giá nhập":278736,"Giá bán":350000,"Lãi":71264},
-      {"Mã":"NOBÌ05112600","Ngày bán":"06/11/2026","Sản phẩm":"No brand Larva Block Vase","Giá nhập":230150,"Giá bán":200000,"Lãi":-30150}
+      {"Mã":"NOBÌ05112600","Ngày bán":"06/11/2026","Sản phẩm":"No brand Larva Block Vase","Giá nhập":230150,"Giá bán":200000,"Lãi":-30150},
+      {"Mã":"SOTR111100","Ngày bán":"06/11/2026","Sản phẩm":"Southeast Wall Art","Giá nhập":694965,"Giá bán":1200000,"Lãi":505035},
+      {"Mã":"VIĐĨ251201","Ngày bán":"06/11/2026","Sản phẩm":"Virgil Abloh x Prospect Life Itself 2021","Giá nhập":322540,"Giá bán":800000,"Lãi":477460},
+      {"Mã":"OCBÌ171101","Ngày bán":"06/11/2026","Sản phẩm":"Octaevo Paper Vase Florero - Green","Giá nhập":103902,"Giá bán":250000,"Lãi":146098},
+      {"Mã":"OCBÌ171102","Ngày bán":"06/11/2026","Sản phẩm":"Octaevo Paper Vase Florero - Pink","Giá nhập":103902,"Giá bán":250000,"Lãi":146098},
+      {"Mã":"PAXXIK2310","Ngày bán":"06/11/2026","Sản phẩm":"Ikea Pillerstarr Paper Napkins","Giá nhập":76782,"Giá bán":100000,"Lãi":23218},
+      {"Mã":"PAWOIK2310","Ngày bán":"06/11/2026","Sản phẩm":"Ikea Varmblixt Paper Napkins","Giá nhập":38922,"Giá bán":100000,"Lãi":61078},
+      {"Mã":"OPĐÈ110213","Ngày bán":"06/11/2026","Sản phẩm":"Opple Toucan Desk Lamp - Blue","Giá nhập":247276,"Giá bán":800000,"Lãi":552724}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
