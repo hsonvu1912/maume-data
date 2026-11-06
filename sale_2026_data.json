@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/11/2026 16:13",
+  "lastUpdated": "06/11/2026 17:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -788,7 +788,8 @@
       {"Mã":"EGĐÈ13102602","Ngày bán":"06/11/2026","Sản phẩm":"Eglo Girasole Nuovo","Giá nhập":241500,"Giá bán":760000,"Lãi":518500},
       {"Mã":"LACRIK2909","Ngày bán":"06/11/2026","Sản phẩm":"Ikea Allen Key Lamp","Giá nhập":669325,"Giá bán":700000,"Lãi":30675},
       {"Mã":"IKĐÈ011203","Ngày bán":"06/11/2026","Sản phẩm":"Ikea Bagaren - 2021","Giá nhập":769553,"Giá bán":800000,"Lãi":30447},
-      {"Mã":"LABỘ30092600","Ngày bán":"06/11/2026","Sản phẩm":"La Prairie Chess Set","Giá nhập":679700,"Giá bán":2375000,"Lãi":1695300}
+      {"Mã":"LABỘ30092600","Ngày bán":"06/11/2026","Sản phẩm":"La Prairie Chess Set","Giá nhập":679700,"Giá bán":2375000,"Lãi":1695300},
+      {"Mã":"DOMỞ07072600","Ngày bán":"06/11/2026","Sản phẩm":"Doiy Good Morning Bottle Opener","Giá nhập":278736,"Giá bán":350000,"Lãi":71264}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
