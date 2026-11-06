@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/11/2026 21:43",
+  "lastUpdated": "06/11/2026 23:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -801,7 +801,12 @@
       {"Mã":"KAGỐ02042600","Ngày bán":"06/11/2026","Sản phẩm":"Kaikaikiki X Hikaru Flower Cushion Black/Yellow","Giá nhập":374292,"Giá bán":600000,"Lãi":225708},
       {"Mã":"HARỔ27052608","Ngày bán":"06/11/2026","Sản phẩm":"Hay Colour Crate S - Blush","Giá nhập":110669,"Giá bán":150000,"Lãi":39331},
       {"Mã":"IKĐÈ101202","Ngày bán":"06/11/2026","Sản phẩm":"Ikea Majorna","Giá nhập":264805,"Giá bán":300000,"Lãi":35195},
-      {"Mã":"IKĐÈ27082602","Ngày bán":"06/11/2026","Sản phẩm":"Ikea GREJSIMOJS","Giá nhập":358120,"Giá bán":425000,"Lãi":66880}
+      {"Mã":"IKĐÈ27082602","Ngày bán":"06/11/2026","Sản phẩm":"Ikea GREJSIMOJS","Giá nhập":358120,"Giá bán":425000,"Lãi":66880},
+      {"Mã":"BYGÁ10072600","Ngày bán":"06/11/2026","Sản phẩm":"Byon Fruits Chopstick Holders","Giá nhập":316872,"Giá bán":350000,"Lãi":33128},
+      {"Mã":"NOCH10072600","Ngày bán":"06/11/2026","Sản phẩm":"No brand Tulip Candle Holder","Giá nhập":213052,"Giá bán":250000,"Lãi":36948},
+      {"Mã":"FLCỐ14082601","Ngày bán":"06/11/2026","Sản phẩm":"Fluid Market Croisant Mug","Giá nhập":132499,"Giá bán":350000,"Lãi":217501},
+      {"Mã":"SEĐÈ171100","Ngày bán":"06/11/2026","Sản phẩm":"Seletti Tomato Glow","Giá nhập":1684965,"Giá bán":1700000,"Lãi":15035},
+      {"Mã":"SOĐÈ27062601","Ngày bán":"06/11/2026","Sản phẩm":"Sowden Portable Lamp LP1 - Green, White","Giá bán":800000,"Lãi":800000}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
