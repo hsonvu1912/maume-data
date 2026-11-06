@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/11/2026 16:55",
+  "lastUpdated": "06/11/2026 17:56",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -792,7 +792,7 @@
       {"Mã":"WMGẠ171100","Ngày về":"17/11/2025","Sản phẩm":"Wmf Aschenbecher\n\nChất liệu: Kim loại\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: d100 x 30mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":252805},
       {"Mã":"IKĐÈ171100","Ngày về":"17/11/2025","Sản phẩm":"Ikea Fryebo - 2014\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, không kèm pin (AA 1,2v)\n\nKích thước: 90 x 90 x 360mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":609864,"Giá bán":1000000},
       {"Mã":"ZABÁ171100","Ngày về":"17/11/2025","Sản phẩm":"Zara Home Bowl\n\nChất liệu: \n\nPhân Loại: Bát\n\nTình trạng: \n\nKích thước: \n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1305132},
-      {"Mã":"DICỐ171100","Ngày về":"17/11/2025","Sản phẩm":"Diesel Living x Seletti Machine Collection Drinking Glass Set\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp, 1 cốc bị nứt\n\nKích thước: d80 x 100mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":1176385,"Giá bán":2500000},
+      {"Mã":"DICỐ171100","Ngày về":"17/11/2025","Sản phẩm":"Diesel Living x Seletti Machine Collection Drinking Glass Set\n\nChất liệu: Thủy tinh\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp, 1 cốc bị nứt\n\nKích thước: d80 x 100mm\n\nGiá:","Tình trạng":"Sửa chữa","Trạng thái đăng bài":"Đã đăng","Thành tiền":1176385,"Giá bán":2500000},
       {"Mã":"DOHỘ171100","Ngày về":"17/11/2025","Sản phẩm":"Doiy Heart Ceramic Box\n\nChất liệu: Gốm\n\nPhân Loại: Hộp \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 100x100x40mm \n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":196275},
       {"Mã":"TAĐỒ171100","Ngày về":"17/11/2025","Sản phẩm":"Takashi Murakami x Doraemon Exhibition Jigsaw Puzzle\n\nChất liệu: Bìa cứng\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 735 x 510mm\n\nGiá:","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":270000},
       {"Mã":"PRĐĨ171100","Ngày về":"17/11/2025","Sản phẩm":"Prospect x Jonas Wood  Dice Plate\n\nChất liệu: Gốm\n\nPhân Loại: Đĩa\n\nTình trạng: Như ảnh\n\nKích thước: d267mm\n\nGiá:","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":373450,"Giá bán":700000},
