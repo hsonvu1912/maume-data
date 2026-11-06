@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/11/2026 02:04",
+  "lastUpdated": "06/11/2026 12:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1184,8 +1184,8 @@
       {"Mã":"CH-1410-01-141026","Ngày về":"14/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1595000,"Giá bán":2000000},
       {"Mã":"CH-1410-02-141026","Ngày về":"14/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":423380,"Giá bán":700000},
       {"Mã":"LC-2129-141026","Ngày về":"14/10/2026","Sản phẩm":"LC-2129-141026\nle roseau bản túi đeo vai màu cam thiên tone cam đất như ảnh 1-2 chứ k choé, màu vừa đẹp vừa hiếm ạ,, da thật nguyên miếng dày cui. cond used ít chỉ dính vết mực ở đáy thôi. size này vừa laptop 13,14 nghen, ngang cỡ sz M dòng tote\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1702141,"Giá bán":1950000},
-      {"Mã":"LC-8148-151026","Ngày về":"15/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1514425,"Giá bán":1950000},
-      {"Mã":"LC-5730-151026","Ngày về":"15/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1014361,"Giá bán":1800000},
+      {"Mã":"LC-8148-151026","Ngày về":"15/10/2026","Sản phẩm":"LC-8148-151026\nmini pouch navy còn dây chéo\nGiá: 1.950.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1514425,"Giá bán":1950000},
+      {"Mã":"LC-5730-151026","Ngày về":"15/10/2026","Sản phẩm":"LC-5730-151026\nmini pouch graphite cond cực tốt cứng cáp, qua sd ít. còn dây đeo chéo cond 9.5/10 KT 18 x 11 x 5 vừa dt\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1014361,"Giá bán":1800000},
       {"Mã":"LC-6859-151026","Ngày về":"15/10/2026","Sản phẩm":"LC-6859-151026\nbalo paper độ mới cao, đẹp cứng cáp sạch sẽ, rất ít qua sử dụng. cond 9.8/10. KT 20 x 30 x 10 vừa laptop 13\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":918527,"Giá bán":1900000},
       {"Mã":"LC-7736-151026","Ngày về":"15/10/2026","Sản phẩm":"LC-7736-151026\nđen size L bản đời mới 2 ngăn phụ, cond tốt cứng cáp lắm, đáy có 1 vài vết sờn vải nhỏ, nhìn ngoài ko rõ. cond 8.9/10 KT 46 x 29 x 20\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1364265,"Giá bán":1750000},
       {"Mã":"LC-5530-151026","Ngày về":"15/10/2026","Sản phẩm":"LC-5530-151026\nbalo màu xanh dòng green, độ mới cao, qua sử dụng nhẹ. cond 9.5/10 KT 20 x 30 x 10 vừa laptop 13\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":970486,"Giá bán":1500000},
@@ -1213,7 +1213,7 @@
       {"Mã":"CH-01-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":3636900,"Giá bán":4800000},
       {"Mã":"LC-9187-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-9187-231026\nxanh artichoke size M dòng green túi tổng quan cond 9/10 đẹp cứng cáp, bề mặt vải có 1 vài vết trầy màu bé xíu (ko phải xước), nhìn ngoài cx kiểu thoắt ẩn thoắt hiện thuii ạ k phải vde gì lớn đâu. KT 40 x 26 x 16 vừa laptop 13,14\nGiá: 1.850.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1395930,"Giá bán":1850000},
       {"Mã":"CH-02-231026","Ngày về":"23/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1135810,"Giá bán":2300000},
-      {"Mã":"LC-8298-231026","Ngày về":"23/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2069244,"Giá bán":3000000},
+      {"Mã":"LC-8298-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-8298-231026\nLC pouch full da siêu mềmm, trắng tinh gần như ko tì vết, đẹp tuỵt dời. cond 9.8/10 KT 19 x 12 x 6 vừa dt\nGiá: 3.000.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2069244,"Giá bán":3000000},
       {"Mã":"LC-0119-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-0119-231026\nnot sure lg (l//egitt) mini pouch kèm full phụ kiện chưa qua sử dụng, để dá iu cho mng đeo trải nghiệm thay đối style, chất liệu vẫn chống nước bt nhen\nGiá: 790.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1170190,"Giá bán":790000},
       {"Mã":"LC-2548-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-2548-231026\nđỏ rượu burgundy dòng club size L lâu lắm rồi mới về lại được, màu đẹp sang quá tr. túi tổng quan cond tốt nha 9/10 chỉ là qua sử dụng thì bẩn nhẹ thôi, tự giặt tại nhà là ok ko cần phải mang đi spa. KT 45 x 29 x 20\nGiá: 1.450.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":612290,"Giá bán":1450000},
       {"Mã":"LC-2857-231026","Ngày về":"23/10/2026","Sản phẩm":"LC-2857-231026\nđen size L bản đời mới 2 ngăn phụ, cond đẹp 9.2/10, mặt dưới quai có chút trầy xíu xiu thôi chứ đeo lên vai cx k thấy gì tổng quan đẹp lắmm. KT 45 x 29 x 20\nGiá: 1.850.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1357439,"Giá bán":1850000},
@@ -1274,7 +1274,9 @@
       {"Mã":"LC-0057-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1127940},
       {"Mã":"LC-3563-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1091530},
       {"Mã":"LC-1717-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1204675},
-      {"Mã":"CH-03-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2008710}
+      {"Mã":"CH-03-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2008710},
+      {"Mã":"LC-8940-051126","Ngày về":"05/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1068225},
+      {"Mã":"LC-3174-051126","Ngày về":"05/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1698950}
     ]
   }
 }
