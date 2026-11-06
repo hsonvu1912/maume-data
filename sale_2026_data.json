@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/11/2026 21:13",
+  "lastUpdated": "06/11/2026 21:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -797,7 +797,11 @@
       {"Mã":"OCBÌ171102","Ngày bán":"06/11/2026","Sản phẩm":"Octaevo Paper Vase Florero - Pink","Giá nhập":103902,"Giá bán":250000,"Lãi":146098},
       {"Mã":"PAXXIK2310","Ngày bán":"06/11/2026","Sản phẩm":"Ikea Pillerstarr Paper Napkins","Giá nhập":76782,"Giá bán":100000,"Lãi":23218},
       {"Mã":"PAWOIK2310","Ngày bán":"06/11/2026","Sản phẩm":"Ikea Varmblixt Paper Napkins","Giá nhập":38922,"Giá bán":100000,"Lãi":61078},
-      {"Mã":"OPĐÈ110213","Ngày bán":"06/11/2026","Sản phẩm":"Opple Toucan Desk Lamp - Blue","Giá nhập":247276,"Giá bán":800000,"Lãi":552724}
+      {"Mã":"OPĐÈ110213","Ngày bán":"06/11/2026","Sản phẩm":"Opple Toucan Desk Lamp - Blue","Giá nhập":247276,"Giá bán":800000,"Lãi":552724},
+      {"Mã":"KAGỐ02042600","Ngày bán":"06/11/2026","Sản phẩm":"Kaikaikiki X Hikaru Flower Cushion Black/Yellow","Giá nhập":374292,"Giá bán":600000,"Lãi":225708},
+      {"Mã":"HARỔ27052608","Ngày bán":"06/11/2026","Sản phẩm":"Hay Colour Crate S - Blush","Giá nhập":110669,"Giá bán":150000,"Lãi":39331},
+      {"Mã":"IKĐÈ101202","Ngày bán":"06/11/2026","Sản phẩm":"Ikea Majorna","Giá nhập":264805,"Giá bán":300000,"Lãi":35195},
+      {"Mã":"IKĐÈ27082602","Ngày bán":"06/11/2026","Sản phẩm":"Ikea GREJSIMOJS","Giá nhập":358120,"Giá bán":425000,"Lãi":66880}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
