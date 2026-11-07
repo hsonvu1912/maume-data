@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/11/2026 14:13",
+  "lastUpdated": "07/11/2026 14:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -826,7 +826,8 @@
       {"Mã":"HARỔ27052601","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate L - Dusty Blue","Giá nhập":385952,"Giá bán":600000,"Lãi":214048},
       {"Mã":"IKĐÈ031203","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Allen Key Lamp Gelchop","Giá nhập":1357050,"Giá bán":1800000,"Lãi":442950},
       {"Mã":"IKĐÈ26032602","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Storuman","Giá nhập":1262178,"Giá bán":1300000,"Lãi":37822},
-      {"Mã":"DOBÌ290100","Ngày bán":"07/11/2026","Sản phẩm":"Doiy Good Morning Vase Moka","Giá nhập":452400,"Giá bán":600000,"Lãi":147600}
+      {"Mã":"DOBÌ290100","Ngày bán":"07/11/2026","Sản phẩm":"Doiy Good Morning Vase Moka","Giá nhập":452400,"Giá bán":600000,"Lãi":147600},
+      {"Mã":"IKĐÈ27082601","Ngày bán":"07/11/2026","Sản phẩm":"Ikea FORSA Work Lamp","Giá nhập":439961,"Giá bán":600000,"Lãi":160039}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
