@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/11/2026 19:25",
+  "lastUpdated": "07/11/2026 19:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1381,7 +1381,7 @@
       {"Mã":"IKĐÈ14052603","Ngày về":"14/05/2026","Sản phẩm":"Ikea Solvinden Solar Lamp\n\nChất liệu: Nhựa\n\nPhân Loại: Đèn trang trí\n\nTình trạng: Như ảnh\n\nKích thước: d130 x 305mm\n\nGiá: 400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":239660,"Giá bán":400000},
       {"Mã":"HAKÉ14052600","Ngày về":"14/05/2026","Sản phẩm":"Hay Scissors - Black\n\nChất liệu: Kim loại\n\nPhân Loại: Kéo\n\nTình trạng: Như ảnh\n\nKích thước: 200 x 60mm\n\nGiá: 350.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":171276,"Giá bán":350000},
       {"Mã":"TAMÓ14052600","Ngày về":"14/05/2026","Sản phẩm":"Tamburins Perfume 2ml Puppy Case\n\nChất liệu: Silicone\n\nPhân Loại: Móc khóa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 20 x 30mm\n\nGiá: 400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":288851,"Giá bán":400000},
-      {"Mã":"TAMÓ14052601","Ngày về":"14/05/2026","Sản phẩm":"Tamburins Perfume 2ml Puppy Case\n\nChất liệu: Silicone\n\nPhân Loại: Móc khóa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 20 x 30mm\n\nGiá: 400.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":288851,"Giá bán":400000},
+      {"Mã":"TAMÓ14052601","Ngày về":"14/05/2026","Sản phẩm":"Tamburins Perfume 2ml Puppy Case\n\nChất liệu: Silicone\n\nPhân Loại: Móc khóa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 20 x 30mm\n\nGiá: 400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":288851,"Giá bán":400000},
       {"Mã":"TAMÓ14052602","Ngày về":"14/05/2026","Sản phẩm":"Tamburins Perfume 2ml Puppy Case\n\nChất liệu: Silicone\n\nPhân Loại: Móc khóa\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 20 x 30mm\n\nGiá: 400.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":288851,"Giá bán":400000},
       {"Mã":"THTÚ14052600","Ngày về":"14/05/2026","Sản phẩm":"The North Face Foldable Tote Bag 2.0\n\nChất liệu: Vải\n\nPhân Loại: Túi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Khi gấp: 75 x 90mm\nKhi mở: 550 x 420 x 150mm\n\nGiá: 1.000.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":409031,"Giá bán":1000000},
       {"Mã":"IKĐỒ14052600","Ngày về":"14/05/2026","Sản phẩm":"Ikea Duktig 24-Piece Pizza Set\n\nChất liệu: Vải\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 350 x 250mm\n\nGiá: 300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":195156,"Giá bán":300000},
