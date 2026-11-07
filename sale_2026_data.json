@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/11/2026 12:13",
+  "lastUpdated": "07/11/2026 13:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -817,7 +817,13 @@
       {"Mã":"HARỔ10072610","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Lavender","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
       {"Mã":"HARỔ10072611","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Lavender","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
       {"Mã":"HARỔ10072602","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
-      {"Mã":"HARỔ10072603","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767}
+      {"Mã":"HARỔ10072603","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
+      {"Mã":"FECH150100","Ngày bán":"07/11/2026","Sản phẩm":"Ferm Living Bowl Candle Holder","Giá nhập":337922,"Giá bán":600000,"Lãi":262078},
+      {"Mã":"HAMÓ050100","Ngày bán":"07/11/2026","Sản phẩm":"Hay Volet Hook","Giá nhập":371511,"Giá bán":400000,"Lãi":28489},
+      {"Mã":"VIKH26082600","Ngày bán":"07/11/2026","Sản phẩm":"Vitra Tool Box (sea blue)","Giá nhập":1234413,"Giá bán":1225000,"Lãi":-9413},
+      {"Mã":"CLBLAL0809","Ngày bán":"07/11/2026","Sản phẩm":"Cronotime Desk Clock","Giá nhập":1928555,"Giá bán":1950000,"Lãi":21445},
+      {"Mã":"ALGI171100","Ngày bán":"07/11/2026","Sản phẩm":"Alessi Noè Bottle Holder","Giá nhập":1350000,"Giá bán":1350000},
+      {"Mã":"HARỔ27052601","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate L - Dusty Blue","Giá nhập":385952,"Giá bán":600000,"Lãi":214048}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -1945,7 +1951,8 @@
       {"Mã":"LC-8148-151026","Ngày bán":"06/11/2026","Sản phẩm":"LC-8148-151026","Giá nhập":1514425,"Giá bán":1950000,"Lãi":435575},
       {"Mã":"LC-5117-281026","Ngày bán":"06/11/2026","Sản phẩm":"LC-5117-281026","Giá nhập":1215900,"Giá bán":1980000,"Lãi":764100},
       {"Mã":"LC-8530-281026","Ngày bán":"06/11/2026","Sản phẩm":"LC-8530-281026","Giá nhập":823996,"Giá bán":1200000,"Lãi":376004},
-      {"Mã":"LC-0514-281026","Ngày bán":"06/11/2026","Sản phẩm":"LC-0514-281026","Giá nhập":1147329,"Giá bán":2000000,"Lãi":852671}
+      {"Mã":"LC-0514-281026","Ngày bán":"06/11/2026","Sản phẩm":"LC-0514-281026","Giá nhập":1147329,"Giá bán":2000000,"Lãi":852671},
+      {"Mã":"LC-5730-151026","Ngày bán":"07/11/2026","Sản phẩm":"LC-5730-151026","Giá nhập":1014361,"Giá bán":1800000,"Lãi":785639}
     ]
   }
 }
