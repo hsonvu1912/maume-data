@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/11/2026 17:13",
+  "lastUpdated": "07/11/2026 17:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -840,7 +840,9 @@
       {"Mã":"HARỔ10072604","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
       {"Mã":"HARỔ10072605","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
       {"Mã":"HARỔ10072606","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
-      {"Mã":"SIKH30092601","Ngày bán":"07/11/2026","Sản phẩm":"Simply Products Photo Frame","Giá nhập":239900,"Giá bán":425000,"Lãi":185100}
+      {"Mã":"SIKH30092601","Ngày bán":"07/11/2026","Sản phẩm":"Simply Products Photo Frame","Giá nhập":239900,"Giá bán":425000,"Lãi":185100},
+      {"Mã":"DOĐỒ19032600","Ngày bán":"07/11/2026","Sản phẩm":"Doiy Monstera Jigsaw Puzzle -  500 Pieces","Giá nhập":132280,"Giá bán":150000,"Lãi":17720},
+      {"Mã":"NOĐÈ06032600","Ngày bán":"07/11/2026","Sản phẩm":"No brand Table Lamp","Giá nhập":599288,"Giá bán":600000,"Lãi":712}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -1970,7 +1972,8 @@
       {"Mã":"LC-8530-281026","Ngày bán":"06/11/2026","Sản phẩm":"LC-8530-281026","Giá nhập":823996,"Giá bán":1200000,"Lãi":376004},
       {"Mã":"LC-0514-281026","Ngày bán":"06/11/2026","Sản phẩm":"LC-0514-281026","Giá nhập":1147329,"Giá bán":2000000,"Lãi":852671},
       {"Mã":"LC-5730-151026","Ngày bán":"07/11/2026","Sản phẩm":"LC-5730-151026","Giá nhập":1014361,"Giá bán":1800000,"Lãi":785639},
-      {"Mã":"LC-8298-231026","Ngày bán":"07/11/2026","Sản phẩm":"LC-8298-231026","Giá nhập":2069244,"Giá bán":3000000,"Lãi":930756}
+      {"Mã":"LC-8298-231026","Ngày bán":"07/11/2026","Sản phẩm":"LC-8298-231026","Giá nhập":2069244,"Giá bán":3000000,"Lãi":930756},
+      {"Mã":"TH-0307-030726-00","Ngày bán":"07/11/2026","Giá nhập":377325,"Giá bán":800000,"Lãi":422675}
     ]
   }
 }
