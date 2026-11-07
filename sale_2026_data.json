@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/11/2026 15:13",
+  "lastUpdated": "07/11/2026 15:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -829,7 +829,9 @@
       {"Mã":"DOBÌ290100","Ngày bán":"07/11/2026","Sản phẩm":"Doiy Good Morning Vase Moka","Giá nhập":452400,"Giá bán":600000,"Lãi":147600},
       {"Mã":"IKĐÈ27082601","Ngày bán":"07/11/2026","Sản phẩm":"Ikea FORSA Work Lamp","Giá nhập":439961,"Giá bán":600000,"Lãi":160039},
       {"Mã":"LEMÓ19032600","Ngày bán":"07/11/2026","Sản phẩm":"Lego x Star Wars Grogu™ Keyring","Giá nhập":154450,"Giá bán":150000,"Lãi":-4450},
-      {"Mã":"KIĐÈ230200","Ngày bán":"07/11/2026","Sản phẩm":"Kikkerland Galaxy Night Light","Giá nhập":271000,"Giá bán":250000,"Lãi":-21000}
+      {"Mã":"KIĐÈ230200","Ngày bán":"07/11/2026","Sản phẩm":"Kikkerland Galaxy Night Light","Giá nhập":271000,"Giá bán":250000,"Lãi":-21000},
+      {"Mã":"EGĐÈ13102603","Ngày bán":"07/11/2026","Sản phẩm":"Eglo Girasole Nuovo","Giá nhập":241500,"Giá bán":760000,"Lãi":518500},
+      {"Mã":"LAPIIK1110","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Väte Table Lamp","Giá nhập":426081,"Giá bán":800000,"Lãi":373919}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -1958,7 +1960,8 @@
       {"Mã":"LC-5117-281026","Ngày bán":"06/11/2026","Sản phẩm":"LC-5117-281026","Giá nhập":1215900,"Giá bán":1980000,"Lãi":764100},
       {"Mã":"LC-8530-281026","Ngày bán":"06/11/2026","Sản phẩm":"LC-8530-281026","Giá nhập":823996,"Giá bán":1200000,"Lãi":376004},
       {"Mã":"LC-0514-281026","Ngày bán":"06/11/2026","Sản phẩm":"LC-0514-281026","Giá nhập":1147329,"Giá bán":2000000,"Lãi":852671},
-      {"Mã":"LC-5730-151026","Ngày bán":"07/11/2026","Sản phẩm":"LC-5730-151026","Giá nhập":1014361,"Giá bán":1800000,"Lãi":785639}
+      {"Mã":"LC-5730-151026","Ngày bán":"07/11/2026","Sản phẩm":"LC-5730-151026","Giá nhập":1014361,"Giá bán":1800000,"Lãi":785639},
+      {"Mã":"LC-8298-231026","Ngày bán":"07/11/2026","Sản phẩm":"LC-8298-231026","Giá nhập":2069244,"Giá bán":3000000,"Lãi":930756}
     ]
   }
 }
