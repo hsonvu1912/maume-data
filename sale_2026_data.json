@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06/11/2026 23:43",
+  "lastUpdated": "07/11/2026 11:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -806,7 +806,14 @@
       {"Mã":"NOCH10072600","Ngày bán":"06/11/2026","Sản phẩm":"No brand Tulip Candle Holder","Giá nhập":213052,"Giá bán":250000,"Lãi":36948},
       {"Mã":"FLCỐ14082601","Ngày bán":"06/11/2026","Sản phẩm":"Fluid Market Croisant Mug","Giá nhập":132499,"Giá bán":350000,"Lãi":217501},
       {"Mã":"SEĐÈ171100","Ngày bán":"06/11/2026","Sản phẩm":"Seletti Tomato Glow","Giá nhập":1684965,"Giá bán":1700000,"Lãi":15035},
-      {"Mã":"SOĐÈ27062601","Ngày bán":"06/11/2026","Sản phẩm":"Sowden Portable Lamp LP1 - Green, White","Giá bán":800000,"Lãi":800000}
+      {"Mã":"SOĐÈ27062601","Ngày bán":"06/11/2026","Sản phẩm":"Sowden Portable Lamp LP1 - Green, White","Giá bán":800000,"Lãi":800000},
+      {"Mã":"HARỔ10072608","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Lavender","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
+      {"Mã":"HARỔ10072609","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Lavender","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
+      {"Mã":"HARỔ10072601","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
+      {"Mã":"SEGƯ24042600","Ngày bán":"07/11/2026","Sản phẩm":"Seletti x Toiletpaper Small Vegetables Mirror","Giá nhập":375792,"Giá bán":500000,"Lãi":124208},
+      {"Mã":"HABỘ27062601","Ngày bán":"07/11/2026","Sản phẩm":"Hay MVS Cutlery - Blue","Giá nhập":419927,"Giá bán":600000,"Lãi":180073},
+      {"Mã":"PRĐĨ171100","Ngày bán":"07/11/2026","Sản phẩm":"Prospect x Jonas Wood Dice Plate","Giá nhập":373450,"Giá bán":400000,"Lãi":26550},
+      {"Mã":"IKMÓ26032600","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Lillholmen Hook","Giá nhập":217100,"Giá bán":250000,"Lãi":32900}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
