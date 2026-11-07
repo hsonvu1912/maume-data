@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/11/2026 17:43",
+  "lastUpdated": "07/11/2026 18:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -842,7 +842,8 @@
       {"Mã":"HARỔ10072606","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
       {"Mã":"SIKH30092601","Ngày bán":"07/11/2026","Sản phẩm":"Simply Products Photo Frame","Giá nhập":239900,"Giá bán":425000,"Lãi":185100},
       {"Mã":"DOĐỒ19032600","Ngày bán":"07/11/2026","Sản phẩm":"Doiy Monstera Jigsaw Puzzle -  500 Pieces","Giá nhập":132280,"Giá bán":150000,"Lãi":17720},
-      {"Mã":"NOĐÈ06032600","Ngày bán":"07/11/2026","Sản phẩm":"No brand Table Lamp","Giá nhập":599288,"Giá bán":600000,"Lãi":712}
+      {"Mã":"NOĐÈ06032600","Ngày bán":"07/11/2026","Sản phẩm":"No brand Table Lamp","Giá nhập":599288,"Giá bán":600000,"Lãi":712},
+      {"Mã":"VAĐỒ29042600","Ngày bán":"07/11/2026","Sản phẩm":"Vans Jenga Game","Giá nhập":337737,"Giá bán":350000,"Lãi":12263}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
