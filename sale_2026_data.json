@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/11/2026 11:13",
+  "lastUpdated": "07/11/2026 12:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -813,7 +813,11 @@
       {"Mã":"SEGƯ24042600","Ngày bán":"07/11/2026","Sản phẩm":"Seletti x Toiletpaper Small Vegetables Mirror","Giá nhập":375792,"Giá bán":500000,"Lãi":124208},
       {"Mã":"HABỘ27062601","Ngày bán":"07/11/2026","Sản phẩm":"Hay MVS Cutlery - Blue","Giá nhập":419927,"Giá bán":600000,"Lãi":180073},
       {"Mã":"PRĐĨ171100","Ngày bán":"07/11/2026","Sản phẩm":"Prospect x Jonas Wood Dice Plate","Giá nhập":373450,"Giá bán":400000,"Lãi":26550},
-      {"Mã":"IKMÓ26032600","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Lillholmen Hook","Giá nhập":217100,"Giá bán":250000,"Lãi":32900}
+      {"Mã":"IKMÓ26032600","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Lillholmen Hook","Giá nhập":217100,"Giá bán":250000,"Lãi":32900},
+      {"Mã":"HARỔ10072610","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Lavender","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
+      {"Mã":"HARỔ10072611","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Lavender","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
+      {"Mã":"HARỔ10072602","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
+      {"Mã":"HARỔ10072603","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
