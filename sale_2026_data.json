@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/11/2026 19:43",
+  "lastUpdated": "07/11/2026 21:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -847,7 +847,8 @@
       {"Mã":"SUĐÈ210100","Ngày bán":"07/11/2026","Sản phẩm":"Suck UK Glow Brick","Giá nhập":302800,"Giá bán":350000,"Lãi":47200},
       {"Mã":"DOBÌ16092600","Ngày bán":"07/11/2026","Sản phẩm":"Doiy Cottage Vase","Giá nhập":377106,"Giá bán":665000,"Lãi":287894},
       {"Mã":"CRCỐ150100","Ngày bán":"07/11/2026","Sản phẩm":"Crow Canyon Splatter Mug & Plate","Giá nhập":160894,"Giá bán":250000,"Lãi":89106},
-      {"Mã":"TAMÓ14052601","Ngày bán":"07/11/2026","Sản phẩm":"Tamburins Perfume 2ml Puppy Case","Giá nhập":288851,"Giá bán":350000,"Lãi":61149}
+      {"Mã":"TAMÓ14052601","Ngày bán":"07/11/2026","Sản phẩm":"Tamburins Perfume 2ml Puppy Case","Giá nhập":288851,"Giá bán":350000,"Lãi":61149},
+      {"Mã":"IKKH23102600","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Stockholm stainless steel bowl","Giá nhập":270610,"Giá bán":380000,"Lãi":109390}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
