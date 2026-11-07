@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/11/2026 16:13",
+  "lastUpdated": "07/11/2026 17:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -836,7 +836,11 @@
       {"Mã":"IKĐÈ12032601","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Grejsimojs - Blue","Giá nhập":987362,"Giá bán":1000000,"Lãi":12638},
       {"Mã":"PRHỘ09042600","Ngày bán":"07/11/2026","Sản phẩm":"Propaganda Container Sweet Tooth","Giá nhập":251279,"Giá bán":350000,"Lãi":98721},
       {"Mã":"IKĐÈ311200","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Mylonit - 2003","Giá nhập":705153,"Giá bán":750000,"Lãi":44847},
-      {"Mã":"IKBÌ221100","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Pelarronn - 2022","Giá nhập":406527,"Giá bán":420000,"Lãi":13473}
+      {"Mã":"IKBÌ221100","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Pelarronn - 2022","Giá nhập":406527,"Giá bán":420000,"Lãi":13473},
+      {"Mã":"HARỔ10072604","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
+      {"Mã":"HARỔ10072605","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
+      {"Mã":"HARỔ10072606","Ngày bán":"07/11/2026","Sản phẩm":"Hay Colour Crate S - Sage Green","Giá nhập":116233,"Giá bán":150000,"Lãi":33767},
+      {"Mã":"SIKH30092601","Ngày bán":"07/11/2026","Sản phẩm":"Simply Products Photo Frame","Giá nhập":239900,"Giá bán":425000,"Lãi":185100}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
