@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/11/2026 15:43",
+  "lastUpdated": "07/11/2026 16:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -831,7 +831,12 @@
       {"Mã":"LEMÓ19032600","Ngày bán":"07/11/2026","Sản phẩm":"Lego x Star Wars Grogu™ Keyring","Giá nhập":154450,"Giá bán":150000,"Lãi":-4450},
       {"Mã":"KIĐÈ230200","Ngày bán":"07/11/2026","Sản phẩm":"Kikkerland Galaxy Night Light","Giá nhập":271000,"Giá bán":250000,"Lãi":-21000},
       {"Mã":"EGĐÈ13102603","Ngày bán":"07/11/2026","Sản phẩm":"Eglo Girasole Nuovo","Giá nhập":241500,"Giá bán":760000,"Lãi":518500},
-      {"Mã":"LAPIIK1110","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Väte Table Lamp","Giá nhập":426081,"Giá bán":800000,"Lãi":373919}
+      {"Mã":"LAPIIK1110","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Väte Table Lamp","Giá nhập":426081,"Giá bán":800000,"Lãi":373919},
+      {"Mã":"NOĐỒ171102","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Espressivo","Giá nhập":393400,"Giá bán":400000,"Lãi":6600},
+      {"Mã":"IKĐÈ12032601","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Grejsimojs - Blue","Giá nhập":987362,"Giá bán":1000000,"Lãi":12638},
+      {"Mã":"PRHỘ09042600","Ngày bán":"07/11/2026","Sản phẩm":"Propaganda Container Sweet Tooth","Giá nhập":251279,"Giá bán":350000,"Lãi":98721},
+      {"Mã":"IKĐÈ311200","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Mylonit - 2003","Giá nhập":705153,"Giá bán":750000,"Lãi":44847},
+      {"Mã":"IKBÌ221100","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Pelarronn - 2022","Giá nhập":406527,"Giá bán":420000,"Lãi":13473}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
