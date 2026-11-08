@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07/11/2026 17:35",
+  "lastUpdated": "09/11/2026 00:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1252,7 +1252,7 @@
       {"Mã":"LC-2212-281026","Ngày về":"28/10/2026","Sản phẩm":"LC-2212-281026\nxám gunmetal size L cond đẹp qutr luôn. qua sdung siêu nhẹ quai đẹp dày dặn chắc chắn. cond 9.4/10 KT 45 x 30 x 19\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1304562,"Giá bán":1950000},
       {"Mã":"LC-5761-281026","Ngày về":"28/10/2026","Sản phẩm":"LC-5761-281026\nđen size L bản đời mới 2 ngăn phụ, cond đẹp ít qua sử dụng, 1 vài lỗi used siêu siêu bé nhìn ngoài gần như k thấy lun. cond 9.3/10 KT 45 x 30 x 19\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1080171,"Giá bán":1950000},
       {"Mã":"LC-3785-281026","Ngày về":"28/10/2026","Sản phẩm":"LC-3785-281026\nđen size L bản đời mới 2 ngăn phụ, cond đẹp, qua sdung nhẹ. cond 9/10 KT 45 x 29 x 20\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1000825,"Giá bán":1900000},
-      {"Mã":"LC-8555-281026","Ngày về":"28/10/2026","Sản phẩm":"LC-8555-281026\nđen size L bản đời mới 2 ngăn phụ, cond tốt quai cứng cáp, 1 vài vết trầy sờn vải phổ biến ở đáy, ko thành vấn đề khi sử dụng. cond 9/10 đáy ko hề bẩn là do lens máy ảnh lỗi ạ KT: 45x29x20\nGiá: 1.750.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1381327,"Giá bán":1750000},
+      {"Mã":"LC-8555-281026","Ngày về":"28/10/2026","Sản phẩm":"LC-8555-281026\nđen size L bản đời mới 2 ngăn phụ, cond tốt quai cứng cáp, 1 vài vết trầy sờn vải phổ biến ở đáy, ko thành vấn đề khi sử dụng. cond 9/10 đáy ko hề bẩn là do lens máy ảnh lỗi ạ KT: 45x29x20\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1381327,"Giá bán":1750000},
       {"Mã":"LC-7627-281026","Ngày về":"28/10/2026","Sản phẩm":"LC-7627-281026\nđen size L bản đời mới 2 ngăn phụ, cond rất cứng cáp sạch sẽ, chỉ có 1 vài vết sờn vải ở đáy thôi ạ, màu đen nên ko dễ thấy đâu. tổng quan siêu đẹp luôn ý. cond 9/10 KT 45 x 30 x 19\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":808270,"Giá bán":1750000},
       {"Mã":"LC-0264-311026","Ngày về":"31/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":20000},
       {"Mã":"CH-01-311026","Ngày về":"31/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2262575,"Giá bán":3900000}
