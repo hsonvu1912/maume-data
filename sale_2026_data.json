@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08/11/2026 13:43",
+  "lastUpdated": "08/11/2026 14:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -850,7 +850,11 @@
       {"Mã":"TAMÓ14052601","Ngày bán":"07/11/2026","Sản phẩm":"Tamburins Perfume 2ml Puppy Case","Giá nhập":288851,"Giá bán":350000,"Lãi":61149},
       {"Mã":"IKKH23102600","Ngày bán":"07/11/2026","Sản phẩm":"Ikea Stockholm stainless steel bowl","Giá nhập":270610,"Giá bán":380000,"Lãi":109390},
       {"Mã":"NOBÌ14082601","Ngày bán":"08/11/2026","Sản phẩm":"No brand Cream Vase","Giá nhập":373156,"Giá bán":350000,"Lãi":-23156},
-      {"Mã":"ZAKH290100","Ngày bán":"08/11/2026","Sản phẩm":"Zara Home Editions Ceramic Serving Dish","Giá nhập":335680,"Giá bán":350000,"Lãi":14320}
+      {"Mã":"ZAKH290100","Ngày bán":"08/11/2026","Sản phẩm":"Zara Home Editions Ceramic Serving Dish","Giá nhập":335680,"Giá bán":350000,"Lãi":14320},
+      {"Mã":"PHĐÈ210101","Ngày bán":"08/11/2026","Sản phẩm":"Philips Energy Saving","Giá nhập":305244,"Giá bán":500000,"Lãi":194756},
+      {"Mã":"KAĐỒ041103","Ngày bán":"08/11/2026","Sản phẩm":"Areaware Bottle Opener","Giá nhập":44730,"Giá bán":100000,"Lãi":55270},
+      {"Mã":"KUĐĨ14082600","Ngày bán":"08/11/2026","Sản phẩm":"Kuchenland Candy Dish","Giá nhập":356512,"Giá bán":350000,"Lãi":-6512},
+      {"Mã":"LEĐÈ27052600","Ngày bán":"08/11/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model","Giá nhập":151774,"Giá bán":600000,"Lãi":448226}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
