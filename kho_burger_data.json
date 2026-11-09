@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09/11/2026 00:34",
+  "lastUpdated": "09/11/2026 16:05",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1276,7 +1276,9 @@
       {"Mã":"LC-1717-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1204675},
       {"Mã":"CH-03-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2008710},
       {"Mã":"LC-8940-051126","Ngày về":"05/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1068225},
-      {"Mã":"LC-3174-051126","Ngày về":"05/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1698950}
+      {"Mã":"LC-3174-051126","Ngày về":"05/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1698950},
+      {"Mã":"LC-0297-091126","Ngày về":"09/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"KG"},
+      {"Mã":"LC-4929-091126","Ngày về":"09/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"KG"}
     ]
   }
 }
