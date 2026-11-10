@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/11/2026 15:04",
+  "lastUpdated": "10/11/2026 19:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1254,18 +1254,18 @@
       {"Mã":"LC-3785-281026","Ngày về":"28/10/2026","Sản phẩm":"LC-3785-281026\nđen size L bản đời mới 2 ngăn phụ, cond đẹp, qua sdung nhẹ. cond 9/10 KT 45 x 29 x 20\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1000825,"Giá bán":1900000},
       {"Mã":"LC-8555-281026","Ngày về":"28/10/2026","Sản phẩm":"LC-8555-281026\nđen size L bản đời mới 2 ngăn phụ, cond tốt quai cứng cáp, 1 vài vết trầy sờn vải phổ biến ở đáy, ko thành vấn đề khi sử dụng. cond 9/10 đáy ko hề bẩn là do lens máy ảnh lỗi ạ KT: 45x29x20\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1381327,"Giá bán":1750000},
       {"Mã":"LC-7627-281026","Ngày về":"28/10/2026","Sản phẩm":"LC-7627-281026\nđen size L bản đời mới 2 ngăn phụ, cond rất cứng cáp sạch sẽ, chỉ có 1 vài vết sờn vải ở đáy thôi ạ, màu đen nên ko dễ thấy đâu. tổng quan siêu đẹp luôn ý. cond 9/10 KT 45 x 30 x 19\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":808270,"Giá bán":1750000},
-      {"Mã":"LC-0264-311026","Ngày về":"31/10/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1202545},
+      {"Mã":"LC-0264-311026","Ngày về":"31/10/2026","Sản phẩm":"LC-0264-311026\nnavy size L cond tốt tổng quan đẹp, ít vết qua sử dụng 9.2/10 KT 45 x 29 x 20\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1202545,"Giá bán":1800000},
       {"Mã":"CH-01-311026","Ngày về":"31/10/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2262575,"Giá bán":3900000}
     ],
     "Tháng 11": [
       {"Mã":"LC-8232-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1195000},
-      {"Mã":"LC-0211-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":584100},
+      {"Mã":"LC-0211-021126","Ngày về":"02/11/2026","Sản phẩm":"LC-0211-021126\nxanh rêu olive size M cond tổng quan tốt chỉ có mặt dưới quai trầy xíu thôi đeo lên vai sẽ ko thấy nhen. cond 8.9/10 KT 38 x 25 x 14 vừa laptop 13\nGiá: 1.250.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":584100,"Giá bán":1250000},
       {"Mã":"LC-8409-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1484500},
       {"Mã":"LC-5513-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1493000},
       {"Mã":"LC-9402-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":684000},
       {"Mã":"LC-0655-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2169800},
-      {"Mã":"LC-0016-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1394280},
-      {"Mã":"LC-0211-01-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1117440},
+      {"Mã":"LC-0016-021126","Ngày về":"02/11/2026","Sản phẩm":"LC-0016-021126\npistachio màu xanh nhạt siêu đẹp lun size L cond 9.9/10 chủ yếu qua lưu trữ. KT 46 x 30 x 19\nGiá: 2.100.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1394280,"Giá bán":2100000},
+      {"Mã":"LC-0211-01-021126","Ngày về":"02/11/2026","Sản phẩm":"LC-0211-01-021126\nnavy size M cond rất tốt ko có lỗi nào lớn 9.8/10 KT 38 x 25 x 14 vừa laptp 13\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1117440,"Giá bán":1900000},
       {"Mã":"LC-9730-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK"},
       {"Mã":"CH-01-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1929510},
       {"Mã":"CH-02-041126","Ngày về":"04/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1170630},
