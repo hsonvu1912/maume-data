@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/11/2026 21:35",
+  "lastUpdated": "11/11/2026 12:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1278,7 +1278,11 @@
       {"Mã":"LC-8940-051126","Ngày về":"05/11/2026","Sản phẩm":"LC-8940-051126\nmini pouch hồng marshmallow dthg xỉu lun cond tốt qua sd nhẹ, có dính vết mực nhỏ ở mặt sau, đeo lên k thấy đâuu. cond 9.2/10 vừa dt\nGiá: 1.800.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1068225,"Giá bán":1800000},
       {"Mã":"LC-3174-051126","Ngày về":"05/11/2026","Sản phẩm":"LC-3174-051126\nđen dòng neo sz M bản đời mới 2 ngăn phụ, cond tốt chủ yếu qua lưu trữ 9.9/10 KT 41 x 26 x 16 vừa laptop 13,14\nGiá: 2.500.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1698950,"Giá bán":2500000},
       {"Mã":"LC-0297-091126","Ngày về":"09/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"KG","Thành tiền":1275000,"Giá bán":1500000},
-      {"Mã":"LC-4929-091126","Ngày về":"09/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"KG","Thành tiền":1445000,"Giá bán":1700000}
+      {"Mã":"LC-4929-091126","Ngày về":"09/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"KG","Thành tiền":1445000,"Giá bán":1700000},
+      {"Mã":"LC-1111-101126","Ngày về":"10/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":872300},
+      {"Mã":"LC-2790-101126","Ngày về":"10/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1015040},
+      {"Mã":"CH-01-101126","Ngày về":"10/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2061800},
+      {"Mã":"CH-02-101126","Ngày về":"10/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1152750}
     ]
   }
 }
