@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13/11/2026 20:13",
+  "lastUpdated": "14/11/2026 03:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -856,7 +856,8 @@
       {"Mã":"KUĐĨ14082600","Ngày bán":"08/11/2026","Sản phẩm":"Kuchenland Candy Dish","Giá nhập":356512,"Giá bán":350000,"Lãi":-6512},
       {"Mã":"LEĐÈ27052600","Ngày bán":"08/11/2026","Sản phẩm":"Lego Anniversary Gift Night Light Model","Giá nhập":151774,"Giá bán":600000,"Lãi":448226},
       {"Mã":"NOTH10092601","Ngày bán":"08/11/2026","Sản phẩm":"No brand Windows XP Mat","Giá nhập":349663,"Giá bán":760000,"Lãi":410337},
-      {"Mã":"IKĐÈ16042601","Ngày bán":"08/11/2026","Sản phẩm":"Ikea Lampan","Giá nhập":137010,"Giá bán":250000,"Lãi":112990}
+      {"Mã":"IKĐÈ16042601","Ngày bán":"08/11/2026","Sản phẩm":"Ikea Lampan","Giá nhập":137010,"Giá bán":250000,"Lãi":112990},
+      {"Mã":"FLCỐ04092600","Ngày bán":"14/11/2026","Sản phẩm":"Fluid Market Croisant Mug","Giá nhập":127407,"Giá bán":450000,"Lãi":322593}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
