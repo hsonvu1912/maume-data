@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/11/2026 18:55",
+  "lastUpdated": "14/11/2026 23:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1910,7 +1910,7 @@
       {"Mã":"HACỐ04112600","Ngày về":"04/11/2026","Sản phẩm":"Hare no hi Neco Ashi Mug\n\nChất liệu: Sứ\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh\n\nKích thước: 75 x 100mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":111760},
       {"Mã":"UMGƯ04112600","Ngày về":"04/11/2026","Sản phẩm":"Umbra Global Glass Mirrors (Set of 3)\n\nChất liệu: Nhựa, thủy tinh\n\nPhân Loại: Gương\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 280mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":405350},
       {"Mã":"UMĐỒ04112600","Ngày về":"04/11/2026","Sản phẩm":"Umbra Eclapse Wall Clock\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 450mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":385550},
-      {"Mã":"SMBÓ04112600","Ngày về":"04/11/2026","Sản phẩm":"Smiley x Chinatown Market Smiley Soccer Ball\n\nChất liệu: Da, cao su\n\nPhân Loại: Bóng đá\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 215mm\n\nGiá: 1.500.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":352547,"Giá bán":1500000},
+      {"Mã":"SMBÓ04112600","Ngày về":"04/11/2026","Sản phẩm":"Smiley x Chinatown Market Smiley Soccer Ball\n\nChất liệu: Da, cao su\n\nPhân Loại: Bóng đá\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 215mm\n\nGiá: 1.500.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":352547,"Giá bán":1500000},
       {"Mã":"UMĐỒ04112601","Ngày về":"04/11/2026","Sản phẩm":"Umbra Ribbon Wall Clock (silver)\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, kim trôi\n\nKích thước: 300 x 45mm\n\nGiá: 1.300.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":565190,"Giá bán":1300000},
       {"Mã":"DAKH04112600","Ngày về":"04/11/2026","Sản phẩm":"Daniel Deco Photo Frame\n\nChất liệu: Kim loại\n\nPhân Loại: Khung ảnh\n\nTình trạng: Như ảnh\n\nKích thước: 130 x 180mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":191630},
       {"Mã":"UMĐỒ04112602","Ngày về":"04/11/2026","Sản phẩm":"Umbra Ribbon Wall Clock (black)\n\nChất liệu: Kim loại\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh, kim trôi\n\nKích thước: 300 x 45mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":676720},
