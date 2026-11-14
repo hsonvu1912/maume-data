@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/11/2026 19:13",
+  "lastUpdated": "14/11/2026 23:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -875,7 +875,8 @@
       {"Mã":"SEBÌ10112600","Ngày bán":"14/11/2026","Sản phẩm":"Secret Desire Minimalist Column Vase","Giá nhập":610970,"Giá bán":850000,"Lãi":239030},
       {"Mã":"ANCỜ04112600","Ngày bán":"14/11/2026","Sản phẩm":"Anti Social Social Club x Undefeated Travel Magnetic Folding Chess Set","Giá nhập":497530,"Giá bán":950000,"Lãi":452470},
       {"Mã":"THĐỒ15102600","Ngày bán":"14/11/2026","Sản phẩm":"The Simpsons x Photomosaic Homer (\"D'oh!\") Puzzle","Giá nhập":515142,"Giá bán":600000,"Lãi":84858},
-      {"Mã":"NOKH04112600","Ngày bán":"14/11/2026","Sản phẩm":"No brand Wooden Photo Frame","Giá nhập":163945,"Giá bán":250000,"Lãi":86055}
+      {"Mã":"NOKH04112600","Ngày bán":"14/11/2026","Sản phẩm":"No brand Wooden Photo Frame","Giá nhập":163945,"Giá bán":250000,"Lãi":86055},
+      {"Mã":"SMBÓ04112600","Ngày bán":"14/11/2026","Sản phẩm":"Smiley x Chinatown Market Smiley Soccer Ball","Giá nhập":352547,"Giá bán":1500000,"Lãi":1147453}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
