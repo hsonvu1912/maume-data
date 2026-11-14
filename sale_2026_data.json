@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/11/2026 16:13",
+  "lastUpdated": "14/11/2026 16:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -858,7 +858,15 @@
       {"Mã":"NOTH10092601","Ngày bán":"08/11/2026","Sản phẩm":"No brand Windows XP Mat","Giá nhập":349663,"Giá bán":760000,"Lãi":410337},
       {"Mã":"IKĐÈ16042601","Ngày bán":"08/11/2026","Sản phẩm":"Ikea Lampan","Giá nhập":137010,"Giá bán":250000,"Lãi":112990},
       {"Mã":"FLCỐ04092600","Ngày bán":"14/11/2026","Sản phẩm":"Fluid Market Croisant Mug","Giá nhập":127407,"Giá bán":450000,"Lãi":322593},
-      {"Mã":"PRLỌ09042600","Ngày bán":"14/11/2026","Sản phẩm":"Propaganda Tooth Salt & Pepper Shaker","Giá nhập":339383,"Giá bán":450000,"Lãi":110617}
+      {"Mã":"PRLỌ09042600","Ngày bán":"14/11/2026","Sản phẩm":"Propaganda Tooth Salt & Pepper Shaker","Giá nhập":339383,"Giá bán":450000,"Lãi":110617},
+      {"Mã":"BABỘ28102600","Ngày bán":"14/11/2026","Sản phẩm":"Balvi Sardines Snack Fork","Giá nhập":497356,"Giá bán":650000,"Lãi":152644},
+      {"Mã":"NIGẤ10112600","Ngày bán":"14/11/2026","Sản phẩm":"Nike Swood Birthday Pillow (black)","Giá nhập":187400,"Giá bán":300000,"Lãi":112600},
+      {"Mã":"UMĐỒ04112601","Ngày bán":"14/11/2026","Sản phẩm":"Umbra Ribbon Wall Clock (silver)","Giá nhập":565190,"Giá bán":1300000,"Lãi":734810},
+      {"Mã":"IKBÁ27052600","Ngày bán":"14/11/2026","Sản phẩm":"Ikea Hyfsad Bowl - Ola Wihlborg","Giá nhập":505211,"Giá bán":990000,"Lãi":484789},
+      {"Mã":"DOBÌ16092601","Ngày bán":"14/11/2026","Sản phẩm":"Doiy Cottage Vase","Giá nhập":377106,"Giá bán":700000,"Lãi":322894},
+      {"Mã":"FECH10072600","Ngày bán":"14/11/2026","Sản phẩm":"Ferm Living Speckle Pot - Small","Giá nhập":713110,"Giá bán":950000,"Lãi":236890},
+      {"Mã":"NOXÔ291200","Ngày bán":"14/11/2026","Sản phẩm":"No brand Ice Pail","Giá nhập":436000,"Giá bán":600000,"Lãi":164000},
+      {"Mã":"LEĐỒ10112600","Ngày bán":"14/11/2026","Sản phẩm":"Lexon LR 126 - Prism Clock","Giá nhập":172910,"Giá bán":260000,"Lãi":87090}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
