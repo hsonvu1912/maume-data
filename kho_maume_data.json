@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/11/2026 16:55",
+  "lastUpdated": "14/11/2026 17:55",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1930,7 +1930,7 @@
       {"Mã":"TEĐỒ10112600","Ngày về":"10/11/2026","Sản phẩm":"Tesla Cybertruck Wind-up Racer\n\nChất liệu: Hợp kim kẽm, nhựa\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 130 x 45 x 35mm\n\nGiá: 950.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":584513,"Giá bán":950000},
       {"Mã":"10112600","Ngày về":"10/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh\n\nKích thước: \n\nGiá: 0","Tình trạng":"Hỏng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":344453},
       {"Mã":"NOGẠ10112600","Ngày về":"10/11/2026","Sản phẩm":"No brand Octagon Wooden Ashtray\n\nChất liệu: Gỗ\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 110 x 110mm\n\nGiá: 800.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":433124,"Giá bán":800000},
-      {"Mã":"BAĐỒ10112600","Ngày về":"10/11/2026","Sản phẩm":"Baskerville Quartz Clock\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh\n\nKích thước: 75 x 75mm\n\nGiá: 600.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":298981,"Giá bán":600000},
+      {"Mã":"BAĐỒ10112600","Ngày về":"10/11/2026","Sản phẩm":"Baskerville Quartz Clock\n\nChất liệu: Nhựa\n\nPhân Loại: Đồng hồ\n\nTình trạng: Như ảnh\n\nKích thước: 75 x 75mm\n\nGiá: 600.000","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Thành tiền":298981,"Giá bán":600000},
       {"Mã":"NOKH10112600","Ngày về":"10/11/2026","Sản phẩm":"No brand Art Deco Tray\n\nChất liệu: Kim loại\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 275 x 205mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":513144},
       {"Mã":"NOKH10112601","Ngày về":"10/11/2026","Sản phẩm":"No brand Tortoiseshell Tray\n\nChất liệu: Nhựa\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 375 x 190mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":597667},
       {"Mã":"VIKH12112600","Ngày về":"12/11/2026","Sản phẩm":"Vintage Brass Duck Trinket Dish\n\nChất liệu: Đồng thau\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 180 x 90mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":370781},
