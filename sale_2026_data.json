@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/11/2026 16:43",
+  "lastUpdated": "14/11/2026 18:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -866,7 +866,9 @@
       {"Mã":"DOBÌ16092601","Ngày bán":"14/11/2026","Sản phẩm":"Doiy Cottage Vase","Giá nhập":377106,"Giá bán":700000,"Lãi":322894},
       {"Mã":"FECH10072600","Ngày bán":"14/11/2026","Sản phẩm":"Ferm Living Speckle Pot - Small","Giá nhập":713110,"Giá bán":950000,"Lãi":236890},
       {"Mã":"NOXÔ291200","Ngày bán":"14/11/2026","Sản phẩm":"No brand Ice Pail","Giá nhập":436000,"Giá bán":600000,"Lãi":164000},
-      {"Mã":"LEĐỒ10112600","Ngày bán":"14/11/2026","Sản phẩm":"Lexon LR 126 - Prism Clock","Giá nhập":172910,"Giá bán":260000,"Lãi":87090}
+      {"Mã":"LEĐỒ10112600","Ngày bán":"14/11/2026","Sản phẩm":"Lexon LR 126 - Prism Clock","Giá nhập":172910,"Giá bán":260000,"Lãi":87090},
+      {"Mã":"BAĐỒ10112600","Ngày bán":"14/11/2026","Sản phẩm":"Baskerville Quartz Clock","Giá nhập":298981,"Giá bán":600000,"Lãi":301019},
+      {"Mã":"RAĐỒ04112600","Ngày bán":"14/11/2026","Sản phẩm":"RayCue Maclock WB-8","Giá nhập":283250,"Giá bán":400000,"Lãi":116750}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -2015,7 +2017,9 @@
       {"Mã":"CH-01-101126","Ngày bán":"13/11/2026","Giá nhập":2080940,"Giá bán":3700000,"Lãi":1619060},
       {"Mã":"CH-02-041126","Ngày bán":"13/11/2026","Giá nhập":1170630,"Giá bán":1700000,"Lãi":529370},
       {"Mã":"CH-02-101126","Ngày bán":"13/11/2026","Giá nhập":1181460,"Giá bán":2700000,"Lãi":1518540},
-      {"Mã":"CH-03-041126","Ngày bán":"13/11/2026","Giá nhập":2008710,"Giá bán":3500000,"Lãi":1491290}
+      {"Mã":"CH-03-041126","Ngày bán":"13/11/2026","Giá nhập":2008710,"Giá bán":3500000,"Lãi":1491290},
+      {"Mã":"LC-8409-021126","Ngày bán":"14/11/2026","Sản phẩm":"LC-8409-021126","Giá nhập":1484500,"Giá bán":1750000,"Lãi":265500},
+      {"Mã":"LC-2924-280826","Ngày bán":"14/11/2026","Sản phẩm":"LC-2924-280826","Giá nhập":982291,"Giá bán":1000000,"Lãi":17709}
     ]
   }
 }
