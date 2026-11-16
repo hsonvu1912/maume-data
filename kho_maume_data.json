@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15/11/2026 20:25",
+  "lastUpdated": "16/11/2026 12:26",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1937,7 +1937,15 @@
       {"Mã":"RAĐỒ12112600","Ngày về":"12/11/2026","Sản phẩm":"Ravensburger The Original House Of Cards\n\nChất liệu: Giấy\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 95 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":922876},
       {"Mã":"ALKH12112600","Ngày về":"12/11/2026","Sản phẩm":"Alessi Trellis\n\nChất liệu: Thép phủ sơn epoxy trắng\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 284 x 284 x 42mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":810665},
       {"Mã":"NOGẠ12112600","Ngày về":"12/11/2026","Sản phẩm":"No brand Vintage Brass Ashtray\n\nChất liệu: Đồng thau\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh\n\nKích thước: 84 x 84mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":279172},
-      {"Mã":"WMKH12112600","Ngày về":"12/11/2026","Sản phẩm":"WMF Grape Leaf Tray\n\nChất liệu: Đồng thau, mạ vàng 24K\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":740188}
+      {"Mã":"WMKH12112600","Ngày về":"12/11/2026","Sản phẩm":"WMF Grape Leaf Tray\n\nChất liệu: Đồng thau, mạ vàng 24K\n\nPhân Loại: Khay\n\nTình trạng: Như ảnh\n\nKích thước: 260mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":740188},
+      {"Mã":"12112600","Ngày về":"12/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":111300},
+      {"Mã":"12112600","Ngày về":"12/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":349800},
+      {"Mã":"12112600","Ngày về":"12/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":270300},
+      {"Mã":"12112600","Ngày về":"12/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":229970},
+      {"Mã":"12112600","Ngày về":"12/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":188734},
+      {"Mã":"12112600","Ngày về":"12/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":377625},
+      {"Mã":"12112600","Ngày về":"12/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":906300},
+      {"Mã":"12112600","Ngày về":"12/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"}
     ]
   }
 }
