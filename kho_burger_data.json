@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "17/11/2026 15:34",
+  "lastUpdated": "17/11/2026 16:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -298,7 +298,7 @@
       {"Mã":"LC-3709-170326","Ngày về":"17/03/2026","Sản phẩm":"LC-3709-170326\nolive size L dòng green \ncondition tốt, form dày dặn cứng cáp, lót sạch sẽ, quai trầy nhẹ chủ yếu mặt dưới, dưới đáy có một vài vết sờn vải nhg ko ảnh hg gì khi sd ạa\n45 x 30 x 19\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1013080,"Giá bán":1650000},
       {"Mã":"LC-2003-03-170326","Ngày về":"17/03/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1378700,"Giá bán":1750000},
       {"Mã":"CH-1703-170326-01","Ngày về":"17/03/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":714973,"Giá bán":1080000},
-      {"Mã":"CH-1703-170326-02","Ngày về":"17/03/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":8284600,"Giá bán":8500000},
+      {"Mã":"CH-1703-170326-02","Ngày về":"17/03/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":8284600,"Giá bán":6500000},
       {"Mã":"LC-3145-170326","Ngày về":"17/03/2026","Sản phẩm":"LC-3145-170326\nchalk size L dòng club phối đen \ncondition tốt, form dày dặn, quai cứng cáp, túi sạch sẽ ạa\n45 x 29 x 19\nGiá: 2.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":1536290,"Giá bán":2000000},
       {"Mã":"LC-0732-170326","Ngày về":"17/03/2026","Sản phẩm":"LC-0732-170326\nolive size M \ncondition tốt, form dày dặn, quai cứng cáp, túi sạch sẽ, ko có lỗi gì lớn ạa\n38 x 24 x 14\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"LQT","Thành tiền":904600,"Giá bán":1900000},
       {"Mã":"LC-1703-170326","Ngày về":"17/03/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"LQT","Thành tiền":845500,"Ghi chu":"Da ban, gia ban khong duoc ghi nhan tren sheet"},
@@ -1305,7 +1305,15 @@
       {"Mã":"CH-02-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1083200},
       {"Mã":"TV-01-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":866424},
       {"Mã":"NF-01-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1331600},
-      {"Mã":"LC-5513-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1484500}
+      {"Mã":"LC-5513-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1484500},
+      {"Mã":"LC-5638-101126","Ngày về":"10/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2195680},
+      {"Mã":"LC-5124-101126","Ngày về":"10/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1167125},
+      {"Mã":"LC-5268-101126","Ngày về":"10/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":963809},
+      {"Mã":"LC-5785-101126","Ngày về":"10/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2119926},
+      {"Mã":"LC-0732-101126","Ngày về":"10/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":985681},
+      {"Mã":"LC-0069-101126","Ngày về":"10/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1365104},
+      {"Mã":"LC-9666-101126","Ngày về":"10/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":757254},
+      {"Mã":"LC-8542-101126","Ngày về":"10/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":701713}
     ]
   }
 }
