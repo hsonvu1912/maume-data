@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "17/11/2026 14:56",
+  "lastUpdated": "18/11/2026 15:56",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -215,7 +215,7 @@
       {"Mã":"LAPUIK2508","Ngày về":"25/08/2025","Sản phẩm":"Ikea Fryebo rechargeable desk lamp by Ola Wihlborg\nTình trạng: Qua sử dụng, không dây nguồn\nKích thước: D9 x 36 cm","Tình trạng":"Hỏng","Thành tiền":290060,"Giá bán":250000},
       {"Mã":"FAREST2508","Ngày về":"25/08/2025","Sản phẩm":"Stadler Form Tim USB Fan\nTình trạng: Như ảnh, còn mới, còn hộp\nKích thước:         26,7 x 28,5 x 18,9 cm","Tình trạng":"Hết hàng","Thành tiền":716551},
       {"Mã":"CLWHBR2508","Ngày về":"25/08/2025","Sản phẩm":"Braun BC01W Wecker\n\nTình trạng; như ảnh\n\nKích thước: 6,5 x 4 x 7cm\n\nGiá: Sale 10% 1.400.000 => 1.260.000","Tình trạng":"Còn hàng","Thành tiền":1079543,"Giá bán":1400000},
-      {"Mã":"GLGRL2508","Ngày về":"25/08/2025","Sản phẩm":"Iittala Aino Aalto Large Tumbler from \nTình trạng: Như ảnh,còn mới, còn hộp\nKích thước: D8,2 x 11cm.","Tình trạng":"Còn hàng","Thành tiền":463510,"Giá bán":650000},
+      {"Mã":"GLGRL2508","Ngày về":"25/08/2025","Sản phẩm":"Iittala Aino Aalto Large Tumbler from \nTình trạng: Như ảnh,còn mới, còn hộp\nKích thước: D8,2 x 11cm.","Tình trạng":"Hết hàng","Thành tiền":463510,"Giá bán":650000},
       {"Mã":"BOORBU2508","Ngày về":"25/08/2025","Sản phẩm":"Kikkerland Tiger Bottle Opener\nChất liệu: Kim loại\n\nPhân loại: Mở rượu\n\nTình trạng: Như ảnh\n\nKích thước: 127 x 88 x 119mm\n\nGiá: 450.000","Tình trạng":"Hết hàng","Thành tiền":297075,"Giá bán":450000},
       {"Mã":"CHSIIK2508","Ngày về":"25/08/2025","Sản phẩm":"IKEA Silver Tone Metal Mesh Votive Candleholder\nTình trạng: Như ảnh\nKích thước: D7,1 x 6,2 cm","Tình trạng":"Còn hàng","Thành tiền":270860,"Giá bán":350000},
       {"Mã":"LAWHIK25081","Ngày về":"25/08/2025","Sản phẩm":"IKEA BACKNTE\nTình trạng: Như ảnh, còn hộp, không kèm bóng (e14)\nKích thước: Chiều cao: 50 cm\nĐường kính phần chụp đèn phía trên: 32 cm\nĐường kính phần đế trụ phía dưới: 10 cm","Tình trạng":"Hết hàng","Thành tiền":462053},
