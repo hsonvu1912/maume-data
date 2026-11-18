@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18/11/2026 15:56",
+  "lastUpdated": "18/11/2026 16:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1946,7 +1946,24 @@
       {"Mã":"JNBỘ12112600","Ngày về":"12/11/2026","Sản phẩm":"Jnbyhome Pour-over Coffee Set\n\nChất liệu: Ceramic, thép không gỉ, da \n\nPhân Loại: Bộ pha cà phê\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Hộp: 325 x 230mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":473325},
       {"Mã":"JNBÌ12112600","Ngày về":"12/11/2026","Sản phẩm":"Jnbyhome Teapot Set\n\nChất liệu: Ceramic\n\nPhân Loại: Bình pha trà, cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: Bình: 90 x 118mm, 600ml\nCốc: 79 x 73mm, 200ml\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":950960},
       {"Mã":"NOKH14112600","Ngày về":"14/11/2026","Sản phẩm":"Nousaku KAGO - S\n\nChất liệu: Thiếc\n\nPhân Loại: Khay\n\nTình trạng: Mới\n\nKích thước: 120 x 120mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":557524},
-      {"Mã":"PACỐ16112600","Ngày về":"16/11/2026","Sản phẩm":"Pantone Original Mug 13-1023 Peach Fuzz\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 124 x 98mm\n375ml\n\nGiá: 450.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":259364,"Giá bán":450000}
+      {"Mã":"PACỐ16112600","Ngày về":"16/11/2026","Sản phẩm":"Pantone Original Mug 13-1023 Peach Fuzz\n\nChất liệu: Gốm\n\nPhân Loại: Cốc\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 85 x 124 x 98mm\n375ml\n\nGiá: 450.000","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":259364,"Giá bán":450000},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":289440},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":289440},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":174165},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":460515},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"IKEA LILLHOLMEN\n\nChất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":272805},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":92260},
+      {"Mã":"IKĐÈ17112600","Ngày về":"17/11/2026","Sản phẩm":"Ikea Espressivo\n\nChất liệu: Nhựa, Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, tặng kèm bóng, gãy 1 vết đã gắn\n\nKích thước: 130 x 130 x 480mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":444565},
+      {"Mã":"IKĐÈ17112601","Ngày về":"17/11/2026","Sản phẩm":"Ikea Espressivo\n\nChất liệu: Nhựa, Kim loại\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, tặng kèm bóng, gãy 1 vết đã gắn\n\nKích thước: 130 x 130 x 480mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":312555},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":130390},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"},
+      {"Mã":"17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng"}
     ]
   }
 }
