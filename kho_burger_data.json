@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19/11/2026 15:34",
+  "lastUpdated": "19/11/2026 16:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1303,7 +1303,7 @@
       {"Mã":"RM-01-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":857800},
       {"Mã":"AL-01-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":681000},
       {"Mã":"CH-02-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1083200},
-      {"Mã":"TV-01-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":866424},
+      {"Mã":"TV-01-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":866424,"Giá bán":1700000},
       {"Mã":"NF-01-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1331600},
       {"Mã":"LC-5513-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1484500},
       {"Mã":"LC-5638-101126","Ngày về":"10/11/2026","Sản phẩm":"LC-5638-101126\ntúi bucket da thật auth màu hồng fleur siêu siêu đẹpp và hiếm, cực kỳ mới cứng cáp ko tì vết, chủ yếu qua lưu trữ. cuối năm xách giỏ này đi tiệc đi chúc tết này nọ là chuẩn bài lun ha 9.9/10 KT 23 x 17\nGiá: 3.700.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":2195680,"Giá bán":3700000},
@@ -1313,7 +1313,7 @@
       {"Mã":"LC-0732-101126","Ngày về":"10/11/2026","Sản phẩm":"LC-0732-101126\nbalo đen condition tốt, qua sdung nhẹ, lót dính bẩn bụi xíu thôi lau đi là hết. cond 9/10 KT 20 x 30 x 10 vừa lap13\nGiá: 1.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":985681,"Giá bán":1400000},
       {"Mã":"LC-0069-101126","Ngày về":"10/11/2026","Sản phẩm":"LC-0069-101126\npaper size M, cond tổng quan tốt, 1 vài vết sờn vải nhỏ xíu ở đáy ko ảnh hưởng việc sử dụng. cond 8.9/10 KT 38 x 25 x 16 vừa laptop 13\nGiá: 1.490.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1365104,"Giá bán":1490000},
       {"Mã":"LC-9666-101126","Ngày về":"10/11/2026","Sản phẩm":"LC-9666-101126\npink tea size M cond tổng quan tốt, dày dặn chắc chắn. mặt dướii quai có 1 vài vết trầy nhỏ khi đeo lên vai sẽ ko thấy rõ đâu. cond 8.9/10 KT 40 x 26 x 16 vừa laptop 13,14\nGiá: 1.600.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":757254,"Giá bán":1600000},
-      {"Mã":"LC-8542-101126","Ngày về":"10/11/2026","Sản phẩm":"LC-8542-101126\npaper size M bản đời mới 2 ngăn phụ, cond tổng quan đẹp cứng cáp, sạch sẽ. phần túi mặt trước có hơi hơi các vết mờ của bút mực. nhìn thoáng qua cx ko để ý đâu. cond 9/10 KT 40 x 26 x 16 vừa laptop 13,14\nGiá: 1.600.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":701713,"Giá bán":1600000},
+      {"Mã":"LC-8542-101126","Ngày về":"10/11/2026","Sản phẩm":"LC-8542-101126\npaper size M bản đời mới 2 ngăn phụ, cond tổng quan đẹp cứng cáp, sạch sẽ. phần túi mặt trước có hơi hơi các vết mờ của bút mực. nhìn thoáng qua cx ko để ý đâu. cond 9/10 KT 40 x 26 x 16 vừa laptop 13,14\nGiá: 1.600.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":701713,"Giá bán":1600000},
       {"Mã":"LC-3695-101126","Ngày về":"10/11/2026","Sản phẩm":"LC-3695-101126\nnavy size L cond tổng quan đẹp qua sd nhẹ. quai dày dặn chắc chắn, bề mặt vải có 1 vài vết sờn vải nhẹ chủ yếu ở đáy, ko ảnh hưởng việc sử dụng. KT 45. 29 x 20\nGiá: 1.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1001194,"Giá bán":1400000},
       {"Mã":"CH-01-171126","Ngày về":"17/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1480320},
       {"Mã":"CH-02-171126","Ngày về":"17/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":3197520},
