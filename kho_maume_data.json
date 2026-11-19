@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19/11/2026 11:25",
+  "lastUpdated": "19/11/2026 11:56",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1963,7 +1963,7 @@
       {"Mã":"LAĐỒ17112600","Ngày về":"17/11/2026","Sản phẩm":"Laurence King Publishing Art Genius Playing Cards\n\nChất liệu: Giấy\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 95 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":325803},
       {"Mã":"GAĐỒ17112600","Ngày về":"17/11/2026","Sản phẩm":"Gallery A.P.J. Picasso Original Art Trump\n\nChất liệu: Giấy\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 95 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":325803},
       {"Mã":"MOĐỒ17112600","Ngày về":"17/11/2026","Sản phẩm":"Moma Museum In The City Playing Cards\n\nChất liệu: Giấy\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 90 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":182703},
-      {"Mã":"ĐỒ17112600","Ngày về":"17/11/2026","Sản phẩm":"Chất liệu: Giấy\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 95 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":3828}
+      {"Mã":"NOĐỒ17112600","Ngày về":"17/11/2026","Sản phẩm":"Northwest Airlines Playing Cards\n\nChất liệu: Giấy\n\nPhân Loại: Đồ chơi\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 95 x 60mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":3828}
     ]
   }
 }
