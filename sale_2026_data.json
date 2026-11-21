@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20/11/2026 15:13",
+  "lastUpdated": "21/11/2026 13:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -881,7 +881,9 @@
       {"Mã":"PACỐ22072600","Ngày bán":"15/11/2026","Sản phẩm":"Pantone Original Mug Cloud Dance 11-4201","Giá nhập":421714,"Giá bán":600000,"Lãi":178286},
       {"Mã":"GLGRL2508","Ngày bán":"18/11/2026","Sản phẩm":"Iittala Aino Aalto Large Tumbler from","Giá nhập":463510,"Giá bán":650000,"Lãi":186490},
       {"Mã":"PAGẠ050200","Ngày bán":"19/11/2026","Sản phẩm":"Palace Bulldog Ashtray","Giá nhập":854168,"Giá bán":2000000,"Lãi":1145832},
-      {"Mã":"SEGƯ12082600","Ngày bán":"20/11/2026","Sản phẩm":"Seletti x Smiley Plastic Mirror Smiley","Giá nhập":479951,"Giá bán":800000,"Lãi":320049}
+      {"Mã":"SEGƯ12082600","Ngày bán":"20/11/2026","Sản phẩm":"Seletti x Smiley Plastic Mirror Smiley","Giá nhập":479951,"Giá bán":800000,"Lãi":320049},
+      {"Mã":"MCTH10112601","Ngày bán":"21/11/2026","Sản phẩm":"McDonald's x Tesla Cyber Spoon","Giá nhập":184805,"Giá bán":250000,"Lãi":65195},
+      {"Mã":"UMĐỒ04112602","Ngày bán":"21/11/2026","Sản phẩm":"Umbra Ribbon Wall Clock (black)","Giá nhập":676720,"Giá bán":1500000,"Lãi":823280}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
