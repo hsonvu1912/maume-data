@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21/11/2026 14:43",
+  "lastUpdated": "22/11/2026 11:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -883,7 +883,18 @@
       {"Mã":"PAGẠ050200","Ngày bán":"19/11/2026","Sản phẩm":"Palace Bulldog Ashtray","Giá nhập":854168,"Giá bán":2000000,"Lãi":1145832},
       {"Mã":"SEGƯ12082600","Ngày bán":"20/11/2026","Sản phẩm":"Seletti x Smiley Plastic Mirror Smiley","Giá nhập":479951,"Giá bán":800000,"Lãi":320049},
       {"Mã":"MCTH10112601","Ngày bán":"21/11/2026","Sản phẩm":"McDonald's x Tesla Cyber Spoon","Giá nhập":184805,"Giá bán":250000,"Lãi":65195},
-      {"Mã":"UMĐỒ04112602","Ngày bán":"21/11/2026","Sản phẩm":"Umbra Ribbon Wall Clock (black)","Giá nhập":676720,"Giá bán":1500000,"Lãi":823280}
+      {"Mã":"UMĐỒ04112602","Ngày bán":"21/11/2026","Sản phẩm":"Umbra Ribbon Wall Clock (black)","Giá nhập":676720,"Giá bán":1500000,"Lãi":823280},
+      {"Mã":"DAKH04112600","Ngày bán":"22/11/2026","Sản phẩm":"Daniel Deco Photo Frame","Giá nhập":191630,"Giá bán":250000,"Lãi":58370},
+      {"Mã":"NOKH31102600","Ngày bán":"22/11/2026","Sản phẩm":"No brand Calacatta Viola Marble Tray","Giá nhập":361274,"Giá bán":750000,"Lãi":388726},
+      {"Mã":"DABỘ12112600","Ngày bán":"22/11/2026","Sản phẩm":"david & annie Particle Cup","Giá nhập":308580,"Giá bán":550000,"Lãi":241420},
+      {"Mã":"JNBÌ12112600","Ngày bán":"22/11/2026","Sản phẩm":"Jnbyhome Teapot Set","Giá nhập":950960,"Giá bán":1450000,"Lãi":499040},
+      {"Mã":"NǑĐỒ17112600","Ngày bán":"22/11/2026","Sản phẩm":"NǑME Minne Arch Table Clock","Giá nhập":92260,"Giá bán":200000,"Lãi":107740},
+      {"Mã":"BOKH31102600","Ngày bán":"22/11/2026","Sản phẩm":"BoConcept Dish 'Living'","Giá nhập":215710,"Giá bán":500000,"Lãi":284290},
+      {"Mã":"WMKH12112600","Ngày bán":"22/11/2026","Sản phẩm":"WMF Grape Leaf Tray - Gold plated","Giá nhập":753899,"Giá bán":1200000,"Lãi":446101},
+      {"Mã":"NOGẠ12112600","Ngày bán":"22/11/2026","Sản phẩm":"Vintage Brass Ashtray","Giá nhập":286132,"Giá bán":450000,"Lãi":163868},
+      {"Mã":"FRKH28102600","Ngày bán":"22/11/2026","Sản phẩm":"French Vintage The Bedroom by Vincent Van Gogh","Giá nhập":336796,"Giá bán":450000,"Lãi":113204},
+      {"Mã":"WMCH28102600","Ngày bán":"22/11/2026","Sản phẩm":"Wmf Pair Of 2-light Navette Candlesticks","Giá nhập":572316,"Giá bán":700000,"Lãi":127684},
+      {"Mã":"ONGẠ28102600","Ngày bán":"22/11/2026","Sản phẩm":"Onyx Art Of London Ashtray","Giá nhập":617732,"Giá bán":900000,"Lãi":282268}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
