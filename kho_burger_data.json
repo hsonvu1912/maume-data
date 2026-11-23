@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/11/2026 11:34",
+  "lastUpdated": "23/11/2026 12:08",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1331,17 +1331,17 @@
       {"Mã":"LC-7191-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":876344},
       {"Mã":"LC-5514-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":849393},
       {"Mã":"LC-5270-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":857731},
-      {"Mã":"LC-7303-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1027849},
-      {"Mã":"LC-9690-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":873619},
-      {"Mã":"LC-2818-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1224585},
-      {"Mã":"LC-1754-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1067739},
+      {"Mã":"LC-7303-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1121689},
+      {"Mã":"LC-9690-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":967459},
+      {"Mã":"LC-2818-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1365345},
+      {"Mã":"LC-1754-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1161579},
       {"Mã":"LC-0899-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":2134426},
       {"Mã":"LC-6892-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":672586},
       {"Mã":"LC-1197-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":853667},
       {"Mã":"LC-2691-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1040116},
       {"Mã":"LC-4929-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":675346},
       {"Mã":"LC-4482-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1031778},
-      {"Mã":"LC-8963-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":849800}
+      {"Mã":"LC-8963-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":920180}
     ]
   }
 }
