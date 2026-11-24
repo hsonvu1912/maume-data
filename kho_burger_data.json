@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23/11/2026 19:04",
+  "lastUpdated": "24/11/2026 20:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1262,7 +1262,7 @@
       {"Mã":"LC-0655-021126","Ngày về":"02/11/2026","Sản phẩm":"LC-0655-021126\nxám anthracite sz M dòng one mới ra, còn full sổ cond chủ yếu qua lưu trữ 9.8/10 KT 41 x 27 x 16 vừa laptpp 13,14\nGiá: 2.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":2169800,"Giá bán":2900000},
       {"Mã":"LC-0016-021126","Ngày về":"02/11/2026","Sản phẩm":"LC-0016-021126\npistachio màu xanh nhạt siêu đẹp lun size L cond 9.9/10 chủ yếu qua lưu trữ. KT 46 x 30 x 19\nGiá: 2.100.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1394280,"Giá bán":2100000},
       {"Mã":"LC-0211-01-021126","Ngày về":"02/11/2026","Sản phẩm":"LC-0211-01-021126\nnavy size M cond rất tốt ko có lỗi nào lớn 9.8/10 KT 38 x 25 x 14 vừa laptp 13\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1117440,"Giá bán":1900000},
-      {"Mã":"LC-9730-021126","Ngày về":"02/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"MNK"},
+      {"Mã":"LC-9730-021126","Ngày về":"02/11/2026","Sản phẩm":"LC-9730-021126\nmini pouch pinktea cond đẹp 9.5/10 cứng cáp, 1 2 vết bẩn bé tí xíu\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1392000,"Giá bán":1900000},
       {"Mã":"CH-01-041126","Ngày về":"04/11/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1929510,"Giá bán":3200000},
       {"Mã":"CH-02-041126","Ngày về":"04/11/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1170630,"Giá bán":1700000},
       {"Mã":"LC-0411-041126","Ngày về":"04/11/2026","Sản phẩm":"LC-0411-041126\nbeige size L cond tổng quan tốt, có ít dấu vết qua sdung thôi ko đáng kể. cond 8.8/10 KT 45 x 29 x 20\nGiá: 1.250.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":940655,"Giá bán":1250000},
@@ -1279,8 +1279,8 @@
       {"Mã":"LC-2790-101126","Ngày về":"10/11/2026","Sản phẩm":"LC-2790-101126\nnavy dòng club size M, cond tổng quan đẹp, chủ yếu mặt dưới của quai có vài vết trầy màu nhỏ, đeo lên vai sẽ ko thấy. cond 8.8/10 KT 38 x 25 x 16 vừa laptop 13\nGiá: 1.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1030990,"Giá bán":1400000},
       {"Mã":"CH-01-101126","Ngày về":"10/11/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2080940,"Giá bán":3700000},
       {"Mã":"CH-02-101126","Ngày về":"10/11/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1181460,"Giá bán":2700000},
-      {"Mã":"LC-7646-121126","Ngày về":"12/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1262423},
-      {"Mã":"LC-0656-121126","Ngày về":"12/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1866115},
+      {"Mã":"LC-7646-121126","Ngày về":"12/11/2026","Sản phẩm":"LC-7646-121126\nmini pouch navy cond đẹp 9.9/10 ko lỗi gì cả chủ yếu qua lưu trữ\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1262423,"Giá bán":1900000},
+      {"Mã":"LC-0656-121126","Ngày về":"12/11/2026","Sản phẩm":"LC-0656-121126\nmàu vàng Lime sz M dòng one mới ra, bên ngoài màu cực đẹp hợp những ai phối đồ cá tính hoặc muốn chơi 1 màu nổi hehee cond like new 9.9999999/10 KT 40 x 26 x 16 vừa lt 13,14\nGiá: 2.300.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1866115,"Giá bán":2300000},
       {"Mã":"LC-7631-121126","Ngày về":"12/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1348446},
       {"Mã":"LC-8722-121126","Ngày về":"12/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1167416},
       {"Mã":"LC-9695-121126","Ngày về":"12/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1653011},
