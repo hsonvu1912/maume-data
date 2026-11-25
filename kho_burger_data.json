@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/11/2026 16:04",
+  "lastUpdated": "25/11/2026 18:05",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1349,7 +1349,15 @@
       {"Mã":"LC-5655-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
       {"Mã":"LC-5822-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
       {"Mã":"LC-6882-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
-      {"Mã":"LC-8483-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"}
+      {"Mã":"LC-8483-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"CH-01-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1935738},
+      {"Mã":"CH-02-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2116578},
+      {"Mã":"CH-03-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1976345},
+      {"Mã":"CH-04-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1601950},
+      {"Mã":"CH-05-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1090692},
+      {"Mã":"CH-06-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2199890},
+      {"Mã":"CH-07-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":3191140},
+      {"Mã":"LC-4269-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1134320}
     ]
   }
 }
