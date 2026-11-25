@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/11/2026 12:43",
+  "lastUpdated": "25/11/2026 14:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -895,7 +895,8 @@
       {"Mã":"FRKH28102600","Ngày bán":"22/11/2026","Sản phẩm":"French Vintage The Bedroom by Vincent Van Gogh","Giá nhập":336796,"Giá bán":450000,"Lãi":113204},
       {"Mã":"WMCH28102600","Ngày bán":"22/11/2026","Sản phẩm":"Wmf Pair Of 2-light Navette Candlesticks","Giá nhập":572316,"Giá bán":700000,"Lãi":127684},
       {"Mã":"ONGẠ28102600","Ngày bán":"22/11/2026","Sản phẩm":"Onyx Art Of London Ashtray","Giá nhập":617732,"Giá bán":900000,"Lãi":282268},
-      {"Mã":"ALMỞ23102600","Ngày bán":"25/11/2026","Sản phẩm":"Alessi Anna G","Giá nhập":2193864,"Giá bán":2700000,"Lãi":506136}
+      {"Mã":"ALMỞ23102600","Ngày bán":"25/11/2026","Sản phẩm":"Alessi Anna G","Giá nhập":2193864,"Giá bán":2700000,"Lãi":506136},
+      {"Mã":"RAĐỒ12112600","Ngày bán":"25/11/2026","Sản phẩm":"Charlers Eames House Of Cards","Giá nhập":948439,"Giá bán":900000,"Lãi":-48439}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -2094,7 +2095,8 @@
       {"Mã":"LC-7695-121126","Ngày bán":"25/11/2026","Sản phẩm":"LC-7695-121126","Giá nhập":1122004,"Giá bán":1900000,"Lãi":777996},
       {"Mã":"LC-8722-121126","Ngày bán":"25/11/2026","Sản phẩm":"LC-8722-121126","Giá nhập":1204568,"Giá bán":3300000,"Lãi":2095432},
       {"Mã":"LC-6597-121126","Ngày bán":"25/11/2026","Sản phẩm":"LC-6597-121126","Giá nhập":1370351,"Giá bán":1700000,"Lãi":329649},
-      {"Mã":"LC-9666-101126","Ngày bán":"25/11/2026","Sản phẩm":"LC-9666-101126","Giá nhập":790028,"Giá bán":1600000,"Lãi":809972}
+      {"Mã":"LC-9666-101126","Ngày bán":"25/11/2026","Sản phẩm":"LC-9666-101126","Giá nhập":790028,"Giá bán":1600000,"Lãi":809972},
+      {"Mã":"LC-8045-121126","Ngày bán":"25/11/2026","Sản phẩm":"LC-8045-121126","Giá nhập":1381027,"Giá bán":2000000,"Lãi":618973}
     ]
   }
 }
