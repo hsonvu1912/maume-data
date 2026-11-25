@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/11/2026 13:04",
+  "lastUpdated": "25/11/2026 14:04",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1295,7 +1295,7 @@
       {"Mã":"LC-8283-121126","Ngày về":"12/11/2026","Sản phẩm":"LC-8283-121126\nxám graphite size L dòng green condition có các lỗi sờn xát xây xước như ảnh, ai dễ tính vẫn dùng dc bthg, dùng kèm lót phom là ko sợ ảnh hưởng, tui gửi kèm 1 lót phom đã used nhưng vẫn xài dc. KT 46 x 30 x 19\nGiá: 890.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1541483,"Giá bán":890000},
       {"Mã":"LC-2064-121126","Ngày về":"12/11/2026","Sản phẩm":"LC-2064-121126\nđen size L cond đẹp túi used nhẹ ko lỗi nào lớn. KT 46 x 29 x 20\nGiá: 1.950.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1353554,"Giá bán":1950000},
       {"Mã":"LC-3536-121126","Ngày về":"12/11/2026","Sản phẩm":"LC-3536-121126\nolive size M bản đời mới 2 ngăn phụ, cond used vừa phải, ko có lỗi nào lớn 9/10 . KT 40 x 26 x 16\nGiá: 1.650.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":789986,"Giá bán":1650000},
-      {"Mã":"LC-8045-121126","Ngày về":"12/11/2026","Sản phẩm":"LC-8045-121126\nnavy size L bản đời mới 2 ngăn phụ, cond đẹp ít qua sử dụng 1 vài lỗi vết bé xíu xiu ạ cond 9.7/10 KT 46 x 30 x 19\nGiá: 2.000.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1381027,"Giá bán":2000000},
+      {"Mã":"LC-8045-121126","Ngày về":"12/11/2026","Sản phẩm":"LC-8045-121126\nnavy size L bản đời mới 2 ngăn phụ, cond đẹp ít qua sử dụng 1 vài lỗi vết bé xíu xiu ạ cond 9.7/10 KT 46 x 30 x 19\nGiá: 2.000.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1381027,"Giá bán":2000000},
       {"Mã":"LC-7695-121126","Ngày về":"12/11/2026","Sản phẩm":"LC-7695-121126\nmini pouch đen dòng green cond 9.9/10 k lỗi vết gì hếttt. ko kèm phụ kiện khách tự mua trên sọp bi nha (e có gắn ở highlight)\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1122004,"Giá bán":1900000},
       {"Mã":"CH-01-121126","Ngày về":"12/11/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2409735,"Giá bán":3200000},
       {"Mã":"SP-01-141126","Ngày về":"14/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"MNK","Thành tiền":1361800,"Giá bán":2800000},
@@ -1340,7 +1340,16 @@
       {"Mã":"LC-2691-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1133956},
       {"Mã":"LC-4929-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":792646},
       {"Mã":"LC-4482-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1125618},
-      {"Mã":"LC-8963-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":920180}
+      {"Mã":"LC-8963-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":920180},
+      {"Mã":"LC-7296-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-8457-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-4432-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-6904-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-6430-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-5655-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-5822-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-6882-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"},
+      {"Mã":"LC-8483-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ"}
     ]
   }
 }
