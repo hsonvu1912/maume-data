@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25/11/2026 18:25",
+  "lastUpdated": "26/11/2026 10:25",
   "source": "Kho MauMe (Kho maume)",
   "description": "Hàng tồn kho MauMe - đầy đủ trạng thái (Còn hàng/Hết hàng/Hỏng...). Xem field 'Tình trạng' để phân biệt. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Mã là SKU cross-ref với sale.",
   "data": {
@@ -1968,8 +1968,8 @@
       {"Mã":"ALRỔ21112600","Ngày về":"21/11/2026","Sản phẩm":"Alessi Nuvem\n\nChất liệu: Nhôm (anodized aluminium)\n\nPhân Loại: Rổ\n\nTình trạng: Như ảnh, không hộp\n\nKích thước: 250 x 80mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1090924},
       {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":160930},
       {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":291434},
-      {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":286000},
-      {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1687400},
+      {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":286000},
+      {"Mã":"MUĐÈ25112600","Ngày về":"25/11/2026","Sản phẩm":"Muuto Wood Lamp\n\nChất liệu: Gỗ\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp, gồm bóng E14\n\nKích thước: 500 x 500mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":1687400},
       {"Mã":"BỘ25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: Giấy\n\nPhân Loại: Bộ bài\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":113435},
       {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":128520},
       {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":134215},
@@ -1977,9 +1977,9 @@
       {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":485370},
       {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":491750},
       {"Mã":"SOĐÈ25112600","Ngày về":"25/11/2026","Sản phẩm":"Sowden Portable Lamp LP1\n\nChất liệu: Kim loại, nhựa\n\nPhân Loại: Đèn bàn\n\nTình trạng: Như ảnh, còn hộp\nSạc Type C\n\nKích thước: d130 x 240mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":571140},
-      {"Mã":"PH25112600","Ngày về":"25/11/2026","Sản phẩm":"Philippi \n\nChất liệu: Thép không gỉ\n\nPhân Loại: \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":214200},
-      {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":307010},
-      {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: \n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":409350}
+      {"Mã":"PHGẠ25112600","Ngày về":"25/11/2026","Sản phẩm":"Philippi Cloud Ashtray\n\nChất liệu: Thép không gỉ\n\nPhân Loại: Gạt tàn\n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: 125mm\n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":214200},
+      {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":307010},
+      {"Mã":"25112600","Ngày về":"25/11/2026","Sản phẩm":"Chất liệu: \n\nPhân Loại: \n\nTình trạng: Như ảnh, còn hộp\n\nKích thước: \n\nGiá: 0","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Thành tiền":409350}
     ]
   }
 }
