@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/11/2026 14:43",
+  "lastUpdated": "27/11/2026 15:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -867,7 +867,7 @@
       {"Mã":"FECH10072600","Ngày bán":"14/11/2026","Sản phẩm":"Ferm Living Speckle Pot - Small","Giá nhập":713110,"Giá bán":950000,"Lãi":236890},
       {"Mã":"NOXÔ291200","Ngày bán":"14/11/2026","Sản phẩm":"No brand Ice Pail","Giá nhập":436000,"Giá bán":600000,"Lãi":164000},
       {"Mã":"LEĐỒ10112600","Ngày bán":"14/11/2026","Sản phẩm":"Lexon LR 126 - Prism Clock","Giá nhập":172910,"Giá bán":260000,"Lãi":87090},
-      {"Mã":"BAĐỒ10112600","Ngày bán":"14/11/2026","Sản phẩm":"Baskerville Quartz Clock","Giá nhập":298981,"Giá bán":600000,"Lãi":301019},
+      {"Mã":"BAĐỒ10112600","Ngày bán":"14/11/2026","Sản phẩm":"Baskerville Quartz Clock","Giá nhập":313303,"Giá bán":600000,"Lãi":286697},
       {"Mã":"RAĐỒ04112600","Ngày bán":"14/11/2026","Sản phẩm":"RayCue Maclock WB-8","Giá nhập":283250,"Giá bán":400000,"Lãi":116750},
       {"Mã":"MCTH10112600","Ngày bán":"14/11/2026","Sản phẩm":"McDonald's x Tesla Cyber Spoon","Giá nhập":199890,"Giá bán":300000,"Lãi":100110},
       {"Mã":"NOKH31102601","Ngày bán":"14/11/2026","Sản phẩm":"No brand Calacatta Viola Marble Soap Dish","Giá nhập":251720,"Giá bán":590000,"Lãi":338280},
