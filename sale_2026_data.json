@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27/11/2026 15:13",
+  "lastUpdated": "27/11/2026 23:13",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -896,7 +896,8 @@
       {"Mã":"WMCH28102600","Ngày bán":"22/11/2026","Sản phẩm":"Wmf Pair Of 2-light Navette Candlesticks","Giá nhập":572316,"Giá bán":700000,"Lãi":127684},
       {"Mã":"ONGẠ28102600","Ngày bán":"22/11/2026","Sản phẩm":"Onyx Art Of London Ashtray","Giá nhập":617732,"Giá bán":900000,"Lãi":282268},
       {"Mã":"ALMỞ23102600","Ngày bán":"25/11/2026","Sản phẩm":"Alessi Anna G","Giá nhập":2193864,"Giá bán":2700000,"Lãi":506136},
-      {"Mã":"RAĐỒ12112600","Ngày bán":"25/11/2026","Sản phẩm":"Charlers Eames House Of Cards","Giá nhập":948439,"Giá bán":900000,"Lãi":-48439}
+      {"Mã":"RAĐỒ12112600","Ngày bán":"25/11/2026","Sản phẩm":"Charlers Eames House Of Cards","Giá nhập":948439,"Giá bán":900000,"Lãi":-48439},
+      {"Mã":"JNCH06052600","Ngày bán":"27/11/2026","Sản phẩm":"Jnbyhome Home Compact Fluffy Blanket Towel","Giá nhập":419362,"Giá bán":600000,"Lãi":180638}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
