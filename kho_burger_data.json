@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28/11/2026 12:34",
+  "lastUpdated": "28/11/2026 15:35",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1321,7 +1321,7 @@
       {"Mã":"CH-05-171126","Ngày về":"17/11/2026","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1629750,"Giá bán":2800000},
       {"Mã":"LC-8243-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1542491},
       {"Mã":"LC-3010-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":968711},
-      {"Mã":"LC-7109-211126","Ngày về":"21/11/2026","Sản phẩm":"LC-7109-211126\nolive size M bản đời mới 2 ngăn phụ, cond tổng quan đẹp 8.9/10, qua sd ít, có vài lỗi used ở đáy nhìn ngoài ko rõ. mặt dưới quai bay màu sơn đeo lên vai ko thấy đâu ạ. KT 40 x 26 x 16 vừa laptop 13,14\nGiá: 1.400.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":965291,"Giá bán":1400000},
+      {"Mã":"LC-7109-211126","Ngày về":"21/11/2026","Sản phẩm":"LC-7109-211126\nolive size M bản đời mới 2 ngăn phụ, cond tổng quan đẹp 8.9/10, qua sd ít, có vài lỗi used ở đáy nhìn ngoài ko rõ. mặt dưới quai bay màu sơn đeo lên vai ko thấy đâu ạ. KT 40 x 26 x 16 vừa laptop 13,14\nGiá: 1.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":965291,"Giá bán":1400000},
       {"Mã":"LC-6070-211126","Ngày về":"21/11/2026","Sản phẩm":"LC-6070-211126\nđen size M bản đời mới 2 ngăn phụ cond tổng quan đẹp 9.2/10, qua sd ít, có vài lỗi used ở đáy nhìn ngoài ko rõ. KT 40 x 26 x 16 vừa laptop 13,14\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1540866,"Giá bán":1750000},
       {"Mã":"LC-5082-211126","Ngày về":"21/11/2026","Sản phẩm":"LC-5082-211126\nfleurs size S quai ngắn, cond đẹp 9.2/10, qua sd nhẹ, đáy có 1 vài vết lỗi bẩn nhỏ ko đáng kể. KT 33 x 22 x 14\nGiá: 1.600.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":893568,"Giá bán":1600000},
       {"Mã":"LC-9927-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":1188268},
