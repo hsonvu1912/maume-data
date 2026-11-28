@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28/11/2026 15:35",
+  "lastUpdated": "28/11/2026 19:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1342,7 +1342,7 @@
       {"Mã":"LC-4482-211126","Ngày về":"21/11/2026","Sản phẩm":"LC-4482-211126\nnavy dòng neo size M cond đẹp lắm luôn 9.8/10 dày dặn cứng cáp ít qua sdung chủ yếu qua lưu trữ KT 38 x 25 x 14 vừa laptop 13\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1154098,"Giá bán":1900000},
       {"Mã":"LC-8963-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":920180},
       {"Mã":"LC-7296-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":777647},
-      {"Mã":"LC-8457-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1177647},
+      {"Mã":"LC-8457-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1177647,"Giá bán":1800000},
       {"Mã":"LC-4432-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1297647},
       {"Mã":"LC-6904-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1197647},
       {"Mã":"LC-6430-251126","Ngày về":"25/11/2026","Sản phẩm":"LC-6430-251126\nđen dòng planetes size L rất đẹp dày dặn cứng cáp từ quai đến vải luôn, túi chủ yếu qua lưu trữ nhưng dòng vin nên quai ko tránh khỏi bay màu sơn nhẹ nhìn ngoài cx k rõ đâu. tổng quan vẫn đẹp lắm 9.3/10 KT 46 x 30 x 20\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1077647,"Giá bán":1750000},
@@ -1350,13 +1350,13 @@
       {"Mã":"LC-5822-251126","Ngày về":"25/11/2026","Sản phẩm":"LC-5822-251126\ndessert beige size L bản đời mới 2 ngăn phụ, cond đẹp cứng cáp ít qua sử dụng 9.5/10, mặt vải có 1 vài vết bẩn bé tí xíu. KT 46 x 30 x 19\nGiá: 1.900.000đ","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1237647,"Giá bán":1900000},
       {"Mã":"LC-6882-251126","Ngày về":"25/11/2026","Sản phẩm":"LC-6882-251126\nđen dòng neo size L cond đẹp cứng cáp, ít qua sử dụng, bề mặt có 1 vài vết sờn, xù vải rất nhỏ và khó thấy. ko anrh hưởng việc sử dụng tổng quan bên ngoài nhìn rất đẹp và mới cond 9.2/10. KT 46 x 30 x 19\nGiá: 1.800.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1077647,"Giá bán":1800000},
       {"Mã":"LC-8483-251126","Ngày về":"25/11/2026","Sản phẩm":"LC-8483-251126\nđen dòng planetes size L cond tổng quan dày dặn chắc chắn, qua sd vừa phải, túi vin nên quai bay màu sơn nhẹ. cond 8.5/10\nGiá: 1.400.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":947647,"Giá bán":1400000},
-      {"Mã":"CH-01-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1935738},
-      {"Mã":"CH-02-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2116578},
-      {"Mã":"CH-03-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1976345},
-      {"Mã":"CH-04-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1601950},
-      {"Mã":"CH-05-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1090692},
-      {"Mã":"CH-06-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2199890},
-      {"Mã":"CH-07-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":3191140},
+      {"Mã":"CH-01-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1935738,"Giá bán":3900000},
+      {"Mã":"CH-02-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2116578,"Giá bán":3400000},
+      {"Mã":"CH-03-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1976345,"Giá bán":3200000},
+      {"Mã":"CH-04-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1601950,"Giá bán":2200000},
+      {"Mã":"CH-05-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1090692,"Giá bán":2800000},
+      {"Mã":"CH-06-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":2199890,"Giá bán":3000000},
+      {"Mã":"CH-07-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"TQ","Thành tiền":3191140,"Giá bán":5500000},
       {"Mã":"LC-4269-251126","Ngày về":"25/11/2026","Sản phẩm":"LC-4269-251126\nkaki dòng neo size L bản đời mới 2 ngăn phụ, tổng quan cond đẹp, bề mặt vải có các vết xây xước nhẹ chủ yếu ở đáy (ko làm thủng vải) chất lượng dòng neo siêu dày nên những vết sờn này ko ảnh hưởng việc sử dụng đâu ạ. con 8.9/10 KT 46 x 30 x 19\nGiá: 1.500.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"TQ","Thành tiền":1134320,"Giá bán":1500000}
     ]
   }
