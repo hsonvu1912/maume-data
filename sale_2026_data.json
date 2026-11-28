@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28/11/2026 12:13",
+  "lastUpdated": "28/11/2026 12:43",
   "source": "SALE 2026",
   "description": "Dữ liệu bán hàng 2026 (MauMe + Burger). Mã là SKU cross-ref với kho.",
   "data": {
@@ -897,7 +897,8 @@
       {"Mã":"ONGẠ28102600","Ngày bán":"22/11/2026","Sản phẩm":"Onyx Art Of London Ashtray","Giá nhập":617732,"Giá bán":900000,"Lãi":282268},
       {"Mã":"ALMỞ23102600","Ngày bán":"25/11/2026","Sản phẩm":"Alessi Anna G","Giá nhập":2193864,"Giá bán":2700000,"Lãi":506136},
       {"Mã":"RAĐỒ12112600","Ngày bán":"25/11/2026","Sản phẩm":"Charlers Eames House Of Cards","Giá nhập":948439,"Giá bán":900000,"Lãi":-48439},
-      {"Mã":"JNCH06052600","Ngày bán":"27/11/2026","Sản phẩm":"Jnbyhome Home Compact Fluffy Blanket Towel","Giá nhập":419362,"Giá bán":600000,"Lãi":180638}
+      {"Mã":"JNCH06052600","Ngày bán":"27/11/2026","Sản phẩm":"Jnbyhome Home Compact Fluffy Blanket Towel","Giá nhập":419362,"Giá bán":600000,"Lãi":180638},
+      {"Mã":"DOBÌ04112600","Ngày bán":"28/11/2026","Sản phẩm":"Doiy Good Morning Vase Moka","Giá nhập":304260,"Giá bán":500000,"Lãi":195740}
     ],
     "SALE_Burger_2026-02": [
       {"Mã":"CH-1101-02","Ngày bán":"02/02/2026","Sản phẩm":"C tote bag vải canvas họa tiết xe ngựa","Giá nhập":779781,"Giá bán":950000,"Lãi":170219},
@@ -2117,7 +2118,8 @@
       {"Mã":"LC-8483-251126","Ngày bán":"28/11/2026","Sản phẩm":"LC-8483-251126","Giá nhập":947647,"Giá bán":1400000,"Lãi":452353},
       {"Mã":"LC-4269-251126","Ngày bán":"28/11/2026","Sản phẩm":"LC-4269-251126","Giá nhập":1134320,"Giá bán":1500000,"Lãi":365680},
       {"Mã":"LC-1197-211126","Ngày bán":"28/11/2026","Sản phẩm":"LC-1197-211126","Giá nhập":947507,"Giá bán":1200000,"Lãi":252493},
-      {"Mã":"LC-2691-211126","Ngày bán":"28/11/2026","Sản phẩm":"LC-2691-211126","Giá nhập":1166303,"Giá bán":1600000,"Lãi":433697}
+      {"Mã":"LC-2691-211126","Ngày bán":"28/11/2026","Sản phẩm":"LC-2691-211126","Giá nhập":1166303,"Giá bán":1600000,"Lãi":433697},
+      {"Mã":"LC-6070-211126","Ngày bán":"28/11/2026","Sản phẩm":"LC-6070-211126","Giá nhập":1540866,"Giá bán":1750000,"Lãi":209134}
     ]
   }
 }
