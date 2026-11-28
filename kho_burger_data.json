@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28/11/2026 19:34",
+  "lastUpdated": "28/11/2026 21:34",
   "source": "Kho Burger",
   "description": "Kho Burger - full status. Field 'Tinh trang' = stock status. Field 'Trạng thái đăng bài' = Đã đăng/Chưa đăng. Field 'Đơn vị vận chuyển' = đơn vị ship (TQ/HQ/LQT/MNK). 'Ma' = SKU cross-ref with sale.",
   "data": {
@@ -1342,7 +1342,7 @@
       {"Mã":"LC-4482-211126","Ngày về":"21/11/2026","Sản phẩm":"LC-4482-211126\nnavy dòng neo size M cond đẹp lắm luôn 9.8/10 dày dặn cứng cáp ít qua sdung chủ yếu qua lưu trữ KT 38 x 25 x 14 vừa laptop 13\nGiá: 1.900.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"UK","Thành tiền":1154098,"Giá bán":1900000},
       {"Mã":"LC-8963-211126","Ngày về":"21/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"UK","Thành tiền":920180},
       {"Mã":"LC-7296-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":777647},
-      {"Mã":"LC-8457-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1177647,"Giá bán":1800000},
+      {"Mã":"LC-8457-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1177647,"Giá bán":1500000},
       {"Mã":"LC-4432-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1297647},
       {"Mã":"LC-6904-251126","Ngày về":"25/11/2026","Tình trạng":"Còn hàng","Trạng thái đăng bài":"Chưa đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1197647},
       {"Mã":"LC-6430-251126","Ngày về":"25/11/2026","Sản phẩm":"LC-6430-251126\nđen dòng planetes size L rất đẹp dày dặn cứng cáp từ quai đến vải luôn, túi chủ yếu qua lưu trữ nhưng dòng vin nên quai ko tránh khỏi bay màu sơn nhẹ nhìn ngoài cx k rõ đâu. tổng quan vẫn đẹp lắm 9.3/10 KT 46 x 30 x 20\nGiá: 1.750.000đ","Tình trạng":"Hết hàng","Trạng thái đăng bài":"Đã đăng","Đơn vị vận chuyển":"HQ","Thành tiền":1077647,"Giá bán":1750000},
